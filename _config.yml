@@ -14,7 +14,10 @@ format: web
 favicon: assets/favicon.ico
 
 # home_url
-home_url: /
+#home_url: /
+
+# Source code url:
+source_code_url: https://github.com/badgernested/template-information-site
 
 ############# TOP NAVIGATION BAR ################
 
