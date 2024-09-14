@@ -1,0 +1,13 @@
+sidebarTitle: John Doe
+
+## For now, just copying the footer info like about me, CV etc.
+
+related_resources_title: Quick Links
+
+related_resources_list:
+
+- title: About Me
+  jurl: about
+
+- title: CV
+  jurl: cv

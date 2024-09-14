@@ -15,8 +15,8 @@ column1_links:
 column2_title: Resources
 column2_links:
   -
-    target: http://someurl1.com
-    text: Test website.
+    target: https://deleuze.cla.purdue.edu/
+    text: Deleuze Seminars
 
 
 column3_title: Something else?

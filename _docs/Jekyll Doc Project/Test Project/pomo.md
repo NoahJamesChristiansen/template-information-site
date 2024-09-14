@@ -5,6 +5,9 @@ sidebar: jekyllhowto
 product: Jekyll How-to Guide
 ---
 
+* TOC
+{:toc}
+
 # Not This Again...
 
 Hello everyone, it's been a while hasn't it? I promise I'll get that UIQ video out, I recently got the French edition about the screenplay when I visited my friend in Montréal, and it includes a lot of stuff not in the English version. And although I definitely have to rewrite the script, I really am excited to share everyone about it.

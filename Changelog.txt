@@ -2,3 +2,6 @@
 - Removed Github button.
 - Major CSS changes to desktop site.
 - Started adding demo content.
+- Minor modifications to styling of footer and sidebar to enable new functionality, such as displaying a sidebar with no collapsable navigation.
+- Added photo to sidebar.
+- Added the following sidebars: home

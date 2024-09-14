@@ -25,12 +25,24 @@
 {% endif %}
 
 {% unless page.sidebar == null %}
-<div class="productTitle">{{sidebar.sidebarTitle}}</div>
-<p class="external">
-    <a href="#" id="collapseAll">{{site.uistring.collapseall}}</a> | <a href="#" id="expandAll">{{site.uistring.expandall}}</a>
-</p>
-{% endunless %}
+	<div class="productTitle">{{sidebar.sidebarTitle}}</div>
+		
+	{% if page.photo %}
 
+			{% if page.photo_alt_text %}
+				<img class="sidebar-photo" alt="{{page.photo_alt_text}}" src="{{page.photo}}" />
+			{% else %}
+				<img class="sidebar-photo" alt="Photo image" src="{{page.photo}}" />
+			{% endif %}
+
+	{% endif %}
+	
+	{% if sidebar.folders %}
+		<p class="external">
+			<a href="#" id="collapseAll">{{site.uistring.collapseall}}</a> | <a href="#" id="expandAll">{{site.uistring.expandall}}</a>
+		</p>
+	{% endif %}
+{% endunless %}
 
     <ul id="docnavsidebar" class="docnav">
     {% for folder in sidebar.folders %}

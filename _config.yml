@@ -16,7 +16,7 @@ favicon: assets/favicon.ico
 ############# TOP NAVIGATION BAR ################
 
 # use a logo image in your nav bar.
-use_logo: true
+use_logo: false
 
 # logo image to use. logo images are constrained at 50px in height.
 logo: assets/companylogo.png
@@ -42,6 +42,7 @@ navbar-toggle: true
 sidebars:
   - generic
   - jekyllhowto
+  - home
 
 # determines whether the links.html script uses the jurl or hurl values in the sidebar data file
 link_type: jurl
