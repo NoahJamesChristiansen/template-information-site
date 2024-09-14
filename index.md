@@ -25,7 +25,7 @@ So, what is so great about Guattari anyways? Why would Deleuze, a character who 
 
 However, approaching Guattari's playstyle is... hard to get into, to say the least. His solo books like Chaosmosis or Schizoanalytic Cartographies are really, really difficult, especially for an amateur like me, and reading his solo works are essential for really differentiating Guattari from Deleuze's influence, and outside of Deleuze, there aren't really any great Guattari players out there - most are local circuit experimentation or data miners. There's a reason why many people trying to access his potential give up so easily. But after playing around with the character for a while, I think it's worth exploring what he's capable of. Instead of just talking about Guattari, let's talk about what he's able to *do*.
 
-<img src="/images/guatt_trophy.png" alt="Félix Guattari is a French psychoanalyst who collaborated with Gilles Deleuze on many books, with his breakout role in co-authoring Anti-Oedipus: Capitalism and Schizophrenia. Guattari is the kind of guy that's capable of doing anything - and we really do mean anything! It's just a matter of getting there first... What will you do when you take the leap?"/>
+<img src="images/guatt_trophy.png" alt="Félix Guattari is a French psychoanalyst who collaborated with Gilles Deleuze on many books, with his breakout role in co-authoring Anti-Oedipus: Capitalism and Schizophrenia. Guattari is the kind of guy that's capable of doing anything - and we really do mean anything! It's just a matter of getting there first... What will you do when you take the leap?"/>
 
 # What Can Guattari Do?
 
