@@ -14,7 +14,7 @@ format: web
 favicon: assets/favicon.ico
 
 # home_url
-home_url: /
+#home_url: /
 
 ############# TOP NAVIGATION BAR ################
 
