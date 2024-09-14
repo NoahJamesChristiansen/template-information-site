@@ -1,8 +1,7 @@
 ---
 title: Postmodernism isn't trying to lie to you.
 permalink: pomo.html
-sidebar: jekyllhowto
-product: Jekyll How-to Guide
+sidebar: default
 ---
 
 * TOC

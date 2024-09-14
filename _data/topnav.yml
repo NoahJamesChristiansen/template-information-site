@@ -3,11 +3,8 @@
 
 navbar_singleitems:
 - items:
-  # - title: Some entry
-  #   url: http://example.com
-  # - title: Contact
-  #   url: contact.html
-
+  - title: Home
+    url: /
 
 
 navbar_dropdowns:
