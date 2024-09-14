@@ -7,6 +7,8 @@ port: 4000
 # used with localization. change to "japanese" or "german" if localizing.
 language: english
 
+home_url: http://badgernested.github.io/template-information-site/
+
 # the output. in the _config_pdf.yml, this is "pdf". you can create conditions based on this property (such as navtab content that should appear in web but not pdf).
 format: web
 
