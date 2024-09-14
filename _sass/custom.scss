@@ -1,5 +1,6 @@
 body {
   padding-top: 51px;
+  background-color: #111;
 }
 
 
@@ -388,4 +389,8 @@ blockquote {
 a[data-toggle="tooltip"] {
     color: green;
     border-bottom: 1px dashed gray;
+}
+
+.page-container {
+	background-color: #FFF;
 }

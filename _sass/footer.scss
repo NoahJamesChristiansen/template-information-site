@@ -32,7 +32,7 @@ footer {
 }
 .footer-ul li {
   line-height: 29px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .footer-ul li a, .footer-description a {
   color: #a0a3a4;
@@ -75,6 +75,19 @@ footer {
   padding: 10px 0;
   margin-bottom: 0px;
 }
+
+.developer-information {
+  min-height: 40px;
+  background-color: #222;
+  position: relative;
+}
+.developer-information p {
+  text-align: center;
+  color: #FFF;
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+
 .heading7 {
   font-size: 21px;
   font-weight: 700;

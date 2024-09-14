@@ -3,11 +3,13 @@
         <div class="row row-offcanvas row-offcanvas-left">
 
             <!-- sidebar -->
+			{% if page.include_sidebar %}
             <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
 
                 {% include sidebar.html %}
 
             </div>
+			{% endif %}
 
             <!-- main area -->
             <div class="col-xs-12 col-sm-9 main">

@@ -5,7 +5,7 @@ sidebar: jekyllhowto
 type: homepage
 class: first
 custom_breadcrumb: Getting Started
-
+include_sidebar: true
 ---
 
 * TOC
