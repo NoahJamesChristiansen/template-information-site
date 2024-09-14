@@ -89,7 +89,9 @@ li.level3.open > ul > li.level3items.open > a:before {
   color: #333333;
   display: block;
   margin-right: 8px;
+  text-align: center;
 }
+
 hr.resourceSeparator {
   display: block;
   margin-top: 1.7em;
@@ -190,9 +192,49 @@ ul#docnavsidebar li a:focus {
 	width: 80%;
 	height: 80%;
 	border-radius: 50%;
+	border: 8px solid #929292;
+}
+
+.cv-sidebar-photo {
+	margin: 3%;
+	width: 90%;
+	height: 90%;
+	border-radius: 50%;
+	border: 10px solid #929292;
+}
+
+.cv-sidebar-name {
+	margin: 3%;
+	width: 240px;
+	height: 240px;
+	border-radius: 50%;
+	border: 8px solid #888;
+	text-align: center;
+	font-size: 72pt;
+	font-weight: bolder;
+	color: #EEE;
+	background-color: #555;
+	vertical-align: middle;
+	display: table-cell;
 }
 
 
 .mydocsidebar .input-group.search {
   margin-top: -10px;
+}
+
+.cv-about-section {
+
+}
+
+.cv-about-section h1 {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.cv-about-section h2 {
+	margin-bottom: 5px;
+	font-size: 16px;
+	font-weight: bold;
 }

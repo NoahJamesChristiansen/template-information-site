@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     {% if page.layout == "homepage" or page.type == "search" or page.type =="404" %}
     <title>{{page.title}} | {{site.uistring.title}}</title>
+	{% elsif page.layout == "cv" %}
+	<title>{{page.title}} | CV</title>
     {% else %}
     <title>{{page.title}}</title>
     {% endif %}
@@ -13,18 +15,18 @@
     <meta name="google" value="notranslate">
     <link rel="icon"  type="image/x-icon" href="{{site.favicon}}">
 
-    <!-- FontAwesome (GPL license) -->
+    <!-- FontAwesome(GPL license) -->
    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- jQuery (MIT license)-->
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <!-- jQuery cookie (MIT license)-->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
     <!-- Navgoco (BSD license)-->
-    <script type="text/javascript" src="assets/js/jquery.navgoco.min.js"></script>
+    <script type="text/javascript" src="{{ site.home_url }}assets/js/jquery.navgoco.min.js"></script>
     <!-- Bootstrap (MIT license)-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- Anchor JS (MIT license)-->
-    {% unless page.layout == "homepage" or page.type == "search" or page.type =="404" %}
+    {% unless page.layout == "homepage" or page.layout == "cv" or page.type == "search" or page.type =="404" %}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
         <script>
         $( document ).ready(function() {
@@ -74,12 +76,12 @@
     </script>
 
     <!-- User defined js -->
-    <script src="assets/js/user_defined_javascript.js"></script>
+    <script src="{{ site.home_url }}assets/js/user_defined_javascript.js"></script>
     <!--Bootstrap (MIT license) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <!-- Original theme from Bootstrap Bootswatch fork: http://www.codeply.com/go/rV7KhUjwCN (MIT license) -->
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="stylesheet" href="assets/css/user_defined_web_styles.css" />
+    <link rel="stylesheet" href="{{ site.home_url }}assets/css/main.css" />
+    <link rel="stylesheet" href="{{ site.home_url }}assets/css/user_defined_web_styles.css" />
     <style>
         ul#markdown-toc::before  {
         content: "{{site.uistring.tableofcontents}}"

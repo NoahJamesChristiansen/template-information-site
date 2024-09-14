@@ -7,13 +7,14 @@ port: 4000
 # used with localization. change to "japanese" or "german" if localizing.
 language: english
 
-home_url: http://badgernested.github.io/template-information-site/
-
 # the output. in the _config_pdf.yml, this is "pdf". you can create conditions based on this property (such as navtab content that should appear in web but not pdf).
 format: web
 
 # the little icon that appears in the browser window's tab
 favicon: assets/favicon.ico
+
+# home_url
+home_url: /
 
 ############# TOP NAVIGATION BAR ################
 
@@ -155,13 +156,10 @@ google_analytics_code:
 # you can modify the breadcrumb in _includes/breadcrumb.html
 
 # Display breadcrumbs at all?
-breadcrumb_display: true
+breadcrumb_display: false
 
 # Display Home path in breadcrumb?
-breadcrumb_home_display: true
-
-# Url for Home path to point to
-breadcrumb_home_url: http://badgernested.github.io/template-information-site/
+breadcrumb_home_display: false
 
 ##########  MARKDOWN PROCESS AND FILTER ##########
 # leave these settings as is unless you want to use something other than kramdown Markdown

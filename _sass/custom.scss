@@ -398,3 +398,55 @@ a[data-toggle="tooltip"] {
 .main-no-sidebar {
 	margin: 50px;
 }
+
+.main-cv {
+	margin-top: 50px;
+}
+
+.cv-title {
+	margin-bottom: 60px;
+}
+
+.cv-title h1{
+	font-size: 60pt;
+}
+
+.cv-title h2{
+	font-size: 14pt;
+}
+
+.cv-content h1{
+	border-bottom: 8px solid #929292;
+	font-size: 28pt;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+.cv-content h2 {
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+.cv-content h3 {
+	padding-top: 50px;
+	font-size: 20px;
+	color: #333;
+}
+
+.cv-content h4 {
+	padding-top: 50px;
+	padding-bottom: 15px;
+	font-style: italic;
+	font-size: 16px;
+	color: #999;
+}
+
+.page-title-h1 {
+	font-size: 40pt;
+	font-weight: bolder;
+}
+
+.cv-download-as-pdf {
+	padding-top: 24px;
+}

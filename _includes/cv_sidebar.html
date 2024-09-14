@@ -1,0 +1,73 @@
+{% assign sidebar = site.data[page.sidebar] %}
+<div class="mydocsidebar">
+
+
+<div class="sidebar-inner">
+
+
+  {% if site.search_in_sidebar == true %}
+<!-- search bar - uses Lunr.js  -->
+
+<div class="sidebarSearchBar">
+<form action="search.html" method="get">
+  <div class="input-group search">
+    <input type="text" id="search-box" name="query" class="form-control" placeholder="{{site.uistring.search_placeholder_text}}">
+    <div class="input-group-btn">
+      <button class="btn btn-default" type="submit" value="search">
+        <i class="glyphicon glyphicon-search"></i>
+      </button>
+    </div>
+  </div>
+</form>
+</div>
+
+<!-- end search bar -->
+{% endif %}
+
+{% unless page.sidebar == null %}
+
+	{% if page.photo %}
+
+			{% if page.photo_alt_text %}
+				<img class="cv-sidebar-photo" alt="{{page.photo_alt_text}}" src="{{page.photo}}" />
+			{% else %}
+				<img class="cv-sidebar-photo" alt="Photo image" src="{{page.photo}}" />
+			{% endif %}
+
+	{% else %}
+	
+		<div class="cv-sidebar-name" />
+			{{ page.no_photo_text }}
+		</div>
+
+	{% endif %}
+	
+
+{% endunless %}
+
+<hr class="resourceSeparator"></hr>
+
+<div class="cv-about-section">
+	{% if page.about %}
+		<h1>About Me</h1>
+		{{ page.about }}
+	{% endif %}
+	{% if page.email or page.phone %}
+		<h1>Contact</h1>
+		{% if page.email %}
+			<h2>Email</h2>
+			<a href="mailto:{{ page.email }}"> {{ page.email }}</a>
+		{% endif %}
+		{% if page.phone %}
+			<h2>Phone</h2>
+			{{ page.phone }}
+		{% endif %}
+		{% if page.website %}
+			<h2>Website</h2>
+			<a href="{{ page.website }}"> {{ page.website }}</a>
+		{% endif %}
+	{% endif %}
+</div>
+
+</div>
+</div>
