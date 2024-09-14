@@ -7,3 +7,4 @@ _output_ja
 _output_de
 jekyll-doc-project-*
 jekyll-doc-project.gemspec
+Gemfile.lock
