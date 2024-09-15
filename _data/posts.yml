@@ -5,6 +5,7 @@ sidebarTitle: Navigate Posts
 folders:
 - title: All posts
   jurl: /post
+  hurl: https://badgernested.github.io/template-information-site/post
   ref: all_posts
   pdf: true
 
