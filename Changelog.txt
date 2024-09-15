@@ -1,4 +1,7 @@
-9-24-2024:
+9-15-2024:
+- Improved search screen UI.
+
+9-14-2024:
 - Removed Github button.
 - Major CSS changes to desktop site.
 - Started adding demo content.
