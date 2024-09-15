@@ -1,5 +1,6 @@
 ---
 title: Postmodernism isn't trying to lie to you.
+summary: "A criticism of those people who say that postmodernism is just people trying to lie to you."
 permalink: pomo.html
 sidebar: default
 ---

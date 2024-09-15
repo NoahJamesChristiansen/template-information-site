@@ -29,7 +29,7 @@ permalink: search.html
         "tags": "{{ doc.tags | xml_escape }}",
         "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ doc.url | remove: '/' | xml_escape }}",
-        "product": "{{doc.product | xml_escape}}"
+		"summary": "{{ doc.summary | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
       {% endunless %}
@@ -43,7 +43,21 @@ permalink: search.html
   "tags": "{{ doc.tags | xml_escape }}",
   "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
   "url": "{{ doc.url | remove: '/' | xml_escape }}",
-  "product": "{{doc.product | xml_escape}}"
+  "summary": "{{ doc.summary | xml_escape }}"
+}
+{% unless forloop.last %},{% endunless %}
+{% endunless %}
+{% endfor %},
+
+    {% for doc in site.posts %}
+      {% unless doc.search == false %}
+
+"{{ doc.url | slugify }}": {
+  "title": "{{ doc.title | xml_escape }}",
+  "tags": "{{ doc.tags | xml_escape }}",
+  "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
+  "url": "{{ doc.url | remove: '/' | xml_escape }}",
+  "summary": "{{ doc.summary | xml_escape }}"
 }
 {% unless forloop.last %},{% endunless %}
 {% endunless %}

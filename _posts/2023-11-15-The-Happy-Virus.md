@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "The Happy Virus: Dawkins, Guattari, and the Mass Meme Machine"
+summary: "A contagious virus infects the Selfish Gene."
 date:   2023-11-15 01:44:05 -0500
 tags: theory
 ---

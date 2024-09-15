@@ -1,5 +1,5 @@
 ---
-title: "All Posts"
+title: "Blog"
 layout: posts
 sidebar: posts
 include_sidebar: true
@@ -8,4 +8,4 @@ photo_alt_text: Image of me
 show_tags: true
 ---
 
-The history of all content published on this website.
+All posts from my blog.
