@@ -30,9 +30,9 @@
 	{% if page.photo %}
 
 			{% if page.photo_alt_text %}
-				<img class="sidebar-photo" alt="{{page.photo_alt_text}}" src="{{page.photo}}" />
+				<img class="sidebar-photo" alt="{{page.photo_alt_text}}" src="{{ site.home_url }}{{page.photo}}" />
 			{% else %}
-				<img class="sidebar-photo" alt="Photo image" src="{{page.photo}}" />
+				<img class="sidebar-photo" alt="Photo image" src="{{ site.home_url }}{{page.photo}}" />
 			{% endif %}
 
 	{% endif %}
@@ -46,19 +46,24 @@
 
     <ul id="docnavsidebar" class="docnav">
     {% for folder in sidebar.folders %}
+	
     {% unless folder.type == "frontmatter" %}
+	{% unless folder.folderitems %}
+		<li class="level1"><a href="{{folder.jurl}}">{{ folder.title }}</a>
+	{% else %}
+	
     <li class="level1"><a href="#">{{ folder.title }}</a>
         <ul>
             {% for folderitem in folder.folderitems %}
 
             {% if folderitem.title %}
-            {% if page.url == folderitem.jurl %}
-            <li class="level1items open"><a href="{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
-            {% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
-            <li class="level1items"><a  class="noExtIcon" href="{{folderitem.jurl }}">{{folderitem.title}}</a></li>
-            {% else %}
-            <li class="level1items"><a href="{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
-            {% endif %}
+				{% if page.url == folderitem.jurl %}
+					<li class="level1items open"><a href="{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
+					{% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
+					<li class="level1items"><a  class="noExtIcon" href="{{folderitem.jurl }}">{{folderitem.title}}</a></li>
+					{% else %}
+					<li class="level1items"><a href="{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
+				{% endif %}
             {% endif %}
 
             {% for subfolder in folderitem.subfolders %}
@@ -106,10 +111,13 @@
 
             {% endfor %}
         </ul>
+		{% endunless %}
+		
 {% endunless %}
         {% endfor %}
 
     </li>
+	
 </ul>
 
 <hr class="resourceSeparator"></hr>
@@ -120,6 +128,16 @@
         {% endfor %}
     </li>
 </ul>
+{% if page.show_tags %}
+<div class="all-tags">
+	<h2>All Tags</h2>
+	<ul id="alltags">
+		{% for tag in site.tags %}
+			<li><a class="noExtIcon" href="{{ site.home_url }}tag/{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
+		{% endfor %}
+	</ul>
+</div>
+{% endif %}
 </div>
 </div>
 <script>$("li.open").parents('li').toggleClass("open");</script>

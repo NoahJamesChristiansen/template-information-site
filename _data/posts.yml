@@ -1,0 +1,46 @@
+sidebarTitle: Navigate Posts
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+- title: All posts
+  jurl: /post
+  ref: all_posts
+  pdf: true
+
+- title: Subject
+  pdf: true
+
+  folderitems:
+  - title: Linguistics
+    jurl: /sample1.html
+    hurl: http://yourcompanyurl.com/docs/sample1
+    ref: linguistics
+    folderitems:
+    - title: Semiotics
+      jurl: /sample2.html
+      hurl: http://yourcompanyurl.com/docs/sample2
+      ref: semiotics
+    
+  - title: Psychoanalysis
+    jurl: /sample3.html
+    hurl: http://yourcompanyurl.com/docs/sample3
+    ref: psychoanalysis
+    
+- title: Author
+
+  folderitems:
+  - title: Guattari
+    jurl: /sample1.html
+    hurl: http://yourcompanyurl.com/docs/sample1
+    ref: guattari
+
+  - title: Hjemslev 
+    jurl: /sample2.html
+    hurl: http://yourcompanyurl.com/docs/sample2
+    ref: hjemslev
+
+  - title: Freud 
+    jurl: /sample2.html
+    hurl: http://yourcompanyurl.com/docs/sample2
+    ref: freud

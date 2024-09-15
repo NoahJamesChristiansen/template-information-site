@@ -19,28 +19,8 @@
 				<div class="col-xs-12 col-sm-9 main">
 			{% endunless %}
 
-					{% if page.include_sidebar %}
-						<div class="subtitle">
-							{% include breadcrumb.html %}
-						</div>
-					{% endif %}
-
-                      {% if page.simple_map == true %}
-
-                      <script>
-                          $(document).ready ( function(){
-                              $('.box{{page.box_number}}').addClass('active');
-                          });
-                      </script>
-
-                      {% include {{page.map_name}} %}
-
-
-                      {% endif %}
-
-
                     <h1 class="page-title-h1">{{page.title}}</h1>
-                
+
 				{{content}}
             </div>
         </div><!--/.container-->

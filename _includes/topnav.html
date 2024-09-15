@@ -6,6 +6,8 @@
     <title>{{page.title}} | {{site.uistring.title}}</title>
 	{% elsif page.layout == "cv" %}
 	<title>{{page.title}} | CV</title>
+	{% elsif page.class == "tag-template" %}
+	<title>{{page.tag | capitalize }} | Tags</title>
     {% else %}
     <title>{{page.title}}</title>
     {% endif %}

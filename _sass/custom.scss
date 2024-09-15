@@ -158,7 +158,7 @@ span.projectTitle {
     font-weight: bold;
 }
 ul#entrypages li {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 
@@ -255,8 +255,12 @@ span.red {
 
 
 p.external {
-    font-size: 11px;
+	font-size: 14px;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 15px;
 }
+
 ol li ol li {
     list-style-type: lower-alpha;
 }
@@ -419,4 +423,9 @@ a[data-toggle="tooltip"] {
 
 .cv-download-as-pdf {
 	padding-top: 24px;
+}
+
+.all-tags h2 {
+	margin-bottom: 10px;
+	margin-top: -80px;
 }

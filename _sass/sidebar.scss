@@ -13,6 +13,7 @@
   list-style: none;
   font: normal 12px "Open Sans", "Lucida Grande", "Helvetica Neue", Arial;
   border-bottom: 0px;
+  font-size: 14px;
 }
 .docnav li a:hover,
 .docnav li a:active {
@@ -75,12 +76,12 @@ li.level3.open > ul > li.level3items.open > a:before {
   color: black;
 }
 .relatedResources {
-  font-size: 13px;
-  color: black;
-  margin: 10px 0px;
+	font-size: 16px;
+	color: black;
+	margin: 10px 0px;
 }
 .productTitle {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bold;
   display: block;
   margin-right: 8px;

@@ -10,11 +10,13 @@ language: english
 # the output. in the _config_pdf.yml, this is "pdf". you can create conditions based on this property (such as navtab content that should appear in web but not pdf).
 format: web
 
+paginate: 5
+
 # the little icon that appears in the browser window's tab
 favicon: assets/favicon.ico
 
 # home_url
-#home_url: /
+home_url: /
 
 # Source code url:
 source_code_url: https://github.com/badgernested/template-information-site
@@ -187,6 +189,10 @@ kramdown:
 collections:
   docs:
     output: true
+
+# gems and other configs
+plugins:
+  - jekyll-paginate
 
 ########## UI text ###############
 # The UI text is separated into strings defined here to facilitate translation. Grouping them here also consolidates all UI text.
