@@ -8,8 +8,6 @@ th {
 table {
   width: 100%;
   margin-bottom: 20px;
-  border: 1px solid #dedede;
-  background-color: transparent;
 }
 table > thead > tr > th,
 table > tbody > tr > th,
@@ -23,7 +21,6 @@ table > tbody > tr > td ol > li
   padding: 8px;
   line-height: 1.42857143;
   vertical-align: top;
-  border-top: 1px solid #ddd;
   font-size: 15px;
 }
 
@@ -35,10 +32,7 @@ table > tbody > tr > td > p {
 }
 table > thead > tr > th {
   vertical-align: bottom;
-  border-bottom: 2px solid #ddd;
   text-transform: none;
-  background-color: #777;
-  color: white;
   text-align: left;
 }
 table > caption + thead > tr:first-child > th,
@@ -50,7 +44,7 @@ table > thead:first-child > tr:first-child > td {
   border-top: 0;
 }
 table > tbody > tr:nth-of-type(odd) {
-  background-color: #f9f9f9;
+
 }
 table col[class*="col-"] {
   position: static;
@@ -65,7 +59,6 @@ table th[class*="col-"] {
 }
 table td:first-child {
   width: 150px;
-  /*font-weight:bold;*/
 }
 table.boldFirstColumn td:first-child {
   font-weight: bold;
@@ -74,17 +67,14 @@ table tr td {
   hyphens: auto;
 }
 table.dataTable thead {
-  background-color: #444;
+
 }
 table td {
   hyphens: auto;
 }
-table code {
-  background-color: transparent;
-}
 
 table code {
-  background-color: transparent;
+
 }
 pre,
 table code {
@@ -104,10 +94,10 @@ table code {
   /* Internet Explorer 5.5+ */
 }
 td.white {
-  background-color: white;
+
 }
 td.gray {
-  background-color: #f7f7f7;
+
 }
 
 table code {

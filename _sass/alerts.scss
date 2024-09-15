@@ -3,7 +3,6 @@
 .bs-callout {
   padding: 20px;
   margin: 20px 0;
-  border: 1px solid #eee;
   border-left-width: 5px;
   border-radius: 3px;
 }
@@ -22,40 +21,40 @@
   margin-top: -5px;
 }
 .bs-callout-default {
-  border-left-color: #777;
+
 }
 .bs-callout-default .calloutTitle {
-  color: #777;
+
 }
 .bs-callout-primary {
-  border-left-color: #428bca;
+
 }
 .bs-callout-primary .calloutTitle {
-  color: #428bca;
+
 }
 .bs-callout-success {
-  border-left-color: #5cb85c;
+
 }
 .bs-callout-success .calloutTitle {
-  color: #5cb85c;
+
 }
 .bs-callout-danger {
-  border-left-color: #d9534f;
+
 }
 .bs-callout-danger .calloutTitle {
-  color: #d9534f;
+
 }
 .bs-callout-warning {
-  border-left-color: #f0ad4e;
+
 }
 .bs-callout-warning .calloutTitle {
-  color: #f0ad4e;
+
 }
 .bs-callout-info {
-  border-left-color: #5bc0de;
+
 }
 .bs-callout-info .calloutTitle {
-  color: #5bc0de;
+
 }
 
 .alert code {
@@ -63,7 +62,6 @@
 }
 
 blockquote {
-    background-color: #eef7fa;
     font-family: arial;
     font-size: .9em;
     margin: 0px;
@@ -71,21 +69,16 @@ blockquote {
 }
 
 p.note {
-    background: #f1f1f1;
     padding: 1em;
     border-left: 1em solid orange;
 }
 
 p.tip {
-    background: #f1f1f1;
     padding: 1em;
-    border-left: 1em solid deepskyblue;
 }
 
 p.warning {
-    background: #f1f1f1;
     padding: 1em;
-    border-left: 1em solid red;
 }
 
 p.note::before {

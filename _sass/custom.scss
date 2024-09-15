@@ -1,6 +1,5 @@
 body {
   padding-top: 51px;
-  background-color: #111;
 }
 
 
@@ -30,7 +29,6 @@ p, .alert, pre, ol li ul li, ol li ol li {
 }
 
 .col-xs-12 {
-  background-color: #fff;
   padding-left: 40px;
 }
 
@@ -81,28 +79,20 @@ a.no_icon:after
 /* Github edit button */
 i.fa.fa-github.fa-lg:hover,
 a.githubButton.noExtIcon:hover {
-  color: black;
   text-decoration: none;
 }
 a.editButton {
-  color: #666;
   text-decoration: none;
 }
 a.editButton:hover {
   text-decoration: none;
-  color: black;
 }
 .githubButton {
-  color: black;
-  background-color: white;
-  border: 1px solid #777;
   padding: 7px;
   border-radius: 5px;
   margin: 20px 0px 10px 0px;
 }
 .githubButton:hover {
-  background-color: #fefefe;
-  color: #444;
   text-decoration: none;
 }
 
@@ -117,30 +107,27 @@ a.editButton:hover {
 
 /* feedback button */
 .feedbackButton {
-  background-color: orange;
-  border: none;
-  color: whitesmoke;
+
   padding: 6px 14px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   border-radius: 4px;
-  box-shadow: 0 5px 6px 0 rgba(0,0,0,0.15);
+
 }
 .feedbackButton a {
-  color: whitesmoke;
+
 }
 .feedbackButton:hover {
-  background-color: #F79B08;
+
 }
 /* end feedback button */
 
 /* syntax highlightig */
 
 body.docs .highlight .err {
-  color: #a61717;
-  background-color: transparent !important;
+
 }
 /* svg styling */
 
@@ -163,7 +150,6 @@ figcaption {
     padding-top: 6px;
     margin-bottom: 20px;
     font-style: italic;
-    color: gray;
 }
 /* end */
 
@@ -177,12 +163,11 @@ ul#entrypages li {
 
 
 .productSubtitle, a.productSubtitle {
-    color: #777;
+
 }
 
 a.productSubtitle:hover {
   text-decoration: none;
-  color: #999;
   cursor: pointer;
 }
 
@@ -231,11 +216,6 @@ dd pre {
     margin: 10px 0px;
 }
 
-
-body.docs .highlight .err {
-    color: #a61717;
-    background-color: transparent !important;
-}
 video {
     display: block;
     margin: 30px 0px;
@@ -255,8 +235,6 @@ div#toc2 ul li ul li {
 pre {
     overflow: auto;
     margin: 20px 0px;
-    background-color: black;
-    color: whitesmoke;
 }
 
 .legend img {
@@ -268,10 +246,10 @@ pre {
 }
 
 img.docimage.border {
-    border: 1px solid #dedede;
+
 }
 span.red {
-    color: red;
+
 }
 /* footer */
 
@@ -303,7 +281,6 @@ div#toc2 ul li {
 nav#toc >ul::before,
 div#toc2 >ul::before {
   font-weight: 500;
-  color: #555;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -314,11 +291,9 @@ div#toc2 >ul::before {
 }
 nav#toc ul,
 nav#toc2 ul {
-  background-color: #f7f7f7;
   padding: 5px;
   border-radius: 5px;
   max-width: 300px;
-  color: gray;
 }
 nav#toc2 ul {
   padding-left: 25px;
@@ -327,12 +302,10 @@ nav#toc2 ul {
 
 /* mini toc kramdown */
 ul#markdown-toc {
-  border: 1px solid #dedede;
   border-radius: 5px;
   max-width: 400px;
   padding-top:20px;
   margin-top: 30px;
-  color: gray;
   padding-right: 7px;
 }
 
@@ -349,7 +322,7 @@ ul#markdown-toc::before  {
 }
 
 .endpointParam {
-  color: red;
+
 }
 
 /* homepage */
@@ -369,30 +342,27 @@ ul.homepageLinks li {
 }
 
 a codebody.docs .highlighter-rouge {
-    color: #337ab7;
+
   }
 /* end homepage */
 
 .docSample {
     padding: 15px;
-    background-color: #e8f4ff;
     margin: 1em 0em;
 }
 
 blockquote {
 	padding: 1em;
-	background-color: #e6f3f7;
 	margin: 1em 0em;
   border-left: 0px;
 }
 
 a[data-toggle="tooltip"] {
-    color: green;
-    border-bottom: 1px dashed gray;
+
 }
 
 .page-container {
-	background-color: #FFF;
+
 }
 
 .main-no-sidebar {
@@ -416,7 +386,6 @@ a[data-toggle="tooltip"] {
 }
 
 .cv-content h1{
-	border-bottom: 8px solid #929292;
 	font-size: 32pt;
 	padding-bottom: 15px;
 	margin-bottom: 15px;
