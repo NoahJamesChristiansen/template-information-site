@@ -1,8 +1,57 @@
 ---
-title: Search
+title: Search Results
 type: search
 permalink: search.html
 ---
+
+<script>
+  window.store = {
+          {% for doc in site.docs %}
+            {% unless doc.search == false %}
+
+      "{{ doc.url | slugify }}": {
+        "title": "{{ doc.title | xml_escape }}",
+        "tags": "{{ doc.tags | xml_escape }}",
+        "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ doc.url | remove: '/' | xml_escape }}",
+		"summary": "{{ doc.summary | xml_escape }}",
+		"type": "Article"
+      }
+      {% unless forloop.last %},{% endunless %}
+      {% endunless %}
+    {% endfor %},
+
+    {% for doc in site.pages %}
+      {% unless doc.search == false %}
+
+"{{ doc.url | slugify }}": {
+  "title": "{{ doc.title | xml_escape }}",
+  "tags": "{{ doc.tags | xml_escape }}",
+  "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
+  "url": "{{ doc.url | remove: '/' | xml_escape }}",
+  "summary": "{{ doc.summary | xml_escape }}",
+  "type": "Page"
+}
+{% unless forloop.last %},{% endunless %}
+{% endunless %}
+{% endfor %},
+
+    {% for doc in site.posts %}
+      {% unless doc.search == false %}
+
+"{{ doc.url | slugify }}": {
+  "title": "{{ doc.title | xml_escape }}",
+  "tags": "{{ doc.tags | xml_escape }}",
+  "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
+  "url": "{{ doc.url | remove: '/' | xml_escape }}",
+  "summary": "{{ doc.summary | xml_escape }}",
+  "type": "Blog Post"
+}
+{% unless forloop.last %},{% endunless %}
+{% endunless %}
+{% endfor %}
+  };
+</script>
 
 <div style="display:none">
 <form action="search.html" method="get">
@@ -17,53 +66,8 @@ permalink: search.html
 </form>
 </div>
 
-<div id="search-results"></div>
+<div id="search-results" class="search-results"></div>
 
-<script>
-  window.store = {
-          {% for doc in site.docs %}
-            {% unless doc.search == false %}
-
-      "{{ doc.url | slugify }}": {
-        "title": "{{ doc.title | xml_escape }}",
-        "tags": "{{ doc.tags | xml_escape }}",
-        "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ doc.url | remove: '/' | xml_escape }}",
-		"summary": "{{ doc.summary | xml_escape }}"
-      }
-      {% unless forloop.last %},{% endunless %}
-      {% endunless %}
-    {% endfor %},
-
-    {% for doc in site.pages %}
-      {% unless doc.search == false %}
-
-"{{ doc.url | slugify }}": {
-  "title": "{{ doc.title | xml_escape }}",
-  "tags": "{{ doc.tags | xml_escape }}",
-  "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
-  "url": "{{ doc.url | remove: '/' | xml_escape }}",
-  "summary": "{{ doc.summary | xml_escape }}"
-}
-{% unless forloop.last %},{% endunless %}
-{% endunless %}
-{% endfor %},
-
-    {% for doc in site.posts %}
-      {% unless doc.search == false %}
-
-"{{ doc.url | slugify }}": {
-  "title": "{{ doc.title | xml_escape }}",
-  "tags": "{{ doc.tags | xml_escape }}",
-  "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
-  "url": "{{ doc.url | remove: '/' | xml_escape }}",
-  "summary": "{{ doc.summary | xml_escape }}"
-}
-{% unless forloop.last %},{% endunless %}
-{% endunless %}
-{% endfor %}
-  };
-</script>
 <!-- Lunr.js (MIT license) -->
 <script src="assets/js/lunr.min.js"></script>
 <script src="assets/js/search.js"></script>

@@ -3,6 +3,7 @@ layout: null
 ---
 
 (function() {
+	
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
 
@@ -12,8 +13,9 @@ layout: null
        // for (var i = 0; i < results.length; i++) {  // Iterate over the results
         for (var i = 0; i < results.length && i < 10; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<a href="' + item.url + '"><h4>' + item.title + '</h4></a>';
-        appendString += '<p>' + item.summary;
+        appendString += '<a href="' + item.url + '"><h4 style="font-size:20pt;">' + item.title + '</h4></a>';
+        appendString += '<p style="font-size: 16px;">' + item.summary + '</p>';
+		appendString += '<p style="font-size: 10pt; margin-top: -20px; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #777;">Type: ' + item.type + '</p>';
       }
 
       searchResults.innerHTML = appendString;
@@ -64,4 +66,6 @@ layout: null
       displaySearchResults(results, window.store); // We'll write this in the next section
     }
   }
-})();
+}
+
+)();
