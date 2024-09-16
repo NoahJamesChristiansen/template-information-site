@@ -3,15 +3,19 @@
 <head>
     <meta charset="utf-8">
     {% if page.layout == "homepage" or page.type == "search" or page.type =="404" %}
-    <title>{{page.title}} | {{site.uistring.title}}</title>
+		<title>{{page.title}} | {{site.uistring.title}}</title>
 	{% elsif page.layout == "cv" %}
-	<title>{{page.title}} | CV</title>
-	{% elsif page.layout == "posts" %}
-	<title>{{page.title}} | All Posts</title>
-	{% elsif page.class == "tag-template" %}
-	<title>{{page.tag | capitalize }} | Tags</title>
+		<title>{{page.title}} | CV</title>
+	{% elsif page.path contains 'post' %}
+		<title>{{page.title}} | All Posts</title>
+	{% elsif page.path contains 'tag/' %}
+		<title>{{page.tag | capitalize }} | Tags</title>
+	{% elsif page.path contains 'topic/' %}
+		<title>{{page.topics | capitalize }} | Topics</title>
+	{% elsif page.path contains 'author/' %}
+		<title>{{page.about_authors | capitalize }} | Author</title>
     {% else %}
-    <title>{{page.title}}</title>
+		<title>{{page.title}}</title>
     {% endif %}
     <base>
     <meta name="description" content="{% if page.content %}{{ page.content | truncatewords: 30 | strip_html }} {% else %}{{site.uistring.description}}{% endif %}" >
