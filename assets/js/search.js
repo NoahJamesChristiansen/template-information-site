@@ -15,7 +15,7 @@ layout: null
         var item = store[results[i].ref];
         appendString += '<a href="' + item.url + '"><h4 style="font-size:20pt;">' + item.title + '</h4></a>';
         appendString += '<p style="font-size: 16px;">' + item.summary + '</p>';
-		appendString += '<p style="font-size: 10pt; margin-top: -20px; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #777;">Type: ' + item.type + '</p>';
+		appendString += '<p style="font-size: 10pt; margin-top: -10px; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #777;">Type: ' + item.type + '</p>';
       }
 
       searchResults.innerHTML = appendString;
