@@ -243,13 +243,13 @@ footer {
 }
 
 .footer-ul li a, .footer-description a {
-  color: #a0a3a4;
+  color: #DDDDDD;
   transition: color 0.2s linear 0s, background 0.2s linear 0s;
 }
 
 .footer-ul li a:hover, .footer-description a:hover {
   transition: color 0.2s linear 0s, background 0.2s linear 0s;
-  color: #ff670f;
+  color: #Cfe7ff;
 }
 
 .copyright {
@@ -269,7 +269,7 @@ footer {
 }
 
 .heading7 {
-  color: #d9d6d6;
+  color: #eeeeee;
 }
 
 .post p {
@@ -653,6 +653,14 @@ Blog
 
 .blog-name, .all-posts-content {
 	border-bottom: 2px solid #ddd;
+}
+
+.blog-name a {
+	color: #333;
+}
+
+.post-meta {
+	color: #666;
 }
 
 .blog-tags {

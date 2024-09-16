@@ -3,6 +3,8 @@ title:  "Guattari Gaming - Using Guattari in the Debate Metagame"
 summary: "An introduction to the philosopher Félix Guattari in the debate battles metagame."
 date:   2023-09-22 00:35:05 -0500
 tags: theory game
+subject: linguistics psychoanalysis
+authors: guattari hjemslev
 ---
 
 # Guattari Gaming

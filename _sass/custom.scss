@@ -73,6 +73,13 @@ a[href^="https://"]:after {
   content: "";
 }
 
+/* And not the blog post header! */
+
+.blog-name a[href^="http://"]:after,
+.blog-name a[href^="https://"]:after {
+  content: "";
+}
+
 /* Strip the outbound icon when this class is present */
 
 a[href].noExtIcon::after,
@@ -142,12 +149,6 @@ body.docs .highlight .err {
 }
 /* 2 */
 
-@media screen and (-ms-high-contrast: active),
-(-ms-high-contrast: none) {
-    img[src$=".svg"] {
-        width: 100%;
-    }
-}
 /* end */
 /* image styles */
 
@@ -442,7 +443,7 @@ a[data-toggle="tooltip"] {
 	padding-bottom: 15px;
 	padding-left: 10px;
 	padding-top: 25px;
-	font-weight: lighter;
+	font-weight: bolder;
 }
 
 .blog-date {
@@ -481,6 +482,16 @@ blockquote {
 	min-width: 610px;
 	font-size: 10pt;
 	line-height: 2.5em;
+	font-style: italic;
+}
+
+.post-excerpt {
+	margin-top: -20px;
+}
+
+.post-meta {
+	margin-top: -30px;
+	margin-bottom: 30px;
 	font-style: italic;
 }
 
