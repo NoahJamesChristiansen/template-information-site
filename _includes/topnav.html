@@ -13,7 +13,7 @@
 	{% elsif page.path contains 'topic/' %}
 		<title>{{page.topics | capitalize }} | Topics</title>
 	{% elsif page.path contains 'author/' %}
-		<title>{{page.about_authors | capitalize }} | Author</title>
+		<title>{{page.about_authors | capitalize }} | Authors</title>
     {% else %}
 		<title>{{page.title}}</title>
     {% endif %}
@@ -34,7 +34,7 @@
     <!-- Bootstrap (MIT license)-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- Anchor JS (MIT license) {{page.layout}}-->
-    {% unless page.layout == "homepage" or page.layout == "posts" or page.class == "topic-template" or page.class == "tag-template" or page.layout == "cv" or page.type == "search" or page.type =="404" %}
+    {% unless page.layout == "homepage" or page.path contains 'post' or page.path contains 'author/' or page.path contains 'topic/' or page.path contains 'tag/' or page.layout == "cv" or page.type == "search" or page.type =="404" %}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
         <script>
         $( document ).ready(function() {
