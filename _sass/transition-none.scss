@@ -1,0 +1,11 @@
+@media (prefers-reduced-motion) {
+	a,
+	a:hover {
+	  transition: none;
+	}
+
+	.nav li,
+	.nav li:hover {
+	  transition: none;
+	}
+}

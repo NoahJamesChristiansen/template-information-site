@@ -100,8 +100,9 @@ img.navbar-logo {
 }
 
 ul.nav.navbar-nav li a {
-  white-space: nowrap;
-  margin-right: 7px;
+	white-space: nowrap;
+	margin: 7px 15px 15px 15px;
+	padding: 0px;
 }
 
 /* search area */
@@ -170,4 +171,13 @@ i.fa.fa-home.fa-lg {
 
 i.fa.fa-envelope-o.topnavfeedback {
     padding-right: 8px;
+}
+
+/* clears color on the navbar */
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover
+{
+	background-color: transparent;
 }

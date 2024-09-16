@@ -30,7 +30,7 @@
     <!-- Bootstrap (MIT license)-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- Anchor JS (MIT license)-->
-    {% unless page.layout == "homepage" or page.layout == "cv" or page.type == "search" or page.type =="404" %}
+    {% unless page.layout == "homepage" or page.layout == "posts" or page.class == "topic-template" or page.class == "tag-template" or page.layout == "cv" or page.type == "search" or page.type =="404" %}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
         <script>
         $( document ).ready(function() {
@@ -41,6 +41,15 @@
     {% endunless %}
 
     <script>
+	
+		const isReduced = window.matchMedia(`(prefers-reduced-motion: reduce)`) === true || window.matchMedia(`(prefers-reduced-motion: reduce)`).matches === true;
+
+		var open_time = 300;
+
+		if (!!isReduced) {
+			open_time = 0;
+		}
+	
         $( document ).ready(function() {
             $("#docnavsidebar").navgoco({
                 caretHtml: '',
@@ -53,7 +62,7 @@
                     path: '/'
                 },
                 slide: {
-                    duration: 300,
+                    duration: open_time,
                     easing: 'swing'
                 }
             });

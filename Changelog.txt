@@ -2,6 +2,7 @@
 - Improved search screen UI.
 - Added blog generation.
 - Allowed sorting of blog posts by tag, topic and about-author
+- Added reduced motion.
 
 9-14-2024:
 - Removed Github button.

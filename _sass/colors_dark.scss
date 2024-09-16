@@ -275,11 +275,9 @@
 
 	.footer-ul li a, .footer-description a {
 	  color: #888;
-	  transition: color 0.2s linear 0s, background 0.2s linear 0s;
 	}
 
 	.footer-ul li a:hover, .footer-description a:hover {
-	  transition: color 0.2s linear 0s, background 0.2s linear 0s;
 	  color: #bbb;
 	}
 
@@ -351,6 +349,10 @@
 
 	**/
 
+	.navbar-left li:hover{
+		background-color:#191919;
+	}
+
 	.navbar-default {
 	  background-color: #111;
 	  border-color: #111;
@@ -371,11 +373,6 @@
 
 	.navbar-default .navbar-nav > li > a {
 	  color: #888;
-	}
-
-	.navbar-default .navbar-nav > li > a:hover,
-	.navbar-default .navbar-nav > li > a:focus {
-	  color: #CCC;
 	}
 
 	.navbar-default .navbar-nav > li > .dropdown-menu {
@@ -403,11 +400,21 @@
 	  background-color: #000;
 	}
 
-	.navbar-default .navbar-nav > .active > a,
-	.navbar-default .navbar-nav > .active > a:hover,
-	.navbar-default .navbar-nav > .active > a:focus {
-	  color: #337ab7;
+	.nav > .active > a,
+	.nav > .active > a:hover,
+	.nav > .active > a:focus {
 	  background-color: #222;
+	}
+	
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:focus,
+	.navbar-default .navbar-nav > .active > a:hover
+	{
+		color: #CCC;
+	}
+	
+	.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+		color: #EEE;
 	}
 
 	.navbar-default .navbar-nav > .open > a,
@@ -558,13 +565,12 @@
 
 	.docnav li a:hover,
 	.docnav li a:active {
-	  color: #666;
+	  color: #7ae;
 	}
-
-	.docnav li.level1 > a > span:after,
-	.docnav li.level2 > a > span:after,
-	.docnav li.level3 > a > span:after {
-	  color: #4d94ff;
+	
+	#alltags a:hover,
+	#alltags a:active {
+	  color: #7ae;
 	}
 
 	/* empty square*/

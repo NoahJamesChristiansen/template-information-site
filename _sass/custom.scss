@@ -45,7 +45,7 @@ div#search-results p {
 .input-group.search {
   max-width: 200px;
   margin-right: 10px;
-  margin-top: 30px;
+  margin-top: 25px;
 }
 .sidebarSearchBar {
   margin-bottom: 30px;
@@ -434,16 +434,16 @@ a[data-toggle="tooltip"] {
 
 .all-tags h2 {
 	margin-bottom: 10px;
-	margin-top: -80px;
 }
 
 .blog-name {
 	font-size: 24pt;
 	border-bottom: 2px solid #333;
 	padding-bottom: 15px;
-	padding-left: 10px;
-	padding-top: 25px;
 	font-weight: bolder;
+	text-align: center;
+	margin-top: -30px;
+	width: 93%;
 }
 
 .blog-date {

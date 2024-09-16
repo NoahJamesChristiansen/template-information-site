@@ -244,11 +244,9 @@ footer {
 
 .footer-ul li a, .footer-description a {
   color: #DDDDDD;
-  transition: color 0.2s linear 0s, background 0.2s linear 0s;
 }
 
 .footer-ul li a:hover, .footer-description a:hover {
-  transition: color 0.2s linear 0s, background 0.2s linear 0s;
   color: #Cfe7ff;
 }
 
@@ -316,9 +314,13 @@ Navbars
 
 **/
 
+.navbar-left li:hover{
+	background-color:#ddd;
+}
+
 .navbar-default {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #f7f7f7;
+  border: 0px;
 }
 
 .navbar-default .navbar-brand {
@@ -336,11 +338,6 @@ Navbars
 
 .navbar-default .navbar-nav > li > a {
   color: #111111;
-}
-
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #0a7cc9;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
@@ -368,9 +365,9 @@ Navbars
   background-color: #ffffff;
 }
 
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
+.nav > .active > a,
+.nav > .active > a:hover,
+.nav > .active > a:focus {
   color: #0a7cc9;
   background-color: #ffffff;
 }
@@ -440,7 +437,13 @@ Navtabs
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   background-color: #248ec2;
-  color: white;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover
+{
+	color: #333;
 }
 
 .nav-tabs {
@@ -506,17 +509,6 @@ a[data-toggle="tab"]:hover {
 Sidebar
 
 **/
-
-.docnav li a:hover,
-.docnav li a:active {
-  color: #666;
-}
-
-.docnav li.level1 > a > span:after,
-.docnav li.level2 > a > span:after,
-.docnav li.level3 > a > span:after {
-  color: #4d94ff;
-}
 
 /* empty square*/
 

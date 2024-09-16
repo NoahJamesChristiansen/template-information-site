@@ -30,6 +30,9 @@ use_logo: false
 # logo image to use. logo images are constrained at 50px in height.
 logo: assets/companylogo.png
 
+blog_logo: assets/blog_photo.png
+blog_logo_alt_text: Description of the above image. make this meaningful! It's for visually impaired people and slow internet connections.
+
 # use text title instead. text title read from uistring.title in ui strings section.
 use_text_title: false
 
