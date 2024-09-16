@@ -4,7 +4,7 @@ summary: "An introduction to the philosopher Félix Guattari in the debate battl
 date:   2023-09-22 00:35:05 -0500
 tags: theory game
 topics: linguistics psychoanalysis
-about-authors: guattari hjemslev
+about_authors: guattari hjemslev
 ---
 
 # Guattari Gaming

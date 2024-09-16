@@ -1,0 +1,51 @@
+---
+class: 'topic-template'
+current: topics
+sidebar: posts
+include_sidebar: true
+photo: assets/tags.png
+photo_alt_text: Image of me
+show_tags: true
+---
+
+{% include topnav.html %}
+<div class="container">
+
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <!-- sidebar -->
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+
+                {% include blog_sidebar.html %}
+
+            </div>
+
+            <!-- main areaXXXXXXXX -->
+			{% unless page.include_sidebar %}
+				<div class="col-xs-12 col-sm-9 main main-no-sidebar">
+			{% else %}
+				<div class="col-xs-12 col-sm-9 main">
+			{% endunless %}
+
+                    <h1 class="page-title-h1">Posts about {{page.topics | capitalize }}</h1>
+                
+
+						<!-- The main content area on the homepage -->
+						<main id="content" class="content menu-animate" role="main">
+
+							<!-- The tag below includes the post loop - partials/loop.hbs -->
+							{% include loop.html %}
+
+						</main>
+            </div>
+        </div><!--/.container-->
+
+
+    </div><!--/.page-container-->
+    {% include footer.html %}
+
+    {% include google_analytics.html %}
+
+</body>
+
+</html>

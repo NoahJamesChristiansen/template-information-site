@@ -4,7 +4,7 @@ summary: "A contagious virus infects the Selfish Gene."
 date:   2023-11-15 01:44:05 -0500
 tags: theory
 topics: linguistics
-about-authors: hjemslev
+about_authors: hjemslev
 ---
 
 # The Happy Virus

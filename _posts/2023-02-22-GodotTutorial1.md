@@ -4,7 +4,7 @@ summary: "A demonstration on how to build some basic accessible interfaces in Go
 date:   2023-02-22 01:44:05 -0500
 tags: game
 topics: psychoanalysis
-about-authors: guattari freud
+about_authors: guattari freud
 ---
 
 # Godot Accessibility Tutorial #1 - How to Build Basic Blind Accessible Menus and Interfaces

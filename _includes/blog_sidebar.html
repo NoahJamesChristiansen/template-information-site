@@ -36,77 +36,56 @@
 		</p>
 
     <ul id="docnavsidebar" class="docnav">
-    {% for folder in sidebar.folders %}
 	
-    {% unless folder.type == "frontmatter" %}
-	{% unless folder.folderitems %}
-		<li class="level1"><a href="{{folder.jurl}}">{{ folder.title }}</a>
-	{% else %}
+	<!-- Link to all posts -->
+	<li class="level1"><a href="{{ site.home_url }}post">All Posts</a></li>
 	
-    <li class="level1"><a href="#">{{ folder.title }}</a>
+	<!-- This generates all the topics -->
+    <li class="level1"><a href="#">Topics</a>
         <ul>
-            {% for folderitem in folder.folderitems %}
 
-            {% if folderitem.title %}
-				{% if page.url == folderitem.jurl %}
-					<li class="level1items open"><a href="{{ site.home_url }}{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
-					{% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
-					<li class="level1items"><a  class="noExtIcon" href="{{folderitem.jurl }}">{{folderitem.title}}</a></li>
-					{% else %}
-					<li class="level1items"><a href="{{ site.home_url }}{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
-				{% endif %}
-            {% endif %}
+			<!-- get all the topics available -->
+			{% assign list = site.pages | where_exp: "item" , "item.path contains 'topic/'"% }
+			{% assign topics = "" %}
+			{% for item in list %}
+				{% assign topics = topics | append: item.topics %}
+				{% unless my_array.last == item %}
+					{% assign topics = topics | append: "," %}
+				{% endunless %}
+			{% endfor %}
+			
+			{% assign topics = topics | split: "," | uniq | sort %}
+			
+			{% for item in topics %}
 
-            {% for subfolder in folderitem.subfolders %}
-
-            <li class="level2"><a class="subfoldersTitle" href="#">{{ subfolder.title }}</a>
-                <ul style="display:none;">
-                    {% for subfolderitem in subfolder.subfolderitems %}
-
-                    {% if subfolderitem.title %}
-                    {% if page.url == subfolderitem.jurl %}
-                    <li class="level2items open"><a href="{{ site.home_url }}{{subfolderitem.jurl | remove: "/" }}">{{subfolderitem.title}}</a></li>
-                    {% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
-                    <li class="level2items"><a  class="noExtIcon" href="{{subfolderitem.jurl }}">{{subfolderitem.title}}</a></li>
-                    {% else %}
-                    <li class="level2items"><a href="{{ site.home_url }}{{subfolderitem.jurl | remove: "/" }}">{{subfolderitem.title}}</a></li>
-                    {% endif %}
-                    {% endif %}
-
-                    {% for subsubfolder in subfolderitem.subsubfolders %}
-                    <li class="level3"><a class="subfoldersTitle" href="#">{{ subsubfolder.title }}</a>
-                        <ul style="display:none;">
-                            {% for subsubfolderitem in subsubfolder.subsubfolderitems %}
-
-                            {% if subsubfolderitem.title %}
-                            {% if page.url == subsubfolderitem.jurl %}
-                            <li class="level3items open"><a href="{{ site.home_url }}{{subsubfolderitem.jurl | remove: "/" }}">{{subsubfolderitem.title}}</a></li>
-                            {% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
-                            <li class="level3items"><a href="{{subsubfolderitem.jurl }}">{{subsubfolderitem.title}}</a></li>
-                            {% else %}
-                            <li class="level3items"><a href="{{ site.home_url }}{{subsubfolderitem.jurl | remove: "/" }}">{{subsubfolderitem.title}}</a></li>
-                            {% endif %}
-                            {% endif %}
-
-                            {% endfor %}
-                        </ul>
-                    </li>
-
-                    {% endfor %}
-
-                    {% endfor %}
-                </ul>
-            </li>
-
-            {% endfor %}
+				<li class="level1items"><a href="{{ site.home_url }}topic/{{item}}">{{ item | capitalize}}</a></li>
 
             {% endfor %}
         </ul>
-		{% endunless %}
-		
-{% endunless %}
-        {% endfor %}
+    </li>
+	
+	<!-- This generates all the authors -->
+    <li class="level1"><a href="#">Authors</a>
+        <ul>
 
+			<!-- get all the authors available -->
+			{% assign list = site.pages | where_exp: "item" , "item.path contains 'author/'"% }
+			{% assign authors = "" %}
+			{% for item in list %}
+				{% assign authors = authors | append: item.about_authors %}
+				{% unless my_array.last == item %}
+					{% assign authors = authors | append: "," %}
+				{% endunless %}
+			{% endfor %}
+			
+			{% assign authors = authors | split: "," | uniq | sort %}
+			
+			{% for item in authors %}
+
+				<li class="level1items"><a href="{{ site.home_url }}author/{{item}}">{{ item | capitalize}}</a></li>
+
+            {% endfor %}
+        </ul>
     </li>
 	
 </ul>
