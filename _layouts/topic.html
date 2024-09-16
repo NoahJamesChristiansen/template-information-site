@@ -29,7 +29,10 @@ show_tags: true
 
                     <h1 class="page-title-h1">Posts about {{page.topics | capitalize }}</h1>
                 
-
+					{% if site.data.blog_links["topics"][page.topics] %}
+					<p class="blog-summary">{{ site.data.blog_links["topics"][page.topics]}}</p>
+					{% endif %}
+					
 						<!-- The main content area on the homepage -->
 						<main id="content" class="content menu-animate" role="main">
 

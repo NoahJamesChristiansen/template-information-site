@@ -88,25 +88,18 @@
         </ul>
     </li>
 	
-</ul>
+	<!-- This generates all the tags -->
+    <li class="level1"><a href="#">Tags</a>
+        <ul>
+			{% for tag in site.tags %}
 
-<hr class="resourceSeparator"></hr>
-<div class="relatedResources">{{sidebar.related_resources_title}}</div>
-<ul id="entrypages">
-        {% for item in sidebar.related_resources_list %}
-        <li><a class="noExtIcon" href="{{item.jurl }}">{{item.title}}</a></li>
-        {% endfor %}
+				<li class="level1items"><a href="{{ site.home_url }}tag/{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+
+            {% endfor %}
+        </ul>
     </li>
+	
 </ul>
-
-<div class="all-tags">
-	<h2>All Tags</h2>
-	<ul id="alltags">
-		{% for tag in site.tags %}
-			<li><a class="noExtIcon" href="{{ site.home_url }}tag/{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
-		{% endfor %}
-	</ul>
-</div>
 
 </div>
 </div>
