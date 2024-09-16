@@ -6,6 +6,8 @@
     <title>{{page.title}} | {{site.uistring.title}}</title>
 	{% elsif page.layout == "cv" %}
 	<title>{{page.title}} | CV</title>
+	{% elsif page.layout == "posts" %}
+	<title>{{page.title}} | All Posts</title>
 	{% elsif page.class == "tag-template" %}
 	<title>{{page.tag | capitalize }} | Tags</title>
     {% else %}
@@ -125,9 +127,9 @@
                     {% if item.url contains "http://" or item.url contains "https://" %}
                     <li><a href="{{item.url}}" class="noExtIcon">{{item.title}}</a></li>
                     {% elsif page.url contains item.url %}
-                    <li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+                    <li class="active"><a href="{{ site.home_url }}{{item.url | remove: "/"}}">{{item.title}}</a></li>
                     {% else %}
-                    <li><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
+                    <li><a href="{{ site.home_url }}{{item.url | remove: "/"}}">{{item.title}}</a></li>
                     {% endif %}
                     {% endfor %}
                     {% endfor %}
@@ -143,9 +145,9 @@
                             {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
                             <li><a href="{{folderitem.url}}" class="noExtIcon">{{folderitem.title}}</a></li>
                             {% elsif page.url contains folderitem.url %}
-                            <li class="dropdownActive"><a href="{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
+                            <li class="dropdownActive"><a href="{{ site.home_url }}{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
                             {% else %}
-                            <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
+                            <li><a href="{{ site.home_url }}{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
                             {% endif %}
                             {% endfor %}
                         </ul>

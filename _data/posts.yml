@@ -1,10 +1,10 @@
-sidebarTitle: Blog
+sidebarTitle: 
 
 ## See the generic.yml file as an example of the allowed yaml format.
 
 folders:
 - title: All posts
-  jurl: post
+  jurl: /post
   ref: all_posts
   pdf: true
 

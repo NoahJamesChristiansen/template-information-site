@@ -18,26 +18,27 @@
 			{% else %}
 				<div class="col-xs-12 col-sm-9 main">
 			{% endunless %}
-			
-                <h1 class="page-title-h1">{{ site.uistring.blog }}</h1>
 
-				<div class="all-posts-content">
+				<div class="blog-name">
+					{{site.uistring.blog}}
+				</div>
+
+                <h1 class="page-title-h1">{{page.title}}</h1>
+
+				<div class="blog-date">
+					<time class="post-date" datetime="Posted on: {{ page.date | date: site.uistring.datetime_format }}">{{ page.date | date_to_string }}</time>
+				</div>
+
+				<div class="post">
 					{{content}}
 				</div>
 				
-				{% for post in site.posts %}
-				<article class="post post-index">
-					<header class="post-header">
-						<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					</header>
-					<section class="post-excerpt">
-						<p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ post.url | relative_url }}" >&raquo;</a></p>
-					</section>
-					<div class="post-meta">
-						<time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
-					</footer>
-				</article>
-				{% endfor %}
+				<div class="blog-tags">
+					<b>Tagged with:</b>
+					{% for tag in page.tags %}
+						<a href="{{ site.home_url }}tag/{{tag}}">{{tag}}</a> 
+					{% endfor %}
+				</div>
 				
             </div>
         </div><!--/.container-->
