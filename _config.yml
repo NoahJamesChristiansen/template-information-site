@@ -16,8 +16,8 @@ paginate: 5
 favicon: assets/favicon.ico
 
 # home_url
-#home_url: https://badgernested.github.io/template-information-site/
-home_url: http://localhost:4000/
+home_url: https://badgernested.github.io/template-information-site/
+#home_url: http://localhost:4000/
 
 # Source code url:
 source_code_url: https://github.com/badgernested/template-information-site
@@ -128,7 +128,7 @@ defaults:
       layout: default
       topnav: topnav
       footer: footer
-      
+     
   -
     scope:
       path: ""
