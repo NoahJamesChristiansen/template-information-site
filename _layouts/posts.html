@@ -29,7 +29,7 @@
 						<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 					</header>
 					<section class="post-excerpt">
-						<p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ post.url | relative_url }}" >&raquo;</a></p>
+						<p>{{ post.summary | truncatewords: 26 }} <a class="read-more" href="{{ post.url | relative_url }}" >&raquo;</a></p>
 					</section>
 					<div class="post-meta">
 						<time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>

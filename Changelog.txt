@@ -3,6 +3,7 @@
 - Added blog generation.
 - Allowed sorting of blog posts by tag, topic and about-author
 - Added reduced motion.
+- Added light/dark mode based on OS.
 
 9-14-2024:
 - Removed Github button.
