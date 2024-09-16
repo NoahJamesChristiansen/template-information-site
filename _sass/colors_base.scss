@@ -671,3 +671,11 @@ blockquote {
 	background-image: linear-gradient(145deg, #DDDDDDFF 0%, #FFFFFFFF 50%);
 	box-shadow: 3px 3px 4px #AAA;
 }
+
+img {
+	box-shadow: 0px 0px 15px #AAA;
+}
+
+img.nobg {
+	box-shadow: none;
+}
