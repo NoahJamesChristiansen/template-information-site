@@ -29,4 +29,19 @@
 			</article>
 			{% endif %}
 		{% endif %}
+		{% elsif page.class contains "author" %}
+			{% if post.about_authors contains page.about_authors %}
+			<article class="post post-index">
+				<header class="post-header">
+					<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				</header>
+				<section class="post-excerpt">
+					<p>{{ post.summary | truncatewords: 26 }} <a class="read-more" href="{{ post.url | relative_url }}" >&raquo;</a></p>
+				</section>
+				<div class="post-meta">
+					<time class="post-date" datetime="{{ post.date | date: site.uistring.datetime_format }}">{{ post.date | date_to_string }}</time>
+				</footer>
+			</article>
+			{% endif %}
+		{% endif %}
     {% endfor %}
