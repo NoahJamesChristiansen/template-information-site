@@ -35,7 +35,7 @@ module Jekyll
 
     def atomize(site, type, posts, post_authors)
       path = "/author/#{posts}"
-      atom = AtomPageTopics.new(site, site.source, path, type, posts, post_authors)
+      atom = AtomPageAuthors.new(site, site.source, path, type, posts, post_authors)
       site.pages << atom
     end
 
@@ -47,7 +47,7 @@ module Jekyll
         if num_page > 1
           path = path + "/page#{num_page}"
         end
-        newpage = GroupSubPageTopics.new(site, site.source, path, type, posts)
+        newpage = GroupSubPageAuthors.new(site, site.source, path, type, posts)
         newpage.pager = pager
         site.pages << newpage
 
@@ -55,7 +55,7 @@ module Jekyll
     end
   end
 
-  class GroupSubPageTopics < Page
+  class GroupSubPageAuthors < Page
     def initialize(site, base, dir, type, val)
       @site = site
       @base = base
@@ -69,7 +69,7 @@ module Jekyll
     end
   end
 
-  class AtomPageTopics < Page
+  class AtomPageAuthors < Page
     def initialize(site, base, dir, type, val, posts)
       @site = site
       @base = base
