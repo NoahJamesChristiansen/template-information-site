@@ -82,8 +82,8 @@ a[href^="https://"]:after {
 
 /* And not in the blog sidebar! */
 
-.docnavsidebar a[href^="http://"]:after,
-.docnavsidebar a[href^="https://"]:after {
+#docnavsidebar a[href^="http://"]:after,
+#docnavsidebar a[href^="https://"]:after {
   content: "";
 }
 
