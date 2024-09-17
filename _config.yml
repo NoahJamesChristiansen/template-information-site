@@ -226,3 +226,16 @@ uistring:
     github_edit_button_text: Edit on GitHub # text for github button
     blog: My Very Cool Blog # Name of blog displayed on the top of posts
     datetime_format: '%Y-%m-%d' # date time format
+    months:
+        jan: January
+        feb: February
+        mar: March
+        apr: April
+        may: May
+        jun: June
+        jul: July
+        aug: August
+        sep: September
+        oct: October
+        nov: November
+        dec: December

@@ -1,3 +1,6 @@
+9-16-2024:
+- Added date feature to blog.
+
 9-15-2024:
 - Improved search screen UI.
 - Added blog generation.

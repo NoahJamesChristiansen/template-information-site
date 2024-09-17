@@ -1,0 +1,29 @@
+
+{% assign month-name = "" %}
+
+{% case include.month %}
+	{% when 1 or '1' %}
+		{% assign month-name = site.uistring.months.jan %}
+	{% when 2 or '2'%}
+		{% assign month-name = site.uistring.months.feb %}
+	{% when 3 or '3' %}
+		{% assign month-name = site.uistring.months.mar %}
+	{% when 4 or '4' %}
+		{% assign month-name = site.uistring.months.apr %}
+	{% when 5 or '5' %}
+		{% assign month-name = site.uistring.months.may %}
+	{% when 6 or '6' %}
+		{% assign month-name = site.uistring.months.jun %}
+	{% when 7 or '7' %}
+		{% assign month-name = site.uistring.months.jul %}
+	{% when 8 or '8' %}
+		{% assign month-name = site.uistring.months.aug %}
+	{% when 9 or '9' %}
+		{% assign month-name = site.uistring.months.sep %}
+	{% when 10 or '10' %}
+		{% assign month-name = site.uistring.months.oct %}
+	{% when 11 or '11' %}
+		{% assign month-name = site.uistring.months.nov %}
+	{% when 12 or '12' %}
+		{% assign month-name = site.uistring.months.dec %}
+{% endcase %}

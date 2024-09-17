@@ -1,7 +1,7 @@
 ---
 title:  "Godot Accessibility Tutorial #1 - How to Build Basic Accessible Menus and Interfaces"
 summary: "A demonstration on how to build some basic accessible interfaces in Godot 3.5."
-date:   2023-02-22 01:44:05 -0500
+date:   2024-02-22 01:44:05 -0500
 tags: game
 topics: psychoanalysis
 about_authors: guattari freud

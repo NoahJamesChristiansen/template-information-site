@@ -40,61 +40,128 @@
 	<!-- Link to all posts -->
 	<li class="level1"><a href="{{ site.home_url }}post">All Posts</a></li>
 	
+
+	<!-- get all the topics available -->
+	{% assign list = site.pages | where_exp: "item" , "item.path contains 'topic/'"% }
+	{% assign topics = "" %}
+	{% for item in list %}
+		{% assign topics = topics | append: item.topics %}
+		{% unless my_array.last == item %}
+			{% assign topics = topics | append: "," %}
+		{% endunless %}
+	{% endfor %}
+	
+	{% assign topics = topics | split: "," | uniq | sort %}
+	
+	{% if topics.size > 0 %}
 	<!-- This generates all the topics -->
-    <li class="level1"><a href="#">Topics</a>
-        <ul>
+		<li class="level1"><a href="#">Topics</a>
+			<ul>
+				
+				{% for item in topics %}
 
-			<!-- get all the topics available -->
-			{% assign list = site.pages | where_exp: "item" , "item.path contains 'topic/'"% }
-			{% assign topics = "" %}
-			{% for item in list %}
-				{% assign topics = topics | append: item.topics %}
-				{% unless my_array.last == item %}
-					{% assign topics = topics | append: "," %}
-				{% endunless %}
-			{% endfor %}
-			
-			{% assign topics = topics | split: "," | uniq | sort %}
-			
-			{% for item in topics %}
+					<li class="level1items"><a href="{{ site.home_url }}topic/{{item}}">{{ item | capitalize}}</a></li>
 
-				<li class="level1items"><a href="{{ site.home_url }}topic/{{item}}">{{ item | capitalize}}</a></li>
-
-            {% endfor %}
-        </ul>
-    </li>
+				{% endfor %}
+			</ul>
+		</li>
+	{% endif %}
 	
-	<!-- This generates all the authors -->
-    <li class="level1"><a href="#">Authors</a>
-        <ul>
-
-			<!-- get all the authors available -->
-			{% assign list = site.pages | where_exp: "item" , "item.path contains 'author/'"% }
-			{% assign authors = "" %}
-			{% for item in list %}
-				{% assign authors = authors | append: item.about_authors %}
-				{% unless my_array.last == item %}
-					{% assign authors = authors | append: "," %}
-				{% endunless %}
-			{% endfor %}
-			
-			{% assign authors = authors | split: "," | uniq | sort %}
-			
-			{% for item in authors %}
-
-				<li class="level1items"><a href="{{ site.home_url }}author/{{item}}">{{ item | capitalize}}</a></li>
-
-            {% endfor %}
-        </ul>
-    </li>
+	<!-- get all the authors available -->
+	{% assign list = site.pages | where_exp: "item" , "item.path contains 'author/'"% }
+	{% assign authors = "" %}
+	{% for item in list %}
+		{% assign authors = authors | append: item.about_authors %}
+		{% unless my_array.last == item %}
+			{% assign authors = authors | append: "," %}
+		{% endunless %}
+	{% endfor %}
 	
-	<!-- This generates all the tags -->
-    <li class="level1"><a href="#">Tags</a>
+	{% assign authors = authors | split: "," | uniq | sort %}
+	
+	{% if authors.size > 0 %}
+		<!-- This generates all the authors -->
+		<li class="level1"><a href="#">Authors</a>
+			<ul>
+				
+				{% for item in authors %}
+
+					<li class="level1items"><a href="{{ site.home_url }}author/{{item}}">{{ item | capitalize}}</a></li>
+
+				{% endfor %}
+			</ul>
+		</li>
+	{% endif %}
+	
+	{% if site.tags.size > 0 %}
+		<!-- This generates all the tags -->
+		<li class="level1"><a href="#">Tags</a>
+			<ul>
+				{% for tag in site.tags %}
+
+					<li class="level1items"><a href="{{ site.home_url }}tag/{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+
+				{% endfor %}
+			</ul>
+		</li>
+	{% endif %}
+	
+	<!-- Gets all the publish years -->
+	{% assign list = site.posts }
+	{% assign years = "" %}
+	{% for item in list %}
+		{% assign current_year = item.date | date: "%Y" %}
+		{% assign year_value = current_year | append: "," %}
+		{% assign years = years | append: year_value %}
+	{% endfor %}
+	
+	{% assign years = years | strip | newline_to_br | strip_newlines | split: "," | compact | uniq %}
+	
+	<!-- This generates all the dates -->
+    <li class="level1">
+		<a href="#">By Date</a>
         <ul>
-			{% for tag in site.tags %}
+			
+			{% for yr in years %}
 
-				<li class="level1items"><a href="{{ site.home_url }}tag/{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+				<li class="level2">
+					<a class="subfoldersTitle" href="#">{{ yr }}</a>
+				
+					<!-- gets the months -->
+					{% assign list = site.posts }
+					{% assign months = nil %}
+					{% assign months = "" %}
+					
+					{% for pg in list %}
+						{% assign post_year = pg.date | date: "%Y" %}
+						{% assign month = pg.date | date: "%-m" %}
+						{% assign month_special = month | append: " | " %}
+						{% if post_year == yr %}
+							{% assign months = months | prepend: month_special %}
+						{% endif %}
+					{% endfor %}
 
+					{% assign months_values = months | strip | newline_to_br | strip_newlines | split: " | "  | compact | uniq %}
+					
+					{% if months_values != "" %}
+					<ul>
+						{% for month-val in months_values %}
+						
+						{% assign month_clean = month-val | replace: " |" "" %}
+						
+						{% include monthname.html month=month_clean %}
+	
+						<li>
+						<!-- This displays the months -->
+							<li class="level3">
+								<a class="subfoldersTitle" href="{{ site.home_url }}date/{{yr}}/{{ month-clean }}">{{ month-name }}</a>
+							</li>
+						</li>
+						{% endfor %}
+					</ul>
+					{% endif %} 
+
+				</li>
             {% endfor %}
         </ul>
     </li>

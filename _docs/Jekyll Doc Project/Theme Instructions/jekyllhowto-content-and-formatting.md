@@ -1,7 +1,9 @@
 ---
+include_sidebar: true
+layout: default
 title: Content and formatting
 permalink: jekyllhowto-content-and-formatting.html
-sidebar: jekyllhowto
+sidebar: generic
 product: Jekyll How-to Guide
 ---
 
