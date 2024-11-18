@@ -3,7 +3,7 @@ about_description: >
   This is a description about this documentation site. You can customize this description by modifying the text in
   the about_description property of the footer.yml file.
 
-column1_title: General
+column1_title: About
 column1_links:
   -
     target: about.html
