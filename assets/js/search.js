@@ -5,7 +5,7 @@ layout: null
 (function() {
 	
   function displaySearchResults(results, store, page_start, searchTerm) {
-    var results_per_page = 2;
+    var results_per_page = 10;
     var start_results = (page_start - 1) * results_per_page;
     var end_results = (page_start) * results_per_page;
     var max_results = Math.min(end_results, results.length);
