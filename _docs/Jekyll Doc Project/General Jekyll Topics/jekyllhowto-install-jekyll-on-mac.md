@@ -6,6 +6,8 @@ product: Jekyll How-to Guide
 
 ---
 
+anyways
+
 Installation of Jekyll on Mac is usually less problematic than on Windows. However, you may run into permissions issues with Ruby that you must overcome. You should also use Bundler to be sure that you have all the required gems and other utilities on your computer to make the project run.
 
 * TOC

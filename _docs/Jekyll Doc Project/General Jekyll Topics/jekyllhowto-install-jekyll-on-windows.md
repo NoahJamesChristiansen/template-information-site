@@ -5,6 +5,8 @@ sidebar: jekyllhowto
 product: Jekyll How-to Guide
 ---
 
+anyways
+
 {% include tip.html content="For a better terminal emulator on Windows, use [Git Bash](https://git-for-windows.github.io/). Git Bash gives you Linux-like control on Windows." %}
 
 ## Install Ruby

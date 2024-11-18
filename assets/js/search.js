@@ -4,18 +4,23 @@ layout: null
 
 (function() {
 	
-  function displaySearchResults(results, store) {
+  function displaySearchResults(results, store, page_start, searchTerm) {
+    var results_per_page = 2;
+    var start_results = (page_start - 1) * results_per_page;
+    var end_results = (page_start) * results_per_page;
+    var max_results = Math.min(end_results, results.length);
+  
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
       var appendString = '';
 
            // for (var i = 0; i < results.length; i++) {  // Iterate over the results
-           for (var i = 0; i < results.length && i < 10; i++) 
+           for (var i = start_results; i < results.length && i < end_results; i++) 
             {  // Iterate over the results
             var item = store[results[i].ref];
             
-           if(item.title.length > 0 && !item.url.includes(".xml"))
+           if(item.title.length > 0)
            
            {
             appendString += '<a href="' + item.url + '"><h4 style="font-size:20pt;">' + item.title + '</h4></a>';
@@ -24,6 +29,26 @@ layout: null
           }
           
       }
+      
+      appendString += '<p style="font-size: 12px;">' + 'Results ' + (start_results+1) + ' to ' + max_results + ' out of ' + results.length + ' result(s).'+ '</p>';
+      
+      // Following does next/previous
+      appendString += '<p style="font-size: 16px;">';
+      
+      if(start_results > 0){
+        appendString += '<a href="/search.html?query=' + searchTerm + '&page=' + (page_start - 1) + '">Previous</a>';
+      }
+      
+      if(max_results < results.length)
+      {
+        if(start_results > 0){
+            appendString += " | ";
+        }
+        
+        appendString += '<a href="/search.html?query=' + searchTerm + '&page=' + (page_start + 1) + '">Next</a>';
+      }
+      
+      appendString += '</p>';
 
       searchResults.innerHTML = appendString;
     } else {
@@ -32,10 +57,7 @@ layout: null
     }
   }
 
-  function getQueryVariable(variable) {
-    var query = window.location.search.substring(1);
-    var vars = query.split('&');
-
+  function getQueryVariable(variable, vars) {
     for (var i = 0; i < vars.length; i++) {
       var pair = vars[i].split('=');
 
@@ -45,7 +67,16 @@ layout: null
     }
   }
 
-  var searchTerm = getQueryVariable('query');
+    var query_value = window.location.search.substring(1);
+    var vars_value = query_value.split('&');
+
+  var searchTerm = getQueryVariable('query', vars_value);
+  var page_start = Number(getQueryVariable('page', vars_value));
+  
+  if(isNaN(page_start))
+  {
+    page_start = 1;
+  }
 
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
@@ -68,8 +99,8 @@ layout: null
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
     }
+    displaySearchResults(results, window.store, page_start, searchTerm); // We'll write this in the next section
   }
 }
 

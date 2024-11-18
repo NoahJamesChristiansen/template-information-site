@@ -5,6 +5,8 @@ permalink: jekyllhowto-atom-text-editor.html
 product: Jekyll How-to Guide
 ---
 
+anyways
+
 Atom is a free text editor that is a favorite tool of many writers because it is free. This page provides some tips for using Atom.
 
 * TOC
