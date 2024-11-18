@@ -18,7 +18,6 @@ layout: null
            if(item.title.length > 0 && !item.url.includes(".xml"))
            
            {
-            
             appendString += '<a href="' + item.url + '"><h4 style="font-size:20pt;">' + item.title + '</h4></a>';
             appendString += '<p style="font-size: 16px;">' + item.summary + '</p>';
 		    appendString += '<p style="font-size: 10pt; margin-top: -10px; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #777;">Type: ' + item.type + '</p>';
@@ -56,7 +55,6 @@ layout: null
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
-      this.field('product');
       this.field('tags');
       this.field('content');
     });
@@ -66,8 +64,7 @@ layout: null
         'id': key,
         'title': window.store[key].title,
         'tags': window.store[key].tags,
-        'content': window.store[key].content,
-        'product': window.store[key].product
+        'content': window.store[key].content
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search

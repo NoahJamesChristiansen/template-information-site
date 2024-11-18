@@ -43,7 +43,7 @@ permalink: search.html
   "title": "{{ doc.title | xml_escape }}",
   "tags": "{{ doc.tags | xml_escape }}",
   "content": {{ doc.content | strip_html | strip_newlines | jsonify }},
-  "url": "{{ doc.url | remove: '/' | xml_escape }}",
+  "url": "{{ doc.url | xml_escape }}",
   "summary": "{{ doc.summary | xml_escape }}",
   "type": "Blog Post"
 }
