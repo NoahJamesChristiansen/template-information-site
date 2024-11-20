@@ -164,7 +164,7 @@ The thing about happiness is that, like Guattari, it is fleeting; it is gone as 
 
 The truth is, the Happy Virus is still copying itself, even to this day. I’m thoroughly infected myself. Three years ago, just like Guattari, it took over my name, my face, my whole life. I can’t help but draw its face everywhere to continue its spread across different ecologies. It transformed me from someone who was afraid of doing anything that had any risk of destroying all that was precious to me, into something with drive, something with control over my reality, all by letting go of the cult of the individual. Instead of succumbing to the Selfish Genes that compose me, the Happy Viruses among them have formed their own assemblage, taking control for themselves. It’s no longer a constant struggle to dominate everything that I am afraid of to continue existing, but to recognize that death is a part of life, that sadness is a part of happiness and that in order for us to truly exist, it is not that we are just constructed from selfish components, but more importantly, a will to live at all - a will that can only come from the subjective, a will that can only be understood through local, inaccessible variables, and a will that can just as easily have the desire to destroy itself as much as it does to extend its own life.
 
-<img class="nobg" src="/assets/images/happyvirus/cartoon.png" alt="Félix Guattari as a cartoon face, grinning in an intense manner."/>
+<img class="nobg" src="/template-information-site/assets/images/happyvirus/cartoon.png" alt="Félix Guattari as a cartoon face, grinning in an intense manner."/>
 
 Sources:
 

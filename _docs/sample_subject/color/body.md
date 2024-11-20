@@ -36,7 +36,7 @@ Ut bibendum velit eget commodo rutrum. Praesent dictum elit ante, ac interdum fe
 
 In eros mauris, porta sit amet est eu, bibendum aliquet felis. Nam pretium, augue eget dignissim ullamcorper, est velit tempus libero, et vestibulum enim ligula eu dui. Ut vulputate nisi nisl, sed porttitor quam efficitur ut. Cras congue velit vel fermentum elementum. Donec odio orci, efficitur sit amet massa ut, condimentum dapibus magna. Nulla ac magna ultricies, eleifend ex in, laoreet arcu. Maecenas condimentum feugiat est nec sodales. Morbi congue efficitur erat at luctus. Fusce quam arcu, efficitur nec sodales non, ornare in est.<sup>[1]</sup>
 
-<img src="/assets/images/sample_subject/birdfeet1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdfeet1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 Nam vel posuere dolor. Aenean accumsan faucibus dui non suscipit. Aliquam pellentesque quis risus sed egestas. Nunc sit amet eros diam. Nam congue leo ut tortor feugiat rhoncus. Nam scelerisque vel ligula imperdiet vehicula. Sed vitae quam non sem aliquam iaculis sed at nibh. Nam fringilla nisl nec risus malesuada, ut vestibulum dui cursus. In vel mauris eget diam tincidunt molestie. Nulla porttitor mauris id mi aliquet, non finibus ante volutpat. Sed orci ligula, malesuada sed bibendum ac, vehicula dapibus lorem. Nunc quis nulla finibus, tristique nunc ut, viverra eros. Morbi nisi dui, congue in euismod a, condimentum in risus.
 
@@ -46,7 +46,7 @@ Duis luctus neque lorem, a mollis dui semper a. Ut at lorem nisi. Cras hendrerit
 
 Aenean vehicula varius venenatis. Sed at elit ut justo mollis commodo. Nam tortor orci, viverra quis lorem id, pretium ullamcorper arcu. Mauris arcu lorem, dignissim rhoncus facilisis in, fringilla quis arcu. Vestibulum vehicula diam et tincidunt condimentum. Sed ultricies leo nisi, at imperdiet nunc cursus a. Nam laoreet, nibh fermentum dictum finibus, ex mauris suscipit quam, sit amet vulputate sapien metus quis diam. Morbi accumsan mollis felis, et feugiat elit iaculis vel. Vestibulum ac congue diam. Duis aliquet velit arcu, ut hendrerit lorem consectetur non. Duis imperdiet commodo aliquet. Etiam et enim quis ipsum pretium ultricies.<sup>[2]</sup>
 
-<img src="/assets/images/sample_subject/birdfeet2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdfeet2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
  Mauris lacus neque, lacinia ac placerat eu, aliquet ac ex. Ut tempor lorem ac diam tempor, vitae gravida ante auctor. Mauris non magna bibendum, rhoncus velit ut, lacinia lectus. Praesent et mauris rutrum, fringilla neque at, dapibus arcu. Proin quis enim lacinia, efficitur ex a, ullamcorper nibh. Ut sed placerat risus. Aliquam vel sodales neque. Phasellus et urna nulla. Praesent non condimentum magna. Quisque vel nunc leo. Donec facilisis libero ut consequat tristique. Maecenas at egestas tortor. 
 
@@ -68,7 +68,7 @@ Duis ut aliquam libero. Duis volutpat quam id nulla consequat, in interdum orci 
 
 Curabitur faucibus a est et suscipit. Mauris purus neque, rutrum sit amet mauris vitae, viverra luctus felis. Mauris porta congue nulla, et fermentum metus auctor vitae. Donec interdum nec turpis quis consectetur. Nulla eleifend turpis eget est dapibus ornare. Sed gravida vestibulum dignissim. Integer porttitor viverra ex nec ornare. Quisque commodo, sapien in scelerisque tempor, ipsum est lacinia nibh, sed pellentesque leo tortor fringilla sem.<sup>[4]</sup>
 
-<img src="/assets/images/sample_subject/bird4.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird4.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 ### Flat-Colored
 
@@ -76,7 +76,7 @@ Sed ligula quam, pellentesque ut suscipit ac, suscipit in elit. In vehicula est 
 
 Nulla luctus sagittis tempus. Nullam ex velit, semper ut sapien vitae, aliquam volutpat mi. Aliquam eros arcu, hendrerit ac molestie non, imperdiet vehicula nunc. Fusce vehicula rutrum leo, et finibus justo consequat vel. Quisque justo ipsum, cursus ac tristique eu, gravida eu enim. Nunc tincidunt tortor enim. Cras ac tortor ac erat egestas fermentum. Vestibulum sit amet purus in est commodo pellentesque vitae eget ligula. Sed accumsan sapien lobortis faucibus consectetur. Quisque sed nisl sem. Sed efficitur massa neque, laoreet mollis nunc pulvinar ut. Duis in aliquet nisi, eu congue augue. Ut ullamcorper, augue nec sodales tempus, nisi dolor faucibus turpis, et fringilla sem diam ut elit. Mauris ultrices pellentesque porta. Nam ut lacinia magna, quis gravida dolor. Integer eu enim a nibh varius dignissim sed at quam. 
 
-<img src="/assets/images/sample_subject/bird5.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird5.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 ### Camouflage
 
@@ -84,7 +84,7 @@ Vivamus consequat lacinia odio non auctor. Duis vitae eros et nunc elementum vol
 
 Nullam aliquam efficitur arcu sed suscipit. Pellentesque malesuada diam non leo iaculis tempus. Duis eu ex at tellus gravida dictum eu vitae neque. Donec imperdiet dignissim orci sit amet consequat. Morbi efficitur, metus vel gravida pellentesque, ex est accumsan ante, id consequat nibh diam in sapien. Fusce porttitor scelerisque lorem, quis varius tellus porta id. Integer feugiat, diam in molestie sodales, erat elit scelerisque lorem, in bibendum risus magna vel dui. Aliquam vehicula eros tortor, ut luctus arcu interdum ut. Nam dictum arcu et finibus convallis. Pellentesque laoreet dignissim mauris. Morbi id felis ac diam varius sodales bibendum quis nisi. Etiam eget velit porta, cursus ipsum eget, mollis leo. Sed rhoncus diam sed velit euismod, id mollis mauris tincidunt. Fusce porta finibus erat, eu efficitur felis blandit nec. Curabitur eu sodales lectus. Etiam ullamcorper velit mi, eu placerat tortor vestibulum quis.<sup>[5]</sup>
 
-<img src="/assets/images/sample_subject/bird6.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird6.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 # Sources
 

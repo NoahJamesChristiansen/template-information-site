@@ -20,7 +20,7 @@ Donec aliquam, magna a tristique tempus, lacus ligula vestibulum odio, ut ultric
 
 Aliquam sit amet tempus lorem. Nunc scelerisque suscipit cursus. Vivamus ut nunc lorem. Donec maximus rutrum consectetur. Suspendisse lorem nisi, viverra eu maximus sed, accumsan non tortor. Nullam id convallis dolor. Morbi accumsan neque ut purus scelerisque efficitur. Proin quis sapien pellentesque, malesuada elit et, hendrerit lacus. Praesent commodo semper elit, vitae tempus tellus placerat vel. Vestibulum convallis sollicitudin mauris, vel pellentesque dolor fermentum nec. Aenean consequat convallis tellus sed suscipit. Maecenas ut tellus in sem ullamcorper accumsan sed in lectus. Aliquam erat volutpat. Nullam quis mi at est lacinia ultricies ac in nibh. Nunc dictum fermentum metus. Quisque rutrum gravida nisi, at consectetur urna tincidunt ut.
 
-<img src="/assets/images/sample_subject/birdhead1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdhead1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 Nam nec elit in purus vehicula vehicula. Quisque tempus diam at sagittis accumsan. Nunc nec tellus dapibus, tempus nunc ut, posuere mi. Cras eu accumsan nunc. Maecenas viverra nisi id scelerisque tempor. Quisque iaculis tellus vitae lacus laoreet, quis posuere elit efficitur. Cras ac dui vitae elit dignissim mollis non pellentesque enim.<sup>[2]</sup>
 
@@ -42,7 +42,7 @@ Donec massa libero, convallis nec porta eget, sodales ac ipsum. Vestibulum euism
 
 Aliquam euismod dignissim lectus, vitae ultrices est tristique varius. Curabitur id lorem semper, mattis velit et, convallis enim. Praesent tempus sed nisl vitae feugiat. Aenean non vestibulum nunc, a dictum purus. Integer molestie enim non lectus mattis pretium. Maecenas ornare nulla nec mollis semper. In hac habitasse platea dictumst. Vivamus finibus, augue ac tincidunt viverra, est est dapibus nulla, eget laoreet est sapien tincidunt elit. Praesent varius, magna in tempus pellentesque, odio felis mattis lorem, at blandit nisi nulla scelerisque nisl. Integer quis porttitor tortor. In elementum facilisis leo, quis imperdiet urna vehicula sit amet. Praesent porttitor at felis quis tristique.<sup>[5]</sup>
 
-<img src="/assets/images/sample_subject/birdhead2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdhead2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 ## Complex Features
 

@@ -28,7 +28,7 @@ Cras sodales nulla posuere ex gravida imperdiet. Nam non blandit quam, quis maxi
 
 Nulla semper, nisl ac elementum vehicula, lacus sem commodo nulla, non fermentum nisl justo in libero. Curabitur lobortis dui arcu, a aliquam quam aliquet a. Sed iaculis ante semper blandit pretium. Fusce ultricies ut justo in mollis. Ut scelerisque eu libero vel porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam ultricies finibus leo quis efficitur. Nullam cursus ligula vel purus lobortis, a facilisis dui lobortis. Aliquam molestie consequat ex, vitae finibus lectus elementum venenatis. Ut augue diam, pulvinar eu egestas in, interdum in urna. Pellentesque suscipit dui ut aliquam ultrices. 
 
-<img src="/assets/images/sample_subject/birdwing1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdwing1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 Vivamus at vestibulum nisl. Maecenas non libero tellus. Nulla suscipit, dui sit amet porttitor ornare, felis neque volutpat arcu, et feugiat est est non lorem. Sed placerat quam ut consequat fermentum. Duis consequat ligula mi, non posuere risus pulvinar ac. Nullam posuere consequat nibh nec sodales. Donec ipsum massa, auctor non dignissim a, euismod ut urna. Nullam eu leo eu diam pellentesque sollicitudin. Aenean laoreet lectus sit amet metus lobortis, at finibus magna blandit. Nam ullamcorper ligula tortor, et dignissim lectus lobortis a. In aliquam vitae tortor non dictum. Ut at lacus sit amet est condimentum pretium a ac elit. Duis eleifend felis vel ante gravida, et posuere erat convallis. 
 
@@ -76,7 +76,7 @@ Integer posuere lorem dolor, in ultrices turpis ultricies in. Sed ultrices aucto
 
 Nulla metus est, sagittis et lorem ac, placerat varius lorem. Suspendisse justo urna, ultrices nec viverra quis, fermentum eu arcu. Nullam ligula sem, commodo interdum ultrices et, facilisis vel dui. Sed tempus quis arcu vitae accumsan. Aenean nec volutpat tortor. Fusce venenatis rhoncus iaculis. Pellentesque vel purus in augue finibus faucibus vel a urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus non dignissim orci. Phasellus cursus sagittis arcu a fermentum. Etiam ornare tempor imperdiet. Ut nisi erat, porta non pulvinar id, vehicula aliquam tortor. Sed rutrum leo eget auctor suscipit. 
 
-<img src="/assets/images/sample_subject/birdwing2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdwing2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
  Vivamus sit amet interdum lorem. Proin lacinia quis lacus eu tincidunt. Praesent orci elit, viverra vel nulla at, iaculis laoreet velit. Etiam euismod sem nec purus porttitor iaculis. Curabitur malesuada nibh vitae turpis aliquet, a tempor mi ultricies. Donec tincidunt metus in augue mattis, ut faucibus risus elementum. Sed at purus purus. Sed ullamcorper, ipsum eleifend dictum consequat, nunc leo elementum arcu, ut vestibulum risus enim sollicitudin orci. Phasellus id leo in lorem pretium sollicitudin pellentesque ut quam. Aliquam nec ante consequat, fermentum elit at, volutpat elit. Sed condimentum vitae enim quis elementum. Praesent quis felis eros. Mauris viverra non est tincidunt ultrices.
 
@@ -100,7 +100,7 @@ Nulla facilisi. Curabitur pulvinar, massa ac finibus blandit, erat augue venenat
 
 Proin convallis lorem nec sapien viverra maximus. Pellentesque dapibus, massa quis lacinia pulvinar, est eros imperdiet diam, a elementum enim nisi luctus augue. Cras sollicitudin ligula ac felis molestie ullamcorper. Mauris vel turpis tempor, pretium risus vitae, mattis nibh. Curabitur ac porttitor purus, at tincidunt magna. Maecenas efficitur ac odio vitae interdum. Aliquam quis libero in neque dapibus posuere non sed dolor. Aenean semper felis vel mollis tempor. Aliquam scelerisque ullamcorper ultrices. Vivamus iaculis mollis lorem non posuere. Morbi volutpat facilisis lorem sed mattis. In aliquam turpis arcu, ut egestas massa dignissim sodales. 
 
-<img src="/assets/images/sample_subject/birdwing3.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdwing3.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 Fusce auctor fringilla lobortis. Duis vel venenatis orci, non congue tellus. Mauris viverra eleifend est, non bibendum justo egestas at. Quisque a faucibus tortor, sit amet lacinia sapien. In vehicula, mauris rutrum sodales consequat, dui lacus pulvinar mi, id sollicitudin metus leo vitae tellus. Ut blandit ornare mauris ac pulvinar. Sed eu metus sed turpis tempor euismod. Cras laoreet diam nec mi luctus, vitae fringilla augue faucibus. Phasellus vulputate erat sit amet arcu posuere condimentum. Proin lectus quam, egestas vel tincidunt ac, placerat et mauris. Phasellus dictum nisl ac erat venenatis tincidunt. Mauris eros nisi, scelerisque et convallis vitae, hendrerit luctus magna. Suspendisse non magna imperdiet, malesuada risus nec, condimentum elit. 
 
@@ -124,7 +124,7 @@ Cras et lectus sodales, congue libero vitae, ultricies nulla. Sed vitae posuere 
 
 Nam eu pulvinar eros, id aliquet leo. Morbi rutrum elementum congue. Vestibulum malesuada volutpat ligula egestas hendrerit. Curabitur a scelerisque quam. Pellentesque aliquet libero non vestibulum condimentum. Nulla quis leo nec odio consequat sodales vel vel turpis. Nam sit amet nisi convallis, mattis ipsum eu, porttitor dui. Aenean auctor ligula quis iaculis vestibulum. Nulla facilisi. Phasellus at est risus. Vivamus consectetur sapien in imperdiet interdum. 
 
-<img src="/assets/images/sample_subject/birdwing4.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/birdwing4.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
  Vivamus placerat nibh sed ipsum ullamcorper porttitor. Pellentesque ac pharetra lacus, sed mattis quam. Proin sed dolor ut leo commodo gravida. Nam sed turpis ac lectus convallis efficitur. Mauris luctus dapibus lectus, eu placerat dui. Morbi porttitor placerat dui, hendrerit varius ante cursus in. Aliquam dui diam, blandit pulvinar facilisis ac, gravida eu odio. Ut ornare turpis dictum felis dictum, in tincidunt ante euismod. Vivamus sed imperdiet diam. Etiam sed aliquet leo, non ultricies lorem. Cras ac diam in felis tempus imperdiet. Ut vel lacus augue. Nam eu ex consequat, molestie tortor vitae, aliquam purus.
 
