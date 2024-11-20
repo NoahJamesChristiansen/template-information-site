@@ -28,19 +28,19 @@ folders:
 
   folderitems:
   - title: Introduction to Bird Shapes
-    jurl: docs/sample_subject/color/color_intro
+    jurl: docs/sample_subject/shape/intro
     subfolders:
     - title: Shape Styles
       subfolderitems:
 
       - title: Round
-        jurl: docs/sample_subject/styles/round
+        jurl: docs/sample_subject/shape/styles/round
 
       - title: Skinny
-        jurl: docs/sample_subject/styles/skinny
+        jurl: docs/sample_subject/shape/styles/skinny
 
       - title: Long
-        jurl: docs/sample_subject/styles/long
+        jurl: docs/sample_subject/shape/styles/long
 
     subfolders:
     - title: Types of Birds
@@ -52,67 +52,67 @@ folders:
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/ratite/intro
+            jurl: docs/sample_subject/shape/ratite/intro
 
           - title: Ostriches
-            jurl: docs/sample_subject/ratite/ostrich
+            jurl: docs/sample_subject/shape/ratite/ostrich
               
           - title: Emus
-            jurl: docs/sample_subject/ratite/emu
+            jurl: docs/sample_subject/shape/ratite/emu
 
         - title: Fowl
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/fowl/intro
+            jurl: docs/sample_subject/shape/fowl/intro
           
           - title: Game Birds
-            jurl: docs/sample_subject/fowl/game
+            jurl: docs/sample_subject/shape/fowl/game
 
           - title: Waterfowl
-            jurl: docs/sample_subject/fowl/water
+            jurl: docs/sample_subject/shape/fowl/water
             
         - title: Sea Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/sea/intro
+            jurl: docs/sample_subject/shape/sea/intro
           
           - title: Seagulls
-            jurl: docs/sample_subject/sea/seagull
+            jurl: docs/sample_subject/shape/sea/seagull
 
           - title: Pelicans
-            jurl: docs/sample_subject/sea/pelican
+            jurl: docs/sample_subject/shape/sea/pelican
             
           - title: Penguins
-            jurl: docs/sample_subject/sea/penguin
+            jurl: docs/sample_subject/shape/sea/penguin
 
         - title: Tropical Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/tropical/intro
+            jurl: docs/sample_subject/shape/tropical/intro
           
           - title: Parrots
-            jurl: docs/sample_subject/tropical/parrot
+            jurl: docs/sample_subject/shape/tropical/parrot
 
           - title: Birds-of-Paradise
-            jurl: docs/sample_subject/tropical/bird_of_paradise
+            jurl: docs/sample_subject/shape/tropical/bird_of_paradise
             
         - title: Songbirds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/songbird/intro
+            jurl: docs/sample_subject/shape/songbird/intro
           
           - title: Corvids
-            jurl: docs/sample_subject/songbird/corvid
+            jurl: docs/sample_subject/shape/songbird/corvid
 
           - title: Thrushes
-            jjurl: docs/sample_subject/songbird/thrush
+            jjurl: docs/sample_subject/shape/songbird/thrush
 
           - title: Finches
-            jurl: docs/sample_subject/songbird/finch
+            jurl: docs/sample_subject/shape/songbird/finch
 
 - title: Sounds
   pdf: true
