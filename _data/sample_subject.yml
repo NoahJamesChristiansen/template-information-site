@@ -23,87 +23,118 @@ folders:
     
   - title: Tail Colors
     jurl: docs/sample_subject/color/tail
-    
+
 - title: Shapes
-  pdf: true
+
   folderitems:
-  - title: Sample Item 4
-    jurl: /sample1.html
-    hurl: http://yourcompanyurl.com/docs/sample4
-    ref: sample4
-
-  - title: Sample Item 5
-    jurl: /sample2.html
-    hurl: http://yourcompanyurl.com/docs/sample5
-    ref: sample5
-
-  - title: Sample Item 6
-    jurl: /sample3.html
-    hurl: http://yourcompanyurl.com/docs/sample6
-    ref: sample6
-
+  - title: Introduction to Bird Shapes
+    jurl: docs/sample_subject/color/color_intro
     subfolders:
-    - title: Second Level
+    - title: Shape Styles
       subfolderitems:
 
-      - title: Sublevel Item 1
-        jurl: /sublevel1.html
-        hurl: http://yourcompanyurl.com/docs/sublevel1
-        ref: sublevel1
+      - title: Round
+        jurl: /template-information-site/docs/sample_subject/intro
 
-      - title: Sublevel Item 2
-        jurl: /sublevel2.html
-        hurl: http://yourcompanyurl.com/docs/sublevel2
-        ref: sublevel2
+      - title: Skinny
+        jurl: /template-information-site/docs/sample_subject/intro
 
-      - title: Sublevel Item 3
-        jurl: /sublevel3.html
-        hurl: http://yourcompanyurl.com/docs/sublevel3
-        ref: sublevel3
+      - title: Long
+        jurl: /template-information-site/docs/sample_subject/intro
 
+    subfolders:
+    - title: Types of Birds
+      subfolderitems:
+
+      - title:
         subsubfolders:
-        - title: Third Level
+        - title: Ratites
 
           subsubfolderitems:
-          - title: Subsubfolder Item 1
-            jurl: /subsublevel1.html
-            hurl: http://yourcompanyurl.com/docs/subsublevel1
-            ref: subsublevel1
+          - title: Introduction
+            jurl: /template-information-site/docs/sample_subject/intro
 
-          - title: Subsubfolder Item 2
-            jurl: /subsublevel2.html
-            hurl: http://yourcompanyurl.com/docs/subsublevel2
-            ref: subsublevel2
+          - title: Ostriches
+            jurl: /template-information-site/docs/sample_subject/intro
+              
+          - title: Emus
+            jurl: /template-information-site/docs/sample_subject/intro
 
-          - title: Subsubfolder Item 3
-            jurl: /subsublevel3.html
-            hurl: http://yourcompanyurl.com/docs/subsublevel3
-            ref: subsublevel3
-    
+          - title: Kiwis
+            jurl: /template-information-site/docs/sample_subject/intro
+
+        - title: Fowl
+
+          subsubfolderitems:
+          - title: Introduction
+            jurl: /template-information-site/docs/sample_subject/intro
+          
+          - title: Game Birds
+            jurl: /template-information-site/docs/sample_subject/intro
+
+          - title: Waterfowl
+            jurl: /template-information-site/docs/sample_subject/intro
+            
+        - title: Sea Birds
+
+          subsubfolderitems:
+          - title: Introduction
+            jurl: /template-information-site/docs/sample_subject/intro
+          
+          - title: Seagulls
+            jurl: /template-information-site/docs/sample_subject/intro
+
+          - title: Pelicans
+            jurl: /template-information-site/docs/sample_subject/intro
+            
+          - title: Penguins
+            jurl: /template-information-site/docs/sample_subject/intro
+
+        - title: Tropical Birds
+
+          subsubfolderitems:
+          - title: Introduction
+            jurl: /template-information-site/docs/sample_subject/intro
+          
+          - title: Parrots
+            jurl: /template-information-site/docs/sample_subject/intro
+
+          - title: Birds-of-Paradise
+            jurl: /template-information-site/docs/sample_subject/intro
+            
+        - title: Songbirds
+
+          subsubfolderitems:
+          - title: Introduction
+            jurl: /template-information-site/docs/sample_subject/intro
+          
+          - title: Corvids
+            jurl: /template-information-site/docs/sample_subject/intro
+
+          - title: Thrushes
+            jjurl: /template-information-site/docs/sample_subject/intro
+
+          - title: New-World Warblers
+            jurl: /template-information-site/docs/sample_subject/intro
+
 - title: Sounds
   pdf: true
 
   folderitems:
-  - title: Sample Item 1
-    jurl: /sample1.html
-    hurl: http://yourcompanyurl.com/docs/sample1
-    ref: sample1
+  - title: Introduction to Bird Sounds
+    jurl: /template-information-site/docs/sample_subject/intro
+  
+  - title: Calls
+    jurl: /template-information-site/docs/sample_subject/intro
 
-  - title: Sample Item 2
-    jurl: /sample2.html
-    hurl: http://yourcompanyurl.com/docs/sample2
-    ref: sample2
+  - title: Songs
+    jurl: /template-information-site/docs/sample_subject/intro
 
-  - title: Sample Item 3
-    jurl: /sample3.html
-    hurl: http://yourcompanyurl.com/docs/sample3
-    ref: sample3
-
-  - title: Glossary
-    jurl: /glossary.html
-    hurl: http://yourcompanyurl.com/docs/glossary
-    ref: glossary
-    bookmarks: [abstruse, adumbrate, arboreal, Ebullient, macabre, riparian]
+  - title: Displays
+    jurl: /template-information-site/docs/sample_subject/intro
+    
+- title: Glossary
+  jurl: /template-information-site/docs/sample_subject/intro
 
 ###########################
 
@@ -112,13 +143,13 @@ related_resources_title: Other Resources
 related_resources_list:
 
 - title: Wikipedia
-  hurl: https://en.wikipedia.org/wiki/Bird
+  jurl: https://en.wikipedia.org/wiki/Bird
 
 - title: All About Birds - Guide
-  hurl: https://www.allaboutbirds.org/guide/
+  jurl: https://www.allaboutbirds.org/guide/
 
 - title: Audubon Society
-  hurl: https://www.audubon.org/
+  jurl: https://www.audubon.org/
 
 
 ###########################
