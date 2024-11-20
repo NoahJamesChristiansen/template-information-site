@@ -5,6 +5,8 @@ include_sidebar: true
 layout: document
 next_doc: docs/sample_subject/color/tail
 prev_doc: docs/sample_subject/color/body
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_color_wing.jpg
 ---
 
 Donec iaculis mi a lacus luctus, eu sollicitudin lectus rutrum. Nulla lacus arcu, luctus non pretium eu, laoreet sit amet metus. Ut luctus nibh a neque dapibus, non rutrum tortor congue. Donec accumsan porta facilisis. Quisque scelerisque blandit mauris ut lobortis. Ut eu est ac leo euismod luctus. Fusce et ultricies augue. Vestibulum posuere mollis condimentum. Sed sed magna varius, fermentum lorem at, mattis risus. Nam viverra nibh in nunc lobortis finibus. Cras eu tellus justo. 

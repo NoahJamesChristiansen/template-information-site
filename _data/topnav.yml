@@ -14,7 +14,7 @@ navbar_dropdowns:
   folders:
     - title: Education Samples
       folderitems:
-        - title: Sample Subject
+        - title: Understanding Birds
           url: /docs/sample_subject/intro
         - title: Second item
           url: http://amazon.com

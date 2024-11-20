@@ -3,8 +3,10 @@ title: Tail Colors
 sidebar: sample_subject
 include_sidebar: true
 layout: document
-next_doc: 
+next_doc: docs/sample_subject/shape/intro
 prev_doc: docs/sample_subject/color/wing
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_color_tail.jpg
 ---
 
 In sit amet turpis dapibus tellus sollicitudin interdum. Suspendisse congue erat ac lectus placerat posuere. Sed iaculis mauris et ante volutpat cursus. Donec semper tristique odio, in elementum felis fringilla at. Phasellus lobortis massa sit amet dui sollicitudin, at pulvinar lacus mollis. In elementum facilisis magna, a ultricies massa ultricies nec. Integer porttitor diam eu justo interdum, sit amet convallis urna dictum. Vivamus maximus, lorem eu vulputate vulputate, neque ante congue magna, vel lobortis turpis augue non erat. Curabitur non ornare dolor. Donec lacinia lorem nec maximus pellentesque. 

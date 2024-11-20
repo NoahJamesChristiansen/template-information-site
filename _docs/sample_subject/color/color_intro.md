@@ -5,6 +5,8 @@ include_sidebar: true
 layout: document
 next_doc: docs/sample_subject/color/head
 prev_doc: docs/sample_subject/intro
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_color_intro.jpg
 ---
 
 Sed nibh lectus, fringilla id maximus congue, pellentesque ac justo. Aliquam erat volutpat. Phasellus semper semper varius. Vivamus imperdiet est vitae lorem ornare, at vestibulum nisl aliquam. Etiam quam lorem, congue sed suscipit at, viverra tristique felis. In non dui massa. Sed ut tincidunt erat. Fusce quis dictum nunc. Cras lorem enim, sagittis eget congue vel, mattis eget nunc. Phasellus a eros justo. In hendrerit, metus in elementum posuere, velit mi elementum nunc, eget tincidunt enim arcu sed orci. Aenean odio velit, ultricies sit amet nulla eget, consectetur vulputate tellus. Phasellus et neque sed arcu interdum euismod. Curabitur dictum ut dolor vitae malesuada. 

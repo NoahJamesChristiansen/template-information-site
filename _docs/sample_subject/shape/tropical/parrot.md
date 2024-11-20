@@ -3,8 +3,10 @@ title: Parrots
 sidebar: sample_subject
 include_sidebar: true
 layout: document
-next_doc: 
-prev_doc: 
+next_doc: docs/sample_subject/shape/tropical/bird_of_paradise
+prev_doc: docs/sample_subject/shape/tropical/intro
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_tropical_parrot.jpg
 ---
 
 * TOC

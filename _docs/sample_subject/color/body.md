@@ -5,6 +5,8 @@ include_sidebar: true
 layout: document
 next_doc: docs/sample_subject/color/wing
 prev_doc: docs/sample_subject/color/head
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_color_body.jpg
 ---
 
 Cras at erat magna. Vestibulum pretium, metus vel feugiat congue, felis nunc venenatis lectus, quis gravida ex mauris malesuada nisi. Etiam venenatis venenatis diam id sodales. Fusce orci ante, hendrerit et ante vel, euismod volutpat massa. Sed a fermentum nisl. Quisque id convallis nisl. Nullam purus augue, maximus eget feugiat et, ultrices eu dui. Sed congue urna justo, sit amet dapibus sem sagittis nec. Integer faucibus auctor maximus. Duis posuere luctus neque, ut iaculis magna condimentum ut. Nullam viverra dui sit amet libero dignissim vulputate. 

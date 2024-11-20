@@ -5,6 +5,8 @@ include_sidebar: true
 layout: document
 next_doc: docs/sample_subject/sounds/song
 prev_doc: docs/sample_subject/sounds/intro
+photo_alt_text: Change this text to describe the photograph linked in "photo".
+photo: /assets/images/sample_subject/title_sound2.jpg 
 ---
 
 Vestibulum eu imperdiet magna. Integer posuere ipsum vel augue sodales, sed ultricies velit convallis. Fusce feugiat sapien eget diam egestas aliquet. Morbi arcu risus, lacinia nec gravida eget, vulputate non justo. Nulla dignissim nunc at ante fringilla, eu commodo arcu faucibus. Duis mollis pulvinar mi, volutpat sagittis ante luctus sit amet. Vestibulum metus metus, ornare quis ultrices vel, accumsan ac libero. Morbi sit amet lectus et nisl fermentum placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec luctus metus vel malesuada interdum. Cras est felis, tincidunt nec magna id, suscipit imperdiet arcu. Maecenas nunc ipsum, pellentesque id erat suscipit, tempor eleifend lectus. 
