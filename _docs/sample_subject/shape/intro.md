@@ -12,4 +12,6 @@ prev_doc:
 
 <sup>[5]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/bird6.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird9.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+
+<img src="/template-information-site/assets/images/sample_subject/bird10.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
