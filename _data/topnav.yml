@@ -12,10 +12,10 @@ navbar_singleitems:
 navbar_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Sample Menu
+    - title: Education Samples
       folderitems:
-        - title: First item
-          url: https://talk.jekyllrb.com
+        - title: Sample Subject
+          url: docs/sample_subject/intro
         - title: Second item
           url: http://amazon.com
         - title: Third item

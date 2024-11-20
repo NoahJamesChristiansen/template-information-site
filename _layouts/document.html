@@ -1,0 +1,62 @@
+{% include topnav.html %}
+<div class="container">
+
+	<div class="row row-offcanvas row-offcanvas-left">
+
+            {% if page.include_sidebar %}
+            
+                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" class="mydocsidebar">
+
+                        {% include sidebar.html %}
+
+                    </div>
+            
+            {% endif %}
+
+			<div class="col-xs-12 col-sm-9 main">
+
+
+                <h1 class="page-title-h1">{{page.title}}</h1>
+
+				<div class="post">
+					{{content}}
+				</div>
+				
+				<div class="prev-next-doc">
+				
+				{% if page.prev_doc or page.next_doc %}
+				
+				    <div class="prev-next-doc-continue"><p>{{site.uistring.continue_reading}}</p></div>
+				    <p>
+					    {% if page.prev_doc %}
+				            <a href="{{ site.home_url }}{{page.prev_doc }}">{{site.uistring.continue_prev}}</a>
+				        {% endif %}
+				        
+				        {% if page.prev_doc and page.next_doc %}
+				         | 
+				        {% endif %}
+				         
+				         
+				        {% if page.next_doc %}
+				            <a href="{{ site.home_url }}{{page.next_doc }}">{{site.uistring.continue_next}}</a>
+				        {% endif %}
+				    </p>
+				    </div>
+				
+				{% endif %}
+				
+				<div class="doc-date">
+					{{site.uistring.doc_last_updated}}: <time class="post-date" datetime="{{ page.date | date: site.uistring.datetime_format }}">{{ page.date | date_to_string }}</time>
+				</div>
+				
+            </div>
+        </div><!--/.container-->
+
+
+    </div><!--/.page-container-->
+    {% include footer.html %}
+
+
+</body>
+
+</html>

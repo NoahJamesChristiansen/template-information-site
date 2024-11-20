@@ -226,6 +226,10 @@ uistring:
     github_edit_button_text: Edit on GitHub # text for github button
     blog: My Very Cool Blog # Name of blog displayed on the top of posts
     datetime_format: '%Y-%m-%d' # date time format
+    continue_reading: Continue Reading... # continue reading on the bottom of docs
+    continue_prev: <- Previous # Previous for bottom of docs
+    continue_next: Next -> # Next for bottom of docs
+    doc_last_updated: Last updated # string for last updated
     months:
         jan: January
         feb: February

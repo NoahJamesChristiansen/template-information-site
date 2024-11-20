@@ -59,11 +59,11 @@
 
             {% if folderitem.title %}
 				{% if page.url == folderitem.jurl %}
-					<li class="level1items open"><a href="{{ site.home_url }}{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
+					<li class="level1items open"><a href="{{ site.home_url }}{{folderitem.jurl }}">{{folderitem.title}}</a></li>
 					{% elsif folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
 					<li class="level1items"><a  class="noExtIcon" href="{{folderitem.jurl }}">{{folderitem.title}}</a></li>
 					{% else %}
-					<li class="level1items"><a href="{{ site.home_url }}{{folderitem.jurl | remove: "/" }}">{{folderitem.title}}</a></li>
+					<li class="level1items"><a href="{{ site.home_url }}{{folderitem.jurl }}">{{folderitem.title}}</a></li>
 				{% endif %}
             {% endif %}
 

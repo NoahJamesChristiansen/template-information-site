@@ -676,3 +676,29 @@ img {
 img.nobg {
 	box-shadow: none;
 }
+
+/*
+
+Doc Page extras
+
+*/
+
+.prev-next-doc {
+    font-size: 12pt;
+    margin-top: 50px;
+}
+
+.prev-next-doc a[href^="http://"]:after,
+.prev-next-doc a[href^="https://"]:after {
+  content: "";
+  padding-left: 0px;
+}
+
+.prev-next-doc-continue p {
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.doc-date {
+    font-size: 10pt;
+}
