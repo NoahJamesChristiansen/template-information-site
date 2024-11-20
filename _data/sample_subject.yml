@@ -24,31 +24,6 @@ folders:
   - title: Tail Colors
     jurl: docs/sample_subject/color/tail
     
-- title: Sounds
-  pdf: true
-
-  folderitems:
-  - title: Sample Item 1
-    jurl: /sample1.html
-    hurl: http://yourcompanyurl.com/docs/sample1
-    ref: sample1
-
-  - title: Sample Item 2
-    jurl: /sample2.html
-    hurl: http://yourcompanyurl.com/docs/sample2
-    ref: sample2
-
-  - title: Sample Item 3
-    jurl: /sample3.html
-    hurl: http://yourcompanyurl.com/docs/sample3
-    ref: sample3
-
-  - title: Glossary
-    jurl: /glossary.html
-    hurl: http://yourcompanyurl.com/docs/glossary
-    ref: glossary
-    bookmarks: [abstruse, adumbrate, arboreal, Ebullient, macabre, riparian]
-
 - title: Shapes
   pdf: true
   folderitems:
@@ -104,6 +79,31 @@ folders:
             jurl: /subsublevel3.html
             hurl: http://yourcompanyurl.com/docs/subsublevel3
             ref: subsublevel3
+    
+- title: Sounds
+  pdf: true
+
+  folderitems:
+  - title: Sample Item 1
+    jurl: /sample1.html
+    hurl: http://yourcompanyurl.com/docs/sample1
+    ref: sample1
+
+  - title: Sample Item 2
+    jurl: /sample2.html
+    hurl: http://yourcompanyurl.com/docs/sample2
+    ref: sample2
+
+  - title: Sample Item 3
+    jurl: /sample3.html
+    hurl: http://yourcompanyurl.com/docs/sample3
+    ref: sample3
+
+  - title: Glossary
+    jurl: /glossary.html
+    hurl: http://yourcompanyurl.com/docs/glossary
+    ref: glossary
+    bookmarks: [abstruse, adumbrate, arboreal, Ebullient, macabre, riparian]
 
 ###########################
 

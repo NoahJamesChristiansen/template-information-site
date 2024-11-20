@@ -5,7 +5,7 @@ subtitle: Professor of Arcane Territorial Studies, PhD.
 permalink: /cv.html
 pdf: documents/CynicalTheories_PunishedOtto.pdf
 sidebar: generic
-about: I am a researcher working in the field of Arcane Territorial Studies, specializing in Symbolic and Ornithology studies, employed by the University of Bantam, located in South Gallunesia.
+about: I am a professor and researcher working in the field of Arcane Territorial Studies, specializing in Symbolic and Ornithology studies, employed by the University of Bantam, located in South Gallunesia.
 email: test@test.com
 phone: +1 123 456 7890
 website: https://punishedfelix.com
