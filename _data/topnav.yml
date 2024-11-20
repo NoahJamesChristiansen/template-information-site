@@ -6,7 +6,7 @@ navbar_singleitems:
   - title: Home
     url: http://badgernested.github.io/template-information-site/
   - title: Blog
-    url: /post
+    url: post
 
 
 navbar_dropdowns:

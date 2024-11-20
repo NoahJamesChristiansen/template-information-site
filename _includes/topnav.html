@@ -138,7 +138,7 @@
                     {% for entry in topnav.navbar_singleitems %}
                     {% for item in entry.items %}
                     {% if item.url contains "http://" or item.url contains "https://" %}
-                    <li><a href="{{ site.home_url | remove_last: "/"  }}{{item.url}}" class="noExtIcon">{{item.title}}</a></li>
+                    <li><a href="{{item.url}}" class="noExtIcon">{{item.title}}</a></li>
                     {% elsif page.url contains item.url %}
                     <li class="active"><a href="{{ site.home_url | remove_last: "/"  }}{{item.url }}">{{item.title}}</a></li>
                     {% else %}
