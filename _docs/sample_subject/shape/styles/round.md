@@ -1,5 +1,5 @@
 ---
-title: Introduction to Birds
+title: Round Birds
 sidebar: sample_subject
 include_sidebar: true
 layout: document

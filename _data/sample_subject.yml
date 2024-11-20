@@ -34,13 +34,13 @@ folders:
       subfolderitems:
 
       - title: Round
-        jurl: /template-information-site/docs/sample_subject/intro
+        jurl: /template-information-site/docs/sample_subject/styles/round
 
       - title: Skinny
-        jurl: /template-information-site/docs/sample_subject/intro
+        jurl: /template-information-site/docs/sample_subject/styles/skinny
 
       - title: Long
-        jurl: /template-information-site/docs/sample_subject/intro
+        jurl: /template-information-site/docs/sample_subject/styles/long
 
     subfolders:
     - title: Types of Birds
@@ -52,70 +52,67 @@ folders:
 
           subsubfolderitems:
           - title: Introduction
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/ratite/intro
 
           - title: Ostriches
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/ratite/ostrich
               
           - title: Emus
-            jurl: /template-information-site/docs/sample_subject/intro
-
-          - title: Kiwis
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/ratite/emu
 
         - title: Fowl
 
           subsubfolderitems:
           - title: Introduction
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/fowl/intro
           
           - title: Game Birds
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/fowl/game
 
           - title: Waterfowl
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/fowl/water
             
         - title: Sea Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/sea/intro
           
           - title: Seagulls
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/sea/seagull
 
           - title: Pelicans
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/sea/pelican
             
           - title: Penguins
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/sea/penguin
 
         - title: Tropical Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/tropical/intro
           
           - title: Parrots
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/tropical/parrot
 
           - title: Birds-of-Paradise
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/tropical/bird_of_paradise
             
         - title: Songbirds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/songbird/intro
           
           - title: Corvids
-            jurl: /template-information-site/docs/sample_subject/intro
+            jurl: /template-information-site/docs/sample_subject/songbird/corvid
 
           - title: Thrushes
-            jjurl: /template-information-site/docs/sample_subject/intro
+            jjurl: /template-information-site/docs/sample_subject/songbird/thrush
 
-          - title: New-World Warblers
-            jurl: /template-information-site/docs/sample_subject/intro
+          - title: Finches
+            jurl: /template-information-site/docs/sample_subject/songbird/finch
 
 - title: Sounds
   pdf: true
