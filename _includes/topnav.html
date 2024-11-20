@@ -129,6 +129,8 @@
                   {% include logo.html %}
             </div>
 
+{{site.home_url}} _ {{ site.home_url | remove_last: "/"  }}
+
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left">
 
@@ -160,7 +162,7 @@
                             {% elsif page.url contains folderitem.url %}
                             <li class="dropdownActive"><a href="{{ site.home_url | remove_last: "/"  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
                             {% else %}
-                            <li><a href="{{ site.home_url | remove_last: "/"  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
+                            <li><a href="{{ site.home_url | remove_last: "/"  }}{{folderitem.url }}">{{ site.home_url | remove_last: "/"  }}{{folderitem.title}}</a></li>
                             {% endif %}
                             {% endfor %}
                         </ul>
