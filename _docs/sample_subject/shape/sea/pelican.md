@@ -14,17 +14,17 @@ photo: /assets/images/sample_subject/title_sea_pelican.jpg
 
 # Anatomy
 
+<img src="/template-information-site/assets/images/sample_subject/pelican1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+
 # Behavior
 
 # Ecology
 
 # Reproduction
 
-<sup>[5]</sup>
-
-<img src="/template-information-site/assets/images/sample_subject/pelican1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
-
 <img src="/template-information-site/assets/images/sample_subject/pelican2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+
+<sup>[5]</sup>
 
 # Sources
 

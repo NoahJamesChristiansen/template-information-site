@@ -14,17 +14,17 @@ photo: /assets/images/sample_subject/title_ratite_emu.jpg
 
 # Anatomy
 
+<img src="/template-information-site/assets/images/sample_subject/emu1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+
 # Behavior
 
 # Ecology
 
 # Reproduction
 
-<sup>[5]</sup>
-
-<img src="/template-information-site/assets/images/sample_subject/emu1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
-
 <img src="/template-information-site/assets/images/sample_subject/emu2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+
+<sup>[5]</sup>
 
 # Sources
 

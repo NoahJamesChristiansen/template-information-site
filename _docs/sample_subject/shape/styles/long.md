@@ -14,7 +14,7 @@ photo: /assets/images/sample_subject/title_shape_long.jpg
 
 <sup>[5]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/bird6.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird_long.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 # Sources
 
