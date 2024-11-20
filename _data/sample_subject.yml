@@ -4,43 +4,43 @@ sidebarTitle: Understanding Birds
 
 folders:
 - title: Introduction to Birds
-  jurl: docs/sample_subject/intro
+  jurl: /docs/sample_subject/intro
 
 - title: Colors
 
   folderitems:
   - title: Introduction to Bird Colors
-    jurl: docs/sample_subject/color/color_intro
+    jurl: /docs/sample_subject/color/color_intro
 
   - title: Head Colors
-    jurl: docs/sample_subject/color/head
+    jurl: /docs/sample_subject/color/head
 
   - title: Body Colors
-    jurl: docs/sample_subject/color/body
+    jurl: /docs/sample_subject/color/body
 
   - title: Wing Colors
-    jurl: docs/sample_subject/color/wing
+    jurl: /docs/sample_subject/color/wing
     
   - title: Tail Colors
-    jurl: docs/sample_subject/color/tail
+    jurl: /docs/sample_subject/color/tail
 
 - title: Shapes
 
   folderitems:
   - title: Introduction to Bird Shapes
-    jurl: docs/sample_subject/shape/intro
+    jurl: /docs/sample_subject/shape/intro
     subfolders:
     - title: Shape Styles
       subfolderitems:
 
       - title: Round
-        jurl: docs/sample_subject/shape/styles/round
+        jurl: /docs/sample_subject/shape/styles/round
 
       - title: Skinny
-        jurl: docs/sample_subject/shape/styles/skinny
+        jurl: /docs/sample_subject/shape/styles/skinny
 
       - title: Long
-        jurl: docs/sample_subject/shape/styles/long
+        jurl: /docs/sample_subject/shape/styles/long
 
     subfolders:
     - title: Types of Birds
@@ -52,86 +52,86 @@ folders:
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/shape/ratite/intro
+            jurl: /docs/sample_subject/shape/ratite/intro
 
           - title: Ostriches
-            jurl: docs/sample_subject/shape/ratite/ostrich
+            jurl: /docs/sample_subject/shape/ratite/ostrich
               
           - title: Emus
-            jurl: docs/sample_subject/shape/ratite/emu
+            jurl: /docs/sample_subject/shape/ratite/emu
 
         - title: Fowl
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/shape/fowl/intro
+            jurl: /docs/sample_subject/shape/fowl/intro
           
           - title: Game Birds
-            jurl: docs/sample_subject/shape/fowl/game
+            jurl: /docs/sample_subject/shape/fowl/game
 
           - title: Waterfowl
-            jurl: docs/sample_subject/shape/fowl/water
+            jurl: /docs/sample_subject/shape/fowl/water
             
         - title: Sea Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/shape/sea/intro
+            jurl: /docs/sample_subject/shape/sea/intro
           
           - title: Seagulls
-            jurl: docs/sample_subject/shape/sea/seagull
+            jurl: /docs/sample_subject/shape/sea/seagull
 
           - title: Pelicans
-            jurl: docs/sample_subject/shape/sea/pelican
+            jurl: /docs/sample_subject/shape/sea/pelican
             
           - title: Penguins
-            jurl: docs/sample_subject/shape/sea/penguin
+            jurl: /docs/sample_subject/shape/sea/penguin
 
         - title: Tropical Birds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/shape/tropical/intro
+            jurl: /docs/sample_subject/shape/tropical/intro
           
           - title: Parrots
-            jurl: docs/sample_subject/shape/tropical/parrot
+            jurl: /docs/sample_subject/shape/tropical/parrot
 
           - title: Birds-of-Paradise
-            jurl: docs/sample_subject/shape/tropical/bird_of_paradise
+            jurl: /docs/sample_subject/shape/tropical/bird_of_paradise
             
         - title: Songbirds
 
           subsubfolderitems:
           - title: Introduction
-            jurl: docs/sample_subject/shape/songbird/intro
+            jurl: /docs/sample_subject/shape/songbird/intro
           
           - title: Corvids
-            jurl: docs/sample_subject/shape/songbird/corvid
+            jurl: /docs/sample_subject/shape/songbird/corvid
 
           - title: Thrushes
-            jurl: docs/sample_subject/shape/songbird/thrush
+            jurl: /docs/sample_subject/shape/songbird/thrush
 
           - title: Finches
-            jurl: docs/sample_subject/shape/songbird/finch
+            jurl: /docs/sample_subject/shape/songbird/finch
 
 - title: Sounds
   pdf: true
 
   folderitems:
   - title: Introduction to Bird Sounds
-    jurl: docs/sample_subject/sounds/intro
+    jurl: /docs/sample_subject/sounds/intro
   
   - title: Calls
-    jurl: docs/sample_subject/sounds/call
+    jurl: /docs/sample_subject/sounds/call
 
   - title: Songs
-    jurl: docs/sample_subject/sounds/song
+    jurl: /docs/sample_subject/sounds/song
 
   - title: Displays
-    jurl: docs/sample_subject/sounds/display
+    jurl: /docs/sample_subject/sounds/display
     
 - title: Glossary
-  jurl: docs/sample_subject/glossary
+  jurl: /docs/sample_subject/glossary
 
 ###########################
 
