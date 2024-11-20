@@ -50,7 +50,7 @@
 	
     {% unless folder.type == "frontmatter" %}
 	{% unless folder.folderitems %}
-		<li class="level1"><a href="{{folder.jurl}}">{{ folder.title }}</a>
+		<li class="level1"><a href="{{folder.jurl  | replace_last: "/", "" }}">{{ folder.title }}</a>
 	{% else %}
 	
     <li class="level1"><a href="#">{{ folder.title }}</a>
