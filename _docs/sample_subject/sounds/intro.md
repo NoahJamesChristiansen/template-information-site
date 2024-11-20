@@ -3,8 +3,8 @@ title: Introduction to Bird Sounds
 sidebar: sample_subject
 include_sidebar: true
 layout: document
-next_doc: 
-prev_doc: 
+next_doc: docs/sample_subject/sounds/call
+prev_doc: docs/sample_subject/shape/songbird/finch
 ---
 
 Curabitur luctus purus quis magna ornare, eu commodo erat blandit. In urna purus, imperdiet sed nibh vitae, blandit rhoncus elit. Ut sit amet eleifend neque, at semper nisi. Fusce tempus ex a pellentesque eleifend. Suspendisse eu mauris enim. Nulla vehicula ullamcorper nisi, vel gravida nulla scelerisque eget. Phasellus ultrices vestibulum felis, pharetra pretium justo ultricies in. Morbi feugiat felis nibh, non ullamcorper diam porttitor vehicula. In hac habitasse platea dictumst. 

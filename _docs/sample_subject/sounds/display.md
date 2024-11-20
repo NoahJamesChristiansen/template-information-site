@@ -3,8 +3,8 @@ title: Sounds for Display
 sidebar: sample_subject
 include_sidebar: true
 layout: document
-next_doc: 
-prev_doc: 
+next_doc: docs/sample_subject/glossary
+prev_doc: docs/sample_subject/sounds/song
 ---
 
 Maecenas a justo cursus velit pharetra porta eget sed leo. Duis luctus erat vitae mauris convallis interdum nec et mauris. Praesent consectetur felis leo, in efficitur libero fringilla in. Etiam eleifend eleifend ligula sed suscipit. Maecenas pellentesque purus in bibendum mollis. Etiam condimentum nisl eget purus vehicula, a vulputate enim ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed bibendum luctus libero, sed euismod urna ultrices ut. Cras sed finibus nunc, vitae suscipit ipsum. Nullam eleifend mauris hendrerit nulla fringilla, et scelerisque enim pulvinar. Vivamus pulvinar fringilla mi, a venenatis libero vehicula a. Aliquam diam lorem, iaculis vitae ullamcorper at, ornare non nisl. Vivamus suscipit ligula tincidunt ultrices condimentum. Nunc vitae mauris lobortis, condimentum tortor id, dictum nulla. Etiam placerat, velit sit amet mollis fermentum, felis diam rhoncus velit, quis iaculis lorem lectus id mi. 
