@@ -119,19 +119,19 @@ folders:
 
   folderitems:
   - title: Introduction to Bird Sounds
-    jurl: docs/sample_subject/intro
+    jurl: docs/sample_subject/sounds/intro
   
   - title: Calls
-    jurl: docs/sample_subject/intro
+    jurl: docs/sample_subject/sounds/call
 
   - title: Songs
-    jurl: docs/sample_subject/intro
+    jurl: docs/sample_subject/sounds/song
 
   - title: Displays
-    jurl: docs/sample_subject/intro
+    jurl: docs/sample_subject/sounds/display
     
 - title: Glossary
-  jurl: docs/sample_subject/intro
+  jurl: docs/sample_subject/glossary
 
 ###########################
 
