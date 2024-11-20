@@ -206,6 +206,7 @@ collections:
 # gems and other configs
 plugins:
   - jekyll-paginate
+  - jekyll-replace-last
 
 ########## UI text ###############
 # The UI text is separated into strings defined here to facilitate translation. Grouping them here also consolidates all UI text.

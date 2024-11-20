@@ -129,8 +129,6 @@
                   {% include logo.html %}
             </div>
 
-{{site.home_url}} _ {{ site.home_url | remove_last: "/"  }}
-
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left">
 
@@ -142,9 +140,9 @@
                     {% if item.url contains "http://" or item.url contains "https://" %}
                     <li><a href="{{item.url}}" class="noExtIcon">{{item.title}}</a></li>
                     {% elsif page.url contains item.url %}
-                    <li class="active"><a href="{{ site.home_url | remove_last: "/"  }}{{item.url }}">{{item.title}}</a></li>
+                    <li class="active"><a href="{{ site.home_url | replace_last: "/", ""  }}{{item.url }}">{{item.title}}</a></li>
                     {% else %}
-                    <li><a href="{{ site.home_url | remove_last: "/"  }}{{item.url }}">{{item.title}}</a></li>
+                    <li><a href="{{ site.home_url | replace_last: "/", ""  }}{{item.url }}">{{item.title}}</a></li>
                     {% endif %}
                     {% endfor %}
                     {% endfor %}
@@ -160,9 +158,9 @@
                             {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
                             <li><a href="{{folderitem.url}}" class="noExtIcon">{{folderitem.title}}</a></li>
                             {% elsif page.url contains folderitem.url %}
-                            <li class="dropdownActive"><a href="{{ site.home_url | remove_last: "/"  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
+                            <li class="dropdownActive"><a href="{{ site.home_url | replace_last: "/", ""  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
                             {% else %}
-                            <li><a href="{{ site.home_url | remove_last: "/"  }}{{folderitem.url }}">{{ site.home_url | remove_last: "/"  }}{{folderitem.title}}</a></li>
+                            <li><a href="{{ site.home_url | replace_last: "/", ""  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
                             {% endif %}
                             {% endfor %}
                         </ul>
@@ -185,7 +183,7 @@
                     <li>
 
                      <div id="search-topnav-container">
-                        <form action="{{ site.home_url | remove_last: "/"  }}search.html" method="get">
+                        <form action="{{ site.home_url | replace_last: "/", ""  }}search.html" method="get">
                           <div class="input-group search">
                             <input type="text" id="search-box" name="query" class="form-control" placeholder="{{site.uistring.search_placeholder_text}}">
                             <div class="input-group-btn">

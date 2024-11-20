@@ -6,7 +6,7 @@ navbar_singleitems:
   - title: Home
     url: http://badgernested.github.io/template-information-site/
   - title: Blog
-    url: post
+    url: /post
 
 
 navbar_dropdowns:
@@ -15,7 +15,7 @@ navbar_dropdowns:
     - title: Education Samples
       folderitems:
         - title: Sample Subject
-          url: docs/sample_subject/intro
+          url: /docs/sample_subject/intro
         - title: Second item
           url: http://amazon.com
         - title: Third item
