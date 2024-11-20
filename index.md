@@ -4,7 +4,7 @@ permalink: index.html
 sidebar: home
 type: homepage
 class: first
-photo: assets/photo.png
+photo: /assets/photo.png
 photo_alt_text: Image of me
 include_sidebar: true
 include_breadcrumb: false
