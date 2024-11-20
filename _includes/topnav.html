@@ -21,7 +21,7 @@
     <meta name="description" content="{% if page.content %}{{ page.content | truncatewords: 30 | strip_html }} {% else %}{{site.uistring.description}}{% endif %}" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google" value="notranslate">
-    <link rel="icon"  type="image/x-icon" href="{{ site.home_url }}{{site.favicon}}">
+    <link rel="icon"  type="image/x-icon" href="{{ site.homeurl }}{{site.favicon}}">
 
     <!-- FontAwesome(GPL license) -->
    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -30,7 +30,7 @@
     <!-- jQuery cookie (MIT license)-->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
     <!-- Navgoco (BSD license)-->
-    <script type="text/javascript" src="{{ site.home_url }}assets/js/jquery.navgoco.min.js"></script>
+    <script type="text/javascript" src="{{ site.homeurl }}assets/js/jquery.navgoco.min.js"></script>
     <!-- Bootstrap (MIT license)-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- Anchor JS (MIT license) {{page.layout}}-->
@@ -93,12 +93,12 @@
     </script>
 
     <!-- User defined js -->
-    <script src="{{ site.home_url }}assets/js/user_defined_javascript.js"></script>
+    <script src="{{ site.homeurl }}assets/js/user_defined_javascript.js"></script>
     <!--Bootstrap (MIT license) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <!-- Original theme from Bootstrap Bootswatch fork: http://www.codeply.com/go/rV7KhUjwCN (MIT license) -->
-    <link rel="stylesheet" href="{{ site.home_url }}assets/css/main.css" />
-    <link rel="stylesheet" href="{{ site.home_url }}assets/css/user_defined_web_styles.css" />
+    <link rel="stylesheet" href="{{ site.homeurl }}assets/css/main.css" />
+    <link rel="stylesheet" href="{{ site.homeurl }}assets/css/user_defined_web_styles.css" />
     <style>
         ul#markdown-toc::before  {
         content: "{{site.uistring.tableofcontents}}"
@@ -140,9 +140,9 @@
                     {% if item.url contains "http://" or item.url contains "https://" %}
                     <li><a href="{{item.url}}" class="noExtIcon">{{item.title}}</a></li>
                     {% elsif page.url contains item.url %}
-                    <li class="active"><a href="{{ site.home_url }}{{item.url }}">{{item.title}}</a></li>
+                    <li class="active"><a href="{{ site.homeurl | remove_last: "/"  }}{{item.url }}">{{item.title}}</a></li>
                     {% else %}
-                    <li><a href="{{ site.home_url }}{{item.url | remove: "/"}}">{{item.title}}</a></li>
+                    <li><a href="{{ site.homeurl | remove_last: "/"  }}{{item.url }}">{{item.title}}</a></li>
                     {% endif %}
                     {% endfor %}
                     {% endfor %}
@@ -158,9 +158,9 @@
                             {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
                             <li><a href="{{folderitem.url}}" class="noExtIcon">{{folderitem.title}}</a></li>
                             {% elsif page.url contains folderitem.url %}
-                            <li class="dropdownActive"><a href="{{ site.home_url }}{{folderitem.url }}">{{folderitem.title}}</a></li>
+                            <li class="dropdownActive"><a href="{{ site.homeurl | remove_last: "/"  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
                             {% else %}
-                            <li><a href="{{ site.home_url }}{{folderitem.url }}">{{folderitem.title}}</a></li>
+                            <li><a href="{{ site.homeurl | remove_last: "/"  }}{{folderitem.url }}">{{folderitem.title}}</a></li>
                             {% endif %}
                             {% endfor %}
                         </ul>
@@ -183,7 +183,7 @@
                     <li>
 
                      <div id="search-topnav-container">
-                        <form action="{{ site.home_url }}search.html" method="get">
+                        <form action="{{ site.homeurl | remove_last: "/"  }}search.html" method="get">
                           <div class="input-group search">
                             <input type="text" id="search-box" name="query" class="form-control" placeholder="{{site.uistring.search_placeholder_text}}">
                             <div class="input-group-btn">
