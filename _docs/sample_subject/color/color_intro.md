@@ -30,7 +30,7 @@ Sed nulla nunc, consequat id diam sit amet, efficitur feugiat ante. Nunc tempor 
 
 In rutrum mi vitae ex ullamcorper ultricies ac a justo. Quisque elit magna, sollicitudin eu turpis ut, maximus varius ipsum. Fusce eu erat dignissim, convallis tellus eget, tristique orci. Donec diam orci, pharetra sit amet accumsan et, pretium a ipsum. Curabitur ac diam et sapien commodo mattis id nec ex. Vivamus euismod dapibus augue, sit amet placerat est posuere id. Nulla sit amet elementum lacus. Duis ultrices nibh tellus. Pellentesque dictum, lorem nec volutpat ullamcorper, odio nisi gravida tortor, vitae auctor ligula erat in nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut imperdiet massa, vitae facilisis purus. Vestibulum gravida velit dolor, sit amet volutpat dolor bibendum malesuada. Nunc eget ex sit amet enim tempus elementum ut a felis. Aliquam erat volutpat. Pellentesque ac tempus nunc, eget pulvinar neque. 
 
-<img src="/assets/images/sample_subject/feather.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/feather.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 Donec ut leo lobortis odio tempus ornare. Cras pharetra nulla enim, nec tempus sem laoreet non. Curabitur eleifend ligula sed enim blandit iaculis. Quisque pharetra leo sodales, volutpat metus sed, lacinia elit. Nullam ultricies lorem lectus, ac pretium mi tempor id. Aenean luctus orci vitae faucibus tincidunt. Etiam sit amet ex dictum, ultricies sapien nec, luctus sem. Fusce sit amet porttitor est. Donec aliquam sit amet massa id tempus.
 
@@ -54,7 +54,7 @@ Aliquam laoreet diam in elit consectetur, eget sagittis quam hendrerit. Ut moles
 
 Sed nec suscipit odio. Phasellus non ex gravida, ullamcorper est fermentum, pretium nunc. Nulla imperdiet commodo magna, et posuere diam tempus sed. Fusce at arcu quam. Morbi faucibus scelerisque nisl vel mollis. Quisque ornare eros velit, nec vestibulum dolor egestas sit amet. Duis facilisis facilisis enim, ac ornare enim lacinia nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.<sup>[4]</sup>
 
-<img src="/assets/images/sample_subject/bird3.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+<img src="/template-information-site/assets/images/sample_subject/bird3.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
 ### Ecological Impacts
 
