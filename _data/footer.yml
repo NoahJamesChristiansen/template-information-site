@@ -6,10 +6,10 @@ about_description: >
 column1_title: About
 column1_links:
   -
-    target: about.html
+    target: /about.html
     text: About Me
   -
-    target: cv.html
+    target: /cv.html
     text: CV
 
 column2_title: Resources

@@ -1,0 +1,101 @@
+sidebarTitle: History of Gallunesia
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+- title: Introduction to Gallunesian History
+  jurl: /docs/sample_time/intro
+
+- title: Formation
+
+  folderitems:
+  - title: Intro to the Formation of Gallunesia
+    jurl: /docs/sample_time/formation/intro
+
+  - title: Prehistoric Times
+    jurl: /docs/sample_time/formation/prehistory
+
+  - title: First Settlers
+    jurl: /docs/sample_time/formation/first_settler
+
+  - title: Networks of Communities
+    jurl: /docs/sample_time/formation/community
+    
+  - title: Invasion of Darkness
+    jurl: /docs/sample_time/formation/invasion
+    
+  - title: The Unification of the Gallunesian Penninsula
+    jurl: //docs/sample_time/formation/unity
+    
+  - title: The Formal Constitution
+    jurl: /docs/sample_time/formation/constitution
+
+- title: The Bird Wars
+
+  folderitems:
+  - title: Intro to the Bird Wars
+    jurl: /docs/sample_time/bird_wars/intro
+    subfolders:
+    - title: Events
+      subfolderitems:
+      - title: Economic Growth
+        jurl: /docs/sample_time/bird_wars/economic_growth
+        
+      - title: The Troubling Times
+        jurl: /docs/sample_time/bird_wars/political_unrest
+        
+      - title: First Shots Fired
+        jurl: /docs/sample_time/bird_wars/first_shots
+
+      - title:
+        subsubfolders:
+        - title: Important Battles
+
+          subsubfolderitems:
+          - title: Battle of Bantam
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+
+          - title: Battle of Chantecler
+            jurl: /docs/sample_time/bird_wars/battle_of_chantecler
+              
+          - title: Seige of Ayam Cemani
+            jurl: /docs/sample_time/bird_wars/seige_of_ayam_cemani
+            
+          - title: Surrender of Dorking
+            jurl: /docs/sample_time/bird_wars/surrender_of_dorking
+            
+    - title: Analysis
+      subfolderitems:
+      - title: Summary of Events
+        jurl: /docs/sample_time/bird_wars/analysis_summary
+        
+      - title: Combatants
+        jurl: /docs/sample_time/bird_wars/combatants
+        
+      - title: Casualties
+        jurl: /docs/sample_time/bird_wars/casualties
+        
+      - title: Political Changes
+        jurl: /docs/sample_time/bird_wars/political_changes
+
+###########################
+
+related_resources_title: Other Resources
+
+related_resources_list:
+
+- title: Wikipedia
+  jurl: https://en.wikipedia.org/wiki/Bird
+
+- title: All About Birds - Guide
+  jurl: https://www.allaboutbirds.org/guide/
+
+- title: Audubon Society
+  jurl: https://www.audubon.org/
+
+
+###########################
+
+#forum:
+#  forum_link: http://forums.yourcompany.com
+#  forum_name: Company Forum

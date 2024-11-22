@@ -16,12 +16,8 @@ navbar_dropdowns:
       folderitems:
         - title: Understanding Birds
           url: /docs/sample_subject/intro
-        - title: Second item
-          url: http://amazon.com
-        - title: Third item
-          url: http://nytimes.com
-        - title: Fourth item
-          url: http://google.com
+        - title: History of Gallunesia
+          url: /docs/sample_time/intro
     - title: About
       folderitems:
         - title: About Me
