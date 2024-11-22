@@ -1,3 +1,6 @@
+11-21-2024:
+- Fixed some bugs with links not working correctly.
+
 11-18-2024:
 - Minor blog re-arrangements.
 - Cleaned up output for search.
