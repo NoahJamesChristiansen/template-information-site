@@ -78,6 +78,62 @@ folders:
       - title: Political Changes
         jurl: /docs/sample_time/bird_wars/political_changes
 
+- title: The Good Times
+
+  folderitems:
+  - title: Introduction to the Good Times
+    jurl: /docs/sample_time/good_times/intro
+    
+    subfolders:
+    - title: Society
+      subfolderitems:
+      - title: Culture
+        jurl: /docs/sample_time/bird_wars/casualties
+        
+      - title: Arts
+        jurl: /docs/sample_time/bird_wars/casualties
+      
+      - title:
+        subsubfolders:
+        - title: Politics
+
+          subsubfolderitems:
+          - title: Political Structure
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            
+          - title: Allies
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+          
+          - title: Economy
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            
+          - title: Minority Politics
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            
+          - title: Problems
+            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+
+
+        - title: Innovations
+          subsubfolderitems:
+          - title: Science
+            jurl: /docs/sample_time/bird_wars/casualties
+      
+          - title: Technology
+            jurl: /docs/sample_time/bird_wars/analysis_summary
+        
+          - title: Medicine
+            jurl: /docs/sample_time/bird_wars/political_changes
+        
+          - title: Philosophy
+            jurl: /docs/sample_time/bird_wars/political_changes
+        
+          - title: Religion
+            jurl: /docs/sample_time/bird_wars/combatants
+
+  - title: Why Did the Good Times End?
+    jurl: /docs/sample_time/bird_wars/casualties
+
 ###########################
 
 related_resources_title: Other Resources
@@ -85,13 +141,13 @@ related_resources_title: Other Resources
 related_resources_list:
 
 - title: Wikipedia
-  jurl: https://en.wikipedia.org/wiki/Bird
+  jurl: https://en.wikipedia.org/wiki/Gallunesia
 
-- title: All About Birds - Guide
-  jurl: https://www.allaboutbirds.org/guide/
+- title: Gallunesian Historical Society
+  jurl: https://www.example.com
 
-- title: Audubon Society
-  jurl: https://www.audubon.org/
+- title: Gallunesian Anthropology Museum
+  jurl: https://www.example.com
 
 
 ###########################
