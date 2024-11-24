@@ -33,7 +33,7 @@ layout: null
       appendString += '<p style="font-size: 12px;">' + 'Results ' + (start_results+1) + ' to ' + max_results + ' out of ' + results.length + ' result(s).'+ '</p>';
       
       // Following does next/previous
-      appendString += '<p style="font-size: 16px;">';
+      appendString += '<p class="search-result-page" style="font-size: 16px;">';
       
       if(start_results > 0){
         appendString += '<a href="' + window.homeurl + '/search.html?query=' + searchTerm + '&page=' + (page_start - 1) + '">Previous</a>';
