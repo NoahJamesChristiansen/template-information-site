@@ -89,8 +89,8 @@ a[href^="https://"]:after {
 
 /* And not in the search results! */
 
-.search-results a[href^="http://"]:after,
-.search-results a[href^="https://"]:after {
+.search-result-page a[href^="http://"]:after,
+.search-result-page a[href^="https://"]:after {
   content: "";
 }
 
