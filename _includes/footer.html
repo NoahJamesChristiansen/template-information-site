@@ -26,7 +26,11 @@
                 <h6 class="heading7">{{footer.column1_title}}</h6>
                 <ul class="footer-ul">
                   {% for link in footer.column1_links %}
-                    <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
+                        <li><a class="noExtIcon" href="{{link.target}}"> {{link.text}}</a></li>
+                    {% else %}
+                        <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% endif %}
                     {% endfor %}
                 </ul>
             </div>
@@ -35,7 +39,11 @@
               <h6 class="heading7">{{footer.column2_title}}</h6>
               <ul class="footer-ul">
                 {% for link in footer.column2_links %}
-                  <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
+                        <li><a class="noExtIcon" href="{{link.target}}"> {{link.text}}</a></li>
+                    {% else %}
+                        <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% endif %}
                   {% endfor %}
               </ul>
             </div>
@@ -44,7 +52,11 @@
               <h6 class="heading7">{{footer.column3_title}}</h6>
               <ul class="footer-ul">
                 {% for link in footer.column3_links %}
-                  <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% if folderitem.url contains "http://" or folderitem.url contains "https://" %}
+                        <li><a class="noExtIcon" href="{{link.target}}"> {{link.text}}</a></li>
+                    {% else %}
+                        <li><a class="noExtIcon" href="{{ site.home_url | replace_last: "/", ""  }}{{link.target}}"> {{link.text}}</a></li>
+                    {% endif %}
                   {% endfor %}
               </ul>
             </div>
