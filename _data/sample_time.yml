@@ -88,10 +88,10 @@ folders:
     - title: Society
       subfolderitems:
       - title: Culture
-        jurl: /docs/sample_time/bird_wars/casualties
+        jurl: /docs/sample_time/good_times/culture
         
       - title: Arts
-        jurl: /docs/sample_time/bird_wars/casualties
+        jurl: /docs/sample_time/good_times/arts
       
       - title:
         subsubfolders:
@@ -99,40 +99,64 @@ folders:
 
           subsubfolderitems:
           - title: Political Structure
-            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            jurl: /docs/sample_time/good_times/political_structure
             
-          - title: Allies
-            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+          - title: Allies & Enemies
+            jurl: /docs/sample_time/good_times/allies
           
           - title: Economy
-            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            jurl: /docs/sample_time/good_times/economy
             
           - title: Minority Politics
-            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            jurl: /docs/sample_time/good_times/minor_politics
             
           - title: Problems
-            jurl: /docs/sample_time/bird_wars/battle_of_bantam
+            jurl: /docs/sample_time/good_times/problems
 
 
         - title: Innovations
           subsubfolderitems:
           - title: Science
-            jurl: /docs/sample_time/bird_wars/casualties
+            jurl: /docs/sample_time/good_times/science
       
           - title: Technology
-            jurl: /docs/sample_time/bird_wars/analysis_summary
+            jurl: /docs/sample_time/good_times/technology
         
           - title: Medicine
-            jurl: /docs/sample_time/bird_wars/political_changes
+            jurl: /docs/sample_time/good_times/medicine
         
           - title: Philosophy
-            jurl: /docs/sample_time/bird_wars/political_changes
+            jurl: /docs/sample_time/good_times/philosophy
         
           - title: Religion
-            jurl: /docs/sample_time/bird_wars/combatants
+            jurl: /docs/sample_time/good_times/religion
 
   - title: Why Did the Good Times End?
-    jurl: /docs/sample_time/bird_wars/casualties
+    jurl: /docs/sample_time/good_times/end
+
+- title: Modern Gallunesia
+
+  folderitems:
+  - title: Introduction to Modern Gallunesia
+    jurl: /docs/sample_time/modern/intro
+    
+  - title: Culture and Values
+    jurl: /docs/sample_time/modern/culture
+    
+    subfolders:
+    - title: Politics
+      subfolderitems:
+      - title: Domestic Politics
+        jurl: /docs/sample_time/modern/domestic
+        
+      - title: International Politics
+        jurl: /docs/sample_time/modern/international
+        
+      - title: Economic Policy
+        jurl: /docs/sample_time/modern/economy
+
+  - title: Challenges
+    jurl: /docs/sample_time/modern/challenges
 
 ###########################
 
