@@ -5,6 +5,7 @@ permalink: search.html
 ---
 
 <script>
+  window.homeurl = "{{ site.home_url | replace_last: '/', ''  }}";
   window.store = {
           {% for doc in site.docs %}
             {% unless doc.search == false %}

@@ -87,6 +87,13 @@ a[href^="https://"]:after {
   content: "";
 }
 
+/* And not in the search results! */
+
+.search-results a[href^="http://"]:after,
+.search-results a[href^="https://"]:after {
+  content: "";
+}
+
 /* Strip the outbound icon when this class is present */
 
 a[href].noExtIcon::after,

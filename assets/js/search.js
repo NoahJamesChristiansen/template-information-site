@@ -36,7 +36,7 @@ layout: null
       appendString += '<p style="font-size: 16px;">';
       
       if(start_results > 0){
-        appendString += '<a href="/search.html?query=' + searchTerm + '&page=' + (page_start - 1) + '">Previous</a>';
+        appendString += '<a href="' + window.homeurl + '/search.html?query=' + searchTerm + '&page=' + (page_start - 1) + '">Previous</a>';
       }
       
       if(max_results < results.length)
@@ -45,7 +45,7 @@ layout: null
             appendString += " | ";
         }
         
-        appendString += '<a href="/search.html?query=' + searchTerm + '&page=' + (page_start + 1) + '">Next</a>';
+        appendString += '<a href="' + window.homeurl + '/search.html?query=' + searchTerm + '&page=' + (page_start + 1) + '">Next</a>';
       }
       
       appendString += '</p>';
