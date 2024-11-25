@@ -11,11 +11,6 @@ li {
   line-height: 2.4rem;
 }
 
-li#markdown-toc
-{
-    padding-left: 25px;
-}
-
 .text-center {
   padding-top: 20px;
 }
@@ -332,9 +327,9 @@ ul#markdown-toc {
 }
 
 ul#markdown-toc::before  {
-  font-size:18px;
+  font-size:24px;
   padding-top:30px;
-  margin: 20px 0px 20px -30px;
+  margin: 40px 0px 40px -20px;
 }
 /* end mini toc */
 
