@@ -18,7 +18,7 @@ Maecenas vehicula, tellus eget viverra feugiat, turpis ex fringilla elit, vitae 
 
 Ut vehicula mauris lorem, vel ullamcorper nunc finibus eu. Nullam malesuada hendrerit urna vitae scelerisque. In lacinia lacus vel ipsum tempor, a imperdiet tortor placerat. Etiam finibus nisi faucibus, scelerisque ipsum eu, bibendum eros. Integer a vulputate turpis. Cras id diam nec sem auctor varius eget vitae urna. Phasellus imperdiet lectus lacus, nec aliquet neque ullamcorper ac. Vivamus placerat libero risus, tempus ultrices dolor mollis sit amet. Nam euismod libero venenatis, laoreet magna a, pulvinar libero. Etiam hendrerit libero quis massa pharetra, sit amet imperdiet lorem pharetra. In finibus maximus commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim non magna ac viverra. Nullam scelerisque tortor mattis magna ornare, nec cursus lorem suscipit. 
 
-<img src="/template-information-site/assets/images/sample_subject/parrot1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/parrot1.jpg)
 
 Praesent ac feugiat velit. Vivamus nisl nulla, iaculis et tempus et, commodo eu est. Nulla non mattis erat. Integer quis nibh ac sapien pellentesque blandit a id nunc. In pretium, risus in tempus laoreet, leo urna sodales dui, sit amet sagittis purus ante quis massa. Ut ullamcorper neque vitae interdum ornare. Donec quis ligula sed neque malesuada condimentum quis et nisl. Donec odio nisl, aliquam commodo libero a, aliquam laoreet augue. Etiam sed vulputate nibh.
 
@@ -36,7 +36,7 @@ Maecenas eu finibus felis. Curabitur non consectetur tortor. Duis laoreet in pur
 
 Quisque efficitur tortor ac faucibus laoreet. Sed eu erat nisl. Quisque sed augue vel ante mattis rutrum. Proin consectetur interdum nunc scelerisque commodo. Suspendisse est lorem, congue quis suscipit et, fringilla id lectus. Aliquam erat volutpat. Fusce quis magna gravida, ultricies purus at, tempor quam. Etiam sit amet ipsum id leo varius tincidunt sit amet quis massa.<sup>[3]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/parrot2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/parrot2.jpg)
 
 Nulla facilisi. Praesent id turpis risus. Vivamus posuere mi eget nibh accumsan, mattis cursus velit dictum. Sed nunc massa, pharetra id imperdiet ac, posuere ut felis. Proin dictum eget mauris quis placerat. Donec ultrices a velit a fermentum. Aliquam quis velit nibh. Integer purus nunc, aliquet sed ligula pharetra, posuere placerat mauris. Aenean tincidunt tellus tortor, feugiat rhoncus nulla luctus sed. Morbi ac justo vel sapien ornare vehicula. Vivamus ut venenatis arcu. Fusce nisi felis, ultrices in diam scelerisque, pharetra faucibus justo. Proin at ornare purus.
 

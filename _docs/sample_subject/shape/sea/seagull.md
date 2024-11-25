@@ -26,7 +26,7 @@ Sed non aliquet dolor. Fusce a dolor at tellus sagittis scelerisque at id dolor.
 
  Nam blandit, mauris nec malesuada rutrum, lectus odio feugiat sapien, sit amet finibus massa nulla et purus. Donec finibus quam quis sem facilisis, vitae mollis arcu mollis. Etiam porttitor vehicula rhoncus. Nam dictum, ex eu suscipit sodales, risus odio interdum tellus, eu consequat orci lectus nec ante. Nunc feugiat rhoncus ligula et feugiat. Sed tincidunt in tortor ut fermentum. Mauris tristique risus metus, in ullamcorper eros tempor non. Integer et consectetur metus. Sed massa ligula, bibendum vitae mi et, hendrerit laoreet est. Etiam lobortis nunc libero, id eleifend justo luctus tristique. Suspendisse et sapien viverra, tincidunt dolor ac, molestie velit. Donec mi augue, suscipit ut pharetra a, sodales lacinia justo. Donec sit amet aliquam augue. Fusce mollis nunc vitae eros molestie dapibus. Aenean nisl diam, lobortis a ligula ut, pellentesque vehicula tellus. Nullam ac faucibus urna.
 
-<img src="/template-information-site/assets/images/sample_subject/seagull1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/seagull1.jpg)
 
 Nullam venenatis orci sem. Sed facilisis aliquam ornare. Vestibulum laoreet, ex eget venenatis aliquam, nunc nunc pulvinar lacus, nec mattis quam eros sit amet arcu. Morbi fringilla dolor blandit varius semper. Aliquam laoreet luctus neque a scelerisque. In tempus nibh quis massa cursus efficitur. Nulla nec sodales ante. Sed nec lectus sit amet sem sagittis auctor vel sit amet arcu. Nullam massa lectus, dictum non sem ac, maximus maximus magna. Cras quis commodo mi.<sup>[2]</sup>
 
@@ -36,7 +36,7 @@ Sed turpis massa, viverra eget porta quis, dictum eu enim. Vestibulum condimentu
 
 Sed ipsum elit, faucibus ac ante vitae, hendrerit bibendum ex. Nullam vitae neque quis sem venenatis tincidunt in non turpis. Maecenas mattis fringilla tincidunt. Aenean eu consectetur sem. Fusce ex erat, eleifend quis purus in, mollis eleifend lacus. Etiam suscipit imperdiet ante a iaculis. Donec accumsan ac libero eu consequat. Sed id tellus ac purus rutrum pretium. Cras vel aliquam nisi, ac egestas sem. Aliquam a urna cursus, ullamcorper ante sit amet, posuere ex. Nam nisl ipsum, aliquet vitae dui quis, rutrum accumsan arcu. Quisque ut mauris purus. Cras posuere interdum tortor, non cursus tellus interdum at. Sed ipsum magna, suscipit ut leo at, suscipit porta est. In eget laoreet elit.<sup>[3]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/seagull2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/seagull2.jpg)
 
 Vestibulum commodo facilisis dolor sit amet aliquam. In cursus, turpis et lacinia ullamcorper, sapien elit auctor lorem, eu luctus quam felis ac felis. Pellentesque mattis in tortor hendrerit sagittis. Vestibulum felis lacus, porttitor et quam vitae, sodales pretium sapien. Duis purus tellus, aliquet eget consectetur id, ornare id magna. Donec egestas eget magna sed mollis. Morbi hendrerit imperdiet turpis, nec posuere massa. Cras ultrices ultrices rutrum.
 

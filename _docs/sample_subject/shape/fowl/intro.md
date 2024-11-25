@@ -13,7 +13,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu leo conva
 
 Vestibulum volutpat, orci sed aliquam tempor, massa tortor sagittis est, et efficitur arcu ante vitae magna. Sed vestibulum orci eu dolor pellentesque laoreet. Maecenas vitae semper velit. In venenatis ac nunc vel lacinia. Donec eu tortor eu sem luctus pretium vitae sit amet orci. Sed hendrerit mattis odio ac molestie. Phasellus quis congue odio.
 
-<img src="/template-information-site/assets/images/sample_subject/fowl.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/fowl.jpg)
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ante arcu, varius iaculis ullamcorper id, feugiat id arcu. Nullam ullamcorper justo vitae nulla varius, ac tincidunt orci viverra. Suspendisse imperdiet mi quis augue ultrices, ut tempor nibh auctor. Fusce nec dui mauris. Quisque egestas ut mauris vitae sagittis. Aliquam erat volutpat. Etiam fermentum, velit in ultricies placerat, turpis magna laoreet sapien, at sagittis nisi nisi ut erat. Mauris in fermentum libero.
 

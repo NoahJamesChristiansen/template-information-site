@@ -20,7 +20,7 @@ Proin urna nisl, pharetra ut nisi sagittis, posuere egestas ipsum. Sed rutrum nu
 
 In finibus tellus turpis, eget sollicitudin magna convallis at. Cras ex nisi, imperdiet at dignissim nec, malesuada nec libero. In efficitur diam viverra quam laoreet, eget fringilla velit fringilla. Sed egestas enim ut cursus vestibulum. Morbi hendrerit est pretium mauris porttitor maximus. Nunc suscipit imperdiet accumsan. Sed a suscipit mi. Proin aliquam massa vitae mollis euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
-<img src="/template-information-site/assets/images/sample_subject/bird_long.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird_long.jpg)
 
 Aenean ullamcorper ullamcorper ipsum, eu rutrum velit imperdiet congue. Vestibulum accumsan, libero quis cursus consectetur, erat enim rutrum tortor, a accumsan justo sem pretium nulla. Praesent et augue ullamcorper eros molestie condimentum ac nec purus. Curabitur venenatis, lacus euismod eleifend tempus, ligula purus consectetur nisi, iaculis iaculis nunc nisi non ipsum. Mauris sit amet placerat dolor. Pellentesque a felis viverra, pellentesque enim id, porta nibh. Morbi mauris sem, ullamcorper congue hendrerit ac, volutpat sit amet magna. Pellentesque lacinia pharetra felis, vitae suscipit mi malesuada non. Phasellus vitae euismod ipsum. Aenean faucibus semper sem, nec eleifend purus convallis non. Morbi eget urna ac nunc hendrerit iaculis ut non justo. In hac habitasse platea dictumst. Sed tincidunt velit nisl, vel fermentum mauris facilisis ac.
 

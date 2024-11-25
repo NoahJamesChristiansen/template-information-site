@@ -20,7 +20,7 @@ Donec venenatis finibus mauris, non porttitor eros sollicitudin in. Etiam suscip
 
 Morbi nec tortor arcu. Sed neque enim, aliquam sit amet auctor id, sollicitudin imperdiet ipsum. Nullam vulputate erat id magna ornare porttitor. Duis rhoncus, tellus at semper maximus, ex nisl ornare eros, sed hendrerit leo justo a eros. Fusce ullamcorper orci id augue hendrerit, eu pellentesque eros tristique. Mauris imperdiet nisl non feugiat auctor. Vestibulum felis massa, malesuada id libero a, consectetur fermentum sem. Nunc egestas aliquet suscipit. Nam sagittis sapien a lorem fringilla, sed fermentum massa tempor. Cras vehicula in ligula ut pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam facilisis ligula vel eros ullamcorper tristique.<sup>[1]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/corvid1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/corvid1.jpg)
 
 Nam eu augue vel mi semper mattis vel sit amet lacus. Vestibulum et feugiat arcu. Donec eleifend dolor eu dictum accumsan. Sed a nisl justo. Donec ante ligula, pellentesque a nisl mollis, pulvinar commodo ipsum. Fusce non dolor aliquam, feugiat urna nec, facilisis mi. Phasellus et nisl eget massa fringilla scelerisque sed id ligula. Nunc sed ex nec lacus sollicitudin egestas non sit amet elit. Aenean sit amet libero congue, convallis lectus ullamcorper, finibus sem. Pellentesque dignissim, felis eget commodo tempus, leo augue semper ipsum, ut scelerisque tellus lacus sed tortor. Proin a commodo dolor. Curabitur tempor ultrices volutpat. Morbi ex justo, rutrum et leo et, porta volutpat nunc. Praesent mollis eros massa, at efficitur libero posuere molestie.<sup>[2]</sup>
 
@@ -34,7 +34,7 @@ Fusce id fermentum nunc, at imperdiet quam. Pellentesque ac mattis lacus. Duis s
 
 Fusce consectetur tempus nulla, congue volutpat odio scelerisque eu. Cras et congue arcu, eget posuere justo. Vivamus at vehicula erat. Morbi eu vulputate erat, a varius odio. Curabitur rhoncus eros sit amet mi luctus efficitur. Vestibulum blandit mi ex, sit amet congue enim finibus ac. Suspendisse suscipit sed sapien eu venenatis. Integer vitae risus vulputate, rhoncus ipsum vel, dapibus turpis. Pellentesque laoreet faucibus dolor eget condimentum. Nunc nisl lectus, porta in eleifend et, interdum in risus. Nulla dignissim eleifend dolor, nec convallis nisl posuere ac. Fusce gravida justo at sem tempus efficitur. Nunc leo mauris, tincidunt at pulvinar vel, condimentum ac orci. Praesent faucibus odio gravida magna ornare ornare.
 
-<img src="/template-information-site/assets/images/sample_subject/corvid2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/corvid2.jpg)
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed ac risus viverra, aliquet mauris id, malesuada tortor. Nunc vel vestibulum lacus, nec laoreet tellus. Donec ex quam, facilisis eu tincidunt in, tincidunt ac eros. Aliquam malesuada, enim aliquam aliquet dapibus, mauris justo interdum odio, id condimentum sem dolor eu risus. Ut sagittis mauris risus, a ultricies orci egestas eu. Duis metus velit, egestas sed dictum at, blandit eu massa. Sed vitae tellus diam. Praesent pulvinar fermentum arcu, ut rutrum lectus semper et.
 

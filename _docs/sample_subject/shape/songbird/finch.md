@@ -28,7 +28,7 @@ Suspendisse potenti. Morbi pulvinar feugiat neque, sed lacinia lectus rhoncus vi
 
 Ut ac iaculis odio, ac eleifend lacus. Vivamus sed mi lorem. Curabitur quis placerat felis. Fusce commodo vehicula massa sit amet auctor. Vestibulum sagittis cursus ante vitae ornare. Mauris ac leo ultricies, bibendum ex sit amet, sodales nisi. Aenean mattis gravida fermentum.<sup>[2]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/finch1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/finch1.jpg)
 
 Curabitur placerat ultricies felis, sit amet mollis urna tincidunt at. Mauris tempor euismod interdum. Nunc sit amet vestibulum tellus. Nulla nec nulla lacus. Vivamus ultricies neque a sem suscipit, sit amet mattis dolor scelerisque. Aliquam efficitur lorem at odio sollicitudin faucibus. Donec semper leo a mauris sagittis, ac aliquam justo dictum. Integer imperdiet diam odio. Phasellus lobortis convallis libero et ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu arcu, ornare eget turpis id, vulputate pharetra nisl. Sed sit amet mi pretium, eleifend dui vel, facilisis nunc. Fusce ut fermentum diam, at laoreet risus.<sup>[3]</sup>
 
@@ -38,7 +38,7 @@ Cras id tellus ac dui elementum viverra vel non purus. Donec viverra hendrerit e
 
 In at accumsan mauris. Curabitur id libero venenatis, auctor dolor vel, congue diam. Mauris vel tempus mi, nec consectetur nisi. Suspendisse eu porttitor velit, ut posuere massa. Pellentesque facilisis finibus eros, ut commodo sem molestie nec. Nam in nisl laoreet, hendrerit augue finibus, consectetur nunc. Morbi auctor lectus ac felis euismod, ac blandit ex dapibus. Aliquam et nisl non nibh tempor ultricies. Cras ultrices, sem quis ornare ornare, quam lacus fermentum dolor, non aliquam erat enim at lorem. 
 
-<img src="/template-information-site/assets/images/sample_subject/finch2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/finch2.jpg)
 
 Nullam euismod eros quis enim vulputate, sit amet vulputate est lacinia. In consequat sodales molestie. Vivamus vitae purus scelerisque, aliquet diam eget, tempus nunc. Aliquam et commodo eros. Proin sollicitudin, elit suscipit rutrum feugiat, urna sem ultrices est, ac porta nibh odio at velit. Duis vel nisl aliquet, iaculis massa commodo, scelerisque orci. Integer a lorem eu purus hendrerit sodales. Cras semper dapibus tempus. Vivamus vitae dolor non lectus rutrum vestibulum nec congue quam.<sup>[4]</sup>
 

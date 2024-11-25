@@ -22,7 +22,7 @@ Fusce aliquet quis lacus vel pretium. Nam et libero sit amet arcu suscipit hendr
 
 Morbi commodo magna nunc, et dictum risus auctor suscipit. Sed sed pharetra justo, eu ornare justo. Aliquam dignissim viverra diam eget auctor. Vestibulum eget lacus in felis ultrices iaculis. Quisque ultricies porta pellentesque. Nullam iaculis est nibh, at luctus eros placerat vitae. Donec suscipit auctor venenatis. Nullam sit amet semper nunc, vel pretium erat. Maecenas congue ut nisl ultrices hendrerit. In commodo maximus sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
 
-<img src="/template-information-site/assets/images/sample_subject/emu1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/emu1.jpg)
 
 Etiam ut tincidunt erat. Nulla at velit nec ex interdum hendrerit sit amet id enim. Integer lacus dui, consequat et lacinia ut, imperdiet at nisl. Donec ultrices at est a congue. Vestibulum eros neque, tempus nec eleifend vel, lacinia a neque. Proin nec risus vel erat faucibus ullamcorper. Proin ut erat viverra, laoreet mi sed, lacinia tellus. Morbi feugiat auctor ultricies. Suspendisse potenti. Vestibulum turpis orci, interdum eget libero tincidunt, vulputate aliquam tellus. Praesent commodo tincidunt metus nec mollis. Quisque commodo rutrum libero, et dignissim enim porttitor id. Sed placerat, libero ac interdum mattis, nisi ante sollicitudin lorem, eu venenatis ex felis sed sapien. Aenean sed massa luctus, finibus ligula at, consectetur nulla. Nullam et dignissim ipsum. Integer id sem massa.<sup>[1]</sup>
 
@@ -50,7 +50,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eu ipsum dolo
 
 Ut vel risus mollis, blandit libero sed, tristique odio. Duis eget interdum leo. In imperdiet diam vel dui facilisis, non consectetur velit blandit. In iaculis urna at odio cursus interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et volutpat magna. Mauris a malesuada mi.<sup>[4]</sup> 
 
-<img src="/template-information-site/assets/images/sample_subject/emu2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/emu2.jpg)
 
 Curabitur vulputate feugiat arcu, vel ultrices erat sodales id. Donec non lectus et ex faucibus auctor a eu ipsum. Pellentesque a lacus volutpat, imperdiet massa a, placerat urna. Vestibulum in mi tincidunt, fermentum leo quis, congue ex. Curabitur tempor, tellus sit amet imperdiet consectetur, risus ipsum cursus turpis, quis rutrum nisl ipsum vitae felis. In posuere blandit lobortis. Pellentesque consequat non tortor vel luctus. Curabitur vitae purus vel erat consectetur venenatis ac id massa. Maecenas non lorem at nisi pulvinar dignissim ut vel diam. Nunc posuere hendrerit dui, eu ultricies justo lobortis vel. Maecenas at porta ante. Suspendisse accumsan ultrices dolor, ut sodales mi sodales placerat.
 

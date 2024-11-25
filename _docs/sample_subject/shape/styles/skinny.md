@@ -20,7 +20,7 @@ Duis scelerisque euismod augue id vulputate. Integer eleifend mattis elit, in mo
 
 Suspendisse bibendum orci sollicitudin sem iaculis euismod. Nam quam urna, cursus non dapibus in, bibendum eget mauris. Vestibulum dictum porta aliquet. Nam sed ex et felis malesuada consequat. Vivamus vel turpis dui. Maecenas mattis velit eu purus mollis molestie. Suspendisse volutpat justo sed neque consequat finibus. Vestibulum commodo lacus tellus, quis laoreet orci porttitor id. Mauris porta urna nisi, sit amet iaculis leo rhoncus non. Vestibulum imperdiet, arcu id elementum maximus, nunc neque faucibus lorem, ut tristique lectus ligula sed ex. Nullam malesuada ex nec luctus venenatis. Donec velit massa, feugiat ac tincidunt a, porta a enim. Pellentesque vitae mi diam. Fusce erat sapien, tincidunt eget consectetur ut, ullamcorper eu neque.
 
-<img src="/template-information-site/assets/images/sample_subject/bird_skinny.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird_skinny.jpg)
 
 Sed pulvinar urna massa, nec commodo ipsum pretium eget. Sed pellentesque turpis vel dolor malesuada elementum ut sit amet nisi. Curabitur est mi, imperdiet non velit eu, porta elementum nisi. In hac habitasse platea dictumst. Proin et odio semper, suscipit urna ac, malesuada lacus. Integer mollis tortor efficitur turpis fringilla, eget consequat dolor convallis. Sed a est turpis. Nulla at lacus mi.
 

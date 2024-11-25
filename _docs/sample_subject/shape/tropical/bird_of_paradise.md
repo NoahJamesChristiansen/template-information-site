@@ -20,7 +20,7 @@ Suspendisse euismod ipsum et dui efficitur, in auctor urna luctus. Quisque preti
 
 Fusce rhoncus congue quam, non malesuada velit consequat eu. Aliquam erat volutpat. Curabitur a nisi tempor, molestie ipsum sed, volutpat neque. Fusce vel consectetur nulla, ac consequat erat. Aliquam molestie tincidunt turpis, sit amet sagittis quam bibendum in. Suspendisse tellus tellus, faucibus at velit sed, efficitur semper metus. Donec turpis neque, efficitur vestibulum mi non, fringilla varius urna. Donec venenatis odio ac nulla sodales congue. Morbi lectus ex, vehicula ut varius at, accumsan eget quam. In commodo molestie leo ac convallis.<sup>[1]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/bird_of_paradise1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird_of_paradise1.jpg)
 
 # Behavior
 
@@ -40,7 +40,7 @@ Donec non cursus mauris. Vestibulum in mauris semper, gravida magna in, molestie
 
 Quisque pharetra, dui eget convallis ullamcorper, turpis arcu sodales elit, vel lacinia lorem turpis vitae diam. Nam placerat elementum nibh, eu vulputate quam suscipit non. Cras sit amet diam quis lorem suscipit ultrices. Morbi in erat fermentum, vestibulum sapien nec, molestie orci. Morbi fermentum nibh ex, ut varius justo consectetur in. Nam mattis tincidunt nisi eget dignissim. Donec et dui ultricies, fermentum purus et, tempus felis. Sed cursus et felis nec convallis. Aenean mollis elit diam, id finibus velit viverra eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. Nulla ac ultrices orci. Aliquam ultrices semper nisl sit amet congue. Donec cursus egestas volutpat. Fusce convallis euismod nisl eget posuere. Ut ullamcorper egestas libero tristique facilisis.<sup>[4]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/bird_of_paradise2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird_of_paradise2.jpg)
 
 Nam ut elementum est. Aliquam ornare accumsan eros sed dignissim. Cras feugiat dolor orci, et mattis sapien bibendum ut. Nunc dolor sem, placerat a lacus a, laoreet sagittis nunc. Etiam efficitur magna eu augue ornare pellentesque. Sed at urna et justo luctus vestibulum at eget nulla. Fusce interdum neque metus, quis accumsan dolor eleifend in. Curabitur id neque sodales, molestie dolor a, hendrerit massa. Proin in massa mauris. Nulla hendrerit nisi eu nunc tincidunt, sed sagittis diam sagittis. Donec tempus efficitur egestas. Quisque eget dui faucibus metus consequat fermentum. Phasellus ullamcorper massa sed porttitor tristique.
 

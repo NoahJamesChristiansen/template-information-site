@@ -22,7 +22,7 @@ Donec in est condimentum, bibendum odio sed, commodo ex. Curabitur ornare, odio 
 
 Ut ipsum neque, vulputate in egestas id, tristique eget massa. Donec auctor turpis nibh, vel pulvinar sem commodo ut. Nulla vitae consectetur ligula. Curabitur euismod quis mauris in lobortis. Cras et congue libero. Sed tincidunt tempor lectus quis consequat. Nulla facilisi. Duis accumsan lacus non ipsum mollis gravida. Donec vitae cursus diam. Integer convallis est eros, ac condimentum mi mollis elementum. 
 
-<img src="/template-information-site/assets/images/sample_subject/pelican1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/pelican1.jpg)
 
 Vestibulum faucibus molestie tempor. Integer consectetur ac sapien id hendrerit. Nam varius condimentum felis vitae lobortis. Nam ullamcorper lacinia arcu, quis congue ipsum vehicula eget. Curabitur mattis sem libero, sed placerat ligula pretium vel. Morbi tempor sed diam in commodo. Maecenas gravida neque ut orci congue, sit amet mollis massa maximus. Duis sodales justo lectus, commodo pulvinar leo tristique ut. Integer at laoreet sem. Integer vitae sapien vitae mauris ultricies porta. Morbi massa neque, dapibus a est et, aliquam posuere leo. Aenean vulputate mi commodo nulla mattis pellentesque. Nam enim lorem, egestas vitae neque vel, pellentesque tristique est.<sup>[1]</sup>
 
@@ -50,7 +50,7 @@ Vestibulum vitae justo id ligula dapibus sodales. Praesent vestibulum, urna sed 
 
 Nam nec eleifend tortor, et aliquet ante. Etiam quis leo at nisi ornare egestas. Nulla ullamcorper arcu diam, vulputate feugiat velit vehicula quis. Etiam mollis sem justo, sit amet tristique purus tristique sed. Vestibulum tristique magna vitae felis pharetra lobortis. Vestibulum ullamcorper eget magna non gravida. Nam mollis commodo odio ut gravida. Duis in nunc ipsum. Praesent vel erat eget eros sagittis hendrerit. Fusce mattis eros eu ante molestie mollis eu vel lectus.<sup>[4]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/pelican2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/pelican2.jpg)
 
 Vivamus vulputate tristique mi, nec tincidunt odio blandit eu. Proin suscipit sagittis lorem at bibendum. Donec vulputate quis ante eget lacinia. Phasellus maximus nibh massa, sed tincidunt nisi condimentum vel. Nulla facilisi. Donec vitae facilisis dui, sed ultricies mi. Ut interdum fringilla orci, nec tincidunt sapien commodo ut. Integer congue auctor vehicula. Pellentesque volutpat quis ante in laoreet. Aenean erat enim, posuere ac tellus quis, pellentesque rutrum ante. Nunc imperdiet ipsum erat, non vestibulum enim ultrices eget. Mauris tristique, dui et maximus dapibus, urna enim rutrum quam, a luctus nunc enim sit amet est. Mauris nec dolor ante. Ut venenatis massa tincidunt iaculis congue. Aliquam sit amet venenatis arcu. Phasellus eget aliquam sapien.
 

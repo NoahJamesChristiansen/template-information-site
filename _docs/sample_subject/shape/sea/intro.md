@@ -13,7 +13,7 @@ Nunc in aliquam ante, at porta neque. Cras eget accumsan urna, non mollis ipsum.
 
 Pellentesque lacinia leo in metus porta, at aliquam sem placerat. Quisque quis velit non justo mattis consectetur vel feugiat nisl. Proin at lacus at tellus malesuada vehicula. Nam nec convallis neque. Donec nec dolor diam. Nulla facilisi. Nullam elit felis, auctor a nibh finibus, tempor maximus est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras quam urna, condimentum vel pharetra eget, fermentum nec nisi. Curabitur condimentum erat non nisi elementum iaculis. Morbi maximus nisl et augue dignissim porttitor. Sed quis ligula tellus. Mauris consequat bibendum enim, sed posuere dolor ornare et. Proin odio libero, aliquet nec libero sit amet, ornare rhoncus lacus. Fusce vel ultricies neque.
 
-<img src="/template-information-site/assets/images/sample_subject/sea.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/sea.jpg)
 
 Praesent lobortis rhoncus feugiat. Nullam pretium purus non magna maximus, at lobortis mi feugiat. Proin quis euismod lorem. Etiam maximus non est sed dictum. Morbi bibendum erat vel sodales pellentesque. Curabitur gravida mauris ut diam pharetra, a tristique diam iaculis. Nam mollis felis in euismod varius. Suspendisse non blandit turpis. Suspendisse at velit mi.
 

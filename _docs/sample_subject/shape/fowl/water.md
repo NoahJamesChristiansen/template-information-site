@@ -20,7 +20,7 @@ Phasellus pulvinar faucibus dolor, quis auctor lorem cursus eget. Nam turpis tor
 
 Aenean ut est vel dolor accumsan bibendum non at mi. Donec euismod dolor a risus hendrerit luctus. Praesent a commodo ante. Integer tincidunt odio id eleifend ultricies. Aliquam erat volutpat. Sed quis libero porta, congue velit in, vestibulum turpis. Nunc id nibh lectus. Nam dolor nunc, porttitor nec ligula id, blandit vulputate mauris. Nam lacus dui, cursus non libero in, eleifend condimentum nisl. Nulla laoreet velit at mauris pulvinar, ut vehicula dui aliquam. Integer non pellentesque velit. 
 
-<img src="/template-information-site/assets/images/sample_subject/waterfowl1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/waterfowl1.jpg)
 
 Fusce sit amet lacus erat. Pellentesque sed velit vel metus tempor varius. Aliquam vitae viverra mi. Morbi ultrices, elit in pellentesque gravida, lorem felis cursus tellus, a egestas tortor leo ac ante. Vestibulum vestibulum nulla a massa fringilla, in iaculis arcu malesuada. Cras ultrices sapien risus, vel ullamcorper nisl varius condimentum. Ut semper maximus tellus.<sup>[1]</sup>
 
@@ -38,7 +38,7 @@ Vivamus efficitur mi eget sem euismod mollis. Aliquam at metus vel felis ferment
 
 Aliquam ullamcorper justo sed porta tincidunt. Nulla facilisi. Nulla vehicula cursus luctus. Nulla lacinia augue ipsum, ac tincidunt risus vehicula et. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean dictum diam velit, vel convallis lacus finibus sit amet. Sed mollis mi ut nisi rhoncus aliquet. Nam porta ipsum augue, vitae interdum mauris rutrum sit amet. Sed nec maximus libero, in pharetra velit. Maecenas vehicula, libero at vulputate iaculis, quam purus gravida nunc, sit amet mollis ante orci sit amet enim. Aenean eleifend interdum tristique. Mauris varius magna sed mi convallis vehicula sit amet nec arcu. In iaculis laoreet sem quis ornare. Vivamus viverra ac erat id feugiat. Aliquam dignissim porta risus eget maximus. Vivamus dignissim, enim vel pellentesque aliquet, est felis finibus turpis, ac pellentesque sapien leo ut dolor.<sup>[3]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/waterfowl2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/waterfowl2.jpg)
 
 Pellentesque ut ligula fringilla eros ultrices interdum. Nunc quis leo accumsan, mattis nisl in, ornare velit. Morbi eget laoreet massa. Aenean ullamcorper luctus lacus, vitae venenatis magna ornare quis. Aliquam semper metus a lobortis bibendum. Cras tempor malesuada dignissim. Sed dolor sapien, aliquam et fringilla at, condimentum sit amet ligula. Nam porta quam accumsan feugiat mattis. Proin non mi tortor. Etiam ornare leo ex, sit amet bibendum ex consectetur non. In venenatis metus erat, in scelerisque est blandit non. Mauris enim nisl, mattis vitae mauris vel, ultricies ultrices nulla. Mauris tempus, nunc venenatis interdum consectetur, ante ligula commodo nisl, ac eleifend arcu lectus ut elit. Curabitur at tristique magna. Donec dignissim, ligula vel dapibus laoreet, metus arcu cursus odio, vel ultricies urna tortor vel metus. Vestibulum convallis commodo justo, tincidunt dictum nunc viverra vitae.
 

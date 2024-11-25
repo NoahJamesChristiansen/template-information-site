@@ -20,7 +20,7 @@ Pellentesque id urna ultrices, iaculis erat at, tristique ligula. Etiam sceleris
 
 Nam tristique faucibus bibendum. Proin id ultrices metus. Mauris porta faucibus dolor, nec auctor dui ornare vel. Suspendisse rutrum, leo at convallis fermentum, massa diam egestas orci, sodales lobortis elit mauris eu risus. Sed placerat vulputate sapien non vulputate. Nullam volutpat elit ac ante faucibus, et lacinia velit tempus. Nulla facilisi. Integer cursus libero sapien, vitae pellentesque nulla ultricies nec. Suspendisse potenti. In venenatis sed massa ac commodo. Vivamus sapien enim, viverra quis eleifend id, aliquet sed lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque nec lacus bibendum mi laoreet cursus ut et neque. Vivamus at nunc fringilla, suscipit lectus vitae, ornare ante. Donec ac condimentum ex. 
 
-<img src="/template-information-site/assets/images/sample_subject/bird1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird1.jpg)
 
 # What are Birds?
 
@@ -60,4 +60,4 @@ Sed tristique eros sodales lorem aliquam, vel bibendum sapien rhoncus. Nam ultri
 
 Sed nec neque tristique nibh auctor bibendum. Duis a ante et nisi tempus tempus. Cras varius ante ut mattis lobortis. Cras tristique sed lorem id mattis. Aliquam sodales velit ut consequat consectetur. Sed rutrum nisl id maximus bibendum. Nunc consequat velit vel consectetur fringilla. Sed pretium rutrum ex eget fringilla. Suspendisse potenti. Praesent in leo eu arcu dictum ultrices faucibus quis neque. Nulla vulputate mauris libero, sit amet imperdiet tortor lobortis at. Nulla id laoreet mauris. Sed in eleifend erat. Nullam sit amet fringilla lectus. 
 
-<img src="/template-information-site/assets/images/sample_subject/bird2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird2.jpg)

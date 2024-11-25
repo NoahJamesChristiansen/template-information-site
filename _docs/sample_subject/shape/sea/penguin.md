@@ -22,7 +22,7 @@ Aliquam at rutrum nisi. Praesent accumsan, ipsum non accumsan tristique, orci od
 
 Phasellus aliquet nisl sed vulputate sodales. Sed fringilla augue id erat volutpat, eget pulvinar est sollicitudin. Mauris luctus, sapien et ultrices mollis, metus odio lacinia dolor, suscipit dignissim nunc quam ut ligula. Curabitur a nisl in quam euismod tempus. Donec sagittis fermentum augue, non pharetra velit faucibus quis. Donec non felis id massa sodales gravida ut nec neque. Vivamus nec finibus neque. Proin lobortis leo non lorem dignissim, vel lacinia diam bibendum. In vitae felis tempor sapien dignissim sagittis et at purus. Nunc rhoncus ante posuere, posuere nisl a, tristique nibh. Duis at sapien dolor.
 
-<img src="/template-information-site/assets/images/sample_subject/penguin1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/penguin1.jpg)
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc interdum, lorem in lacinia convallis, libero velit consectetur risus, vitae pulvinar orci libero vel ante. Vivamus vel pretium velit, sit amet suscipit dolor. Duis et vehicula ipsum. Pellentesque tristique, lectus molestie vulputate accumsan, ex ligula mollis ipsum, et vehicula massa nisl non tortor. Vestibulum venenatis nisi in justo rhoncus semper. Phasellus facilisis ultricies luctus. Nunc dapibus nec tellus vitae commodo. Vivamus eleifend, nibh nec sagittis commodo, dolor sem vulputate lectus, et tristique nibh felis quis justo.<sup>[1]</sup>
 
@@ -32,7 +32,7 @@ Suspendisse volutpat faucibus odio id maximus. Integer eget lacus diam. Morbi in
 
 Aliquam nec elit nec velit tincidunt tempor. Pellentesque dapibus a metus nec convallis. Nunc rhoncus ante rutrum commodo faucibus. In commodo lobortis magna non pretium. Nunc molestie maximus eros, ac pharetra enim accumsan eu. Integer lobortis lorem non mi ultricies pretium. Mauris ultrices sed nunc eu tempus. Pellentesque ante velit, varius ac eros sit amet, tincidunt interdum lorem. Sed eget suscipit dolor, ac congue sapien. In porta odio in feugiat dapibus. Etiam blandit turpis ut sem sagittis sodales. Sed aliquet enim id dolor accumsan tincidunt. Aenean scelerisque in justo eu efficitur. 
 
-<img src="/template-information-site/assets/images/sample_subject/penguin2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/penguin2.jpg)
 
 Donec efficitur rhoncus libero id euismod. Vivamus ornare purus a ligula hendrerit consectetur. Morbi dictum velit sed enim gravida euismod. Proin lectus nisl, rutrum vel dignissim in, sollicitudin ut nisl. Phasellus dictum eget elit id interdum. Integer lacus tellus, ornare at porttitor vitae, tristique sit amet felis. Cras interdum risus quis sollicitudin cursus. Sed id nulla non tortor mollis posuere. Sed blandit arcu massa, ullamcorper placerat ante dignissim ac.
 

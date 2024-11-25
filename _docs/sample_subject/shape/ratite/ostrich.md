@@ -20,7 +20,7 @@ Fusce ultrices aliquet risus, et dignissim erat pretium eget. Aenean ac turpis m
 
 Suspendisse at nulla luctus, porttitor leo sit amet, varius leo. Pellentesque mattis, orci id consectetur gravida, enim ante rutrum sapien, sagittis dapibus sem tellus ut lacus. Donec dictum fringilla odio, id sagittis magna gravida faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas cursus auctor luctus. Phasellus scelerisque mi viverra nunc commodo dictum. Donec ut ex a lacus interdum tristique sit amet eu nisl. Morbi faucibus placerat egestas. In pulvinar nulla ac dignissim volutpat. Donec augue enim, dictum quis rutrum nec, dictum in nunc. In gravida, urna nec placerat scelerisque, odio justo molestie odio, facilisis molestie ipsum nisl in justo. Mauris ultrices lacus tincidunt, rutrum lorem eget, euismod leo. Praesent sem ante, accumsan eu venenatis ac, rhoncus at ligula. Fusce at ultricies justo, sed ultricies sem. 
 
-<img src="/template-information-site/assets/images/sample_subject/ostrich1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/ostrich1.jpg)
 
 Morbi convallis augue eros, ac mollis lectus sodales nec. Proin in convallis elit, lacinia pulvinar mauris. Sed suscipit auctor sagittis. Phasellus massa massa, commodo eget laoreet eu, luctus sed lorem. Phasellus placerat accumsan tortor, non faucibus metus aliquet in. Phasellus ultricies iaculis augue vel varius. Nullam justo augue, dapibus a est eu, placerat sagittis felis. Nullam sagittis ultrices mauris ac viverra. Quisque suscipit consequat ante, ac porttitor libero lobortis eget. Pellentesque quam sem, malesuada a varius nec, mollis vel nisl. Duis orci ex, efficitur ac auctor non, lobortis sed tortor. Nunc a tellus nec enim ultricies convallis. Vestibulum mollis sit amet ligula nec placerat.<sup>[1]</sup>
 
@@ -36,7 +36,7 @@ Proin mollis ante purus, in condimentum ex suscipit vitae. Integer viverra velit
 
 Duis nec mattis odio, ac facilisis nulla. Suspendisse varius augue nisi, vel aliquet eros mattis eget. Donec tristique suscipit ipsum vitae placerat. Curabitur placerat justo ut nulla gravida, at pulvinar tellus imperdiet. Nulla ultrices congue massa, non eleifend dui. Sed feugiat rhoncus fermentum. Ut dictum, turpis et suscipit fermentum, ante lacus aliquam erat, euismod vehicula libero est id leo. Donec eleifend non tortor ut iaculis. Vivamus fringilla et libero eu viverra.<sup>[3]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/ostrich2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/ostrich2.jpg)
 
 Phasellus eget orci tincidunt, porttitor purus sed, eleifend libero. Donec ornare, libero sit amet feugiat finibus, sem sapien efficitur mi, egestas sagittis urna sapien non mauris. Ut tincidunt ipsum enim, in tristique ligula ullamcorper non. Praesent condimentum quam sed sollicitudin blandit. Sed pulvinar justo vitae sagittis hendrerit. Proin tellus eros, posuere quis convallis id, volutpat vitae massa. Phasellus sit amet urna sit amet erat varius condimentum non sit amet ligula. Ut faucibus quam ut sem ultrices, ut hendrerit augue egestas. Vestibulum eget rutrum leo. Fusce commodo malesuada nunc, nec faucibus massa tristique vel.
 

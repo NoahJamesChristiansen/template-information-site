@@ -20,7 +20,7 @@ Vestibulum fringilla, nulla vitae rhoncus porta, libero neque convallis metus, s
 
 Maecenas vel interdum tellus, id tristique libero. Pellentesque mattis lorem sit amet urna volutpat, vel bibendum massa mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean ut velit in tortor congue fermentum. Sed gravida nulla et sodales dignissim. Curabitur lacus lorem, porta eget erat maximus, posuere pellentesque nunc. Fusce a ligula at purus viverra rutrum sit amet id dui. Aliquam neque nulla, posuere a eleifend ut, viverra in odio. Sed sed nibh nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.<sup>[1]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/bird9.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird9.jpg)
 
 Phasellus diam diam, semper sed porttitor ac, aliquam elementum dui. Curabitur cursus ex aliquam lectus aliquet aliquam. Vivamus et felis ex. Mauris non fringilla ligula. Sed vitae ipsum commodo, maximus sapien quis, tempus libero. Donec id ex ex. Pellentesque nibh elit, pellentesque nec vulputate a, egestas eu risus. Phasellus non nisl dictum, hendrerit metus dignissim, maximus urna. Ut finibus eros ac nibh malesuada, vitae convallis ex ultrices. Morbi pretium efficitur est, vitae lacinia quam ullamcorper tempor. Pellentesque in est ac dolor aliquam gravida.<sup>[2]</sup>
 
@@ -28,7 +28,7 @@ Phasellus diam diam, semper sed porttitor ac, aliquam elementum dui. Curabitur c
 
 Vivamus viverra tortor vitae nisl varius consectetur vitae et magna. Sed accumsan eros risus. Aenean vehicula, metus nec imperdiet fermentum, libero urna laoreet justo, in ullamcorper ante sem vel ipsum. Nulla ac feugiat elit. Nulla venenatis, odio eu blandit facilisis, magna leo finibus turpis, eget laoreet eros erat ut neque. Aliquam vitae risus lorem. Nam ac leo nec est aliquam tempus. Aenean vel dolor felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer hendrerit urna eu libero aliquam gravida. Suspendisse magna urna, interdum non risus non, semper sodales lacus. 
 
-<img src="/template-information-site/assets/images/sample_subject/bird10.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/bird10.jpg)
 
 Phasellus lobortis purus tempus odio pharetra bibendum. Maecenas imperdiet sodales cursus. Cras malesuada magna in congue imperdiet. Integer commodo purus nec dolor commodo, a posuere augue ullamcorper. Pellentesque vitae dictum felis. Sed magna orci, semper a vehicula sit amet, interdum eget diam. Quisque sagittis congue quam, ac aliquam metus posuere quis. Curabitur sed lorem sed justo facilisis eleifend ac ac mi. Phasellus imperdiet tellus magna, volutpat ultricies velit imperdiet id. Nunc porta interdum nisl a feugiat. Pellentesque lectus lectus, hendrerit sit amet vehicula vel, eleifend et tellus. Aenean fringilla feugiat dui, in auctor neque cursus eget.
 

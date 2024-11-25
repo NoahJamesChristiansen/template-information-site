@@ -20,7 +20,7 @@ Proin quis volutpat lectus. Mauris rutrum est in magna consequat ultrices. Nulla
 
 Integer in velit ex. Phasellus in bibendum velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales aliquam nibh, fermentum tincidunt sem pulvinar eu. Fusce rhoncus laoreet quam, vitae blandit nisi tempus id. Phasellus elementum tortor ac justo eleifend, non lobortis mauris pellentesque. Vestibulum a hendrerit urna. Cras quis massa dapibus, rhoncus quam ut, sollicitudin erat. Vestibulum quis elit eu tortor tempor tristique et eget erat. Fusce nec dolor non lectus sagittis egestas. Sed consectetur imperdiet dui ut imperdiet. Vestibulum nec pellentesque sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean gravida placerat mattis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-<img src="/template-information-site/assets/images/sample_subject/thrush1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/thrush1.jpg)
 
 Curabitur bibendum faucibus eros nec dapibus. Duis imperdiet lacinia turpis. Donec sodales odio a tristique dapibus. Vestibulum id arcu laoreet, viverra justo vel, venenatis magna. Donec tincidunt elementum odio eget interdum. Pellentesque nec hendrerit purus. Pellentesque hendrerit mauris sed eros tincidunt, vitae vulputate metus lobortis. Mauris vel sem lacus. Duis ultrices augue ultrices euismod molestie. Donec suscipit urna elit, congue hendrerit sem vestibulum non. Phasellus faucibus lorem in orci scelerisque, non bibendum velit cursus. Mauris congue sagittis enim, ut vulputate turpis consectetur in. Suspendisse mattis volutpat varius.<sup>[2]</sup>
 
@@ -38,7 +38,7 @@ Pellentesque ullamcorper justo a efficitur sollicitudin. Donec feugiat justo eu 
 
 Pellentesque efficitur ullamcorper elementum. Ut eget risus ac quam facilisis sollicitudin a et nunc. In hac habitasse platea dictumst. Vestibulum finibus mollis libero, sit amet cursus dui semper a. Nulla in felis condimentum, euismod lorem quis, mattis metus. Curabitur enim risus, tincidunt eu ultricies vitae, rutrum eget lorem. Quisque hendrerit vel nulla vestibulum porttitor. Maecenas sed sapien id tellus ullamcorper dapibus eget non ligula. 
 
-<img src="/template-information-site/assets/images/sample_subject/thrush2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/thrush2.jpg)
 
 Nunc tempus eu dui aliquam vulputate. Nunc ornare nisi lorem, consequat ultricies lacus mattis vel. Vivamus pellentesque porta erat placerat mattis. Phasellus at mi aliquam, varius velit non, accumsan purus. Donec ante erat, fringilla vitae arcu ut, consectetur gravida magna. Sed vulputate sapien sed pretium volutpat. Vestibulum tincidunt metus ac sodales condimentum. Etiam dignissim ex ut est dapibus, in scelerisque leo suscipit. Vivamus justo massa, porttitor non ornare vitae, gravida sodales mauris. Etiam tincidunt vehicula enim in vulputate.<sup>[4]</sup>
 

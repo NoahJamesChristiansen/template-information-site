@@ -28,7 +28,7 @@ Sed pellentesque eget magna sit amet viverra. Donec in ante in purus imperdiet c
 
 Aliquam at hendrerit felis, ut viverra erat. Nulla velit ex, bibendum quis interdum id, finibus a purus. Cras sed mauris et ante hendrerit bibendum. Praesent scelerisque, ante non sollicitudin faucibus, ligula libero tempus magna, a hendrerit risus augue sed libero. Integer viverra dapibus varius. Vivamus venenatis condimentum urna vitae hendrerit. Mauris lacinia libero ac eleifend dignissim. Nulla congue interdum imperdiet. Mauris tristique tincidunt ante, in lacinia nulla vestibulum fringilla. 
 
-<img src="/template-information-site/assets/images/sample_subject/game1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/game1.jpg)
 
 Suspendisse ullamcorper ultricies ante, sed scelerisque turpis tincidunt et. Donec a nunc velit. Mauris dapibus, massa eu varius vestibulum, felis ante facilisis magna, sit amet fermentum sapien massa pharetra orci. Proin at velit eu mi laoreet elementum vel eu nibh. Morbi semper tellus nisi, id blandit orci vehicula ac. Pellentesque cursus sem nec blandit vestibulum. Donec tortor massa, accumsan id lacinia eget, sagittis eget nisi. Pellentesque ut aliquet erat. Aliquam lacus massa, malesuada eu ante in, pretium placerat ante. Sed aliquam sem et urna accumsan tincidunt. Nulla facilisis tempus scelerisque. Quisque consequat velit eu tellus mattis tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<sup>[3]</sup>
 
@@ -38,7 +38,7 @@ Pellentesque in velit justo. Sed a fermentum diam, non maximus turpis. Ut laoree
 
 Proin porta interdum enim at auctor. Sed libero massa, vulputate sit amet porttitor et, placerat eget mauris. Proin imperdiet lorem sed elementum commodo. Nulla sed lectus nec ligula euismod scelerisque quis ut nibh. Phasellus quis euismod ligula. Nulla blandit ipsum turpis, eget cursus urna cursus quis. Suspendisse ut orci id tellus pulvinar fringilla sed eget metus. Mauris feugiat, ipsum ac efficitur laoreet, sem velit ornare elit, ac porta diam tellus sed urna. Sed sit amet risus convallis, finibus sem vel, lacinia risus. Duis tempor porttitor augue eget sagittis. Maecenas vel orci faucibus, maximus purus a, cursus mauris.<sup>[4]</sup>
 
-<img src="/template-information-site/assets/images/sample_subject/game2.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
+![Put alt text here.](/template-information-site/assets/images/sample_subject/game2.jpg)
 
 # Reproduction
 
