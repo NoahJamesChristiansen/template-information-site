@@ -79,7 +79,29 @@
                 e.preventDefault();
                 $("#docnavsidebar").navgoco('toggle', true);
             });
+            
+            updateSideBar();
         });
+        
+        $(window).resize(function() {
+            updateSideBar();
+        });
+        
+        function updateSideBar() {
+            var x = window.matchMedia("(max-width: 766px)");
+            var mydocsidebar = ".mydocsidebar";
+
+
+            if(x.matches)
+            {
+                $(mydocsidebar).addClass("collapse");
+            }
+            else
+            {
+                $(mydocsidebar).removeClass("collapse");
+                $(mydocsidebar).css({ });
+            }
+        }
 
     </script>
 
