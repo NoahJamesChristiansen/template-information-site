@@ -1,28 +1,8 @@
 {% assign sidebar = site.data[page.sidebar] %}
-<div class="mydocsidebar">
+<div class="collapse mydocsidebar">
 
 
 <div class="sidebar-inner">
-
-
-  {% if site.search_in_sidebar == true %}
-<!-- search bar - uses Lunr.js  -->
-
-<div class="sidebarSearchBar">
-<form action="search.html" method="get">
-  <div class="input-group search">
-    <input type="text" id="search-box" name="query" class="form-control" placeholder="{{site.uistring.search_placeholder_text}}">
-    <div class="input-group-btn">
-      <button class="btn btn-default" type="submit" value="search">
-        <i class="glyphicon glyphicon-search"></i>
-      </button>
-    </div>
-  </div>
-</form>
-</div>
-
-<!-- end search bar -->
-{% endif %}
 
 {% unless page.sidebar == null %}
 

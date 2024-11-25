@@ -1,3 +1,6 @@
+11-25-2024:
+- Started improving mobile layout.
+
 11-24-2024:
 - Fixed a few link bugs.
 - Fixed search again.
