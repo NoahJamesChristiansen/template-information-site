@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Doc Project: A Jekyll theme for documentation"
+title: "My Little Corner of the Internet"
 permalink: index.html
 sidebar: home
 type: homepage
