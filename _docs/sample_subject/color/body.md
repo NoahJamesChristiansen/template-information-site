@@ -40,6 +40,8 @@ In eros mauris, porta sit amet est eu, bibendum aliquet felis. Nam pretium, augu
 
 <img src="/template-information-site/assets/images/sample_subject/birdfeet1.jpg" alt="Put alt text here for visually impaired users, or users with very slow internet connections."/>
 
+![Put alt text here.](assets/images/sample_subject/birdfeet1.jpg)
+
 Nam vel posuere dolor. Aenean accumsan faucibus dui non suscipit. Aliquam pellentesque quis risus sed egestas. Nunc sit amet eros diam. Nam congue leo ut tortor feugiat rhoncus. Nam scelerisque vel ligula imperdiet vehicula. Sed vitae quam non sem aliquam iaculis sed at nibh. Nam fringilla nisl nec risus malesuada, ut vestibulum dui cursus. In vel mauris eget diam tincidunt molestie. Nulla porttitor mauris id mi aliquet, non finibus ante volutpat. Sed orci ligula, malesuada sed bibendum ac, vehicula dapibus lorem. Nunc quis nulla finibus, tristique nunc ut, viverra eros. Morbi nisi dui, congue in euismod a, condimentum in risus.
 
 Duis luctus neque lorem, a mollis dui semper a. Ut at lorem nisi. Cras hendrerit nulla a lorem ultricies ullamcorper. Nullam sollicitudin vel tortor eu gravida. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam a ex at turpis pellentesque pharetra. Proin ac lectus efficitur, viverra erat sit amet, porta justo. Duis tempus, nulla vel blandit fermentum, turpis odio dignissim ante, ac scelerisque mauris est vulputate nibh. Phasellus rutrum semper sem, sit amet ultrices erat sodales ut. Mauris justo erat, pulvinar ac elit quis, bibendum porta nunc. Etiam posuere diam augue, a euismod neque egestas eget. 

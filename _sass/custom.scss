@@ -11,14 +11,6 @@ li {
   line-height: 2.4rem;
 }
 
-@media (min-width: 767px)
-{
-p, .alert, pre, ol li ul li, ol li ol li {
-  max-width: 90%;
-}
-
-}
-
 .text-center {
   padding-top: 20px;
 }
