@@ -25,5 +25,24 @@
         padding-bottom: 0px;
         padding-top: 25px;
     }
+    
+    h1,h2,h3,h4,h5,h6{
+        word-wrap: break-word;
+    }
+    
+    .navbar-header{
+        width: 100vw;
+    }
+    
+    .mydocsidebar{
+        padding-bottom: 25px;
+    }
 
+    .blog-name {
+	    margin-top: 0px;
+    }
+    
+    .main-no-sidebar{
+        margin: 0px 0px
+    }
 }
