@@ -28,12 +28,16 @@
     
     .sidebar-inner .external,
     #docnavsidebar .docnav {
-        font-size: 28px;
+        font-size: 20px;
         margin: 0px;
     }
     
     h1,h2,h3,h4,h5,h6{
         word-wrap: break-word;
+    }
+    
+    .navbar {
+	    width: 100vw;
     }
     
     .navbar-header{
@@ -64,31 +68,67 @@
     }
         
     .docnav a {
-	    font-size: 20px;
+	    font-size: 18px;
     }
     
     .docnav li a {
-	    line-height: 24px;
+	    line-height: 20px;
 	    text-indent: 30px;
     }
     
     .docnav li.level1 > a > span::after, .docnav li.level2 > a > span::after, .docnav li.level3 > a > span::after,
     .docnav li.open > a > span::after {
-	    font-size: 20px;
+	    font-size: 18px;
 	    padding-right: 16px;
     }
     
     .productTitle {
-	    font-size: 48px;
+	    font-size: 40px;
     }
     
     .relatedResources {
-	    font-size: 28px;
+	    font-size: 24px;
 	    font-weight: bold;
+	    padding-left: 15px;
     }
     
     ul#entrypages li {
-	    font-size: 20px;
+	    font-size: 18px;
 	    line-height: 1.5em;
+    }
+    
+    /* Main Layout */
+    
+    .col-xs-12 {
+	    padding: 0px 40px;
+    }
+    
+    blockquote {
+	    padding: 20px 20px 20px;
+	    margin: 0px 0px;
+	    width: 95%;
+    }
+    
+    .post blockquote p {
+	    min-width: 0px;
+	    font-size: 11pt;
+	    line-height: 2em;
+    }
+    
+    .paddingtop-bottom {
+	    margin-left: 20px;
+    }
+    
+    .footertop {
+	    min-height: 30px;
+	    margin-top: 0px;
+    }
+    
+    .bottom-links {
+	    padding-bottom: 30px;
+    }
+    
+    .heading7 {
+	    margin-bottom: 10px;
     }
 }
