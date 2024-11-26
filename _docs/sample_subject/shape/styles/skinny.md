@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/styles/long
 prev_doc: docs/sample_subject/shape/styles/round
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_shape_skinny.jpg
+summary: A summary of skinny birds.
 ---
 
 Aliquam vehicula eros egestas facilisis molestie. Donec non magna ut orci posuere rutrum. Fusce tincidunt blandit eleifend. Nulla vitae mauris ut tortor fringilla pretium. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquet turpis a euismod porttitor. Vestibulum quis ornare lorem, id vestibulum nibh. Proin dignissim erat tristique augue pellentesque, ac luctus lectus laoreet. Suspendisse viverra convallis ligula.

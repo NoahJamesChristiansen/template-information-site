@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/sea/penguin
 prev_doc: docs/sample_subject/shape/sea/seagull
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_sea_pelican.jpg
+summary: A summary of pelicans.
 ---
 
 Quisque euismod euismod dignissim. Phasellus rhoncus, mi vel sagittis sollicitudin, nulla orci euismod lorem, porta egestas velit odio eu massa. Integer vel nibh hendrerit, interdum tellus non, cursus metus. Cras in luctus risus, ut consectetur ipsum. Integer tempus fringilla ante vitae venenatis. Aliquam dapibus dui et nisi varius cursus. Aenean ornare sapien facilisis lacus bibendum, in bibendum leo porttitor. Sed eu dui neque. Donec semper eros at enim iaculis, ut interdum enim sagittis. Ut nec gravida purus. Curabitur nulla nunc, fringilla at augue vel, vulputate viverra dui. Curabitur et sapien eget risus facilisis maximus. Pellentesque vitae viverra sapien, eu malesuada mauris.

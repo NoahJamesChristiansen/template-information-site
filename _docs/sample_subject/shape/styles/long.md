@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/ratite/intro
 prev_doc: docs/sample_subject/shape/styles/skinny
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_shape_long.jpg
+summary: A summary of long birds.
 ---
 
 Fusce eget ornare tortor. Duis cursus eleifend dolor eu efficitur. Ut vitae euismod diam. Donec placerat non tellus pellentesque sagittis. Sed id dolor sit amet tortor vulputate convallis. Curabitur lectus purus, lacinia et odio a, ultricies malesuada libero. Suspendisse malesuada, dui sed rutrum auctor, urna risus fringilla lacus, at condimentum orci urna et felis. Donec ac enim ex. Vestibulum quis purus eget risus ullamcorper ornare facilisis ac arcu. 

@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/ratite/ostrich
 prev_doc: docs/sample_subject/shape/styles/long
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_ratite_intro.jpg
+summary: An introduction to flightless birds of the ratite family, like ostriches, emus and cassowaries.
 ---
 
 Fusce nisi neque, tempus ac lacinia in, hendrerit nec augue. Donec efficitur enim non laoreet aliquam. Suspendisse dignissim justo sit amet elit suscipit ultrices. Phasellus consequat, dui id varius pellentesque, eros diam molestie ipsum, nec iaculis arcu velit non diam. In posuere magna vitae risus pellentesque viverra. Praesent sed nisl quis arcu rhoncus viverra quis tristique sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ipsum risus, convallis et laoreet sit amet, hendrerit quis ante. Donec eget interdum justo. Aliquam quis metus a risus laoreet posuere. Suspendisse placerat in nisl a scelerisque.

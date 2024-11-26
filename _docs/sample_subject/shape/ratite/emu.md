@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/fowl/intro
 prev_doc: docs/sample_subject/shape/ratite/ostrich
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_ratite_emu.jpg
+summary: A summary of emus.
 ---
 
 Cras pellentesque id nunc id elementum. Donec tristique dolor id est vehicula, a dictum quam vestibulum. Sed ultricies tincidunt egestas. Proin at ullamcorper ex, nec dapibus augue. Sed id iaculis risus, ut commodo sapien. Proin sit amet porta ante. Sed scelerisque ligula risus, non mattis nibh pellentesque ut. Maecenas mattis tristique felis, quis commodo turpis vehicula vitae. Donec commodo ultrices mattis. Sed et elit sit amet eros rutrum aliquam non vitae nisl. Etiam vitae neque posuere tortor hendrerit hendrerit. Nullam tincidunt malesuada libero. Suspendisse potenti. Aliquam in risus magna.

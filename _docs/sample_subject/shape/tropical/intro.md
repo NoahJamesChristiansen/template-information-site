@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/tropical/parrot
 prev_doc: docs/sample_subject/shape/sea/penguin
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_tropical_intro.jpg
+summary: An introduction to tropical birds.
 ---
 
  Phasellus et faucibus eros. Donec convallis, leo eu eleifend posuere, magna ligula egestas magna, at iaculis dolor quam eu metus. Vestibulum iaculis iaculis est, condimentum aliquet mi. Sed in orci ultrices orci accumsan commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam sit amet lobortis arcu, non pulvinar felis. Curabitur volutpat, lectus eget volutpat tempor, elit sem pulvinar magna, ac ornare ante augue eget libero. Aenean convallis lorem nec mi luctus commodo.

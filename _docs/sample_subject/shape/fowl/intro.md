@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/fowl/game
 prev_doc: docs/sample_subject/shape/ratite/emu
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_fowl_intro.jpg
+summary: An introduction to fowl birds (game birds and waterfowl).
 ---
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu leo convallis, pharetra arcu eget, convallis felis. Morbi nisi arcu, sollicitudin sed condimentum nec, tincidunt at lacus. Proin id vehicula ex. Nunc sed placerat libero. Aliquam ac nisl neque. Praesent quis augue id dui blandit bibendum nec sed leo. Morbi velit nisl, scelerisque et dui sed, bibendum fermentum turpis. Integer dictum nibh suscipit mi tincidunt interdum. Ut gravida porttitor mauris, sit amet blandit dui pharetra non. Morbi sed nibh vitae risus vehicula volutpat ac eu risus. Donec non luctus odio. Maecenas id pellentesque odio, sit amet gravida leo. Sed ante urna, tempor vel velit sit amet, facilisis dignissim magna. Vestibulum pretium porttitor ligula.

@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/tropical/bird_of_paradise
 prev_doc: docs/sample_subject/shape/tropical/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_tropical_parrot.jpg
+summary: A summary of parrots.
 ---
 
 Maecenas vehicula, tellus eget viverra feugiat, turpis ex fringilla elit, vitae porttitor nisl leo ut lectus. Donec nec tincidunt neque, sit amet gravida odio. Nulla facilisi. Cras congue eros quis felis pretium elementum. In ultrices efficitur tempor. In maximus iaculis quam sed pretium. Donec eros velit, rhoncus sed laoreet tincidunt, consequat eu magna. In massa diam, vulputate sed elementum eget, fermentum a erat. Mauris viverra sollicitudin nibh, vitae tincidunt lectus pharetra auctor. Aliquam erat volutpat. Nulla elementum posuere risus, eu rhoncus libero. Aliquam erat volutpat. Praesent dignissim turpis ac magna efficitur, a dignissim nibh sagittis. Maecenas cursus, velit in faucibus imperdiet, enim felis convallis nisl, eget suscipit sapien nulla vel erat. 

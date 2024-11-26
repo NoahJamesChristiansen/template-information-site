@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/fowl/water
 prev_doc: docs/sample_subject/shape/fowl/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_fowl_game.jpg
+summary: A summary of game birds.
 ---
 
 Cras sit amet leo neque. Aenean sed varius nisi, quis interdum ante. Morbi lacinia porta vehicula. Curabitur malesuada eleifend mauris ac fermentum. Pellentesque egestas, leo sit amet dapibus rhoncus, augue neque consequat sapien, sed dictum leo sem sit amet augue. Pellentesque luctus enim et enim dapibus, a facilisis velit vulputate. Sed sed placerat sapien, vitae fermentum ex. 

@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/sounds/intro
 prev_doc: docs/sample_subject/shape/songbird/thrush
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_song_finch.jpg
+summary: A summary of finches.
 ---
 
 Curabitur urna eros, pharetra quis rhoncus eget, consectetur eu dui. Vestibulum finibus urna nec finibus auctor. Vestibulum at nisi in urna imperdiet hendrerit sed quis ligula. Integer at lorem porttitor, auctor nulla vitae, tristique justo. In nulla tortor, eleifend non diam facilisis, eleifend vestibulum nulla. Maecenas nec nisl quis felis vehicula suscipit sed vel mauris. Maecenas a nibh fermentum, porttitor orci eget, posuere magna. Phasellus ullamcorper ante eu elit ornare, sit amet gravida libero placerat. 

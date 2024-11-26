@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/songbird/finch
 prev_doc: docs/sample_subject/shape/songbird/corvid
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_song_thrush.jpg
+summary: A summary of thrushes.
 ---
 
 * TOC

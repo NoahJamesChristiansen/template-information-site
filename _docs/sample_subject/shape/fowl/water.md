@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/sea/intro
 prev_doc: docs/sample_subject/shape/fowl/game
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_fowl_water.jpg
+summary: A summary of waterfowl.
 ---
 
 Duis lorem turpis, tincidunt ultricies diam maximus, imperdiet sagittis ex. Sed rhoncus accumsan nisi, sed feugiat sapien porttitor sit amet. Mauris mollis fermentum ornare. Phasellus semper tristique ipsum, non ullamcorper neque semper vulputate. Cras ultrices in nisi eu pulvinar. Aliquam erat volutpat. Nunc luctus sapien vel dolor sollicitudin accumsan. Sed malesuada mollis nunc, at egestas est ornare vitae. Quisque posuere nibh vitae turpis scelerisque suscipit. Cras in felis sit amet orci pharetra cursus et at mi. Sed nec pellentesque ipsum. 

@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/sea/seagull
 prev_doc: docs/sample_subject/shape/fowl/water
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_sea_intro.jpg
+summary: An introduction to sea birds.
 ---
 
 Nunc in aliquam ante, at porta neque. Cras eget accumsan urna, non mollis ipsum. Cras nisi nulla, aliquet non aliquam at, interdum ac lorem. Praesent nibh tortor, hendrerit quis fringilla id, venenatis in leo. Vivamus a imperdiet enim. Ut non aliquet dolor, facilisis lobortis elit. In volutpat nibh ac ante lacinia, vel ornare magna cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed odio vitae dolor bibendum convallis quis in erat. Cras viverra mi at bibendum elementum. Aenean eu eros vel risus egestas gravida.

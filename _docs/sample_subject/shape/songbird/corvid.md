@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/songbird/thrush
 prev_doc: docs/sample_subject/shape/songbird/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_song_corvid.jpg
+summary: A summary of corvids.
 ---
 
  Vestibulum elementum massa et odio lacinia pretium. Ut scelerisque nibh orci, eu scelerisque purus semper a. Ut quis rutrum nibh, eget tempus diam. Morbi viverra nibh et purus iaculis, eu pulvinar ex pharetra. Integer eleifend dolor non mattis vehicula. Vestibulum et hendrerit dolor, quis tincidunt leo. Suspendisse eget vestibulum nisi.

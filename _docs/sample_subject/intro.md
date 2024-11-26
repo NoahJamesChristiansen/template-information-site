@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/color/color_intro
 prev_doc: 
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_img.jpg
+summary: An introduction to birds.
 ---
 
 Fusce id tristique nisi. Sed et nunc vitae mauris posuere facilisis. Praesent facilisis mattis purus, finibus tempus orci luctus quis. Nunc eget mi in elit lobortis lacinia ac eget augue. Fusce eu volutpat ligula. Aenean vehicula neque ligula, ac maximus orci dictum in. In in est diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis commodo lacus et congue faucibus. Vestibulum imperdiet, nisi nec mollis feugiat, urna leo tempor erat, sit amet lacinia nibh lorem lacinia ligula. Suspendisse a bibendum est, non tincidunt mi. Vestibulum varius lectus et dui elementum, eu tempus diam mollis. Nam mi sem, blandit sit amet metus ac, feugiat posuere dolor. Sed fringilla, mi ut iaculis cursus, sapien neque consectetur ligula, at tempus lectus magna vitae nibh. Aenean a luctus lectus. 

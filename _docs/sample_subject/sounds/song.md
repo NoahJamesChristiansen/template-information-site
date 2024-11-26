@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/sounds/display
 prev_doc: docs/sample_subject/sounds/call
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_sound3.jpg 
+summary: An analysis of bird songs.
 ---
 
 Cras suscipit purus sit amet mi gravida mattis. Nullam ac diam in lectus dictum scelerisque in eu ligula. Phasellus sit amet arcu quis erat suscipit dapibus sit amet et mi. Pellentesque vitae lobortis ex. Praesent vel arcu nec est commodo porttitor elementum aliquet enim. Proin feugiat euismod pharetra. Praesent augue diam, porta nec feugiat ac, placerat id felis. Mauris a suscipit enim, eget sollicitudin tellus. Maecenas eros nulla, maximus eget accumsan sed, cursus in lectus. Fusce dignissim, orci nec ultricies laoreet, magna sapien elementum sem, eget congue lacus nisl vitae lacus. In placerat ultrices quam at tincidunt. Cras elementum felis vitae vestibulum iaculis. 

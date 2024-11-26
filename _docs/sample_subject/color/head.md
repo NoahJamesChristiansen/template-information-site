@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/color/body
 prev_doc: docs/sample_subject/color/color_intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_color_face.jpg
+summary: An analysis of bird head colors.
 ---
 
 Donec imperdiet, dolor ut pretium semper, dolor diam blandit urna, finibus pharetra elit ante a mi. Nulla pulvinar purus at varius ultrices. Sed aliquam odio ipsum, a porttitor mauris bibendum eget. In hac habitasse platea dictumst. Etiam vitae quam metus. Nam aliquam massa diam, eget semper ipsum pellentesque et. Praesent ut nisl risus. Ut ultricies pellentesque elit, facilisis tincidunt mauris dignissim id. 

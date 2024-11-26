@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/tropical/intro
 prev_doc: docs/sample_subject/shape/sea/pelican
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_sea_penguin.jpg
+summary: A summary of penguins.
 ---
 
 Ut et ultricies nibh. Proin id convallis nibh. Proin tristique libero eu quam vehicula, id commodo turpis semper. Praesent iaculis sem eu eleifend ornare. Aliquam erat volutpat. Donec laoreet venenatis mi nec rutrum. Etiam finibus vestibulum facilisis. Quisque nec pretium risus. Mauris nunc risus, vulputate nec turpis eget, pretium imperdiet lacus. 

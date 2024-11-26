@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/styles/skinny
 prev_doc: docs/sample_subject/shape/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_shape_round.jpg
+summary: A summary of round birds.
 ---
 
 Mauris congue sem justo, ut efficitur nulla pharetra in. Ut odio sem, egestas a cursus a, varius et nisi. Morbi convallis pretium felis a iaculis. Quisque sed placerat augue. Curabitur tempor ex eu maximus pretium. Sed laoreet tortor venenatis nisl sollicitudin dapibus. Nullam rhoncus congue neque, nec tempus lectus posuere vitae. Proin vestibulum at nisl ut porta.

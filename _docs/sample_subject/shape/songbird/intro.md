@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/songbird/corvid
 prev_doc: docs/sample_subject/shape/tropical/bird_of_paradise
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_song_intro.jpg
+summary: An introduction to songbirds.
 ---
 
 Nunc placerat laoreet cursus. Maecenas sagittis ultricies mi, nec sagittis sem elementum vel. Morbi erat augue, venenatis ac risus ut, hendrerit dignissim enim. Duis ullamcorper tincidunt turpis et tincidunt. Pellentesque auctor sed tortor vel lobortis. Donec porta risus metus, ac cursus enim consectetur sit amet. Proin sollicitudin justo nibh, sed facilisis felis congue vitae. Vivamus et dapibus quam, pretium commodo neque. Cras faucibus magna et quam ornare, a pulvinar sapien semper. Morbi tincidunt faucibus lacus ut suscipit. Cras nec tincidunt nisl. Praesent dignissim mi nec nunc laoreet, at tempus erat tristique. Quisque pharetra eleifend nunc ut hendrerit. Aliquam enim lectus, finibus quis viverra ac, porttitor et enim. Quisque suscipit dui tellus, vel efficitur libero placerat a.

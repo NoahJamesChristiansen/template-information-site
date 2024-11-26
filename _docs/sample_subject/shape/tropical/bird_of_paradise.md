@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/songbird/intro
 prev_doc: docs/sample_subject/shape/tropical/parrot
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_tropical_paradise.jpg
+summary: A summary of birds of paradise.
 ---
 
 Fusce urna risus, porttitor ac quam a, semper interdum tortor. Donec mattis imperdiet lobortis. Donec condimentum porta purus eu lobortis. Proin fermentum id sem eu viverra. Ut tempor erat vitae magna eleifend, nec porta metus varius. Duis lectus metus, rhoncus in dolor ut, tempus condimentum mauris. Quisque porttitor accumsan varius. Integer sit amet orci dolor. Suspendisse eget sodales turpis. Proin hendrerit consequat venenatis. Cras euismod nunc ac metus interdum, et gravida odio condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed tincidunt molestie sagittis. Nam eget molestie erat. Fusce rutrum nisl augue, ac sagittis dui facilisis ut. Sed maximus dapibus ultrices. 

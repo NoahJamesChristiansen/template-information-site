@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/sea/pelican
 prev_doc: docs/sample_subject/shape/sea/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_sea_seagull.jpg
+summary: A summary of seagulls.
 ---
 
 Aenean vel ipsum ac tellus cursus condimentum. Quisque nec rutrum est. Phasellus quis sapien mollis, imperdiet lectus sed, pellentesque felis. Phasellus mattis volutpat massa eget consequat. Fusce nec dui accumsan, commodo neque sit amet, tincidunt magna. Proin a odio sit amet augue interdum tincidunt. Sed convallis nulla maximus mauris ultrices hendrerit. Morbi a accumsan ex. Proin ac tellus eget quam eleifend molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum vel justo nulla. Sed pharetra rutrum cursus. In hac habitasse platea dictumst.

@@ -1,5 +1,5 @@
 ---
-title: Introduction to Birds
+title: Introduction to Bird Shapes
 sidebar: sample_subject
 include_sidebar: true
 layout: document
@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/styles/round
 prev_doc: docs/sample_subject/color/tail
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_shape_intro.jpg 
+summary: An introduction to different shapes of birds.
 ---
 
 Praesent interdum turpis in ex pellentesque, vel tempus augue fermentum. Aliquam eu elit tempor, interdum enim vel, interdum augue. Nullam a purus volutpat, venenatis ipsum eget, auctor velit. Sed cursus velit sed odio fringilla, at maximus odio laoreet. Phasellus posuere lacinia auctor. Donec sem lacus, porttitor blandit auctor ut, consectetur ut urna. Suspendisse tortor lacus, consequat et feugiat ac, fringilla ac enim. In ac felis ac diam tincidunt cursus imperdiet eget sem. Curabitur eget eros eros. Curabitur rutrum est eget nunc semper, non mattis sapien pellentesque. Nunc ornare justo ac ultrices euismod. Nullam congue non dolor rutrum sagittis. 

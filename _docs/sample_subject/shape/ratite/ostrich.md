@@ -7,6 +7,7 @@ next_doc: docs/sample_subject/shape/ratite/emu
 prev_doc: docs/sample_subject/shape/ratite/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_subject/title_ratite_ostrich.jpg
+summary: A summary of ostriches.
 ---
 
 Donec luctus nisi non ex cursus, et sagittis quam dictum. Maecenas id tempor est. Etiam id odio consectetur, ullamcorper ante et, bibendum nisi. Quisque commodo efficitur felis id tristique. Proin tellus sapien, ultrices vitae diam finibus, facilisis feugiat magna. Nulla facilisi. Aliquam fringilla pellentesque nisi, ac blandit arcu. Vestibulum et neque nisi. Nulla et odio tellus. Suspendisse potenti. 
