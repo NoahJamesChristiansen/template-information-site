@@ -7,6 +7,7 @@ next_doc:
 prev_doc: /docs/sample_time/modern/economy
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title40.jpg
+summary: A list of modern time challenges the state of Gallunesia struggles with.
 ---
 
 Mauris libero velit, luctus quis quam elementum, suscipit tristique dui. Etiam eget mauris erat. Phasellus justo nunc, consequat quis aliquam tempor, tempus lacinia ipsum. Maecenas efficitur augue et tempus condimentum. Etiam commodo erat eu sapien commodo tristique. Quisque vel bibendum erat. Nullam pretium arcu sem, in ultrices dolor luctus a.

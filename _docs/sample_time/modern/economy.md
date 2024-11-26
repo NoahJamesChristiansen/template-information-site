@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/challenges
 prev_doc: /docs/sample_time/modern/international
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title39.jpg
+summary: An analysis of the modern Gallunesian economy.
 ---
 
 Mauris eget luctus ligula. Nulla malesuada maximus orci sit amet iaculis. Cras ut nibh sapien. Proin gravida tincidunt mi, vitae sodales felis lacinia eu. Quisque sit amet risus felis. Vivamus nec rhoncus eros. Etiam sit amet lectus non eros maximus imperdiet eget vel libero. Vestibulum vel nulla in justo tincidunt gravida sit amet eu odio. Curabitur posuere tempor mauris ut interdum. Nulla at venenatis est. Sed id tempor quam. 

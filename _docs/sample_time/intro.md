@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/intro
 prev_doc: 
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title1.jpg
+summary: An introduction to the state of Gallunesia and its history.
 ---
 
 In mattis dapibus sem, eget vulputate erat faucibus ac. Aenean augue tellus, sagittis ut turpis nec, dapibus mollis ipsum. Nunc quis maximus mauris. Nulla euismod consectetur vehicula. Proin a ex auctor, dictum leo in, accumsan neque. Aliquam et nulla vel nisl semper convallis. Ut vel sollicitudin erat. Nam molestie lacus vel lectus blandit tempor. Vestibulum at risus sed felis molestie sodales. Aliquam placerat elit sem, eu ornare ligula commodo vitae. Donec a dui hendrerit, porta risus in, lacinia enim.

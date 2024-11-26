@@ -6,6 +6,7 @@ layout: null
 	
   function displaySearchResults(results, store, page_start, searchTerm) {
     var results_per_page = 10;
+    var max_counter_results = 5;
     var start_results = (page_start - 1) * results_per_page;
     var end_results = (page_start) * results_per_page;
     var max_results = Math.min(end_results, results.length);
@@ -49,6 +50,44 @@ layout: null
       }
       
       appendString += '</p>';
+      
+      // following does number counter pages
+      
+      var marked = false;
+      
+      if(results.length > 1)
+      {
+        appendString += '<p class="search-result-page" style="font-size: 16px;"> Pages: ';
+        
+        var max_page_no = Math.floor(results.length / results_per_page);
+        
+        // iterate through each result
+        for (var i = 0; i < results.length; i+=results_per_page) 
+        {
+            var page_no = i / results_per_page;
+        
+            if(page_no < 0)
+            {
+                appendString += " ";
+            }
+        
+            // if answer is within the range of counter results
+            if(page_no < max_counter_results || page_no > (max_page_no - max_counter_results))
+            {
+                appendString += '<a href="' + window.homeurl + '/search.html?query=' + searchTerm + '&page=' + (page_no + 1) + '">' + (page_no+1) + '</a>';
+            }
+            else
+            {
+                if(!marked)
+                {
+                    marked = true;
+                    appendString += "... "
+                }
+            }
+        }
+        
+        appendString += '</p>';
+      }
 
       searchResults.innerHTML = appendString;
     } else {

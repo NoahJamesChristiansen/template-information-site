@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/domestic
 prev_doc: /docs/sample_time/modern/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title36.jpg
+summary: An analysis of cultural influences in modern Gallunesia.
 ---
 
 Nunc dictum scelerisque cursus. Etiam ex turpis, eleifend non faucibus sit amet, interdum et risus. Pellentesque nulla enim, dignissim quis dolor ac, finibus suscipit nunc. Aliquam volutpat facilisis sagittis. Etiam ligula lectus, sodales in lacinia id, aliquam non ligula. Vestibulum id tortor enim. In mauris urna, finibus in dui in, vehicula dictum orci. Sed egestas metus ac eros feugiat convallis condimentum et neque. Nulla facilisi. Donec ligula felis, scelerisque et cursus at, tincidunt egestas diam. In vestibulum purus a risus tristique fringilla. 

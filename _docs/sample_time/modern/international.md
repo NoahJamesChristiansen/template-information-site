@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/economy
 prev_doc: /docs/sample_time/modern/domestic
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title38.jpg
+summary: An analysis of modern international politics in Gallunesia.
 ---
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur vel purus fermentum odio euismod rutrum. Morbi sagittis tincidunt libero, at ultricies elit congue in. Nunc urna dolor, tincidunt sit amet ipsum quis, congue sodales justo. Aliquam laoreet fermentum ligula ac aliquam. Curabitur orci mi, dapibus facilisis lectus faucibus, malesuada fermentum nulla. Sed venenatis ex eu dui vehicula gravida. Mauris tincidunt dui magna, eget porta ipsum malesuada ac. Quisque scelerisque dolor vel eros ornare, quis consectetur nisi interdum. Suspendisse odio orci, ornare ornare tellus non, placerat efficitur diam. Sed consectetur urna et nisl sagittis elementum. 

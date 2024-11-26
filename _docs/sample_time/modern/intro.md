@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/culture
 prev_doc: /docs/sample_time/good_times/end
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title35.jpg
+summary: An introduction to modern Gallunesia.
 ---
 
  Ut vitae turpis quis arcu pulvinar accumsan. Sed tincidunt mauris quis accumsan auctor. Donec finibus, augue eu mattis venenatis, leo dui sodales nisi, quis volutpat tellus felis id lorem. Vestibulum vel ex vehicula, imperdiet mi in, placerat velit. Nam risus ipsum, dictum sed blandit eu, ultrices quis dui. Nam sapien neque, efficitur at porta eget, feugiat non tortor. Vestibulum congue libero molestie lacus condimentum pretium in ac velit. Integer sed vulputate lorem, in condimentum ipsum. Nunc non est at sem aliquam hendrerit. Nulla vitae sapien a massa malesuada tristique. Sed venenatis metus non nisi euismod condimentum. Aliquam eget diam id velit vehicula facilisis vitae ut felis. Ut sit amet consectetur est. Quisque finibus, nisi eu ornare luctus, ipsum metus elementum diam, nec fermentum sapien magna faucibus magna. Donec imperdiet ut purus non condimentum.

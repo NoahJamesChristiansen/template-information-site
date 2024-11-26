@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/international
 prev_doc: /docs/sample_time/modern/culture
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title37.jpg
+summary: An analysis of modern domestic politics in Gallunesia.
 ---
 
 Nulla turpis erat, tincidunt eget feugiat in, faucibus porta elit. Integer sed dolor ullamcorper, imperdiet leo id, lacinia libero. Maecenas non ornare arcu. Nulla eleifend maximus ligula, at semper metus varius euismod. Vestibulum cursus mi sapien, et viverra nisl varius ut. Proin a neque id libero ornare rutrum. Curabitur massa dui, fermentum non bibendum nec, vehicula ac elit. Sed molestie ultrices auctor. Cras in felis quis tellus consequat vehicula eu nec nisl. Curabitur urna turpis, ultricies eu enim at, efficitur vestibulum justo. Aliquam id pharetra nunc. Cras consectetur, lorem ut aliquam ultrices, mauris ipsum euismod erat, id volutpat erat ipsum ut mauris. 
