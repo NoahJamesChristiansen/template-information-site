@@ -26,6 +26,12 @@
         padding-top: 25px;
     }
     
+    .sidebar-inner .external,
+    #docnavsidebar .docnav {
+        font-size: 28px;
+        margin: 0px;
+    }
+    
     h1,h2,h3,h4,h5,h6{
         word-wrap: break-word;
     }
@@ -44,5 +50,45 @@
     
     .main-no-sidebar{
         margin: 0px 0px
+    }
+    
+    .docnav {
+	    max-width: 100vw;
+	    padding-right: 10vw;
+	    padding-left: 10vw;
+    }
+        
+    .docnav li a {
+	    
+	    display: inline;
+    }
+        
+    .docnav a {
+	    font-size: 20px;
+    }
+    
+    .docnav li a {
+	    line-height: 24px;
+	    text-indent: 30px;
+    }
+    
+    .docnav li.level1 > a > span::after, .docnav li.level2 > a > span::after, .docnav li.level3 > a > span::after,
+    .docnav li.open > a > span::after {
+	    font-size: 20px;
+	    padding-right: 16px;
+    }
+    
+    .productTitle {
+	    font-size: 48px;
+    }
+    
+    .relatedResources {
+	    font-size: 28px;
+	    font-weight: bold;
+    }
+    
+    ul#entrypages li {
+	    font-size: 20px;
+	    line-height: 1.5em;
     }
 }
