@@ -1,0 +1,18 @@
+{% if page.prev_doc or page.next_doc %}
+    <div class="prev-next-doc">
+    <p>
+        {% if page.prev_doc %}
+            <a href="{{ site.home_url }}{{page.prev_doc }}">{{site.uistring.continue_prev}}</a>
+        {% endif %}
+        
+        {% if page.prev_doc and page.next_doc %}
+         | 
+        {% endif %}
+         
+         
+        {% if page.next_doc %}
+            <a href="{{ site.home_url }}{{page.next_doc }}">{{site.uistring.continue_next}}</a>
+        {% endif %}
+    </p>
+    </div>
+{% endif %}

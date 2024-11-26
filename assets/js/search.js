@@ -13,8 +13,9 @@ layout: null
   
     var searchResults = document.getElementById('search-results');
 
+    var appendString = '';
+    
     if (results.length) { // Are there any results?
-      var appendString = '';
 
            // for (var i = 0; i < results.length; i++) {  // Iterate over the results
            for (var i = start_results; i < results.length && i < end_results; i++) 
@@ -31,8 +32,22 @@ layout: null
           
       }
       
-      appendString += '<p style="font-size: 12px;">' + 'Results ' + (start_results+1) + ' to ' + max_results + ' out of ' + results.length + ' result(s).'+ '</p>';
+      appendString += getPreviousNext(start_results, page_start, max_results, results_per_page, max_counter_results, results, searchTerm);
+
       
+      searchResults.innerHTML = appendString;
+    } else {
+      // this is a hack for the inability to submit different language strings here
+      searchResults.innerHTML = '<span style="color: red"><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i></span><p><br/>{{site.uistring.no_search_results_found}}</p>';
+    }
+  }
+
+    function getPreviousNext(start_results, page_start, max_results, results_per_page, max_counter_results, results, searchTerm)
+    {
+      appendString = "";
+      
+      appendString += '<p style="font-size: 12px;">' + 'Results ' + (start_results+1) + ' to ' + max_results + ' out of ' + results.length + ' result(s).'+ '</p>';
+    
       // Following does next/previous
       appendString += '<p class="search-result-page" style="font-size: 16px;">';
       
@@ -88,13 +103,9 @@ layout: null
         
         appendString += '</p>';
       }
-
-      searchResults.innerHTML = appendString;
-    } else {
-      // this is a hack for the inability to submit different language strings here
-      searchResults.innerHTML = '<span style="color: red"><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i></span><p><br/>{{site.uistring.no_search_results_found}}</p>';
+      
+      return appendString;
     }
-  }
 
   function getQueryVariable(variable, vars) {
     for (var i = 0; i < vars.length; i++) {
