@@ -264,7 +264,7 @@
 	**/
 
 	footer {
-	  background-color: #111;
+	  background-color: #222;
 	}
 
 	.logofooter {
@@ -290,7 +290,7 @@
 	}
 
 	.copyright {
-	  background-color: #222;
+	  background-color: #333;
 	}
 
 	.copyright p {
@@ -298,7 +298,7 @@
 	}
 
 	.developer-information {
-	  background-color: #333;
+	  background-color: #444;
 	}
 
 	.developer-information p {
@@ -336,7 +336,7 @@
 	**/
 
 	h2 {
-	  color: #AAA;
+	  color: #BBB;
 	}
 	
 	#search-results h2 {
@@ -344,11 +344,11 @@
 	}
 
 	h3 {
-	  color: #777;
+	  color: #999;
 	}
 
 	.subtitle {
-	  color: gray;
+	  color: #999;
 	}
 
 	/**
@@ -433,7 +433,7 @@
 	}
 
 	.navbar-default .navbar-toggle {
-	  border-color: #000;
+	  border-color: #222;
 	}
 
 	.navbar-default .navbar-toggle:hover,
@@ -619,7 +619,7 @@
 	}
 
 	#sidebar {
-	  background-color: #111111;
+	  background-color: #222222;
 	}
 
 	.sidebar-photo {
@@ -771,4 +771,10 @@
 		color: #f29696;
 		background-color: #222;
 	}
+	
+    .navbar-header {
+	    background-color: #222;
+	    color: #555;
+    }
+	
 }

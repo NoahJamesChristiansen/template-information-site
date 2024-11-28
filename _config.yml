@@ -223,7 +223,8 @@ uistring:
     search_placeholder_text: Search ... # appears as placeholder in search field
     no_search_results_found: No matches found. Try using other keywords?
     feedback_link_name: Feedback # name of Feedback link
-    feedback_subject_line: Feedback # Auto-filled Subject link of email
+    feedback_subject_line: Feedback # Auto-filled Subject of email
+    feedback_body: I have some feedback for your template. # Auto-filled Body of email
     github_edit_button_text: Edit on GitHub # text for github button
     blog: My Very Cool Blog # Name of blog displayed on the top of posts
     datetime_format: '%Y-%m-%d' # date time format

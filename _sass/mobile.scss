@@ -18,10 +18,11 @@
     /* Sidebar stuff */
     
     #sidebar {
-	    width: 100%;
-	    padding: 10px 40px;
+	    width: 100vw;
+	    padding: 0px 0px 30px 0px;
+	    float: none;
     }
-    
+        
     .sidebar-inner .external,
     #docnavsidebar .docnav {
         font-size: 20px;
@@ -38,10 +39,6 @@
     
     .navbar-header{
         width: 100vw;
-    }
-    
-    .mydocsidebar{
-        padding-bottom: 25px;
     }
 
     .blog-name {
@@ -97,6 +94,7 @@
     
     .col-xs-12 {
 	    padding: 0px 40px;
+	    margin-top: 20px;
     }
     
     blockquote {
@@ -119,20 +117,109 @@
 	    min-height: 30px;
 	    margin-top: 0px;
     }
-    
-    .bottom-links {
-	    padding-bottom: 30px;
-    }
-    
+
     .heading7 {
 	    margin-bottom: 10px;
+	    font-size: 28px;
+    }
+    
+    .prev-next-doc-continue {
+	    padding: 50px 0px 10px 0px;
     }
     
     .prev-next-doc {
 	    margin-bottom: 30px;
+	    margin-top: 0px;
     }
     
     .input-group.search {
 	    margin: 20px 15px 20px 15px;
+    }
+    
+    .row {
+	    margin-bottom: 30px;
+    }
+    
+    .collapse.in, .collapsing {
+	    display: block;
+	    padding-top: 40px;
+    }
+    
+    #bs-example-navbar-collapse-1 {
+	    padding-top: 0px;
+    }
+    
+    hr.resourceSeparator {
+	    max-width: 100%;
+    }
+    
+    #entrypages {
+	    padding-left: 75px;
+    }
+    
+    .relatedResources {
+	    padding-left: 55px;
+    }
+    
+    .productTitle {
+	    margin-right: 20px;
+	    margin-left: 20px;
+    }
+    
+    .post p {
+	    font-size: 1.8rem;
+	    line-height: 2.5rem;
+    }
+    
+    p, ol, ul, li {
+	    font-size: 1.7rem;
+	    line-height: 2.5rem;
+    }
+        
+    .subtitle {
+      font-size: 18px;
+    }
+
+    .h2, h2 {
+      font-size: 32px;
+    }
+    .h3, h3 {
+      font-size: 24px;
+    }
+    .h4, h4 {
+      font-size: 20px;
+    }
+    
+    .footerleft p {
+	    font-size: 16px !important;
+    }
+    
+    .footer-ul li {
+	    font-size: 18px !important;
+    }
+    
+    .developer-information p {
+	    font-size: 16px;
+    }
+    
+    hr {
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+	    border: 0;
+	    border-top: 2px solid #515151;
+    }
+    
+    .col-md-12 {
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+    }
+    
+    .cv-about-section {
+	    padding: 5px 50px;
+	    font-size:1.7em;
+    }
+    
+    .cv-content {
+	    font-size:1.7em;
     }
 }
