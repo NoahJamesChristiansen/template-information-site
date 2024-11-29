@@ -395,7 +395,17 @@
     }
 
     .navbar-default .navbar-nav > li > .dropdown-menu {
-      background-color: #111;
+      background-color: transparent;
+    }
+        
+    .navbar-default .navbar-nav > li > .dropdown-menu > li:hover{
+      background-color: #333;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+	    color: #BBB;
+	    background-color: transparent;
     }
 
     .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
@@ -463,6 +473,10 @@
 
     .navbar-default .navbar-link:hover {
       color: #337ab7;
+    }
+    
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	    background-color: #333;
     }
 
 	#search-demo-container ul#results-container {

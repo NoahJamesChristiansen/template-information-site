@@ -380,6 +380,10 @@ Navbars
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu > li:hover{
   background-color: #fff;
 }
 
