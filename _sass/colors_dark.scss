@@ -478,6 +478,10 @@
     .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
 	    background-color: #333;
     }
+    
+    .navbar-default .navbar-nav > li > .dropdown-menu {
+      background-color: #111;
+    }
 
 	#search-demo-container ul#results-container {
 	  background-color: black;
