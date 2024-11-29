@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/philosophy
 prev_doc: /docs/sample_time/good_times/technology
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title31.jpg
+summary: A history of medical advancements made in the Gallunesian Good Times.
 ---
 
 Aliquam eget consequat orci. Suspendisse felis nulla, volutpat et magna at, placerat molestie nulla. Quisque lectus odio, porta vel urna sed, fringilla semper mauris. Mauris mollis cursus sapien in tincidunt. Nunc non congue turpis. Cras nec malesuada odio. Praesent gravida velit ut enim volutpat imperdiet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis pretium lectus, sed iaculis elit dictum vitae. Mauris ullamcorper ipsum sed purus sodales bibendum. Sed fermentum ullamcorper leo quis consectetur. 

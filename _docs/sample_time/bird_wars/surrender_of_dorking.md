@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/analysis_summary
 prev_doc: /docs/sample_time/bird_wars/seige_of_ayam_cemani
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title16.jpg
+summary: A summary of the Surrender of Dorking.
 ---
 
 Morbi vehicula quam vel porttitor facilisis. Praesent eu ipsum vitae augue consectetur fermentum a eu nulla. Donec imperdiet vel purus nec molestie. Sed id dui sed justo finibus sagittis vel eu elit. Fusce tempus orci sit amet tellus aliquet, sed sodales urna porttitor. Vivamus non urna lobortis, faucibus tortor quis, tempor ex. Etiam elit justo, aliquam lobortis tellus non, tincidunt aliquet dui. Nullam posuere felis et vehicula vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur semper varius egestas. Nam id faucibus metus. Aliquam maximus quam id sem posuere interdum. Maecenas mattis purus a ipsum hendrerit, nec blandit nisl consectetur. 

@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/seige_of_ayam_cemani
 prev_doc: /docs/sample_time/bird_wars/battle_of_bantam
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title14.jpg
+summary: A summary of the Battle of Chantecler.
 ---
 
 Suspendisse faucibus ac nisi sed feugiat. Pellentesque sit amet laoreet augue. Praesent placerat mollis augue et mollis. Quisque condimentum, dolor quis ultricies vulputate, leo leo lacinia ligula, vel auctor neque purus et risus. Curabitur in dolor ac nisl rutrum consequat a id nisi. Aenean vel elit scelerisque, mollis arcu vitae, auctor erat. Mauris quis luctus ligula, vel volutpat sem. Duis ac elementum eros, eu finibus nulla. Praesent in ornare arcu. Praesent sit amet est pulvinar, laoreet orci sed, sodales justo. Quisque orci massa, sagittis eu ipsum a, ultrices hendrerit nisl. Vivamus vitae imperdiet velit. 

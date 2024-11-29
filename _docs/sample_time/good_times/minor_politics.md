@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/problems
 prev_doc: /docs/sample_time/good_times/economy
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title27.jpg
+summary: The politics of minority groups in the Gallunesian Good Times.
 ---
 
 Aliquam ac odio in tellus auctor vehicula. Cras sit amet nibh at augue hendrerit semper. Aenean sodales elementum aliquet. Proin tristique nisi a felis ullamcorper, sit amet vestibulum erat blandit. Integer ac ex lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis malesuada orci, sit amet suscipit quam finibus eu.

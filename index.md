@@ -5,7 +5,7 @@ sidebar: home
 type: homepage
 class: first
 photo: /assets/photo.png
-photo_alt_text: Image of me
+photo_alt_text: A photograph of me, a man with a nice haircut and well trimmed facial hair, trendy glasses, a black sweater and a fashionable beige coat.
 include_sidebar: true
 include_breadcrumb: false
 ---

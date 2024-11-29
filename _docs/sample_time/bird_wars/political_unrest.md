@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/first_shots
 prev_doc: /docs/sample_time/bird_wars/economic_growth
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title11.jpg
+summary: Political unrest that lead up to the Bird Wars.
 ---
 
 Suspendisse porttitor aliquet magna, vel blandit nisi dignissim sit amet. In faucibus eros eu lectus ultrices scelerisque. Etiam turpis nisl, faucibus molestie erat non, bibendum finibus libero. Sed facilisis odio magna, vel blandit massa ultricies quis. Nam sit amet turpis in tellus condimentum mattis. Aenean vel lacus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In at dui sed ligula commodo volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut porta fermentum nisl, ac elementum velit venenatis id. In eget leo quam. 

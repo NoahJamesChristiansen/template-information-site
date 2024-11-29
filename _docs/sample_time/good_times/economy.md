@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/minor_politics
 prev_doc: /docs/sample_time/good_times/allies
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title26.jpg
+summary: A summary of the economy of the Gallunesian Good Times.
 ---
 
 Maecenas auctor dolor vel elementum rhoncus. Suspendisse ultricies velit vel neque blandit, sed tempor purus varius. In ut dictum dolor. Sed quis pharetra felis, hendrerit vehicula turpis. Pellentesque tempus mollis hendrerit. Phasellus sodales vestibulum tincidunt. Sed finibus felis non egestas dapibus. Morbi sollicitudin convallis metus non aliquam. 

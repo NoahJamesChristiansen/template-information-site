@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/battle_of_bantam
 prev_doc: /docs/sample_time/bird_wars/political_unrest
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title12.jpg
+summary: First shots fired of the Gallunesian Conflict and the Bird Wars.
 ---
 
 Donec suscipit blandit dolor, eget molestie enim condimentum ut. Phasellus eget nisi nec quam malesuada commodo nec vel nisl. Sed fermentum lacus in leo facilisis faucibus. Praesent tincidunt eget diam sed sagittis. Phasellus placerat nisi odio, at molestie tortor volutpat at. Nulla facilisi. Quisque tristique mauris nunc, nec tempor libero varius ultrices. Duis lobortis, nunc a efficitur venenatis, velit ante ullamcorper risus, vitae tincidunt ex sapien pretium massa. Sed erat lectus, tincidunt eget augue vel, vestibulum sagittis mi. Curabitur porta erat mauris, ac accumsan odio scelerisque in. Sed tristique eget sem in facilisis. 

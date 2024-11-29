@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/political_structure
 prev_doc: /docs/sample_time/good_times/culture
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title23.jpg
+summary: A summary of the prolific arts of the Gallunesian Good Times.
 ---
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer vestibulum justo augue, eget fringilla leo vulputate eu. Integer eu lacus nec mauris blandit imperdiet id id est. Fusce ut luctus nisl, quis tincidunt ex. Nam finibus elit massa, ac porta mi ullamcorper eu. Proin et vestibulum orci. Praesent a facilisis eros. Pellentesque a venenatis risus. Morbi at purus faucibus, sagittis sem vitae, vestibulum enim. Donec bibendum id leo id dapibus.

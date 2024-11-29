@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/intro
 prev_doc: /docs/sample_time/formation/unity
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title8.jpg
+summary: The formation and structure of the first Gallunesian Constitution.
 ---
 
 Nulla dignissim mattis nisl, quis dictum leo convallis a. Aenean sit amet malesuada dui. Vestibulum et aliquam diam. Aenean vestibulum a lorem vitae pulvinar. Vestibulum consequat urna sed ex molestie, vel semper neque consectetur. Mauris id tempor dui. Sed varius lacus diam, id volutpat orci posuere nec. Donec et mollis sapien. Mauris dictum enim quis tincidunt accumsan. Morbi aliquam diam eu massa rutrum mattis. Donec vel eleifend velit. Fusce aliquet maximus porttitor. 

@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/economic_growth
 prev_doc: /docs/sample_time/formation/constitution
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title9.jpg
+summary: An introduction to the Gallunesian Bird Wars.
 ---
 
 Aliquam efficitur id dolor a ultrices. Sed in eros nunc. Sed eget dignissim est. In nec ante a eros hendrerit eleifend. Donec hendrerit vitae tellus in tempus. Phasellus blandit, massa ac pharetra sagittis, velit nisi lacinia velit, quis sodales risus urna eu augue. Proin molestie libero lorem, sed elementum dolor venenatis nec. Nunc ac bibendum quam. Sed eleifend lorem eu erat pretium volutpat. Aliquam eu blandit ipsum.

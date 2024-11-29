@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/unity
 prev_doc: /docs/sample_time/formation/community
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title6.jpg
+summary: An invasion by a mysterious force threatens the networks of Gallusian people.
 ---
 
 Nullam nibh erat, porttitor et placerat iaculis, scelerisque at erat. Nulla nec tortor massa. Morbi molestie eros sagittis erat placerat, ut pellentesque tortor ornare. Nullam bibendum tempus velit, at aliquet elit maximus ac. Donec rhoncus vulputate lectus, quis ullamcorper magna. Cras maximus sapien quis tristique ultrices. Duis placerat luctus orci id convallis. Aliquam nibh est, tincidunt eu massa vestibulum, commodo sodales ante. Phasellus at lacus eget est tristique consequat. Ut ac vulputate odio. Maecenas auctor vitae mauris vitae faucibus. Proin efficitur scelerisque aliquet. Proin commodo tempor purus, vel elementum mi vulputate at. 

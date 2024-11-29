@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/science
 prev_doc: /docs/sample_time/good_times/minor_politics
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title28.jpg
+summary: Problems that plagued Gallunesia in the Good Times.
 ---
 
 Etiam vel erat eu nisl iaculis luctus sed id ante. Praesent posuere sagittis pretium. Suspendisse potenti. Vivamus eu rutrum augue, sit amet pellentesque diam. Aliquam nisi est, volutpat vel dapibus sed, mollis et orci. Fusce venenatis turpis hendrerit quam dignissim dignissim. Fusce iaculis ipsum nec sem hendrerit condimentum. Nulla eu laoreet nibh. Praesent maximus fermentum eleifend. Aenean sapien sem, feugiat rhoncus fringilla et, sagittis at metus. 

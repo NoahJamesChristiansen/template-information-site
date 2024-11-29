@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/arts
 prev_doc: /docs/sample_time/good_times/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title22.jpg
+summary: A summary of cultural artifacts and values of the Gallunesian Good Times.
 ---
 
 Curabitur vel mi ultrices, pretium velit congue, commodo tortor. Cras eu dapibus elit. Etiam elementum viverra urna pellentesque eleifend. Vestibulum fringilla faucibus ex, ac efficitur metus posuere nec. Curabitur vitae tristique neque. Proin mattis enim est, vitae eleifend libero fermentum id. Sed finibus imperdiet iaculis. Nunc et mi ac est laoreet imperdiet sit amet quis eros. Cras vestibulum mauris quis finibus ullamcorper. 

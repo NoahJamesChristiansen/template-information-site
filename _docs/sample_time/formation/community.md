@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/invasion
 prev_doc: /docs/sample_time/formation/first_settler
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title5.jpg
+summary: How communities of various peoples formed networks across the Gallunesian fields and mountains.
 ---
 
 Nam a ultrices metus. Aenean tellus lorem, placerat sit amet ipsum tincidunt, suscipit condimentum dui. Morbi fringilla, metus a imperdiet viverra, sapien ex tempor sem, in congue libero ipsum ac velit. Nunc vestibulum auctor mollis. Praesent viverra commodo ipsum. Quisque ac eleifend arcu. Donec et velit at tortor commodo consectetur. Donec vehicula mi non lobortis elementum. Nullam consectetur mi libero, id tristique lectus cursus at. Donec ut velit a dolor mattis venenatis. Praesent sem velit, pulvinar in magna et, laoreet dictum tellus. Morbi ullamcorper convallis metus, id porta eros. 

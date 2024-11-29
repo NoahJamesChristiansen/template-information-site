@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/political_changes
 prev_doc: /docs/sample_time/bird_wars/combatants
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title19.jpg
+summary: A summary of the complex nature of casualties in the Bird Wars.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque lorem mauris, semper sodales turpis sit amet, volutpat tempus risus. Vivamus ac ipsum varius, malesuada arcu sed, elementum tellus. Quisque commodo condimentum sem. Donec dapibus scelerisque erat non elementum. Donec commodo consequat nisl, quis dignissim augue varius nec. Phasellus rutrum, quam sed ultrices faucibus, elit sapien posuere sem, ac tempus eros metus non sapien. 

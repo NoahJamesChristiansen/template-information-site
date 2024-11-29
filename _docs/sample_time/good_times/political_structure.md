@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/allies
 prev_doc: /docs/sample_time/good_times/arts
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title24.jpg
+summary: Political structure of the majority of the Gallunesian Good Times.
 ---
 
 Fusce euismod purus nec posuere accumsan. Morbi rhoncus lacus at ligula finibus suscipit. Fusce ut elit at nisl dictum pulvinar vitae ut dolor. Nulla quis tellus id turpis semper tincidunt et a urna. Nullam ante diam, blandit ac vulputate vitae, accumsan in ipsum. Etiam sit amet nisi libero. Sed quis leo eu tellus faucibus vehicula in eget purus. Donec sollicitudin urna ut nibh accumsan, vitae dictum neque accumsan. Praesent sapien sem, mattis vitae mattis vitae, consectetur sed felis.

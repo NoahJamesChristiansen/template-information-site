@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/political_unrest
 prev_doc: /docs/sample_time/bird_wars/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title10.jpg
+summary: Rapid economic growth in the Gallunesian landmass.
 ---
 
 Integer porta odio quis sem convallis vehicula. Aliquam ut egestas lectus, id bibendum felis. Praesent euismod massa non nunc consequat semper. Vivamus eu enim id odio ultrices efficitur aliquam interdum nisi. In fringilla purus urna, eget aliquam enim sollicitudin non. Integer eget dignissim arcu, nec pellentesque erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sodales neque erat, nec pharetra nulla consequat eget. Aenean urna risus, varius eget dictum non, venenatis vitae diam. Sed lorem elit, sollicitudin tincidunt sem vitae, ultricies ornare elit. Fusce ultricies gravida quam, sed consectetur quam lacinia quis. Ut non posuere urna. Maecenas efficitur est sed magna maximus, eu aliquet mi viverra. Suspendisse egestas massa quis eros aliquet, vel mattis mi suscipit. 

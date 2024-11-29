@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/prehistory
 prev_doc: /docs/sample_time/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title2.jpg
+summary: An introduction to the formation of the country of Gallunesia, from its prehistory to the formation of its first constitution.
 ---
 
 Phasellus feugiat metus vitae mauris mollis, eget feugiat tellus ullamcorper. Morbi massa velit, gravida eu elementum vel, ultrices vitae massa. Nam et urna eget ex consectetur pellentesque. Integer tristique mauris leo, ac interdum dui pharetra id. Sed varius est vel diam semper interdum. Nunc nec lacus vel sapien vulputate congue. Nullam sagittis nisl dapibus, rhoncus nibh quis, mollis ante. Proin venenatis consectetur lacus sed porttitor. Nulla ligula erat, fringilla at congue vel, consectetur quis nibh. Integer eget commodo nisi. Etiam porta, turpis non pharetra molestie, orci sem varius ligula, et placerat nibh orci quis justo. Morbi cursus justo sem, eget vehicula erat egestas et. Integer sit amet imperdiet erat. Etiam in dictum ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.

@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/culture
 prev_doc: /docs/sample_time/bird_wars/political_changes
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title21.jpg
+summary: A summary of the Gallunesian Good Times.
 ---
 
 Ut sit amet magna molestie, posuere dolor in, viverra orci. Vestibulum pretium vestibulum purus, ut ultrices libero consectetur eu. Donec aliquam nisl nec ex venenatis faucibus. Quisque elementum lacus quis sollicitudin suscipit. Sed felis est, placerat et ex eu, posuere eleifend lacus. Suspendisse potenti. Curabitur venenatis nunc id sem rutrum, non tristique felis pulvinar. Pellentesque id tellus nec orci sagittis sagittis et eget lectus. Vivamus sed viverra felis. Mauris commodo interdum ante, sed eleifend elit tempor sed. Sed ligula nisi, varius non dui vitae, euismod interdum velit. Quisque vitae ante lorem. Ut auctor elit vel lorem volutpat fermentum. Aliquam erat volutpat. Sed commodo sollicitudin arcu, id tempus nulla rutrum mollis. Aliquam arcu mi, interdum ac erat eu, mattis fermentum velit.

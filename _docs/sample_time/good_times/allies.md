@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/economy
 prev_doc: /docs/sample_time/good_times/political_structure
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title25.jpg
+summary: A list of allies in peacetime during the Gallunesian Good Times.
 ---
 
 Sed ultrices posuere ligula pharetra hendrerit. Aenean ullamcorper lobortis ligula vel semper. Sed semper urna vel tincidunt condimentum. Sed auctor enim mauris, vulputate commodo augue maximus aliquet. In odio elit, maximus sed auctor malesuada, convallis ut tortor. Proin rhoncus efficitur metus, suscipit porttitor diam accumsan non. Vestibulum ante purus, eleifend vel nulla suscipit, consectetur elementum nunc. Sed viverra eros eu semper pharetra. Donec ut egestas sapien. Nam ultrices tellus diam. Donec purus diam, tempor a tellus sed, dapibus fermentum est. Aliquam lacinia, ipsum cursus laoreet lobortis, orci magna semper libero, quis vestibulum lectus dolor et quam. Curabitur accumsan tincidunt neque, id egestas nulla commodo id. Quisque semper arcu mattis augue lacinia rutrum.

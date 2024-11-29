@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/end
 prev_doc: /docs/sample_time/good_times/philosophy
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title33.jpg
+summary: The religions of the Gallunesian Good Times.
 ---
 
 Nulla a arcu accumsan, sodales turpis nec, hendrerit mi. Fusce nisi tortor, facilisis id diam in, sodales molestie tortor. Phasellus varius molestie erat nec eleifend. Fusce egestas cursus purus, id varius augue dapibus vel. Sed molestie ornare porttitor. Nullam aliquet vehicula orci. Praesent pharetra dolor augue, suscipit scelerisque odio porta in. Proin eu lectus sem. Suspendisse consectetur dapibus tempor. Mauris viverra vulputate fringilla. Curabitur ullamcorper maximus interdum. Vestibulum congue leo vel mauris vestibulum semper. 

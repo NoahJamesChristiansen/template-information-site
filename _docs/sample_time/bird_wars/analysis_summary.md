@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/combatants
 prev_doc: /docs/sample_time/bird_wars/surrender_of_dorking
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title17.jpg
+summary: An analysis of the Bird Wars and its political outcomes.
 ---
 
 Vivamus non ultricies eros, non viverra mi. Sed scelerisque auctor lectus, sit amet varius purus dapibus vel. Praesent ullamcorper volutpat erat, eget pretium sem consectetur nec. Suspendisse tincidunt leo a quam placerat, eget molestie orci tempor. Phasellus mattis condimentum magna a dapibus. Duis elementum dolor et purus scelerisque, ac dapibus tellus finibus. Duis eu ipsum pretium, sodales lectus vel, finibus dolor. Nunc iaculis magna eget scelerisque porta. Sed id dolor tristique, tempus elit non, cursus risus. 

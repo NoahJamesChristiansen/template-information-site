@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/first_settler
 prev_doc: /docs/sample_time/formation/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title3.jpg
+summary: Prehistory of the Gallusian landmass.
 ---
 
 Integer efficitur urna sodales eleifend gravida. Proin tempus lectus et rutrum rutrum. In malesuada iaculis nibh, a semper lorem dignissim non. Donec arcu odio, ullamcorper eu orci nec, venenatis feugiat odio. Nulla vitae ante metus. Duis sit amet ex tristique, venenatis lacus quis, tempus mauris. Morbi ut pharetra tortor. Morbi sodales id diam ut suscipit. Nunc urna magna, auctor quis magna eget, viverra ullamcorper lacus. 

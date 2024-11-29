@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/modern/intro
 prev_doc: /docs/sample_time/good_times/religion
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title34.jpg
+summary: An explanation for why the Gallunesian Good Times came to an end.
 ---
 
 Morbi ut nisl consectetur, facilisis ipsum nec, tincidunt ligula. Ut placerat est sit amet mattis interdum. Aliquam vestibulum vehicula justo, sed feugiat metus venenatis ac. Suspendisse sollicitudin imperdiet ex scelerisque elementum. Vestibulum congue, dolor et fringilla malesuada, nunc urna auctor ex, et consequat erat arcu accumsan justo. Donec sed felis erat. Donec ac sapien in orci rutrum tempor. Pellentesque suscipit, nisi sed vulputate sollicitudin, est magna scelerisque felis, eu luctus est erat non orci. 

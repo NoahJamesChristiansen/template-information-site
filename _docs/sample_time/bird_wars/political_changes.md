@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/intro
 prev_doc: /docs/sample_time/bird_wars/casualties
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title20.jpg
+summary: Political consequences of the Bird Wars.
 ---
 
 Aliquam non aliquet augue. Quisque aliquam dui lorem, a pellentesque purus rhoncus nec. Cras lacinia leo id est pellentesque pharetra. Aliquam erat volutpat. Cras sit amet sem sem. Phasellus malesuada, nibh sed tincidunt efficitur, eros massa dignissim ligula, ac ullamcorper elit ante at nunc. Maecenas ultrices dignissim gravida. Aliquam at tempor tortor, in pulvinar tortor. Curabitur turpis lectus, interdum id dictum in, mollis et tellus. Suspendisse venenatis nibh mi, facilisis maximus sem auctor et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque fringilla venenatis ligula, quis finibus nisl interdum et. Donec ut congue nisl. 

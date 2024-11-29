@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/constitution
 prev_doc: /docs/sample_time/formation/invasion
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title7.jpg
+summary: Unity of the Gallunesian people and their various communities.
 ---
 
 Aliquam a ante tincidunt, mollis ante nec, laoreet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque condimentum velit vitae lectus sollicitudin, nec euismod lorem porta. Maecenas mollis lectus quis mollis finibus. Sed ultrices enim et vulputate commodo. Donec ornare suscipit arcu eu bibendum. Sed ut ipsum enim. Vestibulum quam nunc, aliquet auctor ligula quis, mattis iaculis nulla. Vestibulum in tortor ipsum. 

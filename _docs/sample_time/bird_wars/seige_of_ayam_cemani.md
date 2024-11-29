@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/surrender_of_dorking
 prev_doc: /docs/sample_time/bird_wars/battle_of_chantecler
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title15.jpg
+summary: A summary of the Seige of Ayam Cemani.
 ---
 
 Morbi nec congue sapien. Nullam dui dolor, vulputate in tempor ac, elementum eu odio. Ut ut leo vel nibh blandit aliquam. Etiam et molestie nunc. Suspendisse lobortis blandit augue at dapibus. Phasellus luctus arcu non mauris finibus fermentum. Nam tincidunt vulputate semper. Cras enim nisi, lacinia a condimentum eu, mattis eu ante. Nam vel risus ut ipsum rhoncus commodo. Curabitur in enim odio. Cras vulputate dapibus ante, eu posuere lectus suscipit vitae. Morbi a risus sapien. Sed vestibulum urna ut tellus euismod tristique. Cras non elit finibus, sollicitudin dui ut, consequat nisl.

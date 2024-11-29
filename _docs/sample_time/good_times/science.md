@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/technology
 prev_doc: /docs/sample_time/good_times/problems
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title29.jpg
+summary: Scientific advancements of the Gallunesian Good Times.
 ---
 
 Proin feugiat elit a lectus efficitur iaculis. Praesent eget dapibus diam. Etiam a dolor luctus, pellentesque est nec, sollicitudin elit. Donec lobortis condimentum volutpat. Aenean nec sagittis orci, ac porttitor risus. Sed id fermentum nisi. Quisque accumsan vehicula tristique. 

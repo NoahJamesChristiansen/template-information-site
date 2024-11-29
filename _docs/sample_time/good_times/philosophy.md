@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/good_times/religion
 prev_doc: /docs/sample_time/good_times/medicine
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title32.jpg
+summary: Philosophical developments of the Gallunesian Good Times.
 ---
 
 Sed sem mi, tincidunt ut felis id, rutrum ultricies nibh. Duis non finibus enim, eget ullamcorper ipsum. Nulla facilisi. Duis iaculis consequat imperdiet. Pellentesque quis quam vel dolor facilisis fringilla at in magna. Proin cursus mauris massa, a eleifend tortor sodales sed. Donec aliquam feugiat turpis fringilla pretium. Ut nec imperdiet turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean pellentesque accumsan ligula, ac viverra odio euismod in. Aliquam erat volutpat. Nulla molestie erat elit. Nunc ac venenatis diam. Maecenas dapibus quam metus. 

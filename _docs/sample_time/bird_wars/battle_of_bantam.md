@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/bird_wars/battle_of_chantecler
 prev_doc: /docs/sample_time/bird_wars/first_shots
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title13.jpg
+summary: A summary of the Battle of Bantam.
 ---
 
 Nullam sodales eros nisi, id ultricies dolor vulputate porttitor. Pellentesque ut odio finibus, molestie magna eu, viverra lectus. Etiam nec gravida enim, a pretium orci. Vestibulum gravida ligula vel elit rhoncus, at finibus orci posuere. Ut nec vestibulum orci. Integer sit amet porta diam. Nulla sodales, nunc et tempus tincidunt, magna metus ullamcorper leo, vitae dignissim eros metus nec mi. Donec sit amet neque feugiat, porta ligula in, lacinia dui. Suspendisse sit amet interdum urna, sit amet dignissim nisl. Cras et posuere ipsum. 

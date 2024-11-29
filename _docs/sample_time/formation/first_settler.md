@@ -7,6 +7,7 @@ next_doc: /docs/sample_time/formation/community
 prev_doc: /docs/sample_time/formation/prehistory
 photo_alt_text: Change this text to describe the photograph linked in "photo".
 photo: /assets/images/sample_time/title4.jpg
+summary: A summary of the first human settlers on the land now called Gallunesia.
 ---
 
 Cras at blandit neque, id commodo elit. Aenean ullamcorper, tortor eu tincidunt feugiat, odio quam rutrum est, nec pharetra quam nulla ut risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis vel tellus bibendum, eleifend neque eget, convallis odio. Donec in magna velit. Donec vulputate magna et ligula consectetur molestie. Vestibulum ligula nunc, sagittis at rutrum a, rutrum et purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt gravida laoreet. Donec finibus quam bibendum commodo molestie. 
