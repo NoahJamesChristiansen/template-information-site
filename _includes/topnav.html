@@ -136,14 +136,20 @@
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container topnavlinks">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-label="Menu">
                     <span class="fa fa-bars fa-2x"></span>
                 </button>
                 
                 {% unless page.sidebar == null %}
-                <button type="button" class="navbar-toggle toggle-sidebar-button" data-toggle="collapse" data-target=".mydocsidebar">
+                <button type="button" class="navbar-toggle toggle-sidebar-button" data-toggle="collapse" data-target=".mydocsidebar" aria-label="Show Sidebar">
                     <span class="sidebarToggle fa fa-book fa-2x"></span>
                 </button>
+                
+                <button type="button" class="navbar-toggle" onclick="window.location.href='{{ site.home_url }}'" aria-label="Home">
+                    <span class="fa fa-home fa-2x"></span>
+                </button>
+                
                {% endunless %}
 
 
