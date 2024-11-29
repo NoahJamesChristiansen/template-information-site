@@ -95,8 +95,11 @@ img.navbar-logo {
 
 ul.nav.navbar-nav li a {
 	white-space: nowrap;
-	margin: 7px 15px 15px 15px;
 	padding: 0px;
+}
+
+ul.nav.navbar-nav li {
+	padding: 10px 15px 15px 15px;
 }
 
 /* search area */

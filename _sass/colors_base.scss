@@ -346,77 +346,102 @@ Navbars
 **/
 
 .navbar-left li:hover{
-	background-color:#ddd;
+	background-color:#ddd
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+	color: #0a456c;
 }
 
 .navbar-default {
-  background-color: #f7f7f7;
+  background-color: #fff;
   border: 0px;
 }
 
 .navbar-default .navbar-brand {
   color: #111111;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #0a7cc9;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-text {
   color: #111111;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > a {
   color: #111111;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
   color: #111111;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
-  color: #0a7cc9;
-  background-color: #ffffff;
+  color: #0a456c;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
-  background-color: #ffffff;
+  background-color: transparent;
 }
+
+.navbar-default .navbar-nav .open .dropdown-menu > .active
+.navbar-default .navbar-nav .open .dropdown-menu > .active
+.navbar-default .navbar-nav .open .dropdown-menu > .active {
+  background-color: transparent;
+}
+
 
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-  color: #0a7cc9;
-  background-color: #ffffff;
+    background-color: transparent;
 }
 
 .nav > .active > a,
 .nav > .active > a:hover,
 .nav > .active > a:focus {
+  background-color: transparent;
   color: #0a7cc9;
-  background-color: #ffffff;
 }
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
+  background-color: transparent;
   color: #0a7cc9;
-  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #0a456c;
+}
+
+
+
+.navbar-nav .open {
+    background-color: transparent;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #ffffff;
+  border-color: #ccc
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #ffffff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -478,35 +503,34 @@ Navtabs
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ccc
 }
 .nav-tabs>li>a {
   border: 1px solid transparent;
 }
 
 .nav-tabs>li>a:hover {
-  border-color: #eee #eee #ddd;
+  border-color: #eee #eee #ccc
 }
 
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
   color: #555;
-  background-color: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #ccc;
   border-bottom-color: transparent;
 }
 
 .nav-tabs.nav-justified>.active>a,
 .nav-tabs.nav-justified>.active>a:hover,
 .nav-tabs.nav-justified>.active>a:focus {
-  border: 1px solid #ddd;
+  border: 1px solid #ccc
 }
 
 .nav-tabs-justified>.active>a,
 .nav-tabs-justified>.active>a:hover,
 .nav-tabs-justified>.active>a:focus {
-  border: 1px solid #ddd;
+  border: 1px solid #ccc
 }
 
 .nav-tabs>li.active>a,
@@ -615,11 +639,11 @@ table > tfoot > tr > td,
 table > tbody > tr > td ol > li,
 table > tbody > tr > td ol > li
 {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #ccc
 }
 
 table > thead > tr > th {
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #ccc;
   background-color: #777;
   color: white;
 }
@@ -675,7 +699,7 @@ Blog
 **/
 
 .blog-name, .all-posts-content {
-	border-bottom: 2px solid #ddd;
+	border-bottom: 2px solid #ccc
 }
 
 .blog-name a {
@@ -687,7 +711,7 @@ Blog
 }
 
 .blog-tags {
-	border-top: 2px solid #ddd;
+	border-top: 2px solid #ccc
 }
 
 blockquote {
