@@ -153,7 +153,10 @@ These are directories used for more technical parts of the website. You can edit
 
 ### _includes
 
-This directory includes HTML components that can be included into other templates during generation. You can call an include in another file in Liquid by calling this: ``{% include [include_name] %}``
+This directory includes HTML components that can be included into other templates during generation. You can call an include in another file in Liquid by calling this: 
+```
+{% include [include_name] %}
+```
 
 Where:
 
