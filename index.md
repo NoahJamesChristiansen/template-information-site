@@ -1,5 +1,5 @@
 ---
-title: "My Little Corner of the Internet"
+title: "test test test"
 permalink: index.html
 sidebar: home
 type: homepage
