@@ -4,7 +4,7 @@
 navbar_singleitems:
 - items:
   - title: Home
-    url: http://badgernested.github.io/template-information-site/
+    url: https://noahjameschristiansen.github.io/template-information-site/
   - title: Blog
     url: /post
 
