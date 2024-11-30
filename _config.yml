@@ -25,7 +25,7 @@ source_code_url: https://github.com/badgernested/template-information-site
 ############# TOP NAVIGATION BAR ################
 
 # use a logo image in your nav bar.
-use_logo: false
+use_logo: true
 
 # logo image to use. logo images are constrained at 50px in height.
 logo: assets/companylogo.png

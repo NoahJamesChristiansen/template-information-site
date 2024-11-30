@@ -1,4 +1,4 @@
-@media (min-width: 767px)
+@media screen and (min-width: 767px)
 {
 
     page-container {
@@ -9,6 +9,13 @@
     {
         padding-top: 10px;
      }
+
+    @media screen and (max-width: 1200px)
+    {
+        .input-group.search {
+	        max-width: 120px;
+        }
+    }
 
 }
 
