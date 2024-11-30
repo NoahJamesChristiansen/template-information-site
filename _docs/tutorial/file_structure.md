@@ -45,7 +45,7 @@ This directory stores assets used to display your webpage, such as important Jav
 
 In this directory, the following files are used for their given purposes. If a file is not listed, it's best not to touch it unless you're a developer.
 
-![ A screenshot of the root directory, showing its structure as described below.](/template-information-site/assets/images/tutorial/dir_contents_assets.jpg)
+![ A screenshot of the assets directory, showing its structure as described below.](/template-information-site/assets/images/tutorial/dir_contents_assets.jpg)
 
 * ``blog_photo.png`` - This is the image used for the sidebar of the blog.
 * ``favicon.ico`` - This is the icon that appears next to the title of the website in the tab of the browser.
@@ -74,6 +74,8 @@ If you did everything right, you should see an image like this:
 ### _data
 
 The files in this directory are data files that are used to structure certain data, such as how sidebars and the navigation bar are generated, and how text is generated for blog sections.
+
+![ A screenshot of the data directory, showing its structure as described below.](/template-information-site/assets/images/tutorial/dir_contents_data.jpg)
 
 These files are ``.yml`` files, which use special formatting to indicate content depth. [You can learn more about .yml files here](https://badgernested.github.io/template-information-site/docs/tutorial/file_types#data-files).
 
