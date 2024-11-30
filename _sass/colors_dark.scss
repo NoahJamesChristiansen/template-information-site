@@ -515,6 +515,12 @@
 	  color: black;
 	}
 
+    button, input, optgroup, select, textarea {
+	    margin: 0;
+	    font: inherit;
+	    color: #111;
+    }
+
 	a.navbarHomeLink {
 	  color: black;
 	}

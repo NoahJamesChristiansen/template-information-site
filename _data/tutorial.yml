@@ -10,7 +10,7 @@ folders:
   jurl: /docs/tutorial/file_structure
 
 - title: Global Configuration
-  jurl: /docs/tutorial/
+  jurl: /docs/tutorial/config
 
 - title: Editing Content
   folderitems:
