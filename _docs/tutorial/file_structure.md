@@ -92,9 +92,60 @@ As you can see, you can make a ``.yml`` file based on another sidebar and use it
 
 ### _docs
 
+All the files and subdirectories in this directory are used to store documents, such as this document here. Documents are different than blog posts because they are undated, and they are structurally organized rather than organized by tags.
+
+The link to the document page is the same as ``/docs/[directories]/[filename]``
+
+Where:
+
+* ``directories`` is the path between the  ``docs`` directory to your file.
+* ``filename`` is the file name, without the extension.
+
+For example, this page is stored in ``_docs/tutorial/file_structure.md`` and can be accessed at ``https://badgernested.github.io/template-information-site/docs/tutorial/file_structure``, where ``https://badgernested.github.io/template-information-site/`` is the root of this website, and ``docs/tutorial/file_structure`` is where this page is stored.
+
 ### documents
 
+This directory stores files that can be directly downloaded. For example, ``.pdf`` file downloads can be stored here, and then linked to. When a user clicks that link, they will download the file. On the server, the file is stored in ``/documents/[directories]/[filename]``
+
+Where:
+
+* ``directories`` is the path between the  ``documents`` directory to your file.
+* ``filename`` is the file name, with the extension.
+
 ### _posts
+
+Posts are blog posts, and have dates and tags to better organize them. You can have as many posts as you would like. It's a good idea to start a new post from an existing post, and copying its data, then clearing out its content, because then you can have the header data easily available.
+
+In order for a post to generate, it must have ``YYYY-MM-DD-[post_title].md`` as its format, where:
+
+* ``YYYY`` is the year number, as a 4 digit number.
+* ``MM`` is the month number, as a 2 digit number. If the month is less than 10, it includes a 0 before it (for example, ``03``).
+* ``DD`` is the date number, as a 2 digit number. If the date is less than 10, it includes a 0 before it (for example, ``03``).
+* ``post_title`` is the title of your post. This is used for links, not for displaying on the post page.
+
+Additionally, take note of the header on the top of posts:
+
+```
+---
+title:  "The Happy Virus: Dawkins, Guattari, and the Mass Meme Machine"
+summary: "A contagious virus infects the Selfish Gene."
+date:   2023-11-15 01:44:05 -0500
+tags: theory
+topics: linguistics
+about_authors: hjemslev
+---
+```
+
+These variables mean different things:
+
+* ``title`` is what is displayed as the title on the blog, search and other site features.
+* ``summary`` is what is displayed on the blog or the search as a summary of the post's contents.
+* ``date`` is a date in YYYY-MM-YY HH:mm:ss tz format. Personally, I just update the date. Note that if the date is in the future, it will not generate the post until generation is run when the date is in the past.
+* ``tags`` are the tags to group this post into.
+* ``topics`` are the topics to group this post into.
+* ``about_authors`` are the authors to group this post into.
+
+After this header, you can write anything you want, similar to other ``.md`` files.
 
 ## Directories with Files Developers Should Update Only
 
@@ -102,10 +153,42 @@ These are directories used for more technical parts of the website. You can edit
 
 ### _includes
 
+This directory includes HTML components that can be included into other templates during generation. You can call an include in another file in Liquid by calling this: ``{% include [include_name] %}``
+
+Where:
+
+* ``include_name`` is the name of the file in _includes including the file extension.
+
 ### _layouts
+
+Layouts are complete HTML templates that populate a markdown file's content where the string ``{{content}}`` is located. They are what is referenced in the ``layout`` parameter in markdown headers - this is how you indicate which layout is used for a kind of file. Typically, you should use the same kind of layout as other files in the same directory are using.
 
 ### pdf
 
+This is an unused directory that will later be used for experimenting with server-side PDF generation from pages.
+
 ### _plugins
 
+These are Ruby plugins that modify the generation behavior of the website.
+
+> **WARNING:** Do not touch these unless you really know what you're doing!
+
 ### _sass
+
+These are styling template sheets that are used to determine various styling on the website, such as how big boxes are, or what color things are. Currently, the file list is as follows:
+
+* ``alert.scss`` - Used for alert styling.
+* ``colors_base.scss`` - Used for light mode colors.
+* ``colors_dark.scss`` - Used for dark mode colors.
+* ``custom.scss`` - Custom CSS routines that don't really fit elsewhere.
+* ``footer.scss`` - The CSS of the footer.
+* ``headings.scss`` - CSS for headings, like h1, h2, h3 etc.
+* ``mobile.scss`` - CSS for screens with narrow widths, like phones in vertical mode.
+* ``navbar.scss`` - CSS for the navigation bar.
+* ``navtabs.scss`` - CSS for the navigation bar tabs.
+* ``sidebar.scss`` - CSS for the sidebar on the side of pages and documents.
+* ``syntax_highlighting.scss`` - CSS for how code is highlighted in code syntax.
+* ``table.scss`` - CSS for table generation.
+* ``transition.scss`` - CSS for transitions.
+* ``transition-none.scss`` - CSS for reduced motion.
+* ``workflowmaps.scss`` - CSS for the workflow maps. Unused in this version.

@@ -41,6 +41,9 @@ folders:
     
   - title: Sidebars
     jurl: /docs/tutorial/
+    
+  - title: Documents
+    jurl: /docs/tutorial/
       
   - subfolders:
     - title: Blog
@@ -53,9 +56,6 @@ folders:
       
       - title: Working With Categories
         jurl: /docs/tutorial/
-        
-  - title: Documents
-    jurl: /docs/tutorial/
         
   - subfolders:
     - title: About Section
