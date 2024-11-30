@@ -1,5 +1,5 @@
 ---
-title: "test test test"
+title: "test test test 3"
 permalink: index.html
 sidebar: home
 type: homepage
