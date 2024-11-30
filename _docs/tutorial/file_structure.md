@@ -69,7 +69,26 @@ If you did everything right, you should see an image like this:
 
 ![ A green parrot used as an example image of posting image assets. ](/template-information-site/assets/images/tutorial/parrot_test.jpg)
 
+> **Reminder:** Don't forget about alt text! It's important that all images are described both in their content and their function to the reader, so that visually impaired and slow-internet-connection users can use your website too!
+
 ### _data
+
+The files in this directory are data files that are used to structure certain data, such as how sidebars and the navigation bar are generated, and how text is generated for blog sections.
+
+These files are ``.yml`` files, which use special formatting to indicate content depth. [You can learn more about .yml files here](https://badgernested.github.io/template-information-site/docs/tutorial/file_types#data-files).
+
+In this directory, the following files are used for their given purposes.
+* ``blog_links.yml`` - You can add authors and topics onto your blog posts and you can easily search for posts based on those subjects. This file has the text that is displayed for each of those options for those subjects. See for example [the blog posts about the author Guattari](https://badgernested.github.io/template-information-site/author/guattari/), or [the blog posts about the subject of linguistics](https://badgernested.github.io/template-information-site/topic/linguistics/).
+* ``footer.yml`` - This contains information about the link data placed on the bottom of the page. You can have a title, a description, and three columns of links.
+* ``home.yml`` - This file contains the sidebar information shown on the home page.
+* ``sample_subject.yml`` - This file contains the sidebar information for the "Understanding Birds" document series.
+* ``sample_time.yml`` - This file contains the sidebar information for the "History of Gallunesia" document series.
+* ``topnav.yml`` - This file contains the definition for the top navigation bar. It is split into single items and dropdown lists.
+* ``tutorial.yml`` - This file contains the sidebar information for the "Tutorial on Use" document series.
+
+As you can see, you can make a ``.yml`` file based on another sidebar and use it as a template to design your own. But keep in mind that ``.yml`` formatting can break easily, so be careful while editing and don't forget to use backups.
+
+> Reminder: If you feel nervous about changing these files because of its specific structure, try saving a backup (just copy the old file before you make your changes) and then try changing it. If it completely breaks, just replace the backup. If you really screw things up you can just revert to the last functioning commit.
 
 ### _docs
 
