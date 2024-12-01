@@ -1,18 +1,23 @@
 ---
-title: "Academic Philosophy Blog"
+title: "Political Theory"
 permalink: index.html
 sidebar: home
 type: homepage
 class: first
 photo: /assets/photo.png
-photo_alt_text: A photograph of me, a man with a nice haircut and well trimmed facial hair, trendy glasses, a black sweater and a fashionable beige coat.
+photo_alt_text: A photograph of me.
 include_sidebar: true
 include_breadcrumb: false
 ---
 
-# Hello world
+# Welcome
 
-Welcome to my personal website! Here, I have a philosophy blog...
+This space serves as a reflection of my journey in political philosophy, where I explore how politics is inherently grounded in philosophical inquiry. As a speech and debate educator, I emphasize the connections between political science, philosophy, and debate, encouraging students to explore the complex intersections of these fields in Policy and Lincoln-Douglas debate.
+
+In addition to my academic work, I am a freelance journalist and an intern reporter with the Los Angeles Blade, where I write on topics that intersect with politics, culture, and society. Through these varied projects, I aim to bridge the gap between abstract theory and real-world applications.
+
+This site will also feature The Anti-Oedipus Project where I dissect each sentence of Gilles Deleuze and Félix Guattari’s Anti-Oedipus.
+
 
 ## This is a secondary header
 
