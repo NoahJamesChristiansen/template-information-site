@@ -19,7 +19,7 @@
 
 }
 
-@media screen and (max-width: 766px)
+@media screen and (max-width: 767px)
 {
 
     /* Sidebar stuff */
@@ -237,5 +237,9 @@
     
     .navbar-default .navbar-nav > li > .dropdown-menu {
       background-color: transparent;
+    }
+    
+    img.navbar-logo {
+	    max-height: 40px;
     }
 }
