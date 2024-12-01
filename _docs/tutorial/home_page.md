@@ -50,5 +50,5 @@ The content of the sidebar is determined by ``_data/home.yml`` by default. You c
 * ``related_resources_title`` - This is the text that appears under the list of links. In the demo, it's set to "Quick Links".
 * ``related_resources_list`` is a list of websites. For each website definition:
     * ``title`` is the text that is displayed in the link for the user.
-    * ``jurl`` is the link to the page you want to go to. If this link contains ``http`` or ``https``, it will be treated as an external link.
+    * ``jurl`` is the link to the page you want to go to. If this link contains ``http`` or ``https``, it will be treated as an external link. Otherwise, it will be relative to either the current directory if no leading ``/``, or relative to the base domain if it has a leading ``/``, for example, this website's base domain is ``https://badgernested.github.io/``.
 
