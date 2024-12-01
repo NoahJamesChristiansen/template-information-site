@@ -34,6 +34,16 @@ There are two images that are used for banners on the website:
 * ``assets/banner.jpg`` - The banner shown on the top navigation bar. This file should be no more than 100px tall (but at least 70px tall) and about 2000px long. I recommend saving as a ``.jpg`` file to reduce file size. This image will tile across the entire banner, so you can also opt for a tiled design.
 * ``assets/bottom_background.jpg`` - The banner shown on the bottom, in the footer. This file should be no more than 300px tall and about 2000px long. I recommend saving as a ``.jpg`` file to reduce file size.
 
+Here are what the images look like for reference:
+
+``assets/banner.jpg``:
+
+<img src="/template-information-site/assets/banner.jpg" alt="The current banner image." max-height="100"/>
+
+``assets/bottom_background.jpg``
+
+<img src="/template-information-site/assets/bottom_background.jpg" alt="The current footer image." max-height="400"/>
+
 You can change them to whatever you want, but here are a few suggestions:
 
 - Make sure that your design does not have high contrast designs, since they may be hard to read the text overlay.
