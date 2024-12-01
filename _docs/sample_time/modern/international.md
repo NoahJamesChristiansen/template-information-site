@@ -1,8 +1,6 @@
 ---
 title: International Politics
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/modern/economy
 prev_doc: /docs/sample_time/modern/domestic
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -27,7 +25,7 @@ Phasellus ultrices, sem quis tincidunt euismod, sem augue venenatis ipsum, et ul
 
 Donec consequat orci at erat suscipit, et blandit purus suscipit. Donec iaculis augue quis lorem tristique pellentesque hendrerit at nulla. Nam eget commodo odio, ac accumsan justo. Aenean diam odio, posuere id rhoncus ac, volutpat eu mauris. Maecenas condimentum nec ex eget suscipit. Morbi varius ligula lobortis, egestas ipsum eu, eleifend tortor. Aliquam erat volutpat. Nulla pretium eget dolor id fermentum. Quisque et arcu enim. Nulla facilisi. Curabitur efficitur odio vel dui semper, sit amet venenatis tortor malesuada. Vestibulum sollicitudin nisi magna, eu molestie sapien fringilla non. Etiam bibendum ac sapien at aliquam. In feugiat consequat turpis, a elementum metus rutrum lacinia.
 
-Phasellus eleifend dapibus felis. Nunc consectetur, est a tempus vehicula, ante eros interdum libero, ut posuere ligula metus eget magna. Vestibulum sapien turpis, fringilla at justo sed, ullamcorper convallis mauris. Fusce eu nunc aliquam, elementum tellus sed, molestie massa. Fusce rutrum sapien quis venenatis semper. Duis ligula neque, pretium aliquam laoreet eget, vehicula ac odio. Ut posuere tortor malesuada, egestas risus vitae, iaculis erat. Nullam tincidunt nisi at tincidunt lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vel felis et nisi hendrerit venenatis. Aenean tempor felis non mollis accumsan. Aliquam ultrices placerat quam, ac fringilla neque ullamcorper et. Vestibulum at tellus vehicula, maximus est sed, pharetra diam.<sup>[1]</sup>
+Phasellus eleifend dapibus felis. Nunc consectetur, est a tempus vehicula, ante eros interdum libero, ut posuere ligula metus eget magna. Vestibulum sapien turpis, fringilla at justo sed, ullamcorper convallis mauris. Fusce eu nunc aliquam, elementum tellus sed, molestie massa. Fusce rutrum sapien quis venenatis semper. Duis ligula neque, pretium aliquam laoreet eget, vehicula ac odio. Ut posuere tortor malesuada, egestas risus vitae, iaculis erat. Nullam tincidunt nisi at tincidunt lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vel felis et nisi hendrerit venenatis. Aenean tempor felis non mollis accumsan. Aliquam ultrices placerat quam, ac fringilla neque ullamcorper et. Vestibulum at tellus vehicula, maximus est sed, pharetra diam.[^1]
 
 ## Japan
 
@@ -35,7 +33,7 @@ Ut eu elit sed ipsum convallis posuere. Donec porttitor dictum leo, id rutrum el
 
 Donec eu elementum massa, vel ultrices metus. Cras eget est id lorem luctus molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ut accumsan eros. Duis lorem dui, auctor ut velit id, euismod finibus metus. Aenean suscipit, velit nec luctus mattis, nibh tellus tincidunt enim, non porta quam sapien eu purus. Cras ac iaculis leo. Vestibulum tempor, nisi ut mollis ultrices, mauris elit tincidunt libero, fringilla tincidunt eros nunc fringilla ipsum. Vivamus vehicula sapien eget mi malesuada lobortis. Donec dictum malesuada congue. Maecenas vitae egestas sem, eu efficitur ante. Mauris gravida elementum turpis, non ullamcorper lectus mollis in. Donec volutpat maximus lacus, sed pellentesque magna suscipit vel.
 
-Nullam ac dolor tortor. Sed eget maximus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean gravida turpis tincidunt arcu egestas, id lacinia magna lobortis. In posuere dolor at ligula ultricies, non auctor turpis semper. Sed placerat felis turpis, malesuada tincidunt massa vehicula sed. Proin in elit elementum, bibendum dui sed, pharetra purus. Aliquam at lorem diam. Praesent a pulvinar leo. Quisque tempor risus non fringilla lacinia. Mauris laoreet orci scelerisque, faucibus ex in, imperdiet ex. Sed porttitor aliquam est, sit amet consequat nunc cursus pulvinar. Aenean auctor quis diam vel euismod. Proin mauris lectus, semper feugiat accumsan ut, ultricies nec mi. Pellentesque et massa at ligula elementum dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<sup>[2]</sup>
+Nullam ac dolor tortor. Sed eget maximus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean gravida turpis tincidunt arcu egestas, id lacinia magna lobortis. In posuere dolor at ligula ultricies, non auctor turpis semper. Sed placerat felis turpis, malesuada tincidunt massa vehicula sed. Proin in elit elementum, bibendum dui sed, pharetra purus. Aliquam at lorem diam. Praesent a pulvinar leo. Quisque tempor risus non fringilla lacinia. Mauris laoreet orci scelerisque, faucibus ex in, imperdiet ex. Sed porttitor aliquam est, sit amet consequat nunc cursus pulvinar. Aenean auctor quis diam vel euismod. Proin mauris lectus, semper feugiat accumsan ut, ultricies nec mi. Pellentesque et massa at ligula elementum dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.[^2]
 
 ## China
 
@@ -51,13 +49,13 @@ Phasellus dapibus dui bibendum maximus rutrum. Aliquam convallis luctus massa, a
 
 In ex mi, eleifend sed aliquet sed, malesuada et ex. Nam non tincidunt nisi, at porttitor lacus. Aliquam vitae velit laoreet, condimentum urna non, fringilla libero. Phasellus fringilla pulvinar vestibulum. Morbi tempus nibh sit amet libero varius lacinia. In et faucibus leo. Nunc laoreet massa id est suscipit fermentum. Aenean dictum, augue et rhoncus convallis, ex ante condimentum tellus, ut congue risus elit at tellus. Etiam vel facilisis orci, sed auctor libero. Nunc rhoncus felis et massa egestas, ut dapibus tellus auctor.
 
-Proin vel erat laoreet, porttitor ipsum in, scelerisque leo. Nunc ac rutrum ante. Pellentesque gravida libero quis nisl volutpat consequat. Donec ullamcorper dictum erat quis malesuada. Donec ut arcu id sapien efficitur viverra id vitae ligula. Duis sit amet nibh hendrerit, mattis arcu ut, egestas eros. Duis quis massa vitae mi consequat fringilla. Suspendisse a felis eu odio gravida faucibus. Curabitur nisl urna, vulputate vel posuere fringilla, molestie et nibh. Curabitur sit amet mauris euismod, pharetra erat in, faucibus turpis. Duis pharetra dignissim augue ultrices scelerisque.<sup>[3]</sup>
+Proin vel erat laoreet, porttitor ipsum in, scelerisque leo. Nunc ac rutrum ante. Pellentesque gravida libero quis nisl volutpat consequat. Donec ullamcorper dictum erat quis malesuada. Donec ut arcu id sapien efficitur viverra id vitae ligula. Duis sit amet nibh hendrerit, mattis arcu ut, egestas eros. Duis quis massa vitae mi consequat fringilla. Suspendisse a felis eu odio gravida faucibus. Curabitur nisl urna, vulputate vel posuere fringilla, molestie et nibh. Curabitur sit amet mauris euismod, pharetra erat in, faucibus turpis. Duis pharetra dignissim augue ultrices scelerisque.[^3]
 
 ## Australia
 
 Nullam euismod eros eget risus euismod, vitae varius enim feugiat. Mauris posuere, lacus eu finibus ullamcorper, velit turpis ultricies nunc, vel mattis risus erat ac leo. In vitae nunc orci. Praesent ac finibus ante, et gravida leo. Nullam efficitur euismod nulla aliquam hendrerit. Nulla rhoncus leo sagittis sapien euismod, non ultrices tellus ultricies. Suspendisse purus purus, convallis et viverra vel, sagittis eu magna. Morbi interdum magna nec nulla suscipit dictum eu eu neque. Etiam vel iaculis tortor.
 
-Donec eget eros vel quam viverra elementum. Mauris ut lobortis lorem, eget fringilla tellus. Nam in justo dolor. Curabitur scelerisque, erat non egestas tristique, nunc augue malesuada arcu, eget vulputate felis quam sit amet orci. Integer tincidunt leo in nisl interdum viverra. Integer vitae mauris non nisl tempor commodo in a nisi. Quisque laoreet est arcu, et tempus orci vehicula at. Aliquam tristique metus dignissim mauris vestibulum laoreet. Vivamus sit amet leo eget elit dignissim malesuada. Fusce eu nisi lorem. Maecenas id risus at sapien bibendum interdum. Nulla tincidunt rutrum consequat.<sup>[4]</sup>
+Donec eget eros vel quam viverra elementum. Mauris ut lobortis lorem, eget fringilla tellus. Nam in justo dolor. Curabitur scelerisque, erat non egestas tristique, nunc augue malesuada arcu, eget vulputate felis quam sit amet orci. Integer tincidunt leo in nisl interdum viverra. Integer vitae mauris non nisl tempor commodo in a nisi. Quisque laoreet est arcu, et tempus orci vehicula at. Aliquam tristique metus dignissim mauris vestibulum laoreet. Vivamus sit amet leo eget elit dignissim malesuada. Fusce eu nisi lorem. Maecenas id risus at sapien bibendum interdum. Nulla tincidunt rutrum consequat.[^4]
 
 ## The United States of America
 
@@ -71,12 +69,12 @@ Aenean accumsan arcu in sollicitudin auctor. Aenean vulputate laoreet lectus ut 
 
 Mauris lacinia, enim porta ultricies vulputate, eros ante blandit ligula, sed varius ligula est ac velit. Mauris iaculis cursus tellus eu sagittis. Cras id cursus enim. Fusce tempus venenatis nisi nec auctor. Duis rhoncus, leo id feugiat varius, orci quam lacinia arcu, a imperdiet dui metus at lorem. Fusce posuere, risus sit amet euismod rutrum, risus nisi eleifend dui, ac efficitur orci nisl eget risus. Nam iaculis pulvinar ipsum et sodales. In venenatis lorem ligula, in feugiat libero dignissim at. Nam consequat sit amet magna non venenatis. Suspendisse venenatis varius felis dignissim luctus. In eget ipsum quis lectus vehicula auctor. Vestibulum fermentum ante sed aliquet mattis. Cras ornare euismod pulvinar. Phasellus dignissim pretium justo ac interdum. Donec et elit dui. Maecenas risus augue, laoreet quis magna et, ullamcorper tincidunt nunc.
 
-Curabitur tristique ex eu nunc varius ornare. Nulla facilisi. Mauris ornare nulla erat, vitae fermentum lectus rutrum interdum. Ut eu sapien at mi dignissim pretium sed nec nibh. Mauris at risus malesuada, malesuada diam id, euismod urna. Donec nec turpis cursus, consequat libero dictum, volutpat nibh. Nulla commodo neque quis dictum sodales. Nam luctus porttitor commodo. Mauris scelerisque urna id interdum condimentum. In mollis gravida quam ac dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam condimentum, tellus eu interdum fringilla, mi lectus dignissim tortor, at viverra nunc massa sed enim.<sup>[5]</sup>
+Curabitur tristique ex eu nunc varius ornare. Nulla facilisi. Mauris ornare nulla erat, vitae fermentum lectus rutrum interdum. Ut eu sapien at mi dignissim pretium sed nec nibh. Mauris at risus malesuada, malesuada diam id, euismod urna. Donec nec turpis cursus, consequat libero dictum, volutpat nibh. Nulla commodo neque quis dictum sodales. Nam luctus porttitor commodo. Mauris scelerisque urna id interdum condimentum. In mollis gravida quam ac dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam condimentum, tellus eu interdum fringilla, mi lectus dignissim tortor, at viverra nunc massa sed enim.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

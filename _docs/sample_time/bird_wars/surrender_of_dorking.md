@@ -1,8 +1,6 @@
 ---
 title: Surrender of Dorking
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/bird_wars/analysis_summary
 prev_doc: /docs/sample_time/bird_wars/seige_of_ayam_cemani
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -33,7 +31,7 @@ Morbi ac eros cursus, ullamcorper est eget, convallis augue. Aliquam erat volutp
 
 Ut eleifend metus ac euismod sodales. Maecenas efficitur dictum purus vel commodo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut aliquam tortor ac augue ullamcorper gravida. Suspendisse lectus felis, aliquet et nunc at, ornare dignissim ligula. Sed justo neque, venenatis semper porttitor non, iaculis in est. Phasellus placerat elementum sem at sagittis. Morbi ullamcorper ultrices dapibus. Donec mollis nibh justo, in tincidunt erat dignissim eu. Nunc in fermentum sapien. Donec faucibus, dui faucibus maximus sollicitudin, arcu metus molestie tortor, quis facilisis urna nisi non ante.
 
-Nullam commodo, lacus vitae venenatis vulputate, nisl libero volutpat dui, sit amet maximus nisl velit quis arcu. Etiam viverra nunc mi, et vestibulum lacus viverra eu. Praesent nec vestibulum sem. Praesent id consectetur magna. Donec convallis diam ac mauris sodales fringilla id vel lorem. Aliquam tincidunt consequat ante, eu efficitur urna ornare nec. Pellentesque ornare lorem et diam dapibus posuere. Donec scelerisque turpis turpis, quis commodo justo porta ut. Morbi mattis, tortor vel consectetur maximus, ante magna auctor nunc, id elementum urna turpis at erat. Praesent tristique laoreet ornare. Proin in aliquam mauris.<sup>[1]</sup>
+Nullam commodo, lacus vitae venenatis vulputate, nisl libero volutpat dui, sit amet maximus nisl velit quis arcu. Etiam viverra nunc mi, et vestibulum lacus viverra eu. Praesent nec vestibulum sem. Praesent id consectetur magna. Donec convallis diam ac mauris sodales fringilla id vel lorem. Aliquam tincidunt consequat ante, eu efficitur urna ornare nec. Pellentesque ornare lorem et diam dapibus posuere. Donec scelerisque turpis turpis, quis commodo justo porta ut. Morbi mattis, tortor vel consectetur maximus, ante magna auctor nunc, id elementum urna turpis at erat. Praesent tristique laoreet ornare. Proin in aliquam mauris.[^1]
 
 # Combatants
 
@@ -49,7 +47,7 @@ Nam maximus posuere mattis. Duis vitae egestas nisi. Fusce aliquet mollis placer
 
 Aliquam pellentesque est ut urna cursus sagittis eget eget est. Nam at rutrum orci, et lobortis leo. Ut eget tincidunt velit. Integer accumsan mauris nibh, rutrum mattis turpis ornare ac. Praesent efficitur felis eget diam tristique, at varius orci placerat. Praesent vel semper dui, eu interdum eros. Suspendisse porttitor congue neque, quis viverra arcu lobortis a. Suspendisse consequat turpis id odio venenatis, porttitor euismod sapien ultrices. Praesent at aliquam lectus. Donec semper nisi hendrerit ipsum luctus, eget fringilla nunc vehicula. Quisque eget dapibus ante. Suspendisse potenti. Vestibulum ac purus sed eros aliquet convallis in vitae enim. Sed et augue odio.
 
-Nulla arcu tortor, consectetur sit amet libero in, pretium sagittis velit. Suspendisse consectetur laoreet lectus sit amet rhoncus. Nulla facilisi. Nam sit amet lectus non erat pharetra auctor cursus non urna. Suspendisse pulvinar ultricies sagittis. Curabitur accumsan sagittis vulputate. Nunc elementum aliquet imperdiet. Vestibulum vitae ornare ligula. Etiam non enim faucibus, ornare lacus a, maximus eros. Ut sed scelerisque massa. Duis augue sapien, ullamcorper in lacus eu, convallis dictum ante. In porta ut massa id scelerisque. Maecenas sapien ex, venenatis in odio eget, mattis aliquam ante. Nullam eu sapien consectetur, aliquam nibh ac, consectetur mauris.<sup>[2]</sup>
+Nulla arcu tortor, consectetur sit amet libero in, pretium sagittis velit. Suspendisse consectetur laoreet lectus sit amet rhoncus. Nulla facilisi. Nam sit amet lectus non erat pharetra auctor cursus non urna. Suspendisse pulvinar ultricies sagittis. Curabitur accumsan sagittis vulputate. Nunc elementum aliquet imperdiet. Vestibulum vitae ornare ligula. Etiam non enim faucibus, ornare lacus a, maximus eros. Ut sed scelerisque massa. Duis augue sapien, ullamcorper in lacus eu, convallis dictum ante. In porta ut massa id scelerisque. Maecenas sapien ex, venenatis in odio eget, mattis aliquam ante. Nullam eu sapien consectetur, aliquam nibh ac, consectetur mauris.[^2]
 
 ## Resources
 
@@ -57,7 +55,7 @@ Integer in neque ex. Phasellus felis quam, commodo at semper vitae, porttitor a 
 
 Aliquam nunc leo, iaculis ut rutrum quis, consequat a justo. Cras consectetur dolor magna, ut ultricies nulla venenatis at. Donec convallis velit purus, quis tincidunt mauris efficitur eu. Quisque lacinia vel nisi sed tempus. Quisque pretium ante enim, quis luctus turpis pharetra id. Maecenas vel velit velit. In neque lorem, bibendum in sem vel, feugiat vulputate diam. Quisque dapibus ipsum sed tortor mollis, imperdiet tempus risus suscipit. Vivamus quis congue ex.
 
-Nullam venenatis posuere diam. Quisque eu vulputate enim. Sed in lacus vel metus feugiat finibus. Morbi facilisis volutpat dui feugiat ullamcorper. Praesent rutrum blandit erat, eget dapibus enim imperdiet at. Phasellus mattis, mi vestibulum hendrerit suscipit, velit massa pharetra sem, quis tempor felis nisi et dui. Ut ac lacinia augue, vel tincidunt libero. In mollis ut urna eget varius. Suspendisse commodo, ligula ultrices volutpat lacinia, enim neque dapibus ante, ac feugiat felis odio eget quam. Mauris laoreet est nunc, in aliquet est venenatis vitae.<sup>[3]</sup>
+Nullam venenatis posuere diam. Quisque eu vulputate enim. Sed in lacus vel metus feugiat finibus. Morbi facilisis volutpat dui feugiat ullamcorper. Praesent rutrum blandit erat, eget dapibus enim imperdiet at. Phasellus mattis, mi vestibulum hendrerit suscipit, velit massa pharetra sem, quis tempor felis nisi et dui. Ut ac lacinia augue, vel tincidunt libero. In mollis ut urna eget varius. Suspendisse commodo, ligula ultrices volutpat lacinia, enim neque dapibus ante, ac feugiat felis odio eget quam. Mauris laoreet est nunc, in aliquet est venenatis vitae.[^3]
 
 # Battle
 
@@ -71,7 +69,7 @@ Sed at congue dolor, et rutrum elit. In vel enim eros. Sed ullamcorper turpis co
 
 Vestibulum facilisis magna ligula, in tempor eros vestibulum in. Proin non dolor dui. Curabitur efficitur et sem in luctus. Proin faucibus aliquam imperdiet. Maecenas posuere, tortor ut auctor pharetra, tellus mauris elementum sem, ac condimentum tortor libero tempus sem. Proin sed suscipit mi. Aliquam auctor magna sit amet turpis imperdiet, sed auctor enim tristique. Vivamus sit amet mattis arcu, nec venenatis lacus. Vivamus efficitur neque eget accumsan mattis.
 
-Morbi pulvinar magna turpis. Nulla sit amet tempus arcu. Etiam vel neque ac mauris malesuada gravida nec sed sapien. Maecenas quis pharetra ex. Donec id nulla vitae lectus condimentum efficitur. Quisque eget quam vestibulum, auctor dolor sit amet, hendrerit orci. Integer nec leo in libero vestibulum pharetra at ut lectus. Quisque luctus ultricies ex et consequat. Suspendisse sagittis mauris augue, et vestibulum velit dapibus sed. Maecenas sed libero hendrerit, sollicitudin elit sed, finibus ipsum. Phasellus blandit, ante ac vestibulum blandit, augue leo faucibus urna, ac efficitur neque purus ut lorem. Integer eu mollis erat. Nunc ac ornare mi, eu pellentesque turpis.<sup>[4]</sup>
+Morbi pulvinar magna turpis. Nulla sit amet tempus arcu. Etiam vel neque ac mauris malesuada gravida nec sed sapien. Maecenas quis pharetra ex. Donec id nulla vitae lectus condimentum efficitur. Quisque eget quam vestibulum, auctor dolor sit amet, hendrerit orci. Integer nec leo in libero vestibulum pharetra at ut lectus. Quisque luctus ultricies ex et consequat. Suspendisse sagittis mauris augue, et vestibulum velit dapibus sed. Maecenas sed libero hendrerit, sollicitudin elit sed, finibus ipsum. Phasellus blandit, ante ac vestibulum blandit, augue leo faucibus urna, ac efficitur neque purus ut lorem. Integer eu mollis erat. Nunc ac ornare mi, eu pellentesque turpis.[^4]
 
 ## Final Surrender
 
@@ -79,12 +77,12 @@ Curabitur lacinia orci felis, vel tincidunt ligula interdum quis. Quisque eu odi
 
 Fusce euismod nibh sodales magna maximus, in sollicitudin ipsum ullamcorper. Nam fermentum ut tellus a mattis. In in rhoncus quam. Aliquam fermentum est sit amet orci commodo, in luctus metus hendrerit. Cras finibus nibh in tellus pulvinar, quis sagittis lorem placerat. Pellentesque eu pulvinar dolor. Nullam nec finibus felis. Sed at bibendum ligula. Fusce id imperdiet nisi. Nullam sed lobortis justo, sit amet scelerisque purus.
 
-Integer et fermentum augue, et semper urna. Vestibulum dignissim et ipsum in lobortis. Nulla in orci vel lorem cursus accumsan nec et erat. Proin nec fermentum orci, id gravida lacus. Suspendisse placerat non tortor eget condimentum. Sed lobortis vel leo eu posuere. Suspendisse laoreet tortor augue, nec facilisis urna vestibulum vel. Sed ligula mi, bibendum at nunc sed, tempus dignissim nisl. Proin vulputate aliquet nulla, in ultricies nulla tincidunt semper. Pellentesque semper vestibulum congue. Integer vitae nulla pulvinar, commodo est non, malesuada tortor. Nunc ut aliquam mi, ut hendrerit enim. Nam rutrum, urna eget congue accumsan, quam lorem tempus ipsum, sed dictum nibh urna vitae mauris. Suspendisse in rhoncus leo, at venenatis orci. Phasellus convallis auctor consectetur. Curabitur lobortis lacinia ultrices.<sup>[5]</sup>
+Integer et fermentum augue, et semper urna. Vestibulum dignissim et ipsum in lobortis. Nulla in orci vel lorem cursus accumsan nec et erat. Proin nec fermentum orci, id gravida lacus. Suspendisse placerat non tortor eget condimentum. Sed lobortis vel leo eu posuere. Suspendisse laoreet tortor augue, nec facilisis urna vestibulum vel. Sed ligula mi, bibendum at nunc sed, tempus dignissim nisl. Proin vulputate aliquet nulla, in ultricies nulla tincidunt semper. Pellentesque semper vestibulum congue. Integer vitae nulla pulvinar, commodo est non, malesuada tortor. Nunc ut aliquam mi, ut hendrerit enim. Nam rutrum, urna eget congue accumsan, quam lorem tempus ipsum, sed dictum nibh urna vitae mauris. Suspendisse in rhoncus leo, at venenatis orci. Phasellus convallis auctor consectetur. Curabitur lobortis lacinia ultrices.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

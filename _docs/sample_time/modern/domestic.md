@@ -1,8 +1,6 @@
 ---
 title: Domestic Politics
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/modern/international
 prev_doc: /docs/sample_time/modern/culture
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -35,13 +33,13 @@ Praesent tempor leo vitae mauris pretium, sit amet laoreet augue egestas. Praese
 
 Nulla diam tortor, consequat sed facilisis a, vestibulum sit amet neque. Nunc varius lacus vel euismod sollicitudin. Fusce aliquam sed arcu id dignissim. In lacus diam, pellentesque a odio ut, pulvinar scelerisque metus. Aliquam nec lectus semper, scelerisque nisl et, consequat turpis. Aenean a ultricies risus. Aenean quis lectus pulvinar, pretium libero quis, feugiat ex. Aliquam erat volutpat. Donec justo diam, rhoncus in malesuada et, pellentesque id lacus. Duis cursus erat ac magna tincidunt, vel dictum lectus interdum. Nulla mollis dapibus faucibus.
 
-Donec vestibulum sapien varius sagittis faucibus. Fusce nisl leo, sodales a diam at, scelerisque cursus leo. Suspendisse laoreet diam ut mollis consectetur. Aenean ornare mi non lacus faucibus, a vehicula lectus condimentum. Pellentesque suscipit gravida est, nec vehicula orci sollicitudin et. Vivamus egestas venenatis ante sed blandit. Mauris risus magna, venenatis et odio et, ultrices pretium sapien. Morbi in quam in lectus fermentum varius id eget odio. Duis facilisis fermentum pretium.<sup>[1]</sup>
+Donec vestibulum sapien varius sagittis faucibus. Fusce nisl leo, sodales a diam at, scelerisque cursus leo. Suspendisse laoreet diam ut mollis consectetur. Aenean ornare mi non lacus faucibus, a vehicula lectus condimentum. Pellentesque suscipit gravida est, nec vehicula orci sollicitudin et. Vivamus egestas venenatis ante sed blandit. Mauris risus magna, venenatis et odio et, ultrices pretium sapien. Morbi in quam in lectus fermentum varius id eget odio. Duis facilisis fermentum pretium.[^1]
 
 ## The Lucians
 
 Aliquam tellus augue, dictum at tellus quis, posuere finibus lectus. Praesent id magna nibh. In iaculis pharetra tincidunt. Quisque consequat sit amet ex a convallis. Nam consequat, felis sed commodo blandit, dolor nisl malesuada orci, eget pellentesque lacus eros vitae nunc. Sed fermentum eros nec commodo feugiat. Curabitur tempus felis ac rutrum pretium. Phasellus sit amet luctus neque, sit amet accumsan elit. Nullam congue urna sit amet turpis efficitur feugiat. Nam eu tellus accumsan, porttitor arcu ornare, laoreet magna. Etiam scelerisque neque vitae elit aliquam scelerisque.
 
-Donec ut nulla sit amet eros vehicula pellentesque. Sed pharetra sed justo eget porta. Donec purus quam, fermentum nec dui nec, rhoncus scelerisque ipsum. Integer placerat eget ex eget varius. Aliquam pulvinar, nisi eu venenatis consectetur, dui diam tempus enim, ac dapibus turpis elit et lorem. Sed eu nulla ex. Ut rutrum sagittis magna nec imperdiet. Sed quis ultricies quam, sollicitudin fermentum erat. Phasellus consequat ipsum nec purus consectetur, a sodales neque tempus. Sed id laoreet elit. Donec eu justo ut sapien placerat efficitur et et velit. Etiam posuere felis tellus, at aliquam quam tempor id. Maecenas fermentum ac nulla non pretium. Sed ut consequat dui. Nam eu sagittis massa. Vestibulum commodo neque vel placerat varius.<sup>[2]</sup>
+Donec ut nulla sit amet eros vehicula pellentesque. Sed pharetra sed justo eget porta. Donec purus quam, fermentum nec dui nec, rhoncus scelerisque ipsum. Integer placerat eget ex eget varius. Aliquam pulvinar, nisi eu venenatis consectetur, dui diam tempus enim, ac dapibus turpis elit et lorem. Sed eu nulla ex. Ut rutrum sagittis magna nec imperdiet. Sed quis ultricies quam, sollicitudin fermentum erat. Phasellus consequat ipsum nec purus consectetur, a sodales neque tempus. Sed id laoreet elit. Donec eu justo ut sapien placerat efficitur et et velit. Etiam posuere felis tellus, at aliquam quam tempor id. Maecenas fermentum ac nulla non pretium. Sed ut consequat dui. Nam eu sagittis massa. Vestibulum commodo neque vel placerat varius.[^2]
 
 Duis pretium consectetur auctor. Curabitur ultricies condimentum enim, eu euismod odio lobortis a. Mauris vel sodales augue. Sed odio magna, dignissim sed ipsum eu, malesuada sodales dolor. Phasellus eu venenatis sem. Nam suscipit mattis magna, a ornare metus dignissim vitae. Quisque porttitor metus nec elit vestibulum pretium a a nulla. Morbi pretium urna ac orci tincidunt sodales. Curabitur id urna a diam efficitur viverra. Vestibulum fermentum nisi justo, vitae ullamcorper ligula auctor sed. Aenean a lectus sit amet nisl vulputate scelerisque. Sed vulputate velit vel odio gravida, varius dapibus erat vehicula. Aenean ac gravida dui. 
 
@@ -49,7 +47,7 @@ Duis pretium consectetur auctor. Curabitur ultricies condimentum enim, eu euismo
 
 Duis sollicitudin purus tortor, vitae mollis dolor dictum sed. Duis consectetur libero vitae odio porta, a mollis lorem commodo. Vestibulum massa massa, porttitor sit amet arcu sit amet, convallis eleifend neque. Duis laoreet libero eget urna vulputate, in interdum nulla lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam tempus nisi nec tincidunt cursus. Vestibulum gravida, mi in aliquam vulputate, metus ipsum interdum quam, ut pharetra neque neque et tellus. Sed varius scelerisque velit in pharetra. Integer id tincidunt libero. Pellentesque convallis, ante at tempor vulputate, massa purus suscipit nisi, id dapibus libero odio consectetur dolor. Cras fringilla dui facilisis augue ultrices auctor. Integer luctus convallis elementum. Suspendisse mollis enim lectus, et pretium quam fermentum pulvinar. Pellentesque placerat lacus ut elementum aliquam. Praesent accumsan luctus eros eget sollicitudin.
 
-Proin congue placerat neque, ut luctus elit dictum auctor. Sed magna est, malesuada ac consectetur sit amet, condimentum at lacus. Ut sollicitudin tempor ex non finibus. Cras vitae libero aliquet, convallis metus ac, euismod justo. Aliquam tempus est tortor, quis condimentum lacus venenatis ut. Fusce turpis dui, venenatis ac dapibus quis, auctor id eros. Cras hendrerit, mi a cursus lobortis, ipsum dolor cursus enim, nec tincidunt velit augue in neque. Donec venenatis vestibulum sapien, luctus pharetra erat aliquet sit amet. Mauris nec consequat lacus, at mollis ante.<sup>[3]</sup>
+Proin congue placerat neque, ut luctus elit dictum auctor. Sed magna est, malesuada ac consectetur sit amet, condimentum at lacus. Ut sollicitudin tempor ex non finibus. Cras vitae libero aliquet, convallis metus ac, euismod justo. Aliquam tempus est tortor, quis condimentum lacus venenatis ut. Fusce turpis dui, venenatis ac dapibus quis, auctor id eros. Cras hendrerit, mi a cursus lobortis, ipsum dolor cursus enim, nec tincidunt velit augue in neque. Donec venenatis vestibulum sapien, luctus pharetra erat aliquet sit amet. Mauris nec consequat lacus, at mollis ante.[^3]
 
 # Movements
 
@@ -65,7 +63,7 @@ Nulla vitae leo vel lectus congue tincidunt. Aliquam bibendum mi ut consectetur 
 
 Aliquam fermentum libero id interdum interdum. Vestibulum eu vehicula lectus, sit amet ultricies est. Duis ac diam ullamcorper, blandit nibh at, gravida neque. Fusce elementum aliquet est eu commodo. Phasellus in leo eget sapien pharetra euismod aliquam sed justo. Maecenas cursus ipsum vulputate lorem vehicula, eget cursus lorem volutpat. In tempor magna sit amet nulla porttitor fringilla. Fusce aliquet placerat volutpat. Donec enim lacus, malesuada nec gravida ac, tempus eget nisl. Curabitur fringilla, diam ac dictum suscipit, ligula odio scelerisque risus, aliquam sodales ante elit ut risus. Nulla pulvinar, magna sit amet congue feugiat, nisl justo vehicula libero, a convallis justo turpis et massa. Phasellus convallis diam fermentum, pulvinar arcu id, cursus mauris. Nam sit amet augue ac orci dignissim porttitor. Ut blandit, arcu id gravida tempor, nulla lacus gravida turpis, sodales varius ante justo eget quam. Nunc rutrum vehicula arcu. In at justo at nulla maximus viverra.
 
-Nunc eget ullamcorper ex, et imperdiet justo. Morbi ut dui consequat, placerat felis eget, placerat nisi. Nulla vel tempor est. In hac habitasse platea dictumst. Pellentesque condimentum pharetra scelerisque. Donec rutrum pharetra metus vel fermentum. Fusce mollis, orci nec commodo accumsan, magna tellus laoreet purus, ut congue libero neque eget tellus. Duis in libero quis magna sodales mattis a ac enim. Vestibulum in quam eu tellus tristique venenatis.<sup>[4]</sup>
+Nunc eget ullamcorper ex, et imperdiet justo. Morbi ut dui consequat, placerat felis eget, placerat nisi. Nulla vel tempor est. In hac habitasse platea dictumst. Pellentesque condimentum pharetra scelerisque. Donec rutrum pharetra metus vel fermentum. Fusce mollis, orci nec commodo accumsan, magna tellus laoreet purus, ut congue libero neque eget tellus. Duis in libero quis magna sodales mattis a ac enim. Vestibulum in quam eu tellus tristique venenatis.[^4]
 
 ## Animal Defence Force
 
@@ -73,12 +71,12 @@ Donec posuere, quam sit amet maximus tempor, lacus leo sollicitudin tellus, ut m
 
 Morbi ullamcorper turpis nec dui placerat, sit amet varius est porttitor. Nullam luctus blandit dui at tristique. Mauris vehicula nunc in felis blandit venenatis. Phasellus sagittis orci vitae lorem iaculis aliquam vel non lacus. Praesent sit amet neque nec felis gravida lobortis. Nunc faucibus metus ac varius lobortis. Donec mollis dui ut libero dapibus lobortis. Fusce a malesuada sapien, hendrerit congue sapien. Aenean auctor dui quis lobortis ornare. Fusce non tempor sapien, id dapibus diam. Suspendisse non odio eget nulla congue dapibus.
 
-Nulla pretium maximus lectus, vitae interdum eros sollicitudin sed. Fusce sit amet sollicitudin lectus. Phasellus porttitor mauris eros, sed interdum mi faucibus vitae. Duis odio risus, iaculis ut ultrices sit amet, tempus eu sapien. Nullam hendrerit aliquet massa nec semper. Mauris vitae finibus lectus, quis dictum libero. Suspendisse potenti. Maecenas pulvinar metus vel commodo pharetra. Ut vitae elit rutrum, semper nisl ut, rutrum nibh. Sed fringilla nisi vitae metus ultricies, at vulputate neque vehicula. Aenean sed felis fringilla, rhoncus leo in, laoreet lectus. Ut vel porttitor ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam facilisis facilisis purus, vel vulputate elit.<sup>[5]</sup>
+Nulla pretium maximus lectus, vitae interdum eros sollicitudin sed. Fusce sit amet sollicitudin lectus. Phasellus porttitor mauris eros, sed interdum mi faucibus vitae. Duis odio risus, iaculis ut ultrices sit amet, tempus eu sapien. Nullam hendrerit aliquet massa nec semper. Mauris vitae finibus lectus, quis dictum libero. Suspendisse potenti. Maecenas pulvinar metus vel commodo pharetra. Ut vitae elit rutrum, semper nisl ut, rutrum nibh. Sed fringilla nisi vitae metus ultricies, at vulputate neque vehicula. Aenean sed felis fringilla, rhoncus leo in, laoreet lectus. Ut vel porttitor ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam facilisis facilisis purus, vel vulputate elit.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

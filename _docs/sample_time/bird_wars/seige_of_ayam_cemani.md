@@ -1,8 +1,6 @@
 ---
 title: Seige of Ayam Cemani
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/bird_wars/surrender_of_dorking
 prev_doc: /docs/sample_time/bird_wars/battle_of_chantecler
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -57,13 +55,13 @@ Donec imperdiet urna nulla, in euismod nisl laoreet sit amet. Mauris magna turpi
 
 Donec ac erat quis elit congue finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at malesuada ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Quisque non pharetra erat. Proin varius arcu vel dolor sodales mattis. Vivamus tristique dolor a dui ornare, sit amet cursus nibh molestie. Sed mollis elementum orci, ac rutrum nisi dictum a. Phasellus diam ligula, pharetra at tincidunt a, posuere non augue. Integer commodo tortor a sagittis lacinia. Phasellus posuere orci purus, id fringilla arcu dictum in. Proin consequat augue eget congue pretium.
 
-Proin ultrices ut justo non posuere. Praesent a tortor turpis. Nullam luctus lectus non felis convallis, quis dignissim sapien iaculis. Fusce sit amet venenatis velit. In interdum nisl id tortor varius molestie. Sed ac tortor posuere, consectetur lectus at, maximus felis. Ut ultrices sapien vel massa rutrum, dignissim aliquet justo lobortis. Nulla facilisi. Nullam vitae nibh ac nisi molestie pellentesque eget vel dui. Sed aliquam quam nec erat pharetra ornare. Vestibulum arcu turpis, tincidunt sed eleifend ac, mattis vitae ex. Mauris aliquet at orci sit amet molestie. Nam placerat, mi nec dignissim tincidunt, sem odio mollis orci, id lobortis nunc lacus nec purus. Sed sem ante, suscipit eget viverra sit amet, faucibus et neque. Quisque porttitor lectus nibh, nec sollicitudin erat sodales sit amet. Maecenas ante lectus, commodo et ornare a, scelerisque quis nunc.<sup>[1]</sup>
+Proin ultrices ut justo non posuere. Praesent a tortor turpis. Nullam luctus lectus non felis convallis, quis dignissim sapien iaculis. Fusce sit amet venenatis velit. In interdum nisl id tortor varius molestie. Sed ac tortor posuere, consectetur lectus at, maximus felis. Ut ultrices sapien vel massa rutrum, dignissim aliquet justo lobortis. Nulla facilisi. Nullam vitae nibh ac nisi molestie pellentesque eget vel dui. Sed aliquam quam nec erat pharetra ornare. Vestibulum arcu turpis, tincidunt sed eleifend ac, mattis vitae ex. Mauris aliquet at orci sit amet molestie. Nam placerat, mi nec dignissim tincidunt, sem odio mollis orci, id lobortis nunc lacus nec purus. Sed sem ante, suscipit eget viverra sit amet, faucibus et neque. Quisque porttitor lectus nibh, nec sollicitudin erat sodales sit amet. Maecenas ante lectus, commodo et ornare a, scelerisque quis nunc.[^1]
 
 # Battle
 
 In ultrices nibh sagittis massa euismod, eget consequat nulla faucibus. Nullam sagittis mauris blandit, blandit lacus in, scelerisque eros. Duis ornare est a imperdiet sodales. Donec orci lorem, luctus in metus sit amet, venenatis tempor augue. Mauris mi elit, semper ultrices dolor semper, lacinia malesuada nunc. Integer erat mi, hendrerit quis posuere in, scelerisque sit amet sapien. Aenean sed condimentum tortor, ac mattis dui. Pellentesque vitae ex nec mauris fermentum scelerisque vitae nec neque. Nulla eu libero mollis, blandit velit quis, posuere nisl. Vivamus congue, odio ut egestas commodo, mauris nulla tincidunt velit, id consequat lorem leo eu ipsum. Praesent blandit velit vitae mattis auctor. Praesent quis scelerisque magna, vel lobortis lorem. Praesent tincidunt malesuada sem et sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 
-Integer et erat sed ex vulputate molestie. Vivamus hendrerit quis quam sed consequat. Sed ultricies laoreet leo, vel placerat leo dignissim vel. Cras dictum volutpat sapien, posuere consequat lorem iaculis ac. Phasellus condimentum molestie pharetra. Sed et posuere libero. Duis sagittis elit eget porttitor vehicula. Nunc lacinia, mi convallis auctor auctor, diam augue ullamcorper lacus, a eleifend nisl ante eget lectus. Quisque risus risus, accumsan vel lorem sed, sollicitudin venenatis nisl. Nulla euismod aliquam nibh, eu mollis turpis accumsan id. Vivamus auctor mi eu erat iaculis ultricies id vitae ex. Morbi eu consequat lacus, eu blandit purus. Mauris bibendum ut turpis eget pretium. Pellentesque ultricies pulvinar egestas. Nam dignissim porta sollicitudin.<sup>[2]</sup>
+Integer et erat sed ex vulputate molestie. Vivamus hendrerit quis quam sed consequat. Sed ultricies laoreet leo, vel placerat leo dignissim vel. Cras dictum volutpat sapien, posuere consequat lorem iaculis ac. Phasellus condimentum molestie pharetra. Sed et posuere libero. Duis sagittis elit eget porttitor vehicula. Nunc lacinia, mi convallis auctor auctor, diam augue ullamcorper lacus, a eleifend nisl ante eget lectus. Quisque risus risus, accumsan vel lorem sed, sollicitudin venenatis nisl. Nulla euismod aliquam nibh, eu mollis turpis accumsan id. Vivamus auctor mi eu erat iaculis ultricies id vitae ex. Morbi eu consequat lacus, eu blandit purus. Mauris bibendum ut turpis eget pretium. Pellentesque ultricies pulvinar egestas. Nam dignissim porta sollicitudin.[^2]
 
 ## Climb the Divine Staircase
 
@@ -73,13 +71,13 @@ Quisque cursus, mauris sit amet ultricies varius, tellus nisl tempus neque, id l
 
 Fusce at magna eu arcu ultricies cursus. Fusce quis molestie metus. Donec tincidunt, magna quis aliquet sodales, lectus libero lacinia orci, a suscipit ex urna sit amet erat. Donec lacinia fringilla felis vel auctor. Aenean elementum, urna bibendum sollicitudin laoreet, neque nibh malesuada dui, sed suscipit lorem ex nec mauris. Nullam semper libero vel lorem rhoncus, ullamcorper malesuada massa consequat. Etiam pretium leo ut magna porttitor, in lobortis sem consequat. Maecenas nec risus id enim efficitur imperdiet. Integer dui enim, aliquet et tellus id, bibendum dapibus lacus.
 
-Nam felis elit, luctus et rhoncus vel, rutrum eget ante. Praesent dapibus rutrum ex vel dictum. Nunc porttitor viverra diam, in pellentesque nisl faucibus id. Proin non convallis lacus. Cras at urna eu erat porttitor luctus. Nullam eget nulla id enim tincidunt pretium id vitae justo. Aenean egestas odio vitae orci efficitur vestibulum.<sup>[3]</sup>
+Nam felis elit, luctus et rhoncus vel, rutrum eget ante. Praesent dapibus rutrum ex vel dictum. Nunc porttitor viverra diam, in pellentesque nisl faucibus id. Proin non convallis lacus. Cras at urna eu erat porttitor luctus. Nullam eget nulla id enim tincidunt pretium id vitae justo. Aenean egestas odio vitae orci efficitur vestibulum.[^3]
 
 ## Overrun the Castle
 
 Nullam convallis nisi non pellentesque convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce rutrum sagittis placerat. Donec commodo tempus odio non consequat. Pellentesque ultricies, mi lacinia ornare lacinia, elit elit efficitur justo, eu hendrerit quam quam at sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet blandit tortor ac ornare. Nunc at dapibus leo. Proin viverra ornare lorem, nec fringilla erat porta id. Suspendisse potenti. Nullam rutrum, lectus eget faucibus hendrerit, felis sem semper nisl, eget sodales dui nunc ac velit. Fusce porttitor est nisl, ut varius massa accumsan eget. Cras non lorem posuere, congue ligula sit amet, feugiat dolor.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent neque lacus, ultricies et augue at, convallis posuere sapien. Curabitur vulputate augue ac eros pharetra pretium non ac dui. Ut scelerisque vitae libero at tincidunt. Sed ut ipsum urna. Aenean ultricies dapibus odio vitae hendrerit. Etiam scelerisque mattis arcu vitae tempor. Duis egestas fringilla tempus. In hac habitasse platea dictumst. Nullam in dictum nunc, vel cursus dolor. Donec sed tincidunt ligula. Sed fringilla ligula vitae dui pharetra, quis feugiat odio interdum. Nam a malesuada neque. Pellentesque ultricies mattis sodales.<sup>[4]</sup>
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent neque lacus, ultricies et augue at, convallis posuere sapien. Curabitur vulputate augue ac eros pharetra pretium non ac dui. Ut scelerisque vitae libero at tincidunt. Sed ut ipsum urna. Aenean ultricies dapibus odio vitae hendrerit. Etiam scelerisque mattis arcu vitae tempor. Duis egestas fringilla tempus. In hac habitasse platea dictumst. Nullam in dictum nunc, vel cursus dolor. Donec sed tincidunt ligula. Sed fringilla ligula vitae dui pharetra, quis feugiat odio interdum. Nam a malesuada neque. Pellentesque ultricies mattis sodales.[^4]
 
 ## Seige and Claim the Fort
 
@@ -87,12 +85,12 @@ Curabitur fringilla purus at odio hendrerit, tincidunt consectetur sapien consec
 
 Phasellus nec venenatis odio. Aenean et tempor tortor. Fusce volutpat libero vitae est ultricies, et efficitur felis fermentum. Etiam sodales accumsan diam sit amet gravida. Suspendisse et dictum sem. Phasellus at malesuada dui. Proin faucibus neque non magna pellentesque, venenatis venenatis arcu fringilla.
 
-Pellentesque imperdiet at elit ac varius. Donec venenatis neque orci, ac iaculis sem euismod id. Morbi maximus dolor a ex auctor fermentum. Vivamus cursus arcu non sem eleifend, ut tristique enim pharetra. Donec porttitor vel est a varius. Sed fringilla pellentesque risus, sit amet euismod eros consectetur sit amet. Phasellus a faucibus orci. Etiam a suscipit dolor. Integer ultrices cursus neque quis posuere. Ut id vehicula urna. Fusce tincidunt lorem turpis, id ultrices tortor ultricies in. Cras placerat sapien ipsum, a eleifend massa aliquet ac. Donec vel iaculis mauris. Cras fringilla lacus nibh, laoreet malesuada eros imperdiet et. Aenean rhoncus scelerisque mi eget consectetur. Nunc nec pharetra ante, a tristique dolor.<sup>[5]</sup>
+Pellentesque imperdiet at elit ac varius. Donec venenatis neque orci, ac iaculis sem euismod id. Morbi maximus dolor a ex auctor fermentum. Vivamus cursus arcu non sem eleifend, ut tristique enim pharetra. Donec porttitor vel est a varius. Sed fringilla pellentesque risus, sit amet euismod eros consectetur sit amet. Phasellus a faucibus orci. Etiam a suscipit dolor. Integer ultrices cursus neque quis posuere. Ut id vehicula urna. Fusce tincidunt lorem turpis, id ultrices tortor ultricies in. Cras placerat sapien ipsum, a eleifend massa aliquet ac. Donec vel iaculis mauris. Cras fringilla lacus nibh, laoreet malesuada eros imperdiet et. Aenean rhoncus scelerisque mi eget consectetur. Nunc nec pharetra ante, a tristique dolor.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

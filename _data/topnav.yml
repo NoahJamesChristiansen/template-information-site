@@ -18,6 +18,8 @@ navbar_dropdowns:
           url: /docs/sample_subject/intro
         - title: History of Gallunesia
           url: /docs/sample_time/intro
+        - title: Tutorial on Use
+          url: /docs/tutorial/intro
     - title: About
       folderitems:
         - title: About Me

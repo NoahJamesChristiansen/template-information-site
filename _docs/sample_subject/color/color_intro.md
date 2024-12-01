@@ -1,8 +1,6 @@
 ---
 title: Introduction to Bird Colors
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/color/head
 prev_doc: docs/sample_subject/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -23,7 +21,7 @@ Etiam consequat efficitur turpis in rutrum. Donec dapibus quis nibh id vehicula.
 
 Nulla eu diam lectus. Vestibulum efficitur aliquet sem et eleifend. Aenean eu mi volutpat, imperdiet purus sit amet, porta lorem. Integer malesuada sodales ligula, ac malesuada sapien dapibus ac. Duis et elit non nibh aliquet mattis at quis nisi. Maecenas ultricies sagittis nunc, eget efficitur turpis molestie eu. In et lectus eu nisl condimentum sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac quam nec libero maximus gravida. Curabitur cursus placerat diam, fringilla dictum felis dignissim eu. Fusce in suscipit elit. Vestibulum sit amet quam molestie erat fringilla sollicitudin. Vivamus rutrum bibendum imperdiet. Vivamus imperdiet fringilla diam sed suscipit. Ut nec urna id tellus ullamcorper tristique vestibulum eget quam. Vestibulum a nisl tincidunt, pellentesque neque semper, vulputate quam.
 
-Aliquam vel risus sapien. In justo velit, ullamcorper sit amet nunc ut, molestie maximus erat. Donec magna sapien, euismod at ultricies et, iaculis id mi. Nunc mattis nec lectus at malesuada. Nulla vitae rhoncus orci. In lobortis dolor dignissim est ullamcorper mollis. Cras facilisis, lectus sit amet aliquet ullamcorper, mauris est laoreet dui, quis rhoncus tortor sem vel turpis. Nam sit amet purus eu dolor feugiat vestibulum vel sagittis metus. Nullam non sem posuere, suscipit nibh at, fringilla magna. Fusce quis nisl suscipit, sollicitudin dolor ut, varius ipsum. Nullam mollis, magna quis pellentesque dapibus, nisl augue consequat nisi, sit amet porttitor risus ipsum id tortor. Fusce fringilla efficitur est eu efficitur. Proin posuere egestas lorem vel tristique.<sup>[1]</sup>
+Aliquam vel risus sapien. In justo velit, ullamcorper sit amet nunc ut, molestie maximus erat. Donec magna sapien, euismod at ultricies et, iaculis id mi. Nunc mattis nec lectus at malesuada. Nulla vitae rhoncus orci. In lobortis dolor dignissim est ullamcorper mollis. Cras facilisis, lectus sit amet aliquet ullamcorper, mauris est laoreet dui, quis rhoncus tortor sem vel turpis. Nam sit amet purus eu dolor feugiat vestibulum vel sagittis metus. Nullam non sem posuere, suscipit nibh at, fringilla magna. Fusce quis nisl suscipit, sollicitudin dolor ut, varius ipsum. Nullam mollis, magna quis pellentesque dapibus, nisl augue consequat nisi, sit amet porttitor risus ipsum id tortor. Fusce fringilla efficitur est eu efficitur. Proin posuere egestas lorem vel tristique.[^1]
 
 ### Feathers
 
@@ -41,19 +39,19 @@ Donec velit elit, consequat vel massa id, pharetra mattis ligula. Pellentesque f
 
 In elementum, dolor et accumsan tincidunt, dolor mi mollis justo, eget efficitur nunc felis quis ipsum. Mauris tempor, quam elementum auctor pulvinar, odio tortor vulputate ligula, consectetur aliquet enim dolor vel sapien. Suspendisse blandit diam nec arcu egestas, eu rhoncus tortor lacinia. Morbi dapibus diam neque, sed lacinia nisi cursus non. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse non tincidunt tellus, nec tincidunt justo. Proin et mauris euismod arcu convallis lacinia at ut lectus. Suspendisse at risus hendrerit, aliquam turpis sed, efficitur ante. Nam efficitur at nulla id interdum. Phasellus sollicitudin dui nec imperdiet egestas. Morbi eu eros auctor, faucibus orci sed, sollicitudin est. Aenean tincidunt orci a magna pharetra consequat.
 
-Nulla facilisi. Duis cursus a velit id interdum. Nulla et lobortis lectus. Proin accumsan urna sit amet egestas eleifend. Cras non blandit mi, id viverra enim. In sit amet ligula dignissim, laoreet erat semper, varius lorem. Nulla condimentum ac ligula vehicula porttitor. Integer mauris justo, bibendum ut efficitur vel, mattis eu ipsum. Phasellus ut tempus nulla. Nam semper nulla sed erat egestas mollis. Fusce laoreet auctor condimentum.<sup>[2]</sup>
+Nulla facilisi. Duis cursus a velit id interdum. Nulla et lobortis lectus. Proin accumsan urna sit amet egestas eleifend. Cras non blandit mi, id viverra enim. In sit amet ligula dignissim, laoreet erat semper, varius lorem. Nulla condimentum ac ligula vehicula porttitor. Integer mauris justo, bibendum ut efficitur vel, mattis eu ipsum. Phasellus ut tempus nulla. Nam semper nulla sed erat egestas mollis. Fusce laoreet auctor condimentum.[^2]
 
 ## Evolutionary Characteristics
 
 Nulla leo urna, mollis et lorem id, gravida molestie diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec gravida nisi a mi cursus, non gravida turpis pellentesque. Cras scelerisque turpis id augue hendrerit, ac ultrices elit cursus. Cras porttitor enim libero, id viverra eros lobortis quis. Nullam egestas felis a sapien consectetur, a consequat diam dapibus. Sed mattis, arcu ut pretium interdum, leo ipsum interdum leo, a lobortis dolor urna non nisl. Nullam euismod sed odio sed semper. Integer in tortor quis felis dapibus laoreet.
 
-Sed eget lacus ut nisl cursus egestas id non magna. Morbi lectus elit, volutpat quis tristique eget, varius porttitor mauris. Nunc egestas leo non sodales tincidunt. Morbi nec turpis ac nibh pulvinar posuere. Pellentesque ac ipsum mauris. Vestibulum nec nunc ornare, bibendum arcu sit amet, placerat justo. Suspendisse potenti. Fusce placerat est quis elit condimentum pellentesque. Suspendisse sed risus malesuada, scelerisque lorem at, imperdiet risus.<sup>[3]</sup>
+Sed eget lacus ut nisl cursus egestas id non magna. Morbi lectus elit, volutpat quis tristique eget, varius porttitor mauris. Nunc egestas leo non sodales tincidunt. Morbi nec turpis ac nibh pulvinar posuere. Pellentesque ac ipsum mauris. Vestibulum nec nunc ornare, bibendum arcu sit amet, placerat justo. Suspendisse potenti. Fusce placerat est quis elit condimentum pellentesque. Suspendisse sed risus malesuada, scelerisque lorem at, imperdiet risus.[^3]
 
 ### Morphological Selection
 
 Aliquam laoreet diam in elit consectetur, eget sagittis quam hendrerit. Ut molestie tincidunt tortor, sed finibus nulla euismod ac. Integer hendrerit cursus tempor. Cras tristique dapibus arcu dignissim fermentum. Sed et tortor tempus, laoreet elit quis, posuere diam. Mauris sagittis urna vel nulla posuere, quis tincidunt ante ullamcorper. Fusce maximus semper pretium. Donec venenatis ante pretium ex lacinia efficitur. Praesent porttitor dignissim tellus, non dictum elit ullamcorper lobortis. Vivamus egestas purus ac justo tempus porta.
 
-Sed nec suscipit odio. Phasellus non ex gravida, ullamcorper est fermentum, pretium nunc. Nulla imperdiet commodo magna, et posuere diam tempus sed. Fusce at arcu quam. Morbi faucibus scelerisque nisl vel mollis. Quisque ornare eros velit, nec vestibulum dolor egestas sit amet. Duis facilisis facilisis enim, ac ornare enim lacinia nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.<sup>[4]</sup>
+Sed nec suscipit odio. Phasellus non ex gravida, ullamcorper est fermentum, pretium nunc. Nulla imperdiet commodo magna, et posuere diam tempus sed. Fusce at arcu quam. Morbi faucibus scelerisque nisl vel mollis. Quisque ornare eros velit, nec vestibulum dolor egestas sit amet. Duis facilisis facilisis enim, ac ornare enim lacinia nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.[^4]
 
 ![Put alt text here.](/template-information-site/assets/images/sample_subject/bird3.jpg)
 
@@ -61,14 +59,14 @@ Sed nec suscipit odio. Phasellus non ex gravida, ullamcorper est fermentum, pret
 
 Donec finibus id lectus id faucibus. Fusce laoreet, nisi in ultricies tempor, metus justo fringilla tellus, iaculis porttitor mi libero sed mauris. Nulla imperdiet imperdiet lacus. Pellentesque sit amet lectus a mi iaculis ultrices. Sed felis quam, cursus ut tortor in, posuere feugiat nunc. In massa nulla, tincidunt non elit ut, lobortis elementum massa. Mauris vitae rhoncus turpis. Aenean in ante at tellus vulputate lacinia vitae ut arcu. Phasellus sed tortor vel orci tincidunt luctus dictum suscipit nibh.
 
-Praesent rutrum sem sit amet dolor tempus, vitae commodo nulla blandit. Cras dui sem, suscipit vel orci et, tempus porta metus. Donec imperdiet at lorem molestie feugiat. Maecenas sed risus a nunc posuere euismod in non ex. Donec ullamcorper efficitur tincidunt. In laoreet nisl quis rhoncus molestie. Integer elementum eu leo pretium ultrices. Etiam quis varius risus. Aenean malesuada ex arcu, quis egestas felis interdum vel. Vivamus a risus aliquet, accumsan mi in, pretium neque. Sed eros odio, viverra eu orci ac, auctor tempor purus. Integer quis elit sed massa ultricies fermentum. Donec diam nisi, maximus ultrices lacus ut, aliquet malesuada risus. Donec mollis, nunc ut rhoncus euismod, erat mauris ultricies erat, at maximus nisi massa in diam. Aliquam erat volutpat. Proin tristique varius metus, quis hendrerit nisi pellentesque elementum.<sup>[5]</sup>
+Praesent rutrum sem sit amet dolor tempus, vitae commodo nulla blandit. Cras dui sem, suscipit vel orci et, tempus porta metus. Donec imperdiet at lorem molestie feugiat. Maecenas sed risus a nunc posuere euismod in non ex. Donec ullamcorper efficitur tincidunt. In laoreet nisl quis rhoncus molestie. Integer elementum eu leo pretium ultrices. Etiam quis varius risus. Aenean malesuada ex arcu, quis egestas felis interdum vel. Vivamus a risus aliquet, accumsan mi in, pretium neque. Sed eros odio, viverra eu orci ac, auctor tempor purus. Integer quis elit sed massa ultricies fermentum. Donec diam nisi, maximus ultrices lacus ut, aliquet malesuada risus. Donec mollis, nunc ut rhoncus euismod, erat mauris ultricies erat, at maximus nisi massa in diam. Aliquam erat volutpat. Proin tristique varius metus, quis hendrerit nisi pellentesque elementum.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5
  
 

@@ -1,8 +1,6 @@
 ---
 title: Economic Growth
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/bird_wars/political_unrest
 prev_doc: /docs/sample_time/bird_wars/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -27,13 +25,13 @@ Curabitur at neque sit amet lacus blandit consequat eget non enim. Curabitur con
 
 Vestibulum erat massa, tincidunt eget auctor ut, ullamcorper in mi. Pellentesque molestie dolor ut turpis dignissim interdum. Vivamus erat nibh, euismod at pharetra sit amet, mattis eget libero. Mauris rutrum pretium diam et sagittis. In hac habitasse platea dictumst. Suspendisse potenti. Donec vitae imperdiet turpis. Etiam sed magna viverra, ornare eros facilisis, imperdiet est. Nulla molestie velit ex, nec euismod justo tristique sit amet. Cras ac mauris at magna porta dapibus non quis velit. Quisque gravida porta sem, ut ullamcorper leo aliquet id. Pellentesque nunc risus, dignissim ac mi et, ornare convallis arcu. Maecenas sit amet lobortis turpis. In id tempor sem, a accumsan dui. Nullam pretium lorem nec consequat faucibus.
 
-Sed sodales lectus dui, nec rutrum felis accumsan eget. Vestibulum euismod est non tincidunt pharetra. Nam in massa cursus leo dapibus commodo. In porta felis dolor, at tempor odio scelerisque eget. Fusce nibh sapien, venenatis dapibus ornare non, porttitor non enim. Nullam dapibus libero felis, et bibendum mi malesuada a. Duis in orci magna.<sup>[1]</sup>
+Sed sodales lectus dui, nec rutrum felis accumsan eget. Vestibulum euismod est non tincidunt pharetra. Nam in massa cursus leo dapibus commodo. In porta felis dolor, at tempor odio scelerisque eget. Fusce nibh sapien, venenatis dapibus ornare non, porttitor non enim. Nullam dapibus libero felis, et bibendum mi malesuada a. Duis in orci magna.[^1]
 
 ## Spices
 
 Duis cursus magna vitae elit elementum, ac blandit tellus hendrerit. Etiam non mi sapien. Sed eu quam tempus, semper neque et, fringilla velit. Aliquam eget enim ullamcorper, mollis augue a, pretium erat. Nam egestas viverra nunc eu vestibulum. Proin consectetur magna vel efficitur rutrum. Nam eget eros vitae diam ornare pretium ut sed nulla. Phasellus tortor urna, semper in velit sit amet, hendrerit iaculis massa. Nullam in mi vel dui sodales ultrices. Donec ac consequat eros. Sed at elementum nulla. Vestibulum dolor elit, tincidunt sed ante et, fermentum consectetur tellus. Duis ac augue eget libero egestas ultricies.
 
-Vestibulum orci lacus, tristique eu ligula sit amet, fringilla accumsan elit. Fusce mollis eget leo vitae suscipit. Aenean quis eros rhoncus, cursus augue vitae, molestie massa. Duis hendrerit, nisi ullamcorper suscipit vestibulum, nisl leo tempor libero, vel placerat lectus diam laoreet tellus. Sed pharetra augue quis augue congue, in aliquet neque dignissim. Suspendisse potenti. Sed cursus eget arcu ut pulvinar. In sit amet tellus non odio gravida condimentum eu ac ante. Maecenas eleifend metus libero, sit amet scelerisque diam rhoncus quis. Nam efficitur interdum massa ac faucibus. Aenean et commodo lectus, eget mollis ante. Nulla mi tortor, sodales id tortor volutpat, tempor mollis nunc. Vivamus ipsum nisl, condimentum quis lobortis ut, vestibulum nec orci. Pellentesque quis porta sapien, nec cursus quam.<sup>[2]</sup>
+Vestibulum orci lacus, tristique eu ligula sit amet, fringilla accumsan elit. Fusce mollis eget leo vitae suscipit. Aenean quis eros rhoncus, cursus augue vitae, molestie massa. Duis hendrerit, nisi ullamcorper suscipit vestibulum, nisl leo tempor libero, vel placerat lectus diam laoreet tellus. Sed pharetra augue quis augue congue, in aliquet neque dignissim. Suspendisse potenti. Sed cursus eget arcu ut pulvinar. In sit amet tellus non odio gravida condimentum eu ac ante. Maecenas eleifend metus libero, sit amet scelerisque diam rhoncus quis. Nam efficitur interdum massa ac faucibus. Aenean et commodo lectus, eget mollis ante. Nulla mi tortor, sodales id tortor volutpat, tempor mollis nunc. Vivamus ipsum nisl, condimentum quis lobortis ut, vestibulum nec orci. Pellentesque quis porta sapien, nec cursus quam.[^2]
 
 ## Growing Territories
 
@@ -41,7 +39,7 @@ Cras at blandit neque, id commodo elit. Aenean ullamcorper, tortor eu tincidunt 
 
 Etiam non lectus eu ex aliquam molestie ut vel erat. Pellentesque imperdiet ut felis vitae tincidunt. Phasellus vel est mollis, posuere dui vitae, sagittis libero. Donec consectetur vitae risus ut sagittis. Vestibulum pharetra augue id urna ullamcorper, in placerat diam maximus. Nam auctor ipsum id mi eleifend, ut tincidunt libero venenatis. Fusce dictum hendrerit purus nec hendrerit. Maecenas non purus vel odio dictum vulputate. Quisque pulvinar at sapien a consectetur. Quisque mi enim, faucibus ultrices odio sed, pretium ullamcorper mi. Nulla ornare est in tortor tempus, non egestas nisi mattis. Aliquam erat volutpat.
 
-Curabitur in mollis quam. Mauris ultricies ante quis eros maximus condimentum. Suspendisse eleifend commodo est, sed sagittis felis lacinia at. Duis orci orci, varius condimentum mi eu, tincidunt sodales tellus. Pellentesque tempus et leo vel pulvinar. Nam a tempus nunc, vel laoreet magna. Curabitur ullamcorper nibh at elit posuere, et lacinia metus feugiat. Mauris ac lacinia augue. Vivamus ac maximus neque.<sup>[3]</sup>
+Curabitur in mollis quam. Mauris ultricies ante quis eros maximus condimentum. Suspendisse eleifend commodo est, sed sagittis felis lacinia at. Duis orci orci, varius condimentum mi eu, tincidunt sodales tellus. Pellentesque tempus et leo vel pulvinar. Nam a tempus nunc, vel laoreet magna. Curabitur ullamcorper nibh at elit posuere, et lacinia metus feugiat. Mauris ac lacinia augue. Vivamus ac maximus neque.[^3]
 
 # Trade Routes
 
@@ -55,7 +53,7 @@ Suspendisse sapien nisl, pulvinar at risus vitae, imperdiet cursus erat. Fusce l
 
 In ligula ipsum, vulputate nec efficitur in, pretium sed mi. Nulla lacinia scelerisque nibh, vitae posuere urna efficitur sollicitudin. Suspendisse potenti. Pellentesque fringilla mollis ornare. Fusce commodo arcu eget odio ullamcorper gravida. Nulla erat mauris, condimentum eget tempor non, condimentum a justo. Nullam at egestas mi, id posuere lectus. In vel ipsum a nulla iaculis blandit ut euismod metus. Nulla aliquet sapien mi. Vestibulum sollicitudin venenatis nibh sed vulputate.
 
-Sed in tristique nisl. Duis sed arcu fermentum sapien lobortis lacinia. Suspendisse non odio tempor, porta ligula nec, viverra felis. Vestibulum in ex et lacus mollis eleifend. Vestibulum sapien nibh, elementum vitae mi eget, vehicula lacinia est. Aliquam laoreet enim nec odio fringilla semper. Phasellus et metus sollicitudin, mollis arcu nec, tristique leo. Curabitur tincidunt porttitor sapien ac laoreet. Curabitur et convallis mauris. Suspendisse sodales elementum facilisis. Vestibulum maximus vitae arcu in aliquet.<sup>[4]</sup>
+Sed in tristique nisl. Duis sed arcu fermentum sapien lobortis lacinia. Suspendisse non odio tempor, porta ligula nec, viverra felis. Vestibulum in ex et lacus mollis eleifend. Vestibulum sapien nibh, elementum vitae mi eget, vehicula lacinia est. Aliquam laoreet enim nec odio fringilla semper. Phasellus et metus sollicitudin, mollis arcu nec, tristique leo. Curabitur tincidunt porttitor sapien ac laoreet. Curabitur et convallis mauris. Suspendisse sodales elementum facilisis. Vestibulum maximus vitae arcu in aliquet.[^4]
 
 ## West
 
@@ -69,12 +67,12 @@ Etiam rutrum tellus justo, et iaculis leo molestie quis. Vivamus vitae ex vel di
 
 Fusce ultricies non mauris eget consequat. Duis et lorem id nisi tempus semper at a dui. Maecenas in dolor nec tellus hendrerit semper. Donec orci sapien, aliquet vitae dolor vitae, lobortis commodo diam. Fusce tristique, neque vitae sagittis congue, ipsum risus suscipit augue, eget tempus lectus quam vitae mi. Quisque placerat finibus volutpat. Duis nunc elit, accumsan eu ex in, consequat fermentum purus. Curabitur rhoncus commodo ex nec feugiat. In porta nulla eget cursus porta. Quisque dolor lorem, consectetur non condimentum vitae, efficitur laoreet magna. Morbi nec laoreet lorem. Aliquam vitae consequat ex, id pulvinar nisi.
 
-Mauris blandit, nisi a auctor ultrices, tellus ante dictum tellus, ut commodo nulla risus quis lacus. Sed nec tincidunt leo. Etiam sagittis magna sed dui egestas suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut vehicula porta libero, eu egestas nisl aliquam iaculis. Fusce pharetra, mauris et sollicitudin rutrum, metus ante vestibulum est, ut rutrum ipsum odio a risus. Nulla ipsum tellus, elementum quis nisl eget, sagittis commodo est. Mauris sed velit lectus. Phasellus facilisis erat sit amet leo posuere placerat. In non rhoncus tortor. Praesent ut lectus rhoncus, venenatis metus in, bibendum mi. Integer vulputate nec odio vel consequat. In aliquet semper vestibulum.<sup>[5]</sup>
+Mauris blandit, nisi a auctor ultrices, tellus ante dictum tellus, ut commodo nulla risus quis lacus. Sed nec tincidunt leo. Etiam sagittis magna sed dui egestas suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut vehicula porta libero, eu egestas nisl aliquam iaculis. Fusce pharetra, mauris et sollicitudin rutrum, metus ante vestibulum est, ut rutrum ipsum odio a risus. Nulla ipsum tellus, elementum quis nisl eget, sagittis commodo est. Mauris sed velit lectus. Phasellus facilisis erat sit amet leo posuere placerat. In non rhoncus tortor. Praesent ut lectus rhoncus, venenatis metus in, bibendum mi. Integer vulputate nec odio vel consequat. In aliquet semper vestibulum.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

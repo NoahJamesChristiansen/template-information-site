@@ -1,8 +1,6 @@
 ---
 title: The Formal Constitution
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/bird_wars/intro
 prev_doc: /docs/sample_time/formation/unity
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -23,7 +21,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 Maecenas tincidunt dignissim neque eget condimentum. Quisque at purus eget ante interdum sodales. Maecenas non lacus viverra, dictum eros sed, gravida lectus. Etiam sagittis, ligula ut imperdiet facilisis, diam elit condimentum purus, id gravida quam est eu velit. Sed id odio sagittis, ornare felis volutpat, iaculis lacus. Duis rhoncus efficitur nunc, eget pellentesque urna. Suspendisse luctus velit vitae velit pulvinar, in accumsan dolor porttitor. Praesent metus tellus, tempus id condimentum non, commodo sed odio. Nullam pulvinar sed diam et euismod. Nulla at metus eget nunc varius accumsan. Phasellus ut tristique nisl.
 
-Nunc vel tellus odio. Phasellus a purus volutpat, fermentum urna non, faucibus nunc. Aliquam massa magna, congue quis felis vitae, mattis placerat tellus. Nullam mattis tellus nec augue tristique, nec lacinia ipsum imperdiet. Fusce efficitur lorem non ligula vulputate, sit amet bibendum turpis scelerisque. Vivamus volutpat est elit, nec mollis turpis convallis non. Nullam blandit lectus risus, egestas tincidunt elit eleifend consectetur.<sup>[1]</sup>
+Nunc vel tellus odio. Phasellus a purus volutpat, fermentum urna non, faucibus nunc. Aliquam massa magna, congue quis felis vitae, mattis placerat tellus. Nullam mattis tellus nec augue tristique, nec lacinia ipsum imperdiet. Fusce efficitur lorem non ligula vulputate, sit amet bibendum turpis scelerisque. Vivamus volutpat est elit, nec mollis turpis convallis non. Nullam blandit lectus risus, egestas tincidunt elit eleifend consectetur.[^1]
 
 ## Political Confusion
 
@@ -31,7 +29,7 @@ Donec lacinia ligula et condimentum aliquam. Maecenas tempor, odio quis molestie
 
 Aenean efficitur feugiat dictum. Mauris facilisis sem in venenatis ullamcorper. Integer eget rhoncus leo. Maecenas pellentesque mauris libero, et eleifend velit ultricies viverra. Proin sit amet mi non tellus tincidunt porttitor. In elit nisi, sollicitudin in viverra vel, suscipit at tortor. Pellentesque dapibus faucibus ipsum, non vestibulum leo fermentum a. In et eros id elit volutpat placerat. Donec a condimentum eros, sed lobortis risus. Aenean accumsan, metus a ullamcorper scelerisque, eros risus convallis justo, quis dignissim erat eros ac lorem. Vestibulum ac pulvinar magna, ac iaculis neque. Phasellus consequat nibh id massa pellentesque volutpat. Pellentesque nisl nisl, sollicitudin ut eros vitae, pretium luctus metus. Sed ac gravida mi.
 
-Sed dapibus leo sit amet egestas ullamcorper. Quisque sit amet venenatis enim. Integer velit nisl, vestibulum non diam et, bibendum condimentum nisi. Morbi porttitor finibus interdum. Nullam nec diam accumsan, porttitor ex sed, sagittis orci. Integer semper sollicitudin nisi vel molestie. Pellentesque eget lectus aliquet, mollis justo ac, tristique tortor. Fusce ligula sem, porttitor nec augue id, molestie molestie purus. Etiam venenatis quam eu sagittis iaculis. Curabitur tristique ut tortor at molestie. In sodales orci fermentum fringilla sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elit enim, pulvinar eget molestie et, feugiat et nunc. Proin at volutpat sem. Phasellus pulvinar ex id posuere aliquet.<sup>[2]</sup>
+Sed dapibus leo sit amet egestas ullamcorper. Quisque sit amet venenatis enim. Integer velit nisl, vestibulum non diam et, bibendum condimentum nisi. Morbi porttitor finibus interdum. Nullam nec diam accumsan, porttitor ex sed, sagittis orci. Integer semper sollicitudin nisi vel molestie. Pellentesque eget lectus aliquet, mollis justo ac, tristique tortor. Fusce ligula sem, porttitor nec augue id, molestie molestie purus. Etiam venenatis quam eu sagittis iaculis. Curabitur tristique ut tortor at molestie. In sodales orci fermentum fringilla sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elit enim, pulvinar eget molestie et, feugiat et nunc. Proin at volutpat sem. Phasellus pulvinar ex id posuere aliquet.[^2]
 
 ## Need for a Consistent Constitution
 
@@ -41,7 +39,7 @@ Duis sit amet sodales nunc. Phasellus tellus urna, elementum sed consectetur ege
 
 Quisque metus lacus, iaculis sit amet odio id, eleifend molestie justo. Aenean mollis finibus nunc id rutrum. Donec vel velit id dui congue vestibulum. Suspendisse tincidunt metus quis orci ultricies, eu imperdiet lorem varius. Proin convallis orci felis, quis ultricies arcu efficitur ut. Nulla consequat efficitur faucibus. Pellentesque eu viverra turpis, ut ultricies ipsum. Sed semper nibh felis. Etiam volutpat arcu vel nulla maximus congue. Vivamus egestas tincidunt nibh, quis venenatis tortor mattis vitae. Nam bibendum facilisis erat. Donec aliquam euismod urna, nec tempor sem semper in. Nulla pretium suscipit orci, ac bibendum nisl auctor a. Sed at vehicula neque, quis dignissim sapien. Donec eu vulputate magna.
 
-Mauris eu tincidunt diam. Curabitur eget vestibulum lorem. Curabitur in congue lectus. Vivamus fermentum sagittis velit, eget pellentesque arcu cursus varius. Duis dapibus, magna vel vulputate faucibus, ex nunc rhoncus nisi, sit amet egestas neque ligula vel mauris. Praesent sodales felis sem. Duis commodo feugiat quam, in eleifend nulla facilisis ut. Ut interdum, velit in convallis feugiat, nunc quam posuere libero, ac aliquam velit erat ac purus. Aliquam erat volutpat. Proin fermentum turpis est, id tempus orci faucibus in. Mauris vitae justo imperdiet, facilisis est ac, euismod dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<sup>[3]</sup>
+Mauris eu tincidunt diam. Curabitur eget vestibulum lorem. Curabitur in congue lectus. Vivamus fermentum sagittis velit, eget pellentesque arcu cursus varius. Duis dapibus, magna vel vulputate faucibus, ex nunc rhoncus nisi, sit amet egestas neque ligula vel mauris. Praesent sodales felis sem. Duis commodo feugiat quam, in eleifend nulla facilisis ut. Ut interdum, velit in convallis feugiat, nunc quam posuere libero, ac aliquam velit erat ac purus. Aliquam erat volutpat. Proin fermentum turpis est, id tempus orci faucibus in. Mauris vitae justo imperdiet, facilisis est ac, euismod dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.[^3]
 
 # Formation of the State of Gallunesia
 
@@ -49,7 +47,7 @@ Suspendisse a erat sapien. Sed massa ante, pretium et turpis id, sodales eleifen
 
 Aenean vitae commodo mauris. Aliquam et nibh non nisl egestas ullamcorper. Nulla quis fringilla metus, vitae malesuada tortor. Nunc sed consectetur quam. Nullam sed neque accumsan, euismod ex at, imperdiet arcu. Aliquam consequat urna in rutrum molestie. Sed consectetur sollicitudin massa nec hendrerit. Suspendisse in tincidunt erat. Phasellus nec ante in lectus lacinia cursus. Ut congue sem sit amet egestas interdum. Nunc ac viverra lacus, nec rutrum elit.
 
-Suspendisse consequat ex at ante molestie, imperdiet ullamcorper felis ornare. Aenean sed mattis nisl. Etiam vel augue nec lacus euismod fermentum. Sed consectetur tellus volutpat ultrices volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut lacus quis ipsum rhoncus tristique. Aenean sem mauris, ultricies sed nisi non, posuere lacinia ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id tortor dignissim, pellentesque justo eu, sagittis est. Fusce mollis at diam at fringilla. Quisque pharetra dapibus dapibus.<sup>[4]</sup>
+Suspendisse consequat ex at ante molestie, imperdiet ullamcorper felis ornare. Aenean sed mattis nisl. Etiam vel augue nec lacus euismod fermentum. Sed consectetur tellus volutpat ultrices volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut lacus quis ipsum rhoncus tristique. Aenean sem mauris, ultricies sed nisi non, posuere lacinia ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id tortor dignissim, pellentesque justo eu, sagittis est. Fusce mollis at diam at fringilla. Quisque pharetra dapibus dapibus.[^4]
 
 # International Relations
 
@@ -59,12 +57,12 @@ Nulla porttitor erat non arcu bibendum, id ultricies neque sollicitudin. Aliquam
 
 Aenean turpis turpis, efficitur vel ipsum ut, finibus tincidunt odio. Maecenas id sapien at dolor vulputate cursus. Vestibulum vel pulvinar elit. Mauris in imperdiet turpis, in posuere lacus. Cras at dui eu mauris faucibus rhoncus. Proin eu pellentesque ante. Cras eu libero eros. Duis blandit rhoncus nunc sit amet laoreet. Nulla fringilla feugiat libero vehicula blandit.
 
-Curabitur eget euismod turpis, a pellentesque sem. Phasellus viverra erat non tristique tincidunt. Aenean rhoncus magna quam, non pellentesque est interdum semper. Suspendisse potenti. Sed eget molestie enim. Nulla lacinia turpis dui, ac aliquet ligula suscipit et. In molestie tortor at nisl sollicitudin, sed vulputate felis semper. Integer varius, nulla sed bibendum laoreet, ante urna gravida elit, in elementum dolor felis ut arcu. Cras consectetur, ex vitae gravida dictum, metus nulla molestie est, at suscipit lacus ex ac diam. Pellentesque ut gravida ipsum. Cras rhoncus est vitae sem fermentum, sed gravida urna tempor. Ut consectetur bibendum quam, auctor semper nisi feugiat ut. Nulla tristique risus eu nisi ornare feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<sup>[5]</sup>
+Curabitur eget euismod turpis, a pellentesque sem. Phasellus viverra erat non tristique tincidunt. Aenean rhoncus magna quam, non pellentesque est interdum semper. Suspendisse potenti. Sed eget molestie enim. Nulla lacinia turpis dui, ac aliquet ligula suscipit et. In molestie tortor at nisl sollicitudin, sed vulputate felis semper. Integer varius, nulla sed bibendum laoreet, ante urna gravida elit, in elementum dolor felis ut arcu. Cras consectetur, ex vitae gravida dictum, metus nulla molestie est, at suscipit lacus ex ac diam. Pellentesque ut gravida ipsum. Cras rhoncus est vitae sem fermentum, sed gravida urna tempor. Ut consectetur bibendum quam, auctor semper nisi feugiat ut. Nulla tristique risus eu nisi ornare feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

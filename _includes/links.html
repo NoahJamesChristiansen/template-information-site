@@ -12,7 +12,6 @@
 {% for sidebar in site.sidebars %}
 {% for folder in site.data[sidebar].folders %}
 {% for folderitem in folder.folderitems %}
-
 {% if folderitem.ref %}
 {% if folderitem.jurl contains "http://" or folderitem.jurl contains "https://" %}
 [{{folderitem.ref}}]: {{folderitem.jurl }}

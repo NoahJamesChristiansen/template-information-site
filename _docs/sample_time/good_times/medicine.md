@@ -1,8 +1,6 @@
 ---
 title: Medicine
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/good_times/philosophy
 prev_doc: /docs/sample_time/good_times/technology
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -47,7 +45,7 @@ Nam urna sapien, eleifend id urna nec, tincidunt facilisis tortor. Sed sit amet 
 
 Sed bibendum justo in orci venenatis, elementum consectetur augue sollicitudin. Sed vitae mattis ex. Maecenas sit amet diam non ligula lobortis posuere. Morbi dignissim est non justo ultricies, eu convallis nisl gravida. Maecenas dapibus purus rhoncus ligula scelerisque suscipit. Sed egestas lobortis sapien. Nam dapibus maximus risus quis varius. Sed leo nunc, convallis nec laoreet sit amet, malesuada ac tellus. In hac habitasse platea dictumst.
 
-In at facilisis libero, et pharetra erat. Fusce a tincidunt felis. Sed urna ante, fringilla fringilla sapien a, faucibus facilisis sem. Vestibulum auctor justo convallis, varius metus vel, posuere lorem. Donec vehicula sem ut enim pellentesque efficitur. Sed tincidunt eros quis elit ullamcorper facilisis. Mauris tincidunt leo et dui imperdiet ultrices. Donec in vestibulum metus, id auctor mauris. In bibendum dui velit, quis finibus tortor venenatis eget. Mauris lobortis sapien in nunc faucibus lobortis. Sed sit amet feugiat erat.<sup>[1]</sup>
+In at facilisis libero, et pharetra erat. Fusce a tincidunt felis. Sed urna ante, fringilla fringilla sapien a, faucibus facilisis sem. Vestibulum auctor justo convallis, varius metus vel, posuere lorem. Donec vehicula sem ut enim pellentesque efficitur. Sed tincidunt eros quis elit ullamcorper facilisis. Mauris tincidunt leo et dui imperdiet ultrices. Donec in vestibulum metus, id auctor mauris. In bibendum dui velit, quis finibus tortor venenatis eget. Mauris lobortis sapien in nunc faucibus lobortis. Sed sit amet feugiat erat.[^1]
 
 # Access to Medicine
 
@@ -55,7 +53,7 @@ Fusce metus nibh, vulputate vitae justo ac, malesuada luctus sem. Suspendisse vi
 
 Donec suscipit eleifend molestie. Ut ut molestie augue, id lobortis orci. Mauris ac ex purus. Sed ante dui, rhoncus vitae libero in, aliquet molestie velit. Quisque aliquet risus sit amet iaculis gravida. Duis vitae elementum massa, eget volutpat ipsum. Ut euismod dignissim dignissim. Sed facilisis ex lacus. Cras varius nec turpis vitae feugiat. Cras dui nisi, iaculis quis feugiat et, elementum non lacus. Praesent viverra sit amet nisi eu tincidunt. Donec hendrerit ipsum non ipsum interdum blandit.
 
-Etiam vitae sagittis odio. Etiam laoreet mattis sem, quis scelerisque augue tempor a. Sed tempor commodo ligula quis sollicitudin. Fusce dictum vulputate lacus vel aliquet. Suspendisse a nulla at justo blandit sollicitudin. Suspendisse porttitor feugiat orci id luctus. Curabitur a tortor interdum, lobortis sapien quis, condimentum nulla. In at diam non lectus ultrices aliquam. Integer feugiat quam hendrerit, cursus est sed, ultrices eros. Ut diam leo, dapibus vitae mi dignissim, viverra varius orci. Quisque sed sapien nulla. Praesent auctor, ex ut finibus fringilla, dolor eros posuere urna, in blandit leo est eu magna. Vivamus et laoreet ante, tincidunt pretium diam. Mauris nunc sem, venenatis a sagittis non, imperdiet eget tellus.<sup>[2]</sup>
+Etiam vitae sagittis odio. Etiam laoreet mattis sem, quis scelerisque augue tempor a. Sed tempor commodo ligula quis sollicitudin. Fusce dictum vulputate lacus vel aliquet. Suspendisse a nulla at justo blandit sollicitudin. Suspendisse porttitor feugiat orci id luctus. Curabitur a tortor interdum, lobortis sapien quis, condimentum nulla. In at diam non lectus ultrices aliquam. Integer feugiat quam hendrerit, cursus est sed, ultrices eros. Ut diam leo, dapibus vitae mi dignissim, viverra varius orci. Quisque sed sapien nulla. Praesent auctor, ex ut finibus fringilla, dolor eros posuere urna, in blandit leo est eu magna. Vivamus et laoreet ante, tincidunt pretium diam. Mauris nunc sem, venenatis a sagittis non, imperdiet eget tellus.[^2]
 
 ## Financing
 
@@ -63,7 +61,7 @@ Nulla vitae rhoncus arcu. Quisque bibendum nec magna elementum interdum. Mauris 
 
 Morbi pellentesque quis ante lacinia elementum. In vel lectus felis. Nunc vitae purus quis massa gravida lobortis suscipit et ex. Suspendisse porttitor felis et nulla commodo fringilla. Vivamus lacinia venenatis sapien quis luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc eget nunc et massa volutpat luctus. Quisque dignissim arcu sit amet turpis finibus, nec gravida lectus elementum.
 
-Donec scelerisque ullamcorper augue, a mollis purus pretium id. Nullam at pellentesque nisl. Quisque gravida aliquet aliquet. Morbi lectus eros, vestibulum vitae magna ac, posuere lobortis erat. Donec dapibus leo vitae risus vulputate, id consequat turpis luctus. Nam ullamcorper lacus in nisi aliquam luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce interdum feugiat odio sit amet pharetra. Curabitur iaculis tellus ac ex aliquet sollicitudin. Vestibulum scelerisque iaculis metus, in porttitor nulla. Praesent egestas mauris nec urna gravida ultrices. Cras at sem eu sem accumsan auctor. Donec a nibh ut ipsum ultrices viverra nec non tortor. Donec vitae nisi ullamcorper, eleifend nisl in, semper purus. Nam egestas, eros vel semper pellentesque, mauris mi eleifend purus, vitae congue eros turpis et elit. Aliquam tempus odio a ipsum vulputate tincidunt.<sup>[3]</sup>
+Donec scelerisque ullamcorper augue, a mollis purus pretium id. Nullam at pellentesque nisl. Quisque gravida aliquet aliquet. Morbi lectus eros, vestibulum vitae magna ac, posuere lobortis erat. Donec dapibus leo vitae risus vulputate, id consequat turpis luctus. Nam ullamcorper lacus in nisi aliquam luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce interdum feugiat odio sit amet pharetra. Curabitur iaculis tellus ac ex aliquet sollicitudin. Vestibulum scelerisque iaculis metus, in porttitor nulla. Praesent egestas mauris nec urna gravida ultrices. Cras at sem eu sem accumsan auctor. Donec a nibh ut ipsum ultrices viverra nec non tortor. Donec vitae nisi ullamcorper, eleifend nisl in, semper purus. Nam egestas, eros vel semper pellentesque, mauris mi eleifend purus, vitae congue eros turpis et elit. Aliquam tempus odio a ipsum vulputate tincidunt.[^3]
 
 ## Distribution
 
@@ -73,7 +71,7 @@ Sed odio diam, egestas id purus id, facilisis varius lorem. Aliquam et nisl ac e
 
 Aliquam erat volutpat. Donec accumsan quis dui id dignissim. Sed fringilla libero sit amet libero dictum, eu tempus odio tincidunt. Nunc cursus in arcu ut iaculis. Proin ex magna, condimentum sed turpis feugiat, commodo auctor quam. Vestibulum sagittis mollis eros eget scelerisque. Morbi tincidunt ipsum a lacus aliquet volutpat. Mauris semper enim eget imperdiet molestie. Vivamus sit amet ultrices enim. Aliquam quis felis id diam tempus semper sed eget massa. Nullam viverra lectus quis tellus fringilla, non sodales dui gravida. Nam ullamcorper diam justo, at vestibulum felis egestas in. Suspendisse potenti. In vel sapien et odio consequat ullamcorper. Aliquam commodo vitae nisi quis ullamcorper.
 
-Sed erat magna, bibendum nec nibh nec, ultricies tempus purus. Sed ullamcorper vehicula lorem. Nunc in velit ac est varius convallis. Suspendisse eros purus, congue quis ligula eget, elementum eleifend orci. Donec sollicitudin aliquet efficitur. Donec scelerisque eros id vehicula vestibulum. Duis aliquet magna a nisi consectetur gravida.<sup>[4]</sup>
+Sed erat magna, bibendum nec nibh nec, ultricies tempus purus. Sed ullamcorper vehicula lorem. Nunc in velit ac est varius convallis. Suspendisse eros purus, congue quis ligula eget, elementum eleifend orci. Donec sollicitudin aliquet efficitur. Donec scelerisque eros id vehicula vestibulum. Duis aliquet magna a nisi consectetur gravida.[^4]
 
 ## Location of Hospitals
 
@@ -81,12 +79,12 @@ Cras at neque augue. Maecenas id nisi sollicitudin, viverra nisi eu, mollis odio
 
 Nullam nec magna efficitur, ornare lectus id, vestibulum nunc. Pellentesque ligula ante, volutpat at quam nec, finibus pellentesque augue. Ut et tempus metus. Aliquam porttitor nisi id enim tristique convallis. Donec non bibendum lacus, at sodales lorem. Morbi tincidunt porta eros, non convallis est commodo et. Vestibulum quis nisl vel dolor hendrerit ultricies nec egestas nulla. Mauris sed risus tempor, sagittis massa eu, maximus nulla. Cras vitae cursus diam. Donec scelerisque suscipit sapien, vitae pharetra nulla elementum ut. Praesent a odio congue, fringilla ante porta, molestie dui.
 
-Donec luctus blandit maximus. Praesent congue posuere odio egestas euismod. Praesent vel metus lorem. Suspendisse non commodo sem. Vivamus condimentum in magna sed facilisis. Vivamus venenatis est non finibus lacinia. Sed ornare lacinia convallis. Quisque tempor urna id ex tincidunt iaculis. Nam facilisis diam nunc, pretium dapibus eros gravida vehicula. Nunc pulvinar ac tellus sit amet accumsan. Nullam ut velit lacus. Morbi sed nibh quis nisi rutrum porta.<sup>[5]</sup>
+Donec luctus blandit maximus. Praesent congue posuere odio egestas euismod. Praesent vel metus lorem. Suspendisse non commodo sem. Vivamus condimentum in magna sed facilisis. Vivamus venenatis est non finibus lacinia. Sed ornare lacinia convallis. Quisque tempor urna id ex tincidunt iaculis. Nam facilisis diam nunc, pretium dapibus eros gravida vehicula. Nunc pulvinar ac tellus sit amet accumsan. Nullam ut velit lacus. Morbi sed nibh quis nisi rutrum porta.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

@@ -1,8 +1,6 @@
 ---
 title: Allies & Enemies
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/good_times/economy
 prev_doc: /docs/sample_time/good_times/political_structure
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -95,7 +93,7 @@ Praesent dapibus semper maximus. Morbi sed augue at nunc finibus mollis eu vitae
 
 Curabitur non ex eget dolor tempus commodo quis a urna. Maecenas sed velit ut justo egestas elementum ut nec nibh. Integer convallis vitae dui eu feugiat. Maecenas eleifend lacus nisi, in luctus nibh accumsan sed. Duis non nibh orci. Etiam euismod congue lorem id malesuada. In non mattis lorem. Vivamus velit urna, euismod ultrices justo id, convallis vestibulum enim. Vivamus non ipsum ipsum. Praesent pharetra, risus id luctus vestibulum, risus dolor faucibus tellus, ac luctus nisi nulla nec ligula. Ut quis leo eu nisl tincidunt consequat. Vivamus suscipit urna lectus, varius porttitor urna rutrum non. Mauris in orci fermentum, vestibulum neque pellentesque, fringilla felis. Mauris ornare sollicitudin lacinia.
 
-Sed ac neque hendrerit, ultricies nisi quis, vehicula sem. Suspendisse gravida vulputate metus, ac suscipit ex pulvinar ac. Integer quis est id quam dignissim eleifend sit amet a mauris. Curabitur ullamcorper arcu vitae lorem molestie, at vehicula nibh maximus. Nunc nisi augue, semper eu elit vitae, porttitor luctus nibh. Nunc neque nunc, malesuada eu felis at, accumsan molestie eros. Duis ornare interdum neque, id gravida turpis pretium ullamcorper. Nam nulla lorem, laoreet nec metus sollicitudin, congue lobortis sem. Nunc fermentum semper odio id consectetur. In hac habitasse platea dictumst. Fusce in ante commodo, lacinia urna eget, hendrerit neque. Curabitur turpis leo, vehicula ac odio vel, vulputate ullamcorper nisi. Cras semper fermentum enim, eget bibendum mi mollis a. Phasellus ac cursus elit, ut facilisis ante.<sup>[1]</sup>
+Sed ac neque hendrerit, ultricies nisi quis, vehicula sem. Suspendisse gravida vulputate metus, ac suscipit ex pulvinar ac. Integer quis est id quam dignissim eleifend sit amet a mauris. Curabitur ullamcorper arcu vitae lorem molestie, at vehicula nibh maximus. Nunc nisi augue, semper eu elit vitae, porttitor luctus nibh. Nunc neque nunc, malesuada eu felis at, accumsan molestie eros. Duis ornare interdum neque, id gravida turpis pretium ullamcorper. Nam nulla lorem, laoreet nec metus sollicitudin, congue lobortis sem. Nunc fermentum semper odio id consectetur. In hac habitasse platea dictumst. Fusce in ante commodo, lacinia urna eget, hendrerit neque. Curabitur turpis leo, vehicula ac odio vel, vulputate ullamcorper nisi. Cras semper fermentum enim, eget bibendum mi mollis a. Phasellus ac cursus elit, ut facilisis ante.[^1]
 
 ## International
 
@@ -103,7 +101,7 @@ Morbi mi erat, ultricies vitae ligula et, ornare auctor nibh. Praesent vestibulu
 
 In facilisis id est ut finibus. Praesent eget consectetur dui, quis iaculis dui. Vestibulum in quam ullamcorper, venenatis urna non, vestibulum massa. Nam convallis vulputate nisl non dictum. Fusce ultrices purus sapien, eu vehicula felis tempus sed. Fusce fringilla euismod lacus, a tristique ipsum tempor id. In nec luctus nisl. Fusce tempus in mauris et efficitur.
 
-In mollis felis a lectus lobortis, ac auctor elit interdum. Curabitur lectus sem, hendrerit vel tellus ac, blandit mollis magna. Nullam molestie, turpis a mollis posuere, nunc neque faucibus metus, ac viverra turpis nulla ac sem. Fusce semper turpis finibus, tincidunt eros eget, vestibulum nulla. Ut et varius risus. Proin varius sapien orci, ut facilisis libero finibus vitae. Proin ac quam ut enim lacinia maximus.<sup>[2]</sup>
+In mollis felis a lectus lobortis, ac auctor elit interdum. Curabitur lectus sem, hendrerit vel tellus ac, blandit mollis magna. Nullam molestie, turpis a mollis posuere, nunc neque faucibus metus, ac viverra turpis nulla ac sem. Fusce semper turpis finibus, tincidunt eros eget, vestibulum nulla. Ut et varius risus. Proin varius sapien orci, ut facilisis libero finibus vitae. Proin ac quam ut enim lacinia maximus.[^2]
 
 ### Japan
 
@@ -111,13 +109,13 @@ Aenean id ante pretium, volutpat leo nec, accumsan elit. Integer mi quam, cursus
 
 In hac habitasse platea dictumst. Morbi lobortis purus nulla, in malesuada orci maximus eu. In vitae ante diam. Nulla eget metus non risus tristique accumsan. Pellentesque sollicitudin tellus feugiat lacus efficitur, porttitor volutpat dui facilisis. Nullam id neque in quam congue fermentum. Integer aliquet vestibulum elit eu tempor. Integer pellentesque orci ut metus mattis congue. Sed tincidunt tortor lacus, vel viverra nunc semper id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempor dignissim efficitur. Donec tincidunt rutrum turpis ut venenatis. Curabitur rhoncus porttitor diam, non dignissim enim porta in. Vivamus ultrices enim vel mi porttitor, vitae aliquam turpis mollis.
 
-Sed in congue risus, eu sollicitudin sapien. Proin finibus, sapien nec sagittis posuere, mauris leo cursus neque, eget efficitur libero augue eu erat. In sodales ac quam sodales malesuada. Fusce eget auctor augue. Vestibulum libero sapien, semper ut fringilla eu, ultricies at nibh. Morbi lacinia dictum tellus auctor scelerisque. Cras iaculis at nibh id vehicula.<sup>[3]</sup>
+Sed in congue risus, eu sollicitudin sapien. Proin finibus, sapien nec sagittis posuere, mauris leo cursus neque, eget efficitur libero augue eu erat. In sodales ac quam sodales malesuada. Fusce eget auctor augue. Vestibulum libero sapien, semper ut fringilla eu, ultricies at nibh. Morbi lacinia dictum tellus auctor scelerisque. Cras iaculis at nibh id vehicula.[^3]
 
 ### China
 
 Etiam placerat lorem ac tortor semper, quis fermentum turpis blandit. Fusce a mauris non neque tempus blandit. Praesent ac aliquet nibh, et tempus neque. Sed elementum nisl sem, et accumsan nisi egestas vel. Aenean sollicitudin erat ligula. Sed elementum vitae risus vitae porta. Phasellus id risus sit amet neque gravida dignissim quis ac magna. Vivamus dignissim aliquam ligula, id tincidunt nibh ultrices sollicitudin. Vivamus ac libero sit amet odio ullamcorper molestie. Cras mi neque, congue et turpis at, molestie ornare metus. Proin vitae lectus non urna tempus vestibulum. Mauris dignissim sed massa vitae dapibus.
 
-Vivamus sed scelerisque nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam condimentum justo sed rutrum tempus. Sed sagittis odio erat, in posuere ante volutpat eget. Aenean et arcu iaculis, mattis turpis vitae, eleifend ligula. Proin consectetur justo nibh, nec varius libero posuere ut. Vestibulum vel mauris sodales, dapibus ante id, dignissim lacus. Vivamus maximus, augue ac gravida fringilla, libero neque blandit est, et vehicula velit odio non dui. Nunc vitae diam tempor, interdum magna ac, pharetra sem. Ut odio magna, mattis at magna non, feugiat bibendum odio. Cras lorem nulla, hendrerit a faucibus sed, lobortis id nisi. Pellentesque faucibus nisl dolor, ac molestie elit venenatis id. Aliquam congue purus ac dolor faucibus, eget viverra ipsum suscipit. Vestibulum vel tincidunt sapien. Vestibulum eu mauris augue. Suspendisse hendrerit dui nec tincidunt condimentum.<sup>[4]</sup>
+Vivamus sed scelerisque nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam condimentum justo sed rutrum tempus. Sed sagittis odio erat, in posuere ante volutpat eget. Aenean et arcu iaculis, mattis turpis vitae, eleifend ligula. Proin consectetur justo nibh, nec varius libero posuere ut. Vestibulum vel mauris sodales, dapibus ante id, dignissim lacus. Vivamus maximus, augue ac gravida fringilla, libero neque blandit est, et vehicula velit odio non dui. Nunc vitae diam tempor, interdum magna ac, pharetra sem. Ut odio magna, mattis at magna non, feugiat bibendum odio. Cras lorem nulla, hendrerit a faucibus sed, lobortis id nisi. Pellentesque faucibus nisl dolor, ac molestie elit venenatis id. Aliquam congue purus ac dolor faucibus, eget viverra ipsum suscipit. Vestibulum vel tincidunt sapien. Vestibulum eu mauris augue. Suspendisse hendrerit dui nec tincidunt condimentum.[^4]
 
 ### South Korea
 
@@ -125,12 +123,12 @@ Cras pharetra nisi id augue tincidunt suscipit. Nulla facilisi. Duis dolor ante,
 
 Etiam vulputate pulvinar urna, ut ullamcorper dui lacinia id. Duis quis ex non magna interdum accumsan. Pellentesque in elit justo. Etiam viverra metus quis nisi pharetra efficitur. Curabitur consectetur consequat mi et scelerisque. Mauris nec nunc at purus viverra sollicitudin. Vivamus nec quam quam. Integer convallis, lacus non euismod efficitur, nibh elit consectetur dui, id faucibus leo arcu dictum ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Phasellus rhoncus felis lacus, ac iaculis risus tempus a. Nam aliquam odio justo, in molestie lectus tristique vel. Pellentesque finibus ac justo ac dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer at urna risus. Curabitur iaculis ante in ipsum finibus, eu vulputate nisl tincidunt.
 
-In et tincidunt magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse egestas eu odio eget aliquet. In felis ligula, faucibus at mollis eget, ullamcorper sed velit. Suspendisse potenti. Suspendisse auctor erat nec bibendum hendrerit. Quisque a mi vehicula, egestas odio non, cursus dui. Nulla imperdiet risus sit amet leo placerat vulputate. Ut cursus suscipit mauris. Fusce et felis a tortor vestibulum fermentum fermentum sed nunc. Vestibulum ac purus interdum, ultricies magna ut, mollis sapien. Praesent venenatis elit eu porttitor sodales. Fusce nibh risus, egestas id nisi a, tempus accumsan purus.<sup>[5]</sup>
+In et tincidunt magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse egestas eu odio eget aliquet. In felis ligula, faucibus at mollis eget, ullamcorper sed velit. Suspendisse potenti. Suspendisse auctor erat nec bibendum hendrerit. Quisque a mi vehicula, egestas odio non, cursus dui. Nulla imperdiet risus sit amet leo placerat vulputate. Ut cursus suscipit mauris. Fusce et felis a tortor vestibulum fermentum fermentum sed nunc. Vestibulum ac purus interdum, ultricies magna ut, mollis sapien. Praesent venenatis elit eu porttitor sodales. Fusce nibh risus, egestas id nisi a, tempus accumsan purus.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

@@ -1,0 +1,112 @@
+sidebarTitle: Website Management Tutorial
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+- title: Getting Started
+  jurl: /docs/tutorial/intro
+
+- title: File Structure
+  jurl: /docs/tutorial/file_structure
+
+- title: Global Configuration
+  jurl: /docs/tutorial/config
+
+- title: Editing Content
+  folderitems:
+  - title: Getting Started Editing
+    jurl: /docs/tutorial/start_editing
+  
+  - title: File Types
+    jurl: /docs/tutorial/file_types
+  
+  - title: Formatting
+    jurl: /docs/tutorial/formatting
+
+  - title: Images and Media
+    jurl: /docs/tutorial/
+
+  - title: Accessibility
+    jurl: /docs/tutorial/
+
+- title: Components
+
+  folderitems:
+  
+  - title: Home Page
+    jurl: /docs/tutorial/
+  
+  - title: Navigation Bar
+    jurl: /docs/tutorial/
+    
+  - title: Sidebars
+    jurl: /docs/tutorial/
+    
+  - title: Documents
+    jurl: /docs/tutorial/
+      
+  - subfolders:
+    - title: Blog
+      subfolderitems:
+      - title: Blog Index
+        jurl: /docs/tutorial/
+      
+      - title: Writing a Blog Post
+        jurl: /docs/tutorial/
+      
+      - title: Working With Categories
+        jurl: /docs/tutorial/
+        
+  - subfolders:
+    - title: About Section
+      subfolderitems:
+      - title: About
+        jurl: /docs/tutorial/
+      
+      - title: CV
+        jurl: /docs/tutorial/
+        
+  - title: Search
+    jurl: /docs/tutorial/
+    
+- title: Additional Functionality
+  jurl: /docs/tutorial/functionality
+  
+- title: Upgrades
+  jurl: /docs/tutorial/upgrades
+    
+- title: Glossary
+  jurl: /docs/tutorial/
+  
+###########################
+
+related_resources_title: Other Resources
+
+related_resources_list:
+
+- title: Jekyll Website
+  jurl: https://jekyllrb.com/
+
+- title: W3 Schools HTML Reference
+  jurl: https://www.w3schools.com/TAGs/
+
+- title: Markdown Cheat Sheet
+  jurl: https://www.markdownguide.org/cheat-sheet/
+
+- title: GitHub Pages Documentation
+  jurl: https://docs.github.com/en/pages
+  
+- title: GitLab Pages Documentation
+  jurl: https://docs.gitlab.com/ee/user/project/pages/
+  
+- title: Git Documentation
+  jurl: https://git-scm.com/doc
+  
+- title: This Site's Source Code
+  jurl: https://github.com/badgernested/template-information-site
+
+###########################
+
+#forum:
+#  forum_link: http://forums.yourcompany.com
+#  forum_name: Company Forum

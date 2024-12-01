@@ -1,8 +1,6 @@
 ---
 title: Challenges
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: 
 prev_doc: /docs/sample_time/modern/economy
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -63,7 +61,7 @@ Nulla rhoncus nisi urna, quis lobortis eros consequat sit amet. Donec consequat,
 
 In elementum, justo nec sagittis varius, leo turpis vestibulum nulla, eget sollicitudin nunc tortor a metus. Aenean eu justo sollicitudin enim sodales mollis eu quis justo. Nam aliquet dui ut lacus interdum, sit amet aliquet enim congue. In eleifend tellus eu arcu euismod, eget eleifend felis pharetra. Aliquam faucibus erat quis elementum pharetra. Etiam dictum velit sed dictum porta. Curabitur vel magna sit amet sem ultrices hendrerit in vel risus. Maecenas sit amet nisl dignissim, aliquam enim eget, pharetra tortor. Aenean dapibus orci libero, eu sagittis tellus consectetur ut. Quisque lacus turpis, aliquet a commodo sed, lacinia at neque.
 
-Nam commodo, arcu quis efficitur mattis, est ex volutpat risus, in pharetra arcu ante eu ex. Suspendisse sollicitudin urna dignissim dapibus mattis. Donec dapibus felis non rhoncus imperdiet. Curabitur euismod, odio eu condimentum accumsan, sapien ex cursus diam, sit amet scelerisque ligula tellus a erat. Vestibulum aliquet enim eros, ut ultrices enim aliquam vitae. Donec euismod, libero vel luctus consectetur, arcu arcu feugiat diam, finibus porttitor orci tortor et nisl. In non varius diam. Maecenas dictum, diam eget finibus faucibus, massa magna vulputate augue, ornare volutpat libero purus eu ex. Vivamus tincidunt vel lectus sit amet posuere. 
+Nam commodo, arcu quis efficitur mattis, est ex volutpat risus, in pharetra arcu ante eu ex. Suspendisse sollicitudin urna dignissim dapibus mattis. Donec dapibus felis non rhoncus imperdiet. Curabitur euismod, odio eu condimentum accumsan, sapien ex cursus diam, sit amet scelerisque ligula tellus a erat. Vestibulum aliquet enim eros, ut ultrices enim aliquam vitae. Donec euismod, libero vel luctus consectetur, arcu arcu feugiat diam, finibus porttitor orci tortor et nisl. In non varius diam. Maecenas dictum, diam eget finibus faucibus, massa magna vulputate augue, ornare volutpat libero purus eu ex. Vivamus tincidunt vel lectus sit amet posuere.[^1]
 
 ## Increased Demand
 
@@ -71,7 +69,7 @@ In varius commodo tincidunt. Curabitur euismod nec ligula at condimentum. Pellen
 
 Suspendisse varius nisi quis semper pharetra. Duis consequat ullamcorper lacus, id volutpat nisl placerat sed. Pellentesque dapibus purus vel vulputate interdum. Mauris porttitor dui ac metus sagittis scelerisque. Praesent condimentum justo id augue consequat, maximus ultricies sapien vestibulum. Nam tempus tristique nunc quis tempor. Phasellus mollis lacus sed rhoncus consectetur. Nullam cursus, odio non efficitur venenatis, sem tortor tempus velit, viverra congue magna diam nec mauris. Sed eu tincidunt nisl, vel consectetur mauris. Donec urna orci, rhoncus consectetur iaculis quis, mattis quis tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Aenean lacus orci, aliquet id aliquet sit amet, eleifend quis eros. Sed vitae turpis ac urna rhoncus vestibulum vel a nisl. Etiam eget tortor euismod, posuere quam quis, vehicula mauris. Praesent eu tortor lectus. Pellentesque in risus quis nulla aliquet ullamcorper at vel enim. Fusce id lorem eget mauris aliquet sodales non id enim. Aliquam vitae lectus metus. Ut suscipit leo non nulla vulputate pretium. Nulla arcu quam, congue vel ante ut, feugiat viverra nisi. 
+Aenean lacus orci, aliquet id aliquet sit amet, eleifend quis eros. Sed vitae turpis ac urna rhoncus vestibulum vel a nisl. Etiam eget tortor euismod, posuere quam quis, vehicula mauris. Praesent eu tortor lectus. Pellentesque in risus quis nulla aliquet ullamcorper at vel enim. Fusce id lorem eget mauris aliquet sodales non id enim. Aliquam vitae lectus metus. Ut suscipit leo non nulla vulputate pretium. Nulla arcu quam, congue vel ante ut, feugiat viverra nisi.[^2]
 
 # Ecological
 
@@ -85,7 +83,7 @@ Integer elementum ultricies lectus mattis gravida. Nunc malesuada, justo finibus
 
 ## Pollution
 
-Vestibulum at enim sem. Mauris convallis odio enim, sed blandit augue sollicitudin sed. Proin varius sit amet eros pulvinar porttitor. Ut egestas neque quis elit finibus, a faucibus leo semper. Aliquam erat volutpat. Etiam euismod a metus ac pharetra. Etiam mauris metus, finibus at dapibus et, efficitur at augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras vitae volutpat mi, eget vehicula nisl. Nunc feugiat a odio auctor porta.
+Vestibulum at enim sem. Mauris convallis odio enim, sed blandit augue sollicitudin sed. Proin varius sit amet eros pulvinar porttitor. Ut egestas neque quis elit finibus, a faucibus leo semper. Aliquam erat volutpat. Etiam euismod a metus ac pharetra. Etiam mauris metus, finibus at dapibus et, efficitur at augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras vitae volutpat mi, eget vehicula nisl. Nunc feugiat a odio auctor porta.[^3]
 
 In dapibus dui vitae lectus pellentesque eleifend. Aenean vitae quam neque. Cras cursus turpis mauris, vel consequat felis rhoncus eget. Maecenas id lacus ac erat consectetur auctor a non turpis. Nam aliquam quis odio et suscipit. Nullam vitae tristique orci, et tempor lacus. Fusce aliquet dictum posuere. Aenean iaculis faucibus faucibus. In id ex nec ligula luctus pulvinar ac eget diam. Praesent id ipsum dapibus, molestie lorem ut, laoreet velit. Morbi facilisis id ex non auctor. Curabitur non interdum justo, in commodo elit. Nulla ut mollis lectus. Aliquam fermentum, erat in posuere molestie, libero lorem feugiat nisi, eget blandit sapien ipsum in arcu. Praesent id sagittis magna.
 
@@ -101,7 +99,7 @@ Aliquam dignissim orci eget nunc ullamcorper volutpat. Vestibulum in interdum li
 
 Maecenas eu efficitur felis, auctor cursus arcu. Maecenas imperdiet justo elit, nec mollis enim sodales at. Cras quis facilisis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam commodo vulputate lacus, vel condimentum est venenatis sed. Fusce aliquam velit tellus, sed dictum orci luctus vel. Suspendisse nisl dolor, suscipit nec vehicula egestas, hendrerit in ex. Nullam quis venenatis sem. Integer lacinia elementum vehicula. Vivamus lacus enim, hendrerit nec justo ut, vulputate semper lacus. Fusce vulputate, orci id tincidunt tristique, eros orci ornare tortor, ac cursus metus sem sed est. Duis accumsan risus tortor, vitae rhoncus ligula dignissim quis.
 
-Maecenas id venenatis metus, sit amet faucibus enim. Quisque ligula tellus, pharetra vitae commodo vitae, tincidunt sit amet odio. Maecenas et efficitur risus. Etiam neque metus, molestie id ante in, mattis pulvinar eros. Aliquam erat volutpat. Donec at euismod metus. Nam pulvinar, nisi non ultricies fringilla, libero dolor sagittis tortor, id sodales felis elit nec ipsum. Duis mauris tortor, lobortis ut hendrerit bibendum, blandit non neque. Vivamus dictum mauris vitae tempus suscipit. Phasellus a blandit diam, at pharetra turpis. 
+Maecenas id venenatis metus, sit amet faucibus enim. Quisque ligula tellus, pharetra vitae commodo vitae, tincidunt sit amet odio. Maecenas et efficitur risus. Etiam neque metus, molestie id ante in, mattis pulvinar eros. Aliquam erat volutpat. Donec at euismod metus. Nam pulvinar, nisi non ultricies fringilla, libero dolor sagittis tortor, id sodales felis elit nec ipsum. Duis mauris tortor, lobortis ut hendrerit bibendum, blandit non neque. Vivamus dictum mauris vitae tempus suscipit. Phasellus a blandit diam, at pharetra turpis.[^4]
 
 ## Human-Ecology Relations
 
@@ -111,14 +109,12 @@ Aliquam condimentum, lectus id finibus lobortis, mauris mi eleifend turpis, quis
 
 Praesent in augue vel augue viverra tincidunt quis ut neque. Mauris dictum eleifend justo, quis ullamcorper urna consequat et. Sed diam mauris, accumsan sed lectus nec, mollis convallis odio. Pellentesque id mauris sit amet lectus scelerisque hendrerit eleifend eu eros. Vestibulum hendrerit faucibus felis, sit amet pulvinar tortor imperdiet ut. Morbi eget mollis dui. Cras id mi mattis, volutpat sem nec, condimentum urna.
 
-Integer sit amet urna in turpis interdum luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris risus est, convallis ac augue vel, accumsan pulvinar nisl. Praesent sed vehicula eros. Aliquam erat volutpat. Curabitur in nisl fringilla, rhoncus sapien vitae, laoreet enim. Quisque euismod est at ante lacinia dignissim nec sit amet risus. Ut augue sem, varius eget sem non, iaculis sollicitudin erat. Curabitur a elit elit. Sed lacus leo, commodo hendrerit tincidunt sit amet, egestas sit amet ex. Proin rutrum porttitor libero non ornare. In tempus varius convallis. Pellentesque id tempus enim. 
-
-<sup>[5]</sup>
+Integer sit amet urna in turpis interdum luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris risus est, convallis ac augue vel, accumsan pulvinar nisl. Praesent sed vehicula eros. Aliquam erat volutpat. Curabitur in nisl fringilla, rhoncus sapien vitae, laoreet enim. Quisque euismod est at ante lacinia dignissim nec sit amet risus. Ut augue sem, varius eget sem non, iaculis sollicitudin erat. Curabitur a elit elit. Sed lacus leo, commodo hendrerit tincidunt sit amet, egestas sit amet ex. Proin rutrum porttitor libero non ornare. In tempus varius convallis. Pellentesque id tempus enim.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

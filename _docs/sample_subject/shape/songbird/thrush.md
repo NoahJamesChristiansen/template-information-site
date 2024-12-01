@@ -1,8 +1,6 @@
 ---
 title: Thrushes
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/songbird/finch
 prev_doc: docs/sample_subject/shape/songbird/corvid
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -13,7 +11,7 @@ summary: A summary of thrushes.
 * TOC
 {:toc}
 
-Proin quis volutpat lectus. Mauris rutrum est in magna consequat ultrices. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut semper est non enim molestie, quis ultricies libero dapibus. Nulla at dolor vehicula, accumsan velit sed, euismod massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed feugiat justo vel nulla iaculis, pulvinar tincidunt sem posuere. Phasellus dictum enim nec sem rutrum, eu malesuada magna scelerisque. Nunc vitae magna eu lacus tempus facilisis. Aenean sed tempus nulla. Aliquam dictum sodales magna, a posuere est fermentum porttitor. Morbi vel arcu lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<sup>[1]</sup>
+Proin quis volutpat lectus. Mauris rutrum est in magna consequat ultrices. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut semper est non enim molestie, quis ultricies libero dapibus. Nulla at dolor vehicula, accumsan velit sed, euismod massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed feugiat justo vel nulla iaculis, pulvinar tincidunt sem posuere. Phasellus dictum enim nec sem rutrum, eu malesuada magna scelerisque. Nunc vitae magna eu lacus tempus facilisis. Aenean sed tempus nulla. Aliquam dictum sodales magna, a posuere est fermentum porttitor. Morbi vel arcu lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.[^1]
 
 # Anatomy
 
@@ -23,7 +21,7 @@ Integer in velit ex. Phasellus in bibendum velit. Lorem ipsum dolor sit amet, co
 
 ![Put alt text here.](/template-information-site/assets/images/sample_subject/thrush1.jpg)
 
-Curabitur bibendum faucibus eros nec dapibus. Duis imperdiet lacinia turpis. Donec sodales odio a tristique dapibus. Vestibulum id arcu laoreet, viverra justo vel, venenatis magna. Donec tincidunt elementum odio eget interdum. Pellentesque nec hendrerit purus. Pellentesque hendrerit mauris sed eros tincidunt, vitae vulputate metus lobortis. Mauris vel sem lacus. Duis ultrices augue ultrices euismod molestie. Donec suscipit urna elit, congue hendrerit sem vestibulum non. Phasellus faucibus lorem in orci scelerisque, non bibendum velit cursus. Mauris congue sagittis enim, ut vulputate turpis consectetur in. Suspendisse mattis volutpat varius.<sup>[2]</sup>
+Curabitur bibendum faucibus eros nec dapibus. Duis imperdiet lacinia turpis. Donec sodales odio a tristique dapibus. Vestibulum id arcu laoreet, viverra justo vel, venenatis magna. Donec tincidunt elementum odio eget interdum. Pellentesque nec hendrerit purus. Pellentesque hendrerit mauris sed eros tincidunt, vitae vulputate metus lobortis. Mauris vel sem lacus. Duis ultrices augue ultrices euismod molestie. Donec suscipit urna elit, congue hendrerit sem vestibulum non. Phasellus faucibus lorem in orci scelerisque, non bibendum velit cursus. Mauris congue sagittis enim, ut vulputate turpis consectetur in. Suspendisse mattis volutpat varius.[^2]
 
 # Behavior
 
@@ -31,7 +29,7 @@ Nulla id odio iaculis, pellentesque lorem sed, porta orci. Nulla facilisi. In co
 
 Morbi viverra porta risus vel lobortis. Sed porta commodo ipsum, non tempus erat. Nullam elit nisi, varius in ullamcorper in, pharetra id sapien. Quisque pellentesque et quam in porta. Curabitur congue convallis iaculis. Curabitur id tempus magna, eu porttitor urna. Pellentesque congue pharetra elit, nec fermentum nisi finibus eget. Fusce sit amet nisl vitae nunc faucibus suscipit nec at ligula. Cras eget eros nibh. Suspendisse lacinia ligula id nisi pellentesque, quis semper ex finibus. Pellentesque scelerisque, felis ac aliquam semper, augue orci hendrerit ante, placerat pellentesque est quam ac quam. Integer faucibus nunc massa, vitae semper nulla tempus id. Suspendisse at mauris tristique, porta nunc vel, placerat justo.
 
-Maecenas accumsan augue diam, ut faucibus dolor lobortis non. Vestibulum sit amet ex mollis, cursus nisl ut, pretium felis. Donec rhoncus, magna id dapibus porta, augue ex accumsan nisi, sit amet scelerisque dui quam egestas lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin consequat suscipit lorem, interdum pellentesque augue feugiat quis. Sed facilisis laoreet enim at ultricies. Suspendisse cursus congue eros eget porttitor. Fusce nibh metus, condimentum feugiat est vitae, viverra ornare sem. In orci lorem, hendrerit quis leo ac, venenatis blandit eros. Praesent luctus varius vehicula. Vestibulum ante nibh, posuere ac libero quis, lobortis varius mi. Quisque elementum metus lorem, non volutpat massa posuere nec. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque condimentum mi eget lorem semper cursus. Vivamus ipsum sem, auctor quis mattis mollis, tincidunt vel eros.<sup>[3]</sup>
+Maecenas accumsan augue diam, ut faucibus dolor lobortis non. Vestibulum sit amet ex mollis, cursus nisl ut, pretium felis. Donec rhoncus, magna id dapibus porta, augue ex accumsan nisi, sit amet scelerisque dui quam egestas lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin consequat suscipit lorem, interdum pellentesque augue feugiat quis. Sed facilisis laoreet enim at ultricies. Suspendisse cursus congue eros eget porttitor. Fusce nibh metus, condimentum feugiat est vitae, viverra ornare sem. In orci lorem, hendrerit quis leo ac, venenatis blandit eros. Praesent luctus varius vehicula. Vestibulum ante nibh, posuere ac libero quis, lobortis varius mi. Quisque elementum metus lorem, non volutpat massa posuere nec. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque condimentum mi eget lorem semper cursus. Vivamus ipsum sem, auctor quis mattis mollis, tincidunt vel eros.[^3]
 
 # Ecology
 
@@ -41,7 +39,7 @@ Pellentesque efficitur ullamcorper elementum. Ut eget risus ac quam facilisis so
 
 ![Put alt text here.](/template-information-site/assets/images/sample_subject/thrush2.jpg)
 
-Nunc tempus eu dui aliquam vulputate. Nunc ornare nisi lorem, consequat ultricies lacus mattis vel. Vivamus pellentesque porta erat placerat mattis. Phasellus at mi aliquam, varius velit non, accumsan purus. Donec ante erat, fringilla vitae arcu ut, consectetur gravida magna. Sed vulputate sapien sed pretium volutpat. Vestibulum tincidunt metus ac sodales condimentum. Etiam dignissim ex ut est dapibus, in scelerisque leo suscipit. Vivamus justo massa, porttitor non ornare vitae, gravida sodales mauris. Etiam tincidunt vehicula enim in vulputate.<sup>[4]</sup>
+Nunc tempus eu dui aliquam vulputate. Nunc ornare nisi lorem, consequat ultricies lacus mattis vel. Vivamus pellentesque porta erat placerat mattis. Phasellus at mi aliquam, varius velit non, accumsan purus. Donec ante erat, fringilla vitae arcu ut, consectetur gravida magna. Sed vulputate sapien sed pretium volutpat. Vestibulum tincidunt metus ac sodales condimentum. Etiam dignissim ex ut est dapibus, in scelerisque leo suscipit. Vivamus justo massa, porttitor non ornare vitae, gravida sodales mauris. Etiam tincidunt vehicula enim in vulputate.[^4]
 
 # Reproduction
 
@@ -49,12 +47,12 @@ Duis suscipit efficitur iaculis. Donec eu sapien dignissim, luctus dolor nec, au
 
 Suspendisse massa metus, convallis eget mi at, tincidunt tincidunt arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque sit amet ante feugiat, consequat elit ut, sodales ex. Integer euismod auctor diam, vitae egestas eros tempus in. Nulla ut porttitor odio. Nullam auctor nisi dapibus finibus placerat. Donec in purus nibh.
 
-Phasellus rhoncus ipsum ultrices dui rutrum lobortis. Nulla nunc ipsum, semper vel erat vel, tempus malesuada ipsum. Praesent ornare ipsum in nisl posuere vestibulum. Donec aliquam vestibulum diam, sed venenatis magna porttitor id. Nunc enim eros, finibus sed augue quis, condimentum ultricies lacus. Sed finibus sit amet massa et tristique. Praesent vel feugiat diam, id hendrerit nisi. Integer et sem et arcu hendrerit interdum ac nec ante. Curabitur at nisi ut diam venenatis dictum ac ut leo. Praesent nisl purus, mattis ut ultrices in, consequat a enim. In sem sapien, fermentum eget lacus non, cursus pretium risus. Cras magna tortor, condimentum imperdiet diam vitae, facilisis pretium sapien. Quisque in orci tellus. In imperdiet hendrerit dapibus. Nunc imperdiet euismod ultrices. Suspendisse potenti.<sup>[5]</sup>
+Phasellus rhoncus ipsum ultrices dui rutrum lobortis. Nulla nunc ipsum, semper vel erat vel, tempus malesuada ipsum. Praesent ornare ipsum in nisl posuere vestibulum. Donec aliquam vestibulum diam, sed venenatis magna porttitor id. Nunc enim eros, finibus sed augue quis, condimentum ultricies lacus. Sed finibus sit amet massa et tristique. Praesent vel feugiat diam, id hendrerit nisi. Integer et sem et arcu hendrerit interdum ac nec ante. Curabitur at nisi ut diam venenatis dictum ac ut leo. Praesent nisl purus, mattis ut ultrices in, consequat a enim. In sem sapien, fermentum eget lacus non, cursus pretium risus. Cras magna tortor, condimentum imperdiet diam vitae, facilisis pretium sapien. Quisque in orci tellus. In imperdiet hendrerit dapibus. Nunc imperdiet euismod ultrices. Suspendisse potenti.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

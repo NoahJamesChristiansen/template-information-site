@@ -15,7 +15,7 @@
 	{% elsif page.path contains 'author/' %}
 		<title>{{page.about_authors | capitalize }} | Authors</title>
     {% else %}
-		<title>{{page.title}}</title>
+		<title>{{page.title}} | {{site.uistring.title}}</title>
     {% endif %}
     <base>
     <meta name="description" content="{% if page.content %}{{ page.content | truncatewords: 30 | strip_html }} {% else %}{{site.uistring.description}}{% endif %}" >
@@ -152,8 +152,6 @@
                 
                {% endunless %}
 
-
-                  {% include logo.html %}
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -196,10 +194,6 @@
                     {% endfor %}{% endfor %}
                     {% if site.show_feedback == true %}
                     {% include feedback.html %}
-                    {% endif %}
-
-                    {% if site.github_button_location_top_navbar == true %}
-                    <li>{% include github_button_topnavbar.html %}</li>
                     {% endif %}
 
 

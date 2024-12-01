@@ -1,8 +1,6 @@
 ---
 title: Economic Policy
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/modern/challenges
 prev_doc: /docs/sample_time/modern/international
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -29,13 +27,13 @@ Proin enim justo, convallis sit amet mattis nec, gravida sit amet magna. Mauris 
 
 Aliquam laoreet urna nec placerat viverra. Maecenas dictum sem a enim consectetur aliquet. Nullam ipsum magna, sodales sed ullamcorper eu, pellentesque vel ipsum. Cras et quam ornare, laoreet arcu vitae, gravida nulla. Praesent luctus eu quam egestas malesuada. Donec varius commodo vulputate. Proin quis est sit amet lorem tincidunt venenatis nec at arcu. Sed vitae dapibus libero. Praesent erat magna, consequat non rutrum sed, ullamcorper sit amet leo. Suspendisse imperdiet porttitor tellus, ut sagittis est feugiat id. Etiam id dui fringilla, tristique ante ut, hendrerit massa. Quisque commodo nunc vitae laoreet dignissim. Donec nisi mauris, euismod non sagittis sed, scelerisque sodales urna. In feugiat tincidunt ultrices.
 
-Praesent porta vel leo at lacinia. Aenean vel rhoncus ipsum, ac porttitor lacus. Sed in ipsum convallis mi mollis imperdiet. Nulla convallis libero ut erat ornare dapibus. Fusce in urna ultrices purus congue pretium. Pellentesque id eros sed libero suscipit interdum. Mauris dapibus erat et lobortis vulputate. Vestibulum congue tellus ac lacus vehicula, eget posuere mauris tincidunt. Phasellus non tellus eu mi accumsan lacinia. Mauris pharetra sollicitudin risus, id consectetur ex porta vitae. Integer vitae fringilla turpis. In a est finibus, mollis mauris in, pellentesque enim.<sup>[1]</sup>
+Praesent porta vel leo at lacinia. Aenean vel rhoncus ipsum, ac porttitor lacus. Sed in ipsum convallis mi mollis imperdiet. Nulla convallis libero ut erat ornare dapibus. Fusce in urna ultrices purus congue pretium. Pellentesque id eros sed libero suscipit interdum. Mauris dapibus erat et lobortis vulputate. Vestibulum congue tellus ac lacus vehicula, eget posuere mauris tincidunt. Phasellus non tellus eu mi accumsan lacinia. Mauris pharetra sollicitudin risus, id consectetur ex porta vitae. Integer vitae fringilla turpis. In a est finibus, mollis mauris in, pellentesque enim.[^1]
 
 ## High-Quality Farmland
 
 Etiam eros nunc, feugiat id condimentum vitae, condimentum a dui. Nullam convallis fermentum quam sit amet auctor. Integer ultrices lorem a nunc commodo, eget vestibulum augue sollicitudin. Etiam lacinia ipsum leo, id iaculis dui maximus eu. Nam ornare neque at mi interdum euismod. Pellentesque mattis at arcu nec eleifend. Vestibulum fringilla feugiat nisl, id eleifend erat euismod eget. Praesent pulvinar vitae nisl non venenatis. Morbi ultrices mauris id tempus convallis. Sed ut sagittis lacus, vel tempor mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec rhoncus mattis diam.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque ultricies leo at libero sollicitudin interdum. Nunc turpis magna, hendrerit ut scelerisque vitae, blandit eu est. Morbi ultricies dignissim lacus id facilisis. Pellentesque a enim quis metus pulvinar lacinia. Curabitur egestas dictum risus, in dignissim ligula fringilla ac. Proin quis cursus sapien. Sed nisi risus, iaculis a justo ut, pharetra tempus felis. Sed aliquam nisl quis augue facilisis luctus. Phasellus imperdiet id ligula vel aliquam. Curabitur eget nunc eget lectus convallis efficitur. Morbi tempor accumsan ex ut porta. Ut facilisis maximus dolor, id mollis odio auctor sed. Nullam consectetur ultricies justo non luctus. Nam luctus, quam convallis fringilla cursus, metus quam imperdiet massa, a auctor felis turpis eget felis.<sup>[2]</sup>
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque ultricies leo at libero sollicitudin interdum. Nunc turpis magna, hendrerit ut scelerisque vitae, blandit eu est. Morbi ultricies dignissim lacus id facilisis. Pellentesque a enim quis metus pulvinar lacinia. Curabitur egestas dictum risus, in dignissim ligula fringilla ac. Proin quis cursus sapien. Sed nisi risus, iaculis a justo ut, pharetra tempus felis. Sed aliquam nisl quis augue facilisis luctus. Phasellus imperdiet id ligula vel aliquam. Curabitur eget nunc eget lectus convallis efficitur. Morbi tempor accumsan ex ut porta. Ut facilisis maximus dolor, id mollis odio auctor sed. Nullam consectetur ultricies justo non luctus. Nam luctus, quam convallis fringilla cursus, metus quam imperdiet massa, a auctor felis turpis eget felis.[^2]
 
 
 ## Growing Technology Sector
@@ -56,13 +54,13 @@ Integer erat ipsum, consectetur a sem placerat, posuere dictum justo. Maecenas t
 
 Quisque varius, felis non placerat accumsan, ante orci sodales felis, nec ullamcorper ex ipsum nec tellus. Maecenas vehicula libero nibh, ut congue ex bibendum sit amet. Suspendisse sollicitudin nunc non cursus elementum. Morbi mollis posuere ullamcorper. Aenean maximus ex ut augue ultricies, quis rhoncus leo porttitor. Fusce tristique non dui quis commodo. Suspendisse ut tincidunt turpis. Quisque volutpat urna sed augue finibus, sit amet faucibus risus tristique. Vivamus sollicitudin iaculis dui in dignissim. Cras gravida ex et nulla fermentum, ut bibendum sapien accumsan. Pellentesque auctor lectus vel neque malesuada, et ornare risus malesuada. Mauris ut convallis enim, vitae maximus ante. Nam feugiat, arcu quis ultricies tempor, lacus dolor venenatis metus, quis pulvinar eros urna eget arcu.
 
-Praesent aliquam mi vitae massa rutrum consectetur. Phasellus cursus, velit id laoreet elementum, odio leo tristique neque, ac imperdiet metus ligula id felis. Maecenas eget lacus ut justo finibus aliquet nec pellentesque ante. Vestibulum sed dolor id nibh dictum viverra sit amet at lectus. Etiam vel feugiat nunc. Curabitur scelerisque sem dapibus malesuada ultrices. Pellentesque a augue quis felis dictum ullamcorper vel at magna. Integer ac facilisis libero.<sup>[3]</sup>
+Praesent aliquam mi vitae massa rutrum consectetur. Phasellus cursus, velit id laoreet elementum, odio leo tristique neque, ac imperdiet metus ligula id felis. Maecenas eget lacus ut justo finibus aliquet nec pellentesque ante. Vestibulum sed dolor id nibh dictum viverra sit amet at lectus. Etiam vel feugiat nunc. Curabitur scelerisque sem dapibus malesuada ultrices. Pellentesque a augue quis felis dictum ullamcorper vel at magna. Integer ac facilisis libero.[^3]
 
 ## Inflation
 
 Aenean lobortis vel mi sit amet pretium. Nullam est eros, venenatis in lorem at, sollicitudin dapibus ante. Nam at pretium augue, sit amet ullamcorper quam. Morbi pretium, ligula id egestas euismod, diam massa sagittis eros, id sollicitudin elit tortor ac nisl. Cras ultrices gravida tortor et facilisis. Cras lobortis non lectus a ultricies. Duis condimentum diam convallis diam dapibus sollicitudin. Aliquam quis sem non neque vestibulum tincidunt. Donec ut convallis est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 
-Nullam nisi urna, mattis sed sapien nec, tempor scelerisque elit. Proin ac sagittis lectus, tincidunt tristique lacus. Curabitur justo ex, fringilla eget metus id, tempor rutrum orci. Donec ultricies vitae mauris at tincidunt. Curabitur dolor nisi, imperdiet id arcu at, vulputate porttitor est. Quisque lobortis, justo et pharetra venenatis, risus nisi malesuada nibh, at condimentum nunc mauris a ex. Morbi a lobortis dui, sed blandit ligula. Proin risus tortor, lobortis a metus quis, volutpat porta diam. Nam lacinia dapibus hendrerit. Aliquam ut metus volutpat, rhoncus neque ac, efficitur massa. Vivamus pretium congue est, finibus dignissim libero pellentesque at. In sit amet tincidunt nisl.<sup>[4]</sup>
+Nullam nisi urna, mattis sed sapien nec, tempor scelerisque elit. Proin ac sagittis lectus, tincidunt tristique lacus. Curabitur justo ex, fringilla eget metus id, tempor rutrum orci. Donec ultricies vitae mauris at tincidunt. Curabitur dolor nisi, imperdiet id arcu at, vulputate porttitor est. Quisque lobortis, justo et pharetra venenatis, risus nisi malesuada nibh, at condimentum nunc mauris a ex. Morbi a lobortis dui, sed blandit ligula. Proin risus tortor, lobortis a metus quis, volutpat porta diam. Nam lacinia dapibus hendrerit. Aliquam ut metus volutpat, rhoncus neque ac, efficitur massa. Vivamus pretium congue est, finibus dignissim libero pellentesque at. In sit amet tincidunt nisl.[^4]
 
 ## Limited Supply vs Growing Demand
 
@@ -72,13 +70,12 @@ Integer eu ligula tincidunt sem ultrices tincidunt non et ligula. Curabitur id n
 
 Sed congue, massa nec porta mollis, purus ligula condimentum lectus, id dignissim metus neque non sapien. Aenean volutpat mi non justo lacinia hendrerit vulputate id nunc. Sed fermentum maximus erat eget auctor. Sed at mattis nisi, quis consequat tellus. Nunc non odio in nisi dignissim luctus id nec risus. Vivamus viverra nulla justo, et finibus sem interdum non. Vivamus tempus nulla sem, id viverra quam rutrum eget. Quisque euismod diam et nibh viverra, at ultricies purus porta. Aenean enim nunc, posuere sed imperdiet et, ultrices ac arcu. Sed pellentesque urna nec lacus fermentum interdum. Curabitur id est ac lacus cursus ornare sit amet porta ligula. Nunc maximus, neque ut pretium pellentesque, arcu lorem egestas elit, nec consequat tellus dolor nec risus. In aliquet, ante in egestas porta, metus est vulputate lacus, ac faucibus eros leo nec enim. Vivamus lacinia ante in tortor porta, eu faucibus purus semper. Vivamus felis erat, gravida ut enim et, efficitur vehicula ante.
 
-Mauris finibus turpis sollicitudin sollicitudin aliquet. Donec non fermentum mi. Donec et feugiat lectus. Duis fringilla varius volutpat. Quisque porttitor neque non cursus iaculis. Donec at scelerisque elit. Fusce sodales enim at nibh tincidunt, maximus malesuada dolor tristique. Aliquam diam metus, dictum eu vulputate eu, bibendum at arcu. Donec bibendum nisl vel eleifend faucibus. Nullam rutrum lorem id dolor facilisis, sit amet venenatis lectus viverra. Mauris ultricies leo sit amet ante scelerisque, et tristique quam sollicitudin.<sup>[5]</sup>
-
+Mauris finibus turpis sollicitudin sollicitudin aliquet. Donec non fermentum mi. Donec et feugiat lectus. Duis fringilla varius volutpat. Quisque porttitor neque non cursus iaculis. Donec at scelerisque elit. Fusce sodales enim at nibh tincidunt, maximus malesuada dolor tristique. Aliquam diam metus, dictum eu vulputate eu, bibendum at arcu. Donec bibendum nisl vel eleifend faucibus. Nullam rutrum lorem id dolor facilisis, sit amet venenatis lectus viverra. Mauris ultricies leo sit amet ante scelerisque, et tristique quam sollicitudin.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

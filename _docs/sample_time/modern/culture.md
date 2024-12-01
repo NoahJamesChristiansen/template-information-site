@@ -1,8 +1,6 @@
 ---
 title: Culture and Values
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/modern/domestic
 prev_doc: /docs/sample_time/modern/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -31,7 +29,7 @@ Sed dignissim congue libero, a lobortis leo dignissim at. Curabitur semper purus
 
 Aliquam faucibus odio sed dignissim auctor. Vivamus finibus mauris vel euismod fermentum. Donec vitae accumsan ex. Sed porta odio nulla, ac tristique elit faucibus ut. Proin dui nisi, mollis ut dui sit amet, facilisis ornare erat. Praesent ac imperdiet erat. Fusce urna odio, accumsan gravida elit sit amet, euismod semper purus. Praesent enim turpis, molestie et nulla nec, scelerisque tempus magna. Aenean condimentum elit nisi, mattis egestas tortor mollis eget. Nullam quis ultricies nisl.
 
-Nunc tincidunt pellentesque arcu et rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent auctor ut ante vel luctus. Nunc lobortis imperdiet pharetra. Aenean dictum tortor id purus commodo, id sagittis justo ultrices. Fusce vehicula lacus id laoreet posuere. Cras eu velit maximus, consequat magna sed, congue arcu.<sup>[1]</sup>
+Nunc tincidunt pellentesque arcu et rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent auctor ut ante vel luctus. Nunc lobortis imperdiet pharetra. Aenean dictum tortor id purus commodo, id sagittis justo ultrices. Fusce vehicula lacus id laoreet posuere. Cras eu velit maximus, consequat magna sed, congue arcu.[^1]
 
 ## Religion
 
@@ -49,7 +47,7 @@ Suspendisse mauris urna, tincidunt et varius eu, finibus sit amet diam. Aliquam 
 
 Proin condimentum tempor dui eget pharetra. Aenean maximus lectus urna, sit amet gravida sem convallis vel. Aliquam quis euismod tellus. Nullam tincidunt lectus non eros dictum, et scelerisque nisi vehicula. Pellentesque congue blandit consectetur. Phasellus ac ipsum eu quam fermentum mattis sit amet et tortor. Aliquam erat volutpat.
 
-Maecenas tristique bibendum urna, vel sollicitudin ante mollis sollicitudin. Vestibulum et massa consequat, auctor sapien pellentesque, scelerisque augue. Sed quis nibh ultricies, sodales lorem sed, ullamcorper est. Proin vel est dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi vehicula eros et arcu aliquam, vel posuere nulla elementum. Fusce dapibus ornare nisl sed porta. Nulla et ultrices augue, non scelerisque diam. Nulla quis faucibus felis.<sup>[2]</sup>
+Maecenas tristique bibendum urna, vel sollicitudin ante mollis sollicitudin. Vestibulum et massa consequat, auctor sapien pellentesque, scelerisque augue. Sed quis nibh ultricies, sodales lorem sed, ullamcorper est. Proin vel est dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi vehicula eros et arcu aliquam, vel posuere nulla elementum. Fusce dapibus ornare nisl sed porta. Nulla et ultrices augue, non scelerisque diam. Nulla quis faucibus felis.[^2]
 
 ## Productivity
 
@@ -59,7 +57,7 @@ Vivamus eu enim volutpat, euismod nunc ac, vehicula est. Nulla sit amet commodo 
 
 Phasellus volutpat rutrum iaculis. Quisque sit amet mattis enim. Integer convallis viverra dui. Suspendisse ut lectus nec enim laoreet mattis. Donec ac metus sollicitudin erat bibendum iaculis. Vestibulum pellentesque suscipit justo eu dapibus. Donec ultrices felis in dapibus sagittis. Fusce eget posuere nisl. Donec pharetra placerat nisi ut dignissim. Etiam sollicitudin sapien in libero commodo rutrum. Nunc libero nisi, tristique sit amet ornare et, mattis vitae libero. Maecenas eu rhoncus lacus. Praesent faucibus tempus finibus. Aliquam eget condimentum tellus, eu tristique ligula. Ut enim nisi, sagittis in finibus nec, aliquam ac mauris. Sed id purus id est rhoncus aliquet.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Quisque porttitor convallis odio. Sed vel risus magna. Cras ornare quam et felis pellentesque, vel laoreet leo consequat. Donec tincidunt nisi eu tellus aliquam, vitae consequat lorem tincidunt. Donec sed ultricies lacus, sed sollicitudin tellus. Proin pellentesque velit vulputate maximus mattis.<sup>[3]</sup>
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Quisque porttitor convallis odio. Sed vel risus magna. Cras ornare quam et felis pellentesque, vel laoreet leo consequat. Donec tincidunt nisi eu tellus aliquam, vitae consequat lorem tincidunt. Donec sed ultricies lacus, sed sollicitudin tellus. Proin pellentesque velit vulputate maximus mattis.[^3]
 
 ## Integrity
 
@@ -69,7 +67,7 @@ Donec ligula nisi, rutrum ut massa vitae, posuere sodales lacus. Nunc placerat f
 
 Sed rutrum, lectus a tincidunt pretium, lorem est bibendum justo, nec rutrum magna lacus a nisi. Maecenas tincidunt enim at nibh iaculis, non semper nunc mollis. Cras eget molestie purus. Duis vehicula, est a dapibus euismod, nulla orci molestie nulla, sit amet convallis justo tortor non metus. Ut ultrices facilisis dolor non elementum. Donec at neque nisi. In quis nisl sollicitudin, blandit nulla quis, blandit sem. Donec purus sapien, faucibus elementum tincidunt non, ultricies at quam. Sed commodo, turpis sodales ultrices efficitur, erat nibh vehicula leo, sit amet tempus tellus justo eget nunc. Nunc tristique, ante vel posuere porttitor, nunc eros facilisis justo, nec iaculis urna velit vel enim. Mauris in gravida risus, ut porttitor nibh. Proin sed nisi ex. Sed quis erat a orci maximus molestie a id ipsum. Cras libero risus, feugiat nec eros in, scelerisque dictum velit.
 
-Vestibulum mattis ornare mi ac posuere. Nunc enim arcu, ultricies a odio ac, consectetur aliquam lacus. Curabitur tempus finibus lorem, ac auctor lorem commodo sed. Fusce ultricies viverra orci, elementum aliquet metus molestie in. Cras diam erat, sollicitudin vel pellentesque nec, bibendum et odio. Nullam viverra accumsan risus quis cursus. Donec eleifend lorem justo, a convallis est dictum nec. Morbi vitae massa lectus. Sed finibus ligula non diam mattis consequat et sit amet ligula. Suspendisse potenti. Sed ultricies ipsum dolor, vitae convallis felis elementum id. Donec facilisis ipsum et nunc dapibus volutpat in at magna.<sup>[4]</sup>
+Vestibulum mattis ornare mi ac posuere. Nunc enim arcu, ultricies a odio ac, consectetur aliquam lacus. Curabitur tempus finibus lorem, ac auctor lorem commodo sed. Fusce ultricies viverra orci, elementum aliquet metus molestie in. Cras diam erat, sollicitudin vel pellentesque nec, bibendum et odio. Nullam viverra accumsan risus quis cursus. Donec eleifend lorem justo, a convallis est dictum nec. Morbi vitae massa lectus. Sed finibus ligula non diam mattis consequat et sit amet ligula. Suspendisse potenti. Sed ultricies ipsum dolor, vitae convallis felis elementum id. Donec facilisis ipsum et nunc dapibus volutpat in at magna.[^4]
 
 ## Legal System and Justice
 
@@ -77,12 +75,12 @@ Nullam eget tempor enim, in dictum enim. Donec iaculis elit auctor purus iaculis
 
 Curabitur eu venenatis ante. Praesent ornare nisi magna, sit amet tempus dui vulputate vitae. In pretium nunc vel urna egestas luctus. Fusce congue dolor felis, varius consequat elit congue nec. Vestibulum magna magna, semper a tincidunt id, fermentum in augue. Donec risus augue, consequat nec finibus non, sollicitudin eu diam. Ut condimentum non ipsum et luctus. Morbi quis orci iaculis, condimentum justo ac, molestie neque. Phasellus sit amet dignissim tortor, ac convallis risus. Curabitur rhoncus rutrum tincidunt. Pellentesque ornare ex risus, vitae cursus ante fermentum sit amet.
 
-Integer facilisis leo nisi, in volutpat massa ultricies a. Proin lectus metus, dapibus commodo diam id, semper viverra lacus. Maecenas scelerisque aliquet nibh, eget interdum est volutpat ut. Pellentesque euismod laoreet ipsum a pretium. Duis placerat sem in turpis molestie, id imperdiet lectus rhoncus. Ut pulvinar vulputate lectus, ut posuere nibh vehicula nec. In rhoncus posuere eleifend. Duis congue non tellus in rhoncus. Quisque ultrices tincidunt magna, vel dictum lectus placerat in.<sup>[5]</sup>
+Integer facilisis leo nisi, in volutpat massa ultricies a. Proin lectus metus, dapibus commodo diam id, semper viverra lacus. Maecenas scelerisque aliquet nibh, eget interdum est volutpat ut. Pellentesque euismod laoreet ipsum a pretium. Duis placerat sem in turpis molestie, id imperdiet lectus rhoncus. Ut pulvinar vulputate lectus, ut posuere nibh vehicula nec. In rhoncus posuere eleifend. Duis congue non tellus in rhoncus. Quisque ultrices tincidunt magna, vel dictum lectus placerat in.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

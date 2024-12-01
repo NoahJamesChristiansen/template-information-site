@@ -1,8 +1,6 @@
 ---
 title: Minority Politics
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/good_times/problems
 prev_doc: /docs/sample_time/good_times/economy
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -19,7 +17,7 @@ Aliquam ac odio in tellus auctor vehicula. Cras sit amet nibh at augue hendrerit
 
 Praesent et neque eget eros finibus bibendum eu non ligula. Integer urna eros, blandit quis est vitae, sodales sollicitudin diam. Nullam malesuada sagittis lorem id egestas. Mauris rutrum felis euismod commodo faucibus. Nam erat lacus, semper a tortor eget, lobortis efficitur lorem. Donec auctor, nibh nec efficitur posuere, orci ante vestibulum nisi, id ultricies massa tortor cursus orci. Nam at tempus purus, id porta massa. Maecenas sollicitudin sem non tempus faucibus. In efficitur dolor mattis erat placerat, tincidunt elementum mi eleifend. 
 
-Ut hendrerit, felis eget interdum laoreet, urna leo hendrerit urna, in sollicitudin sapien enim sed nibh. Etiam pellentesque sagittis sapien nec convallis. In in arcu lorem. Quisque a ullamcorper nunc. In hac habitasse platea dictumst. Cras vestibulum leo a porta auctor. Suspendisse accumsan tristique eros eu consectetur. Nam pretium nunc id dolor accumsan hendrerit. Nullam sed est a elit sagittis lobortis.<sup>[1]</sup> 
+Ut hendrerit, felis eget interdum laoreet, urna leo hendrerit urna, in sollicitudin sapien enim sed nibh. Etiam pellentesque sagittis sapien nec convallis. In in arcu lorem. Quisque a ullamcorper nunc. In hac habitasse platea dictumst. Cras vestibulum leo a porta auctor. Suspendisse accumsan tristique eros eu consectetur. Nam pretium nunc id dolor accumsan hendrerit. Nullam sed est a elit sagittis lobortis.[^1] 
 
 ## Racial Minorities
 
@@ -27,7 +25,7 @@ Duis elementum varius pellentesque. Vivamus tellus libero, aliquet et nunc lacin
 
 Nulla vitae velit finibus, cursus sapien id, vulputate leo. Nulla eget lacinia enim, ac molestie ex. Proin elementum id nibh et gravida. Vivamus iaculis nisi vitae ultrices aliquam. Mauris vitae augue eros. Curabitur interdum sollicitudin tellus a vehicula. Vestibulum ac risus ligula.
 
-Maecenas et lectus id risus sollicitudin rutrum a et metus. Pellentesque vehicula est leo, vel imperdiet risus hendrerit sit amet. Phasellus dignissim felis a enim aliquam sodales sed vel mi. Nullam sit amet euismod elit, eget ullamcorper tellus. Maecenas ut sagittis quam. Nunc sodales arcu quis lobortis lobortis. Nunc a erat est. Quisque et tincidunt nibh, nec venenatis purus.<sup>[2]</sup>
+Maecenas et lectus id risus sollicitudin rutrum a et metus. Pellentesque vehicula est leo, vel imperdiet risus hendrerit sit amet. Phasellus dignissim felis a enim aliquam sodales sed vel mi. Nullam sit amet euismod elit, eget ullamcorper tellus. Maecenas ut sagittis quam. Nunc sodales arcu quis lobortis lobortis. Nunc a erat est. Quisque et tincidunt nibh, nec venenatis purus.[^2]
 
 ## Women's Rights
 
@@ -37,7 +35,7 @@ Morbi vel convallis sem. In nec dictum ante, sit amet consequat diam. Suspendiss
 
 In hac habitasse platea dictumst. Suspendisse potenti. Duis et tortor vel est lacinia consectetur. In tincidunt, tortor eu dignissim fringilla, quam mi rhoncus ex, ut condimentum diam lectus et odio. Donec mauris ex, cursus at est mattis, pellentesque eleifend lorem. Duis dui lectus, fermentum in neque eget, sodales efficitur lectus. Ut ut molestie augue. Cras facilisis tortor in sapien vehicula tincidunt. Integer eleifend ligula quis consequat tristique. Donec eu condimentum sapien, vel facilisis ante. Vestibulum porta in velit eu ullamcorper. Nullam sollicitudin non velit ut laoreet. Nunc vel ullamcorper elit. Sed dictum, arcu nec interdum egestas, lorem velit dictum tellus, sed molestie mauris turpis a eros. Sed eu tortor ut magna cursus dictum vitae eget nunc.
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam aliquet tincidunt odio, nec facilisis velit facilisis eget. Nam consequat lacus enim, vel congue lectus dapibus in. Proin euismod venenatis lacus, sed efficitur nibh. Nunc eget faucibus quam, eu volutpat dui. Donec auctor, enim sit amet laoreet iaculis, mauris ipsum tristique enim, non consequat neque ipsum eget felis. Proin mollis eu velit et aliquet. Donec cursus ex quam, at lobortis sapien suscipit et. Nam dictum libero vel semper maximus. Pellentesque aliquet at magna eget cursus.<sup>[3]</sup>
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam aliquet tincidunt odio, nec facilisis velit facilisis eget. Nam consequat lacus enim, vel congue lectus dapibus in. Proin euismod venenatis lacus, sed efficitur nibh. Nunc eget faucibus quam, eu volutpat dui. Donec auctor, enim sit amet laoreet iaculis, mauris ipsum tristique enim, non consequat neque ipsum eget felis. Proin mollis eu velit et aliquet. Donec cursus ex quam, at lobortis sapien suscipit et. Nam dictum libero vel semper maximus. Pellentesque aliquet at magna eget cursus.[^3]
 
 ## Homosexuals and Related Rights
 
@@ -47,7 +45,7 @@ Aliquam aliquet lacus volutpat orci porttitor, et efficitur elit scelerisque. Fu
 
 Nunc euismod vitae arcu fermentum semper. Quisque placerat massa eu nisi tristique sodales non non nisi. Vivamus feugiat vehicula eros ac ultricies. Ut ac turpis eget ipsum blandit lacinia. Fusce convallis velit a risus consectetur vestibulum. Phasellus purus arcu, luctus malesuada vehicula vitae, finibus et odio. Etiam ac elit velit. Etiam sed facilisis tellus.
 
-Aenean lacinia, ipsum quis dictum gravida, orci nulla sollicitudin turpis, vitae dignissim orci ex pretium lorem. Aliquam erat volutpat. Duis fringilla eu dolor viverra commodo. Quisque lobortis et augue vitae molestie. Aenean dapibus lectus nibh. Phasellus euismod velit sit amet elit ultricies ultrices. Quisque sagittis eros non velit vehicula, non egestas mauris sagittis. Donec cursus vel est at condimentum. Nullam quis auctor eros. Praesent sit amet lorem vel tellus suscipit commodo id in enim. Vestibulum gravida purus id libero porttitor convallis vitae eu augue. Sed aliquam erat tincidunt nisi ultrices suscipit id at justo. Aliquam maximus turpis nulla, nec fringilla eros euismod non.<sup>[4]</sup>
+Aenean lacinia, ipsum quis dictum gravida, orci nulla sollicitudin turpis, vitae dignissim orci ex pretium lorem. Aliquam erat volutpat. Duis fringilla eu dolor viverra commodo. Quisque lobortis et augue vitae molestie. Aenean dapibus lectus nibh. Phasellus euismod velit sit amet elit ultricies ultrices. Quisque sagittis eros non velit vehicula, non egestas mauris sagittis. Donec cursus vel est at condimentum. Nullam quis auctor eros. Praesent sit amet lorem vel tellus suscipit commodo id in enim. Vestibulum gravida purus id libero porttitor convallis vitae eu augue. Sed aliquam erat tincidunt nisi ultrices suscipit id at justo. Aliquam maximus turpis nulla, nec fringilla eros euismod non.[^4]
 
 ## Disability and Labor Rights
 
@@ -57,12 +55,12 @@ Sed mattis ultricies velit at ultrices. Praesent aliquet quis nibh tincidunt tin
 
 In eu nulla neque. Integer commodo lacinia condimentum. In imperdiet elit ut elit congue, eu ultricies ante lacinia. Aliquam velit mauris, dignissim sodales eros at, pharetra luctus lorem. Duis gravida non mauris ac lacinia. Donec cursus turpis ullamcorper magna imperdiet, quis mollis enim tempor. Aliquam non porta dui.
 
-Etiam blandit lorem quis elementum feugiat. Sed elementum at massa vitae consectetur. Phasellus tempor vel lectus at bibendum. Donec vitae porttitor nisl. Nulla facilisi. In sagittis tristique felis, quis suscipit leo. Proin sodales odio non dolor dapibus, sit amet placerat augue finibus.<sup>[5]</sup>
+Etiam blandit lorem quis elementum feugiat. Sed elementum at massa vitae consectetur. Phasellus tempor vel lectus at bibendum. Donec vitae porttitor nisl. Nulla facilisi. In sagittis tristique felis, quis suscipit leo. Proin sodales odio non dolor dapibus, sit amet placerat augue finibus.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

@@ -1,8 +1,6 @@
 ---
 title: Introduction to Gallunesia and its History
 sidebar: sample_time
-include_sidebar: true
-layout: document
 next_doc: /docs/sample_time/formation/intro
 prev_doc: 
 photo_alt_text: Change this text to describe the photograph linked in "photo".
@@ -35,7 +33,7 @@ Sed sed mauris consequat, consectetur diam ut, condimentum ligula. Pellentesque 
 
 Etiam pellentesque odio venenatis, laoreet quam non, molestie nisl. Phasellus nec ipsum neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras vel aliquet mauris. Aenean vel nulla nec ex sollicitudin auctor. Mauris ac turpis felis. Donec pulvinar erat vel nunc rhoncus, et rhoncus quam laoreet. Nunc cursus justo vel mi varius consectetur. Etiam diam arcu, facilisis eget ligula at, sodales aliquam ante. Nulla sed consectetur dui, ac feugiat nisl.
 
-Sed molestie lorem vulputate odio sollicitudin, a rhoncus augue aliquam. Nunc mauris est, placerat sit amet eros eget, consectetur pharetra erat. Curabitur gravida non sem ac efficitur. Praesent mattis pharetra est, id porttitor est porta eu. Curabitur fringilla elit a turpis ultricies eleifend. Cras vel hendrerit neque. Praesent pellentesque enim id dui blandit, sed vulputate lectus semper. Suspendisse rhoncus orci erat, eu tempus nunc hendrerit id. Nunc condimentum elit ex, sed consequat ligula tempor vel. Nunc libero arcu, consectetur sit amet elit scelerisque, imperdiet consectetur lectus. Suspendisse ultricies risus eget sapien venenatis ultricies. Phasellus scelerisque at elit nec volutpat. Praesent mattis mi sem, in rhoncus erat lacinia at. Nulla elit erat, aliquet venenatis mauris in, dapibus commodo tortor.<sup>[1]</sup>
+Sed molestie lorem vulputate odio sollicitudin, a rhoncus augue aliquam. Nunc mauris est, placerat sit amet eros eget, consectetur pharetra erat. Curabitur gravida non sem ac efficitur. Praesent mattis pharetra est, id porttitor est porta eu. Curabitur fringilla elit a turpis ultricies eleifend. Cras vel hendrerit neque. Praesent pellentesque enim id dui blandit, sed vulputate lectus semper. Suspendisse rhoncus orci erat, eu tempus nunc hendrerit id. Nunc condimentum elit ex, sed consequat ligula tempor vel. Nunc libero arcu, consectetur sit amet elit scelerisque, imperdiet consectetur lectus. Suspendisse ultricies risus eget sapien venenatis ultricies. Phasellus scelerisque at elit nec volutpat. Praesent mattis mi sem, in rhoncus erat lacinia at. Nulla elit erat, aliquet venenatis mauris in, dapibus commodo tortor.[^1]
 
 ### Water
 
@@ -45,7 +43,7 @@ Cras at lacinia nulla. Curabitur vel felis et tellus imperdiet eleifend a vitae 
 
 Phasellus rutrum eros et risus ullamcorper, id vestibulum lacus scelerisque. Aenean consequat pretium eros, ultrices tempus neque posuere in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur massa odio, aliquet eget eleifend quis, posuere nec ex. Integer in tellus erat. Curabitur maximus eu nisi non aliquam. Nullam libero nibh, dapibus vitae mauris fermentum, suscipit luctus leo. Fusce nec elementum leo, sit amet finibus est. Donec congue odio libero, quis aliquam felis finibus et. Morbi consectetur leo sed orci vestibulum, nec maximus velit condimentum. In hac habitasse platea dictumst.
 
-Etiam pretium auctor est et accumsan. Ut hendrerit interdum luctus. Vivamus eleifend mattis ipsum dignissim sagittis. Vivamus ultrices odio sit amet consectetur cursus. Nullam mollis purus in pulvinar volutpat. Vestibulum a dui eget purus molestie vestibulum. Phasellus eleifend, turpis at tristique porta, dolor justo suscipit purus, non consectetur nulla odio ac arcu. Integer malesuada porta rhoncus.<sup>[2]</sup>
+Etiam pretium auctor est et accumsan. Ut hendrerit interdum luctus. Vivamus eleifend mattis ipsum dignissim sagittis. Vivamus ultrices odio sit amet consectetur cursus. Nullam mollis purus in pulvinar volutpat. Vestibulum a dui eget purus molestie vestibulum. Phasellus eleifend, turpis at tristique porta, dolor justo suscipit purus, non consectetur nulla odio ac arcu. Integer malesuada porta rhoncus.[^2]
 
 ### Climate
 
@@ -55,7 +53,7 @@ Integer ultrices condimentum massa, a ultrices nibh accumsan sit amet. Nulla fac
 
 Suspendisse ultricies maximus hendrerit. Integer sollicitudin urna vitae leo imperdiet, consequat venenatis diam tincidunt. Proin sed magna ac quam elementum sagittis. Fusce tincidunt eget enim at fermentum. Quisque suscipit vulputate mauris nec venenatis. In condimentum gravida nibh vel interdum. Morbi et maximus est. Donec gravida mi id nunc dapibus scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam consectetur diam cursus ipsum pharetra vestibulum.
 
-Morbi ut eleifend quam. Etiam pretium tristique mi. Donec finibus, elit pharetra placerat venenatis, ligula lorem semper magna, pulvinar viverra lorem arcu non ipsum. Nulla facilisi. Morbi varius a justo in commodo. In posuere porttitor vestibulum. Duis tempor vestibulum tortor ac blandit. Proin a quam pellentesque, gravida risus quis, aliquam eros. Nulla pharetra euismod lorem nec pretium. Duis congue arcu nec nibh ullamcorper, a efficitur purus convallis. Suspendisse potenti. Etiam porttitor vel sapien facilisis semper. Pellentesque ipsum nulla, commodo vitae ultrices at, semper a erat. Donec ante augue, congue et purus eget, congue porta ligula.<sup>[3]</sup>
+Morbi ut eleifend quam. Etiam pretium tristique mi. Donec finibus, elit pharetra placerat venenatis, ligula lorem semper magna, pulvinar viverra lorem arcu non ipsum. Nulla facilisi. Morbi varius a justo in commodo. In posuere porttitor vestibulum. Duis tempor vestibulum tortor ac blandit. Proin a quam pellentesque, gravida risus quis, aliquam eros. Nulla pharetra euismod lorem nec pretium. Duis congue arcu nec nibh ullamcorper, a efficitur purus convallis. Suspendisse potenti. Etiam porttitor vel sapien facilisis semper. Pellentesque ipsum nulla, commodo vitae ultrices at, semper a erat. Donec ante augue, congue et purus eget, congue porta ligula.[^3]
 
 ## Cultures and People
 
@@ -63,7 +61,7 @@ Ut ligula sapien, posuere nec justo nec, mollis pharetra lectus. Nulla pulvinar 
 
 Nunc id dolor dui. Curabitur eget libero molestie dui porttitor fermentum. Phasellus sed augue non tortor vestibulum imperdiet. Praesent fermentum leo vitae maximus scelerisque. Etiam quis nulla eget nulla scelerisque suscipit vestibulum at sapien. Suspendisse potenti. Nullam aliquet sem quis nunc condimentum rutrum. Duis iaculis urna quis dui viverra, volutpat porta neque lacinia.
 
-Donec eu convallis ipsum. Praesent fringilla elit non lectus dignissim elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna orci, pharetra et felis id, pretium elementum risus. Quisque facilisis elit sit amet eleifend lacinia. Morbi euismod sit amet ex sed pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque elementum sem at ex laoreet, ut tincidunt ligula finibus.<sup>[4]</sup>
+Donec eu convallis ipsum. Praesent fringilla elit non lectus dignissim elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna orci, pharetra et felis id, pretium elementum risus. Quisque facilisis elit sit amet eleifend lacinia. Morbi euismod sit amet ex sed pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque elementum sem at ex laoreet, ut tincidunt ligula finibus.[^4]
 
 # Intro to Gallunesian History 
 
@@ -77,7 +75,7 @@ Sed varius felis vitae augue faucibus semper. Aliquam rhoncus ultrices purus in 
 
 Phasellus sit amet dui ex. Vivamus odio lacus, condimentum ut augue sit amet, consectetur ultrices urna. Curabitur sagittis, quam ac finibus luctus, lectus lacus congue orci, scelerisque bibendum dui massa ac augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam egestas velit non lectus faucibus posuere. Aenean elementum aliquam ipsum sed consectetur. Integer maximus erat non ipsum placerat eleifend. Nulla efficitur posuere porttitor. Aliquam efficitur sapien et lobortis rhoncus. Mauris et quam aliquet, ornare odio vel, egestas enim. Etiam convallis risus condimentum eros tempus, at molestie quam congue. Cras iaculis, sem ut consectetur iaculis, justo quam rhoncus leo, vitae molestie justo leo sit amet nunc. Suspendisse non arcu a arcu blandit rutrum. Donec tristique lobortis ultricies. Fusce bibendum lacinia felis ac malesuada. Nunc condimentum dui vitae dui sollicitudin imperdiet.
 
-Aenean vitae mi nec neque fermentum pharetra. Cras vel luctus leo, euismod molestie mi. Curabitur mauris neque, porttitor nec viverra vitae, eleifend quis nibh. Integer turpis tortor, facilisis nec consectetur et, aliquam facilisis lectus. Aliquam erat volutpat. Curabitur ut dui diam. Aenean elementum mollis odio, non efficitur ex pulvinar vitae. Morbi nunc ipsum, placerat pharetra lectus id, cursus ornare velit. In dignissim convallis odio, et hendrerit neque sodales eget.<sup>[5]</sup>
+Aenean vitae mi nec neque fermentum pharetra. Cras vel luctus leo, euismod molestie mi. Curabitur mauris neque, porttitor nec viverra vitae, eleifend quis nibh. Integer turpis tortor, facilisis nec consectetur et, aliquam facilisis lectus. Aliquam erat volutpat. Curabitur ut dui diam. Aenean elementum mollis odio, non efficitur ex pulvinar vitae. Morbi nunc ipsum, placerat pharetra lectus id, cursus ornare velit. In dignissim convallis odio, et hendrerit neque sodales eget.[^5]
 
 ## Formation
 
@@ -87,7 +85,7 @@ In suscipit enim augue, sed bibendum libero ornare sed. In in est non diam luctu
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi id venenatis mauris. Integer tincidunt facilisis mauris, sit amet commodo ipsum finibus non. Integer ut fermentum tortor. Donec laoreet scelerisque felis ut maximus. Fusce semper, neque ut rhoncus gravida, libero lorem mollis leo, eu eleifend sapien dolor eget mauris. Donec vulputate non nisi vel ullamcorper. Proin porta diam eleifend, aliquet lectus in, tempor lectus. Vestibulum tincidunt urna eros, ut feugiat est porttitor in.
 
-Maecenas lorem lorem, iaculis tristique dapibus non, viverra nec quam. Quisque ultrices feugiat ex et malesuada. Duis nec libero in nisl blandit hendrerit. Quisque risus mi, molestie eu dapibus vitae, gravida ut enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque fermentum sodales porta. Mauris nec magna ut orci condimentum cursus non eu odio. Quisque sit amet pellentesque urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque tempus mauris nibh, aliquet commodo ipsum dapibus quis. Maecenas mattis massa ac elit convallis dictum. Integer dignissim tincidunt elit, sit amet iaculis leo sodales nec. Morbi ligula lectus, porta quis nisl vel, aliquet ornare quam. Praesent aliquet orci et tellus bibendum vestibulum. Aliquam erat volutpat. Cras sodales pharetra nibh vitae interdum.<sup>[6]</sup>
+Maecenas lorem lorem, iaculis tristique dapibus non, viverra nec quam. Quisque ultrices feugiat ex et malesuada. Duis nec libero in nisl blandit hendrerit. Quisque risus mi, molestie eu dapibus vitae, gravida ut enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque fermentum sodales porta. Mauris nec magna ut orci condimentum cursus non eu odio. Quisque sit amet pellentesque urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque tempus mauris nibh, aliquet commodo ipsum dapibus quis. Maecenas mattis massa ac elit convallis dictum. Integer dignissim tincidunt elit, sit amet iaculis leo sodales nec. Morbi ligula lectus, porta quis nisl vel, aliquet ornare quam. Praesent aliquet orci et tellus bibendum vestibulum. Aliquam erat volutpat. Cras sodales pharetra nibh vitae interdum.[^6]
 
 ## The Bird Wars
 
@@ -97,7 +95,7 @@ Cras vel placerat dui. Proin leo nisi, mattis bibendum lacus a, auctor commodo l
 
 Pellentesque tincidunt est libero, a scelerisque lorem convallis a. Nam sed eros consectetur, pharetra augue vel, vestibulum neque. Vestibulum elementum, sapien ac volutpat varius, nulla nisl auctor tortor, et viverra ligula mi id leo. Aenean erat augue, efficitur eu placerat a, blandit ac mi. Praesent lacinia laoreet viverra. Praesent pretium, turpis eu finibus tristique, arcu arcu vulputate felis, vel vestibulum augue ipsum vel ligula. Etiam ut condimentum nulla. Fusce id tellus interdum, pellentesque nunc sed, laoreet tellus. Phasellus luctus ligula ac iaculis blandit.
 
-Proin malesuada, mauris vitae convallis rhoncus, diam turpis scelerisque ipsum, eget pharetra augue sem in libero. Cras tempor, est at faucibus varius, orci lorem pellentesque nulla, eget placerat ante orci ac nulla. Aenean euismod finibus tincidunt. Pellentesque sed iaculis dolor. Phasellus ac mi molestie, dapibus purus et, pellentesque mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec scelerisque ultricies leo in ultrices. Donec congue lorem vitae magna dictum elementum. Vivamus felis mauris, tempor id turpis ac, luctus efficitur nibh. Proin id tortor libero. Nullam ultricies in eros vel ultrices.<sup>[7]</sup>
+Proin malesuada, mauris vitae convallis rhoncus, diam turpis scelerisque ipsum, eget pharetra augue sem in libero. Cras tempor, est at faucibus varius, orci lorem pellentesque nulla, eget placerat ante orci ac nulla. Aenean euismod finibus tincidunt. Pellentesque sed iaculis dolor. Phasellus ac mi molestie, dapibus purus et, pellentesque mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec scelerisque ultricies leo in ultrices. Donec congue lorem vitae magna dictum elementum. Vivamus felis mauris, tempor id turpis ac, luctus efficitur nibh. Proin id tortor libero. Nullam ultricies in eros vel ultrices.[^7]
 
 ## The Good Times
 
@@ -105,7 +103,7 @@ Vestibulum maximus magna ac dui commodo, sed posuere velit porta. Quisque cursus
 
 Maecenas cursus leo ut nulla sollicitudin lacinia. Aliquam lacus ipsum, commodo ut mattis ut, egestas sed quam. Fusce convallis ullamcorper felis id pretium. Integer eu metus ac nibh tincidunt dictum a vel ante. Praesent odio augue, mollis ac ante ac, condimentum tristique libero. Proin in condimentum metus. Donec ultrices laoreet imperdiet.
 
-Nam venenatis tincidunt neque, nec sodales risus sagittis vel. Duis dapibus tempus mauris. Nulla eu nulla at purus pretium dapibus. Integer ornare fringilla magna ut sagittis. In nec auctor nulla, id blandit magna. Ut hendrerit lobortis ante. Nulla scelerisque, turpis eget eleifend fermentum, urna sem suscipit neque, et bibendum nisl tortor laoreet justo. Proin at felis et lectus lobortis interdum. Praesent in elit porttitor, ultrices sem facilisis, vulputate massa.<sup>[8]</sup>
+Nam venenatis tincidunt neque, nec sodales risus sagittis vel. Duis dapibus tempus mauris. Nulla eu nulla at purus pretium dapibus. Integer ornare fringilla magna ut sagittis. In nec auctor nulla, id blandit magna. Ut hendrerit lobortis ante. Nulla scelerisque, turpis eget eleifend fermentum, urna sem suscipit neque, et bibendum nisl tortor laoreet justo. Proin at felis et lectus lobortis interdum. Praesent in elit porttitor, ultrices sem facilisis, vulputate massa.[^8]
 
 ## Modern Era
 
@@ -115,16 +113,16 @@ Maecenas id tincidunt nunc. Morbi eget scelerisque mi. Cras tempor tellus ut tel
 
 Donec faucibus commodo metus, nec suscipit sem rutrum non. Suspendisse potenti. Donec justo dolor, porttitor a leo vel, congue varius ipsum. Quisque viverra congue sem, volutpat fermentum libero gravida eget. Sed ornare lacus a est pulvinar sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin rhoncus lacus vitae tempor ultricies. Suspendisse potenti. Maecenas condimentum erat ut leo interdum blandit.
 
-Nullam vel sapien dapibus, pharetra urna ut, ornare dolor. Sed aliquet leo tortor, quis condimentum ligula tempor nec. Aliquam sed purus id nunc maximus suscipit id sit amet odio. Aliquam erat volutpat. Nam iaculis commodo velit nec suscipit. Proin ut nisi eget lectus hendrerit tincidunt et in metus. Nullam mollis hendrerit ligula et condimentum. Donec non gravida urna. Aenean semper ex et leo viverra, eu posuere eros sagittis. Aliquam vitae mauris eu nunc sagittis eleifend.<sup>[9]</sup>
+Nullam vel sapien dapibus, pharetra urna ut, ornare dolor. Sed aliquet leo tortor, quis condimentum ligula tempor nec. Aliquam sed purus id nunc maximus suscipit id sit amet odio. Aliquam erat volutpat. Nam iaculis commodo velit nec suscipit. Proin ut nisi eget lectus hendrerit tincidunt et in metus. Nullam mollis hendrerit ligula et condimentum. Donec non gravida urna. Aenean semper ex et leo viverra, eu posuere eros sagittis. Aliquam vitae mauris eu nunc sagittis eleifend.[^9]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
-6. Citation6
-7. Citation7
-8. Citation8
-9. Citation9
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5
+[^6]: Citation6
+[^7]: Citation7
+[^8]: Citation8
+[^9]: Citation9
