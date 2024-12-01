@@ -346,7 +346,7 @@ Navbars
 **/
 
 .navbar-left li:hover{
-	background-color:#ddd
+	background-color:#ddda
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
@@ -456,7 +456,7 @@ Navbars
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #111111;
+  border-color: #eeeeee;
   background-color: #FFFA;
   backdrop-filter: blur(3px);
 }
@@ -767,6 +767,7 @@ Doc Page extras
 
 .navbar-header {
     background-image: url("/template-information-site/assets/banner.png");
+    //background-image: url("/assets/banner.png");
     background-color: #CCC;
     color: #999;
     border-bottom: 10px solid #FFF;
