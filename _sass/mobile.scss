@@ -279,4 +279,8 @@
     .tutorial-hide-element {
         display: none;
     }
+    
+    button, input, optgroup, select, textarea {
+	    color: transparent;
+    }
 }
