@@ -265,28 +265,29 @@
 
 	footer {
 	  background-color: #222;
+	  background-image: url("/template-information-site/assets/bottom_background.jpg");
 	}
 
 	.logofooter {
-	  color: #ccc;
+	  color: #fff;
 	}
 
 	.footerleft p {
-	  color: #ccc;
+	  color: #fff;
 	}
 
 	.footerleft p i {
-	  color: #666;
+	  color: #999;
 	}
 
 	a,
 	.footer-ul li a, .footer-description a {
-	  color: #80a8F6;
+	  color: #c9dbff;
 	}
 
     a:hover,
 	.footer-ul li a:hover, .footer-description a:hover {
-	  color: #C0D9FF;
+	  color: #ffffff;
 	}
 
 	.copyright {
@@ -375,7 +376,7 @@
     .navbar-default {
       background-color: #111;
 	  border-bottom: 5px solid #222;
-	  background-image: url("/template-information-site/assets/banner.png");
+	  background-image: url("/template-information-site/assets/banner.jpg");
     }
 
     .navbar-default .navbar-brand {
@@ -673,12 +674,12 @@
 	}
 	
 	#entrypages a {
-		color: #80a8F6;
+		color: #c9dbff;
 		text-decoration: none;
 	}
 	
 	#entrypages a:hover {
-		color: #C0D9FF;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
@@ -804,8 +805,8 @@
 	}
 	
     .navbar-header {
-        background-image: url("/template-information-site/assets/banner.png");
-        //background-image: url("/assets/banner.png");
+        background-image: url("/template-information-site/assets/banner.jpg");
+        //background-image: url("/assets/banner.jpg");
 	    background-color: #111;
 	    color: #999;
 	    border-bottom: 10px solid #111;
@@ -814,6 +815,11 @@
     .navbar-header button {
 	    background-color: #222;
 	    color: #999;
+    }
+    
+    .row.bottom-links {
+	    backdrop-filter: blur(5px);
+	    background-color: #000b;
     }
     
     @media screen and (max-width: 767px)
