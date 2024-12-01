@@ -27,6 +27,8 @@ The second part is the **path** to the file. For example, the file ``img_demo.jp
 
 > **Note:** Notice the ``/template-information-site/`` part of the path. While the website might be stored on ``https://badgernested.github.io/template-information-site/``, websites often treat the root of the website like ``https://badgernested.github.io`` instead. So, here, we must specify that it is in ``/template-information-site/``.
 
+Notice that inserting images this way only supports the image being inserted in its basic size, then being scaled to the maximum size allowed inside the content. If you want to display the image at a specific size, you will need to use the ``<img>`` HTML tag.
+
 ### Banners
 
 There are two images that are used for banners on the website:
