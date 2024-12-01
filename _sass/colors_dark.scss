@@ -456,8 +456,16 @@
       border-color: #999;
     }
 
-    .navbar-default .navbar-toggle:hover,
+    .navbar-default .navbar-toggle:hover {
+      background-color: #999a;
+    }
+
     .navbar-default .navbar-toggle:focus {
+      background-color: rgba(153, 153, 153, 0.6666666667);
+    }
+    
+    .navbar-toggle.notoggle:focus {
+      background-color: rgba(255, 255, 255, 0.6666666667);
     }
 
     .navbar-default .navbar-toggle .icon-bar {
@@ -477,10 +485,6 @@
 
     .navbar-default .navbar-link:hover {
       color: #337ab7;
-    }
-    
-    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-	    background-color: #333;
     }
     
     .navbar-default .navbar-nav > li > .dropdown-menu {
@@ -813,8 +817,7 @@
     }
     
     .navbar-header button {
-	    background-color: #222;
-	    color: #999;
+	    color: #000a;
     }
     
     .row.bottom-links {

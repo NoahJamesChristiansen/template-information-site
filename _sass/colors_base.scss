@@ -444,12 +444,16 @@ Navbars
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #999;
-  background-color: #fff;
+  border-color: #999a;
+  background-color: #fffa;
 }
 
-.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:hover {
+  background-color: #aaaa;
+}
+
 .navbar-default .navbar-toggle:focus {
+  background-color: #fffa;
 }
 
 .navbar-default .navbar-toggle .icon-bar {

@@ -113,6 +113,13 @@
             });
         });
     </script>
+    
+    <script>
+        function goToTop() {
+            $(".collapsable").collapse('hide');
+            window.location.href='#';
+        }
+    </script>
 
     <!-- User defined js -->
     <script src="{{ site.home_url }}/assets/js/user_defined_javascript.js"></script>
@@ -146,15 +153,18 @@
                     <span class="sidebarToggle fa fa-book fa-2x"></span>
                 </button>
                 
-                <button type="button" class="navbar-toggle" onclick="window.location.href='{{ site.home_url }}'" aria-label="Home">
-                    <span class="fa fa-home fa-2x"></span>
+               {% endunless %}
+                <button type="button" class="navbar-toggle notoggle" onclick="goToTop();" aria-label="Top">
+                    <span class="fa fa-arrow-up fa-2x"></span>
                 </button>
                 
-               {% endunless %}
+                <button type="button" class="navbar-toggle" onclick="window.location.href='{{ site.home_url }}'" aria-label="Home">
+                    <span class="fa fa-home fa-2x"></span>
+                </button> 
 
             </div>
 
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div aria-expanded="false" class="collapse navbar-collapse collapsable" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left">
 
                     <!-- single item nav items appear here -->
