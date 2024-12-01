@@ -44,3 +44,5 @@
 - Added the following sidebars: home
 - Added tag generation.
 - Added posts list.
+
+Original Project: https://github.com/amzn/jekyll-doc-project/tree/master 
