@@ -226,7 +226,7 @@ uistring:
     feedback_subject_line: Feedback # Auto-filled Subject of email
     feedback_body: I have some feedback for your template. # Auto-filled Body of email
     github_edit_button_text: Edit on GitHub # text for github button
-    blog: My Very Cool Blog # Name of blog displayed on the top of posts
+    blog: Political Theory Blog # Name of blog displayed on the top of posts
     datetime_format: '%Y-%m-%d' # date time format
     continue_reading: Continue Reading... # continue reading on the bottom of docs
     continue_prev: <- Previous # Previous for bottom of docs
