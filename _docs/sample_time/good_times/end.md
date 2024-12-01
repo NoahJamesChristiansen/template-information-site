@@ -35,7 +35,7 @@ Ut faucibus convallis dolor, nec vestibulum enim dignissim sit amet. Aliquam sed
 
 Aliquam vulputate ex enim, quis condimentum ipsum blandit nec. Donec ac nisi id felis tempus finibus. Suspendisse condimentum, orci nec venenatis sagittis, ante arcu faucibus lectus, nec imperdiet leo lectus ut lectus. Duis dapibus condimentum viverra. Mauris risus orci, pretium eget rhoncus a, sagittis a mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. In feugiat accumsan neque, eget mollis felis placerat eget. Aliquam nisl velit, aliquet at felis vitae, convallis facilisis lorem.
 
-Aenean semper in neque ut placerat. Cras ut aliquet elit. Fusce sodales elit vel ante rhoncus finibus. Curabitur fermentum maximus rhoncus. Praesent non finibus diam. Fusce purus augue, mollis sed cursus sed, venenatis efficitur nunc. In vel felis finibus, suscipit urna a, faucibus tellus. Quisque eros justo, vehicula in lobortis ornare, ultricies non enim.<sup>[1]</sup>
+Aenean semper in neque ut placerat. Cras ut aliquet elit. Fusce sodales elit vel ante rhoncus finibus. Curabitur fermentum maximus rhoncus. Praesent non finibus diam. Fusce purus augue, mollis sed cursus sed, venenatis efficitur nunc. In vel felis finibus, suscipit urna a, faucibus tellus. Quisque eros justo, vehicula in lobortis ornare, ultricies non enim.[^1]
 
 # Political Unrest
 
@@ -43,7 +43,7 @@ In pharetra lobortis purus sed blandit. Phasellus placerat sagittis ex non solli
 
 Phasellus malesuada ante eget purus eleifend vulputate. Aliquam erat volutpat. Vestibulum dapibus placerat orci. Vestibulum elementum luctus laoreet. Etiam justo magna, porta at tempor id, finibus eu lectus. Maecenas quis turpis nisi. Aliquam erat volutpat. Quisque sagittis molestie nunc, a mattis leo posuere eu. Ut pretium libero vel elit consectetur, ac ultrices dolor ultrices. Mauris elementum metus ut accumsan fermentum. Curabitur sagittis pellentesque magna, eget commodo ligula accumsan nec. Curabitur at iaculis leo. Pellentesque quis massa dui. Maecenas nulla nisi, tincidunt accumsan viverra eget, efficitur nec odio.
 
-Aenean dignissim condimentum eros, eget dignissim tortor consequat in. Aliquam at metus eget justo efficitur sodales nec et nibh. Cras dui tellus, hendrerit vel sollicitudin quis, pharetra a massa. Fusce non molestie diam. Sed ut magna orci. Donec semper facilisis quam ut sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<sup>[2]</sup>
+Aenean dignissim condimentum eros, eget dignissim tortor consequat in. Aliquam at metus eget justo efficitur sodales nec et nibh. Cras dui tellus, hendrerit vel sollicitudin quis, pharetra a massa. Fusce non molestie diam. Sed ut magna orci. Donec semper facilisis quam ut sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.[^2]
 
 ## Complex Problems
 
@@ -53,7 +53,7 @@ In consequat eu enim pharetra dapibus. Etiam nec euismod ex. Nullam vestibulum e
 
 Vivamus urna quam, varius a vulputate sed, mollis non mi. Curabitur quis dictum lacus. Phasellus sit amet convallis elit. Suspendisse nisl arcu, consectetur non dolor vel, viverra rhoncus tellus. Phasellus vehicula velit vel velit blandit bibendum. Pellentesque tempor vestibulum enim id tempus. Duis blandit nibh sed tortor fermentum, sit amet pharetra augue luctus.
 
-Suspendisse augue odio, congue a luctus et, vestibulum quis eros. Donec arcu justo, egestas sit amet ipsum quis, rhoncus cursus velit. Suspendisse finibus hendrerit nisi et porttitor. Proin ut lectus id nisi consequat varius. Pellentesque rutrum lacinia erat, sit amet maximus nisi luctus at. Aliquam neque tellus, rutrum at ante nec, porttitor ultrices libero. Fusce quis maximus metus, nec tincidunt eros. Etiam augue massa, mattis eu suscipit nec, sagittis id ex. Proin ut libero et nunc bibendum euismod. Nulla at tellus non elit elementum consequat. Phasellus vel magna erat. Ut nisl massa, efficitur et convallis bibendum, posuere ac arcu. Quisque interdum turpis a augue maximus vulputate.<sup>[3]</sup>
+Suspendisse augue odio, congue a luctus et, vestibulum quis eros. Donec arcu justo, egestas sit amet ipsum quis, rhoncus cursus velit. Suspendisse finibus hendrerit nisi et porttitor. Proin ut lectus id nisi consequat varius. Pellentesque rutrum lacinia erat, sit amet maximus nisi luctus at. Aliquam neque tellus, rutrum at ante nec, porttitor ultrices libero. Fusce quis maximus metus, nec tincidunt eros. Etiam augue massa, mattis eu suscipit nec, sagittis id ex. Proin ut libero et nunc bibendum euismod. Nulla at tellus non elit elementum consequat. Phasellus vel magna erat. Ut nisl massa, efficitur et convallis bibendum, posuere ac arcu. Quisque interdum turpis a augue maximus vulputate.[^3]
 
 ## Racism
 
@@ -61,7 +61,7 @@ Nam fermentum nunc nunc, id laoreet magna ornare at. Vestibulum ligula ipsum, di
 
 Phasellus vitae dignissim enim. Aenean varius turpis lacus, eget fringilla ipsum faucibus non. Nunc tincidunt imperdiet turpis, eget viverra eros sagittis eu. Nam fringilla, velit at vehicula rhoncus, sapien odio semper odio, eu eleifend dolor augue sed quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consequat neque vel nunc molestie elementum. Etiam et augue varius, porta massa ut, egestas orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed aliquet blandit nunc eget tristique. Integer rhoncus neque velit, et dictum libero feugiat a. Etiam aliquam pulvinar nisl non feugiat.
 
-Aenean dolor nulla, rhoncus luctus purus dignissim, porta fermentum ligula. Nam egestas ex ut lobortis facilisis. Sed maximus nulla ornare mi varius, eget lacinia risus dapibus. Etiam id nibh condimentum, ultrices massa eu, placerat libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dolor sapien, tempus non augue in, mollis ultrices ipsum. Nam erat lacus, eleifend nec quam eu, aliquam blandit libero. Praesent porttitor facilisis ligula, eu placerat purus convallis in. Sed rutrum rutrum bibendum.<sup>[4]</sup>
+Aenean dolor nulla, rhoncus luctus purus dignissim, porta fermentum ligula. Nam egestas ex ut lobortis facilisis. Sed maximus nulla ornare mi varius, eget lacinia risus dapibus. Etiam id nibh condimentum, ultrices massa eu, placerat libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dolor sapien, tempus non augue in, mollis ultrices ipsum. Nam erat lacus, eleifend nec quam eu, aliquam blandit libero. Praesent porttitor facilisis ligula, eu placerat purus convallis in. Sed rutrum rutrum bibendum.[^4]
 
 ## Economic Instability
 
@@ -69,12 +69,12 @@ Donec purus mauris, rutrum sed diam sit amet, varius posuere velit. Sed placerat
 
 Praesent sed tellus nec lacus aliquet malesuada. Morbi posuere eleifend turpis, nec congue turpis convallis eget. Maecenas euismod enim magna, ac cursus ante dapibus sed. Etiam metus est, commodo viverra tincidunt in, consequat sit amet felis. Vivamus mollis sapien vulputate tellus lacinia, et malesuada ante faucibus. Mauris dictum tellus enim, at aliquet turpis luctus dignissim. Vivamus non augue massa. Suspendisse augue est, imperdiet in sollicitudin at, congue sed enim. Pellentesque convallis libero pellentesque pulvinar interdum. Sed lacus magna, mollis ultricies ultrices nec, pretium at nisl. Morbi tincidunt lobortis mi, nec hendrerit enim sollicitudin ac. Etiam a scelerisque eros. Sed ex enim, placerat a consequat eget, maximus in mi.
 
-Donec id venenatis dui. Nullam et risus ex. In non pretium nulla. Maecenas vitae justo auctor, mattis sem pellentesque, viverra tellus. Nunc aliquam, dui id bibendum pulvinar, nunc velit sodales quam, non sodales ex ligula a velit. Nulla interdum urna non gravida maximus. Aliquam cursus urna elit, non tempus velit rhoncus ac. Maecenas id sodales orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam dolor odio, congue eu metus ut, consequat tincidunt ante. Nullam eu tellus nisi. Cras nec bibendum nunc, et hendrerit ligula. Nunc sed orci diam.<sup>[5]</sup>
+Donec id venenatis dui. Nullam et risus ex. In non pretium nulla. Maecenas vitae justo auctor, mattis sem pellentesque, viverra tellus. Nunc aliquam, dui id bibendum pulvinar, nunc velit sodales quam, non sodales ex ligula a velit. Nulla interdum urna non gravida maximus. Aliquam cursus urna elit, non tempus velit rhoncus ac. Maecenas id sodales orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam dolor odio, congue eu metus ut, consequat tincidunt ante. Nullam eu tellus nisi. Cras nec bibendum nunc, et hendrerit ligula. Nunc sed orci diam.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

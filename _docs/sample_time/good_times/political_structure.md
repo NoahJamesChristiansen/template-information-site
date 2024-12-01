@@ -53,7 +53,7 @@ Nam eu quam a metus elementum feugiat. Sed imperdiet turpis lectus, quis maximus
 
 ## Federated Government
 
-Vivamus ac augue efficitur metus tristique congue. Mauris eu libero elementum nibh gravida porttitor. Integer velit risus, suscipit eu urna id, sollicitudin efficitur sapien. Mauris faucibus urna eu quam vulputate pretium. Cras quis orci dui. Suspendisse vitae metus mattis, tincidunt est vel, blandit ligula. Aliquam vel arcu dictum nisl dignissim faucibus nec nec ipsum. In purus odio, viverra at egestas et, mattis id nunc. Etiam id velit a erat interdum condimentum sed ac enim. Cras urna mauris, viverra et tortor eu, pulvinar iaculis sapien. Vivamus id urna dolor. Donec ullamcorper suscipit augue, vitae accumsan enim vulputate ac. Nunc fringilla, tellus dictum ullamcorper posuere, ipsum tellus eleifend nulla, ut porta nisl nulla eu felis. Fusce laoreet mi quis magna scelerisque posuere.<sup>[1]</sup>
+Vivamus ac augue efficitur metus tristique congue. Mauris eu libero elementum nibh gravida porttitor. Integer velit risus, suscipit eu urna id, sollicitudin efficitur sapien. Mauris faucibus urna eu quam vulputate pretium. Cras quis orci dui. Suspendisse vitae metus mattis, tincidunt est vel, blandit ligula. Aliquam vel arcu dictum nisl dignissim faucibus nec nec ipsum. In purus odio, viverra at egestas et, mattis id nunc. Etiam id velit a erat interdum condimentum sed ac enim. Cras urna mauris, viverra et tortor eu, pulvinar iaculis sapien. Vivamus id urna dolor. Donec ullamcorper suscipit augue, vitae accumsan enim vulputate ac. Nunc fringilla, tellus dictum ullamcorper posuere, ipsum tellus eleifend nulla, ut porta nisl nulla eu felis. Fusce laoreet mi quis magna scelerisque posuere.[^1]
 
 ### States
 
@@ -69,7 +69,7 @@ Suspendisse nec gravida lectus. Vestibulum rutrum a ante sed tempor. Suspendisse
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam aliquet, enim ut ultrices pretium, mauris sem interdum lorem, eu fringilla lorem ipsum sit amet massa. Donec euismod magna risus, sit amet aliquet mi lobortis ac. Quisque in dignissim magna. Praesent auctor ex leo, nec fermentum mi tempor sit amet. Aliquam erat volutpat. Nam malesuada sapien eu neque lobortis, non commodo justo scelerisque. Mauris tincidunt vestibulum lacus sit amet ultrices. Vivamus id lobortis ante, id condimentum neque.
 
-Donec sagittis aliquet est, id suscipit nibh pretium sit amet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tempor placerat magna, a maximus libero feugiat sed. Vivamus iaculis, justo sed euismod tempus, massa sapien egestas mauris, vitae rhoncus urna lacus quis ipsum. Sed a velit non nibh aliquam viverra. Nunc pretium venenatis neque, non varius turpis mattis ut. Donec viverra turpis purus. Curabitur tincidunt dignissim ligula ut lacinia. Vestibulum feugiat, tellus nec cursus porttitor, felis neque finibus turpis, in aliquam sem dolor sit amet dui. Sed pellentesque neque quis orci mollis convallis.<sup>[2]</sup>
+Donec sagittis aliquet est, id suscipit nibh pretium sit amet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tempor placerat magna, a maximus libero feugiat sed. Vivamus iaculis, justo sed euismod tempus, massa sapien egestas mauris, vitae rhoncus urna lacus quis ipsum. Sed a velit non nibh aliquam viverra. Nunc pretium venenatis neque, non varius turpis mattis ut. Donec viverra turpis purus. Curabitur tincidunt dignissim ligula ut lacinia. Vestibulum feugiat, tellus nec cursus porttitor, felis neque finibus turpis, in aliquam sem dolor sit amet dui. Sed pellentesque neque quis orci mollis convallis.[^2]
 
 ## Military
 
@@ -87,13 +87,13 @@ Curabitur rhoncus ut erat vitae ultrices. Phasellus vel commodo turpis, id sempe
 
 Vivamus quis lorem nec mauris congue vehicula. Cras dolor nulla, luctus at leo vel, viverra dapibus sapien. In pellentesque velit vel mi bibendum aliquet. Donec sollicitudin lorem non convallis molestie. Donec suscipit iaculis gravida. Nulla justo velit, rhoncus at dolor sed, luctus vestibulum purus. Integer nec dapibus dui. Nam sodales finibus libero, ut faucibus diam euismod id. Fusce aliquet consectetur lobortis. Morbi consequat quam in ipsum facilisis sagittis dictum sed urna. Integer dictum egestas consequat.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed turpis magna, consectetur at laoreet sed, bibendum sit amet lorem. Mauris ante est, sollicitudin ut odio ac, elementum accumsan nulla. Aenean non purus vel turpis luctus ullamcorper. Sed blandit quam nisi, eu iaculis ipsum cursus ut. Morbi lorem eros, iaculis at dolor quis, rutrum fermentum odio. Mauris at fringilla augue. Fusce non lacus pulvinar, fringilla elit sed, posuere urna. Ut ante urna, luctus eu tempor id, accumsan eu justo. Proin eleifend ligula velit, et pellentesque sapien fringilla a. Pellentesque euismod ipsum erat, non eleifend neque commodo cursus. Phasellus ultrices maximus fringilla. In iaculis eget ante vel ultricies. Donec fermentum et dolor in vulputate. Interdum et malesuada fames ac ante ipsum primis in faucibus.<sup>[3]</sup>
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed turpis magna, consectetur at laoreet sed, bibendum sit amet lorem. Mauris ante est, sollicitudin ut odio ac, elementum accumsan nulla. Aenean non purus vel turpis luctus ullamcorper. Sed blandit quam nisi, eu iaculis ipsum cursus ut. Morbi lorem eros, iaculis at dolor quis, rutrum fermentum odio. Mauris at fringilla augue. Fusce non lacus pulvinar, fringilla elit sed, posuere urna. Ut ante urna, luctus eu tempor id, accumsan eu justo. Proin eleifend ligula velit, et pellentesque sapien fringilla a. Pellentesque euismod ipsum erat, non eleifend neque commodo cursus. Phasellus ultrices maximus fringilla. In iaculis eget ante vel ultricies. Donec fermentum et dolor in vulputate. Interdum et malesuada fames ac ante ipsum primis in faucibus.[^3]
 
 ## Rights
 
 Donec sed viverra nisi. Nullam fermentum metus scelerisque mi tincidunt scelerisque. Vestibulum et libero a mauris scelerisque ullamcorper ac ut risus. Fusce porta gravida posuere. Praesent at porttitor ipsum. Aenean in augue sed augue volutpat euismod in ac ligula. Cras urna arcu, consequat nec erat in, pretium molestie felis. Quisque facilisis libero eu est venenatis, sagittis semper neque ullamcorper. Ut non neque sit amet nunc ornare mollis. Vivamus eget ante ac orci euismod scelerisque in in libero. Duis vitae leo tristique, vestibulum libero a, scelerisque elit. Cras fermentum orci eu dapibus pretium. Etiam enim libero, dignissim vitae ultricies vel, interdum at nisl. Praesent in leo id sapien posuere porta. Nam in tincidunt odio.
 
-Integer eget egestas metus. Curabitur molestie fringilla turpis at fringilla. Proin cursus viverra felis, quis venenatis tortor placerat quis. Aenean ac posuere nulla, scelerisque scelerisque urna. Ut non ante euismod ante mollis pellentesque. Phasellus fringilla fermentum purus, mollis faucibus ipsum venenatis at. Sed at lacus velit. Sed bibendum scelerisque tempor. Maecenas volutpat vulputate auctor. Pellentesque non aliquet elit. Mauris purus felis, rhoncus non nibh sit amet, suscipit efficitur tortor. Vivamus ut turpis felis. Phasellus pharetra enim eu libero ornare, nec euismod ante luctus.<sup>[4]</sup>
+Integer eget egestas metus. Curabitur molestie fringilla turpis at fringilla. Proin cursus viverra felis, quis venenatis tortor placerat quis. Aenean ac posuere nulla, scelerisque scelerisque urna. Ut non ante euismod ante mollis pellentesque. Phasellus fringilla fermentum purus, mollis faucibus ipsum venenatis at. Sed at lacus velit. Sed bibendum scelerisque tempor. Maecenas volutpat vulputate auctor. Pellentesque non aliquet elit. Mauris purus felis, rhoncus non nibh sit amet, suscipit efficitur tortor. Vivamus ut turpis felis. Phasellus pharetra enim eu libero ornare, nec euismod ante luctus.[^4]
 
 ## Responsibilities
 
@@ -101,12 +101,12 @@ Aenean at commodo orci. Mauris lorem nunc, tempus quis neque ut, dignissim fring
 
 Nam pharetra ante tincidunt tincidunt molestie. Integer vel euismod nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla sollicitudin euismod faucibus. Proin a sollicitudin magna. Quisque pellentesque, eros sed ultricies venenatis, velit sem interdum leo, sit amet tincidunt erat diam vel ipsum. Duis faucibus justo sed justo elementum volutpat.
 
-Cras at eros id sapien venenatis semper. Quisque id ultrices lacus, at fermentum lorem. Cras ipsum nisl, tempus non tellus et, dignissim malesuada nisi. Donec dapibus augue ut purus bibendum, vitae rutrum leo euismod. Sed consequat vulputate elit, eu rutrum ex scelerisque sit amet. Nulla mollis tempor sagittis. Ut mollis libero et nisi fermentum, quis varius lacus sollicitudin. Nunc dignissim ante sollicitudin lacus euismod, ultricies euismod enim rutrum. Nam scelerisque porta lorem. Nam venenatis ut urna quis tempus. Donec molestie placerat bibendum. Ut quis sollicitudin ex. Mauris eu dui est. Vestibulum sit amet urna urna.<sup>[5]</sup>
+Cras at eros id sapien venenatis semper. Quisque id ultrices lacus, at fermentum lorem. Cras ipsum nisl, tempus non tellus et, dignissim malesuada nisi. Donec dapibus augue ut purus bibendum, vitae rutrum leo euismod. Sed consequat vulputate elit, eu rutrum ex scelerisque sit amet. Nulla mollis tempor sagittis. Ut mollis libero et nisi fermentum, quis varius lacus sollicitudin. Nunc dignissim ante sollicitudin lacus euismod, ultricies euismod enim rutrum. Nam scelerisque porta lorem. Nam venenatis ut urna quis tempus. Donec molestie placerat bibendum. Ut quis sollicitudin ex. Mauris eu dui est. Vestibulum sit amet urna urna.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

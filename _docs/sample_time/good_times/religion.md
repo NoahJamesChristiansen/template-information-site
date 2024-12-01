@@ -25,7 +25,7 @@ Pellentesque bibendum tortor varius posuere commodo. Sed placerat rutrum loborti
 
 Aenean commodo justo id tortor convallis maximus. Sed semper felis ornare metus tempus pulvinar in vel lacus. Phasellus vestibulum sit amet libero volutpat vestibulum. Sed et mi purus. Vivamus neque enim, vulputate vel neque a, bibendum rhoncus mauris. Proin eget ligula posuere, tempus nibh nec, rutrum nisi. Etiam nibh neque, molestie at scelerisque et, ultricies eget lectus. Fusce suscipit neque neque, hendrerit mollis leo tristique in. Vestibulum vitae dolor sit amet nunc tempus tempor vitae ac odio. Pellentesque egestas dignissim vestibulum. Quisque auctor nunc sed mi accumsan, nec sagittis diam faucibus.
 
-Cras interdum eget augue non placerat. Etiam pharetra diam dictum dui consequat semper. In ultrices urna tellus, mattis fermentum ipsum tempor et. Mauris accumsan mollis elit eu molestie. Nam vel est sodales, pellentesque tellus at, rhoncus nulla. Pellentesque nec dapibus turpis, et fringilla arcu. Sed varius tortor id est ultrices, sed suscipit odio condimentum.<sup>[1]</sup>
+Cras interdum eget augue non placerat. Etiam pharetra diam dictum dui consequat semper. In ultrices urna tellus, mattis fermentum ipsum tempor et. Mauris accumsan mollis elit eu molestie. Nam vel est sodales, pellentesque tellus at, rhoncus nulla. Pellentesque nec dapibus turpis, et fringilla arcu. Sed varius tortor id est ultrices, sed suscipit odio condimentum.[^1]
 
 ## Conflicts
 
@@ -33,7 +33,7 @@ Mauris velit magna, sollicitudin eu tristique eu, scelerisque eu magna. Ut ac ni
 
 Donec quis tristique nulla. Vivamus fermentum sapien sem, vel convallis enim tincidunt ut. Maecenas sagittis semper diam at tincidunt. Ut suscipit diam urna, at tristique mauris commodo nec. Quisque tempor malesuada mauris non convallis. Aenean feugiat nibh id magna gravida tincidunt. Nulla feugiat nibh nunc, sit amet pulvinar odio efficitur ac. Mauris imperdiet sed nisl a venenatis. Vestibulum tellus neque, vulputate eu risus vel, sodales venenatis sem. Ut tristique felis at nisl vestibulum pharetra. Cras ultricies vulputate elit, nec varius leo. Vestibulum ex urna, tincidunt eget mauris ut, interdum congue neque.
 
-Vestibulum gravida cursus lobortis. Etiam aliquet tortor eget pellentesque interdum. Sed condimentum ipsum vitae ante mattis feugiat. Nulla eleifend felis tellus, ac faucibus mi gravida sit amet. Aliquam nulla ligula, finibus non nunc vel, eleifend aliquam enim. Quisque dictum, ligula at ultricies volutpat, nunc ex dictum massa, sit amet euismod lectus mauris pharetra quam. Sed varius, dolor vel tincidunt ornare, ante dui aliquet ligula, a consequat ante turpis ut nulla. Vestibulum ullamcorper vitae nisi ut dignissim. Mauris euismod ipsum diam. Vivamus ultricies, lectus eu dignissim egestas, est dolor ultricies nisl, quis accumsan augue risus sed turpis. Vivamus porttitor nibh et mi congue congue. Fusce nec egestas nisl, sit amet dictum orci. Duis risus libero, tincidunt sed lorem sit amet, imperdiet placerat augue.<sup>[2]</sup>
+Vestibulum gravida cursus lobortis. Etiam aliquet tortor eget pellentesque interdum. Sed condimentum ipsum vitae ante mattis feugiat. Nulla eleifend felis tellus, ac faucibus mi gravida sit amet. Aliquam nulla ligula, finibus non nunc vel, eleifend aliquam enim. Quisque dictum, ligula at ultricies volutpat, nunc ex dictum massa, sit amet euismod lectus mauris pharetra quam. Sed varius, dolor vel tincidunt ornare, ante dui aliquet ligula, a consequat ante turpis ut nulla. Vestibulum ullamcorper vitae nisi ut dignissim. Mauris euismod ipsum diam. Vivamus ultricies, lectus eu dignissim egestas, est dolor ultricies nisl, quis accumsan augue risus sed turpis. Vivamus porttitor nibh et mi congue congue. Fusce nec egestas nisl, sit amet dictum orci. Duis risus libero, tincidunt sed lorem sit amet, imperdiet placerat augue.[^2]
 
 # Beliefs
 
@@ -41,7 +41,7 @@ Mauris leo arcu, lacinia vitae molestie a, gravida non orci. Aenean felis augue,
 
 Pellentesque nec feugiat felis. Suspendisse faucibus magna ut cursus porttitor. Quisque faucibus nulla dui, quis gravida nunc rutrum egestas. Morbi hendrerit quam sit amet ligula mattis, sed aliquet orci sodales. Donec et ipsum eget odio fringilla sodales. Vestibulum sagittis turpis id placerat imperdiet. Duis iaculis molestie justo. Aliquam rutrum tempor pharetra.
 
-Aenean sagittis dui in est interdum blandit. Curabitur mauris eros, interdum sed ex nec, lobortis condimentum ex. Nunc id quam sed leo posuere dictum. Vivamus varius rhoncus lacus eget egestas. Vestibulum lobortis, mi non porta hendrerit, elit elit ultrices enim, vel lacinia ex lectus sed tortor. Donec orci orci, sodales id condimentum ut, pretium eleifend urna. Proin condimentum placerat libero ac dapibus. Vestibulum vehicula diam nibh, in volutpat dolor rhoncus et. Phasellus ut ipsum libero. Nam sem justo, pharetra aliquam tincidunt non, congue id neque. Nam at tellus nulla. Proin ultricies sit amet magna nec maximus. Duis non mi metus. Praesent pharetra dui eget mauris molestie gravida.<sup>[3]</sup>
+Aenean sagittis dui in est interdum blandit. Curabitur mauris eros, interdum sed ex nec, lobortis condimentum ex. Nunc id quam sed leo posuere dictum. Vivamus varius rhoncus lacus eget egestas. Vestibulum lobortis, mi non porta hendrerit, elit elit ultrices enim, vel lacinia ex lectus sed tortor. Donec orci orci, sodales id condimentum ut, pretium eleifend urna. Proin condimentum placerat libero ac dapibus. Vestibulum vehicula diam nibh, in volutpat dolor rhoncus et. Phasellus ut ipsum libero. Nam sem justo, pharetra aliquam tincidunt non, congue id neque. Nam at tellus nulla. Proin ultricies sit amet magna nec maximus. Duis non mi metus. Praesent pharetra dui eget mauris molestie gravida.[^3]
 
 ## Basics
 
@@ -49,7 +49,7 @@ Vivamus consectetur, neque id blandit posuere, est ex euismod dui, id dignissim 
 
 Donec quis efficitur metus, vel eleifend erat. Quisque ac ante placerat, egestas risus et, dignissim felis. In dictum lacus tincidunt, porttitor velit faucibus, interdum ante. Morbi congue erat magna, quis pharetra turpis consectetur id. Sed elementum erat nec magna pellentesque facilisis. Vivamus eu vehicula orci. Quisque laoreet justo in felis malesuada porttitor. Sed euismod sagittis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque urna, placerat sed sodales et, malesuada vel mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer bibendum mollis neque eget fermentum. Integer id leo commodo, maximus mauris non, porttitor leo. Fusce ultricies cursus enim, in ultrices lorem faucibus sed.
 
-In lorem orci, mollis non dui dignissim, volutpat porttitor magna. Sed finibus posuere orci, ut pretium mauris aliquam nec. Morbi mauris augue, rhoncus sit amet pharetra in, pharetra a magna. Phasellus blandit tincidunt tristique. Praesent lorem turpis, congue sit amet diam non, egestas pharetra purus. Morbi blandit dolor et ante rhoncus auctor. Cras sodales laoreet est nec posuere. Aenean vitae dictum augue, cursus ullamcorper mauris. Cras a ex metus.<sup>[4]</sup>
+In lorem orci, mollis non dui dignissim, volutpat porttitor magna. Sed finibus posuere orci, ut pretium mauris aliquam nec. Morbi mauris augue, rhoncus sit amet pharetra in, pharetra a magna. Phasellus blandit tincidunt tristique. Praesent lorem turpis, congue sit amet diam non, egestas pharetra purus. Morbi blandit dolor et ante rhoncus auctor. Cras sodales laoreet est nec posuere. Aenean vitae dictum augue, cursus ullamcorper mauris. Cras a ex metus.[^4]
 
 ## Rituals
 
@@ -65,12 +65,12 @@ Vestibulum ac metus tempus, maximus augue sit amet, ultrices nulla. Nullam susci
 
 Sed varius dignissim metus eleifend tristique. Integer ac maximus augue. Suspendisse potenti. Vestibulum venenatis mi quis neque porta, scelerisque consequat ligula imperdiet. Vivamus sollicitudin risus at sagittis porttitor. Proin nec sapien arcu. Etiam condimentum neque ante, a maximus nulla luctus a. Duis at egestas massa. Nulla vestibulum libero mi, vel ullamcorper quam ornare vitae. Cras eu gravida nisi. Aliquam metus quam, fermentum at finibus et, aliquet eget ex. Donec placerat porta fermentum. Aliquam feugiat molestie purus, et commodo sem aliquam sit amet. Nam vulputate tempus turpis quis blandit.
 
-Suspendisse potenti. Fusce rutrum sit amet leo sed cursus. Suspendisse potenti. Praesent ac laoreet ex. Nunc venenatis vestibulum mattis. Duis scelerisque lectus in mollis ornare. Etiam euismod semper auctor.<sup>[5]</sup>
+Suspendisse potenti. Fusce rutrum sit amet leo sed cursus. Suspendisse potenti. Praesent ac laoreet ex. Nunc venenatis vestibulum mattis. Duis scelerisque lectus in mollis ornare. Etiam euismod semper auctor.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

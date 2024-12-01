@@ -57,7 +57,7 @@ Vestibulum non tellus pharetra, rhoncus nulla dapibus, luctus est. Integer vesti
 
 Nunc lectus tellus, suscipit sed ipsum nec, dapibus lobortis turpis. Quisque vehicula efficitur sollicitudin. Integer id urna sagittis, euismod enim elementum, facilisis tortor. Vivamus cursus tellus nec finibus tempor. Mauris elementum augue eu dui pretium posuere sollicitudin sed quam. Suspendisse in dui nibh. Nulla facilisi. Phasellus vel purus sagittis, dictum ex vitae, imperdiet turpis. Integer rhoncus lobortis arcu, nec pellentesque magna dictum sed. Proin a tempus quam. Morbi ornare lacinia sapien eu laoreet.
 
-Duis congue, risus eget facilisis pellentesque, est sapien ultricies lectus, eget bibendum eros mi ut tellus. Phasellus feugiat sapien et dui auctor pharetra. Suspendisse potenti. Vivamus pellentesque tortor et tincidunt pulvinar. Phasellus sit amet congue massa. Pellentesque volutpat interdum sapien eget suscipit. Morbi consequat dapibus auctor. Suspendisse potenti. Maecenas ipsum ante, pellentesque in semper vitae, scelerisque eget tellus. Maecenas mattis hendrerit eros, eget feugiat odio. Suspendisse odio quam, elementum ac tellus sed, sagittis malesuada ipsum. Nulla sem elit, mollis eget varius ut, molestie tempor neque. Quisque pellentesque elit eu metus mollis, non finibus erat molestie. Sed quis neque massa.<sup>[1]</sup>
+Duis congue, risus eget facilisis pellentesque, est sapien ultricies lectus, eget bibendum eros mi ut tellus. Phasellus feugiat sapien et dui auctor pharetra. Suspendisse potenti. Vivamus pellentesque tortor et tincidunt pulvinar. Phasellus sit amet congue massa. Pellentesque volutpat interdum sapien eget suscipit. Morbi consequat dapibus auctor. Suspendisse potenti. Maecenas ipsum ante, pellentesque in semper vitae, scelerisque eget tellus. Maecenas mattis hendrerit eros, eget feugiat odio. Suspendisse odio quam, elementum ac tellus sed, sagittis malesuada ipsum. Nulla sem elit, mollis eget varius ut, molestie tempor neque. Quisque pellentesque elit eu metus mollis, non finibus erat molestie. Sed quis neque massa.[^1]
 
 #### Secondaries
 
@@ -81,7 +81,7 @@ Nulla metus est, sagittis et lorem ac, placerat varius lorem. Suspendisse justo 
 
  Vivamus sit amet interdum lorem. Proin lacinia quis lacus eu tincidunt. Praesent orci elit, viverra vel nulla at, iaculis laoreet velit. Etiam euismod sem nec purus porttitor iaculis. Curabitur malesuada nibh vitae turpis aliquet, a tempor mi ultricies. Donec tincidunt metus in augue mattis, ut faucibus risus elementum. Sed at purus purus. Sed ullamcorper, ipsum eleifend dictum consequat, nunc leo elementum arcu, ut vestibulum risus enim sollicitudin orci. Phasellus id leo in lorem pretium sollicitudin pellentesque ut quam. Aliquam nec ante consequat, fermentum elit at, volutpat elit. Sed condimentum vitae enim quis elementum. Praesent quis felis eros. Mauris viverra non est tincidunt ultrices.
 
-Sed efficitur mi placerat, varius velit a, pulvinar tortor. Donec condimentum arcu et posuere sollicitudin. Nulla commodo urna turpis. Vivamus ullamcorper, est sed iaculis pharetra, libero risus accumsan orci, at tincidunt diam justo consequat nisl. Fusce id nulla non felis suscipit mattis. Suspendisse fringilla nisl nec diam accumsan pharetra. Suspendisse ullamcorper gravida dui, id gravida libero facilisis at. Integer rhoncus aliquam pharetra.<sup>[2]</sup>
+Sed efficitur mi placerat, varius velit a, pulvinar tortor. Donec condimentum arcu et posuere sollicitudin. Nulla commodo urna turpis. Vivamus ullamcorper, est sed iaculis pharetra, libero risus accumsan orci, at tincidunt diam justo consequat nisl. Fusce id nulla non felis suscipit mattis. Suspendisse fringilla nisl nec diam accumsan pharetra. Suspendisse ullamcorper gravida dui, id gravida libero facilisis at. Integer rhoncus aliquam pharetra.[^2]
 
 #### Joints
 
@@ -95,7 +95,7 @@ Sed orci purus, viverra nec nulla eu, rhoncus scelerisque lorem. Donec enim est,
 
 Donec aliquet accumsan rhoncus. Proin quis ipsum libero. Ut mattis viverra elit at vulputate. Mauris at ante eu felis hendrerit pellentesque. Phasellus eu consequat nisi. Curabitur maximus tincidunt molestie. Sed blandit, tortor ac tincidunt sodales, justo justo finibus lorem, et semper nisl erat at enim. Nulla eu quam a risus scelerisque faucibus vitae in velit. Morbi vel mauris at est vestibulum ultrices at et justo. Praesent semper est ligula, vitae cursus velit accumsan non. Nulla justo felis, consequat id orci sit amet, dictum consectetur justo. Aliquam erat volutpat. Donec at ante arcu.
 
-Nulla facilisi. Curabitur pulvinar, massa ac finibus blandit, erat augue venenatis magna, pharetra pretium metus diam id libero. Vestibulum in laoreet mi, vel semper lorem. Nam erat ex, suscipit et nulla ac, accumsan pellentesque risus. Donec eget orci nec mi gravida rutrum. Vestibulum suscipit suscipit tristique. Curabitur auctor sit amet nisi ut bibendum. Fusce arcu justo, eleifend id mi sit amet, luctus consectetur quam. Aliquam fermentum vel dui vitae convallis. Suspendisse potenti.<sup>[3]</sup>
+Nulla facilisi. Curabitur pulvinar, massa ac finibus blandit, erat augue venenatis magna, pharetra pretium metus diam id libero. Vestibulum in laoreet mi, vel semper lorem. Nam erat ex, suscipit et nulla ac, accumsan pellentesque risus. Donec eget orci nec mi gravida rutrum. Vestibulum suscipit suscipit tristique. Curabitur auctor sit amet nisi ut bibendum. Fusce arcu justo, eleifend id mi sit amet, luctus consectetur quam. Aliquam fermentum vel dui vitae convallis. Suspendisse potenti.[^3]
 
 ## Behavior
 
@@ -111,7 +111,7 @@ Fusce auctor fringilla lobortis. Duis vel venenatis orci, non congue tellus. Mau
 
 Praesent eu viverra massa. Sed nec sodales ipsum, quis tempus dui. Praesent sed turpis dignissim, egestas neque at, hendrerit velit. Integer pretium fermentum dui, in eleifend lorem scelerisque egestas. Mauris justo enim, faucibus quis vehicula ut, aliquam eu purus. Sed quis justo nulla. Quisque bibendum dui ut nisl varius semper.
 
-Maecenas ornare ultricies nisi, et porttitor sapien porttitor sit amet. Nullam eget ligula tempor, pharetra est eu, congue nisl. Nulla blandit auctor pharetra. Cras dapibus, odio id lacinia interdum, libero augue molestie nisi, sed faucibus erat justo vitae ante. Donec at tortor quis velit iaculis lacinia sed vulputate augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur ac erat ut lorem luctus eleifend. Nullam quis sapien vel neque feugiat suscipit id id nibh. Aenean vitae mattis tortor. Curabitur tempor ut dolor ut dignissim. Sed convallis neque vitae nibh laoreet, ac malesuada dui commodo. Praesent convallis urna sit amet mi cursus tincidunt et ut nisl. Nunc bibendum sapien enim, et dictum arcu aliquam eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<sup>[4]</sup>
+Maecenas ornare ultricies nisi, et porttitor sapien porttitor sit amet. Nullam eget ligula tempor, pharetra est eu, congue nisl. Nulla blandit auctor pharetra. Cras dapibus, odio id lacinia interdum, libero augue molestie nisi, sed faucibus erat justo vitae ante. Donec at tortor quis velit iaculis lacinia sed vulputate augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur ac erat ut lorem luctus eleifend. Nullam quis sapien vel neque feugiat suscipit id id nibh. Aenean vitae mattis tortor. Curabitur tempor ut dolor ut dignissim. Sed convallis neque vitae nibh laoreet, ac malesuada dui commodo. Praesent convallis urna sit amet mi cursus tincidunt et ut nisl. Nunc bibendum sapien enim, et dictum arcu aliquam eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.[^4]
 
 ### Flying
 
@@ -131,7 +131,7 @@ Nam eu pulvinar eros, id aliquet leo. Morbi rutrum elementum congue. Vestibulum 
 
 Ut augue justo, pellentesque lobortis quam vel, dictum cursus urna. Nulla congue, est at venenatis iaculis, velit est varius quam, sit amet iaculis ante ex eu massa. Morbi finibus lobortis sagittis. Donec mollis felis massa, eget convallis odio aliquam ut. Integer quis hendrerit turpis. Donec arcu lectus, convallis eget arcu eget, hendrerit tristique dui. Donec scelerisque sed arcu a pellentesque. Integer congue lobortis nunc, sit amet imperdiet ante fermentum nec. Integer pharetra accumsan lectus, quis interdum eros efficitur eget. Fusce ante neque, suscipit sed varius at, sollicitudin eu augue. Aenean finibus porta justo, id venenatis ipsum ultricies a. Vivamus ac congue libero.
 
-Cras viverra efficitur nisl quis tempus. Donec eu porta ex, at consequat risus. Vestibulum condimentum erat in elit feugiat, sit amet ornare velit dignissim. Donec non tortor a metus posuere posuere gravida sit amet quam. Aliquam erat volutpat. Cras convallis lorem id scelerisque tincidunt. Quisque malesuada, augue eu auctor ornare, turpis justo luctus mi, ut facilisis augue diam at turpis. Cras lacinia tincidunt ornare. Aenean euismod, libero sit amet rutrum viverra, purus leo faucibus nibh, nec pulvinar mi ligula eget nunc. Fusce nec sodales lorem. Pellentesque pellentesque a orci vitae pharetra. Curabitur maximus arcu ac est dictum, accumsan lobortis urna aliquam. Maecenas lacinia nisi tortor, consequat pharetra lectus scelerisque vitae. Suspendisse aliquet malesuada pellentesque.<sup>[5]</sup>
+Cras viverra efficitur nisl quis tempus. Donec eu porta ex, at consequat risus. Vestibulum condimentum erat in elit feugiat, sit amet ornare velit dignissim. Donec non tortor a metus posuere posuere gravida sit amet quam. Aliquam erat volutpat. Cras convallis lorem id scelerisque tincidunt. Quisque malesuada, augue eu auctor ornare, turpis justo luctus mi, ut facilisis augue diam at turpis. Cras lacinia tincidunt ornare. Aenean euismod, libero sit amet rutrum viverra, purus leo faucibus nibh, nec pulvinar mi ligula eget nunc. Fusce nec sodales lorem. Pellentesque pellentesque a orci vitae pharetra. Curabitur maximus arcu ac est dictum, accumsan lobortis urna aliquam. Maecenas lacinia nisi tortor, consequat pharetra lectus scelerisque vitae. Suspendisse aliquet malesuada pellentesque.[^5]
 
 ### Signaling
 
@@ -141,9 +141,9 @@ Donec tincidunt tellus a nulla rutrum finibus eu sed erat. Nullam ut metus lacus
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5
 

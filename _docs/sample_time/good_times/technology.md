@@ -36,7 +36,7 @@ Integer ut neque purus. Nunc vel fringilla augue. Fusce sagittis condimentum fel
 
 Pellentesque aliquet risus et mi accumsan viverra. Vestibulum sed purus luctus, pretium enim ultricies, finibus leo. Aenean non enim at leo rutrum sollicitudin. Cras finibus efficitur arcu. In hac habitasse platea dictumst. Sed a sodales purus, et condimentum metus. Nulla ligula mauris, ultrices non tempus feugiat, iaculis quis justo. Maecenas auctor augue ex. Sed venenatis cursus velit, in sodales tellus varius a. Pellentesque at sodales tellus. Mauris volutpat efficitur rhoncus. Fusce a est at leo scelerisque vehicula. Donec sed enim faucibus dui imperdiet tempus non in lectus.
 
-Nam congue, velit a tristique varius, velit felis viverra dui, faucibus vestibulum sem dui quis ante. Aliquam pellentesque rutrum risus eu rutrum. Nulla facilisi. Nullam a venenatis risus. Donec venenatis dictum nisi, vitae aliquam arcu dignissim eu. Cras dictum, ante quis dapibus placerat, felis lacus gravida neque, eu tincidunt dolor mauris eu velit. Morbi suscipit dui ut risus mattis, malesuada venenatis turpis rhoncus. Maecenas libero libero, convallis et malesuada volutpat, pulvinar a nisl. Curabitur tristique ligula et molestie scelerisque. Nunc et augue enim. Nunc tempor eros risus, vitae tincidunt felis consectetur ut. Cras tellus ante, auctor gravida pellentesque nec, dictum nec mauris. Donec condimentum imperdiet sagittis. Pellentesque tristique vitae turpis eu luctus. Morbi nisl nulla, faucibus et quam id, condimentum facilisis mi. Morbi at fringilla turpis.<sup>[1]</sup>
+Nam congue, velit a tristique varius, velit felis viverra dui, faucibus vestibulum sem dui quis ante. Aliquam pellentesque rutrum risus eu rutrum. Nulla facilisi. Nullam a venenatis risus. Donec venenatis dictum nisi, vitae aliquam arcu dignissim eu. Cras dictum, ante quis dapibus placerat, felis lacus gravida neque, eu tincidunt dolor mauris eu velit. Morbi suscipit dui ut risus mattis, malesuada venenatis turpis rhoncus. Maecenas libero libero, convallis et malesuada volutpat, pulvinar a nisl. Curabitur tristique ligula et molestie scelerisque. Nunc et augue enim. Nunc tempor eros risus, vitae tincidunt felis consectetur ut. Cras tellus ante, auctor gravida pellentesque nec, dictum nec mauris. Donec condimentum imperdiet sagittis. Pellentesque tristique vitae turpis eu luctus. Morbi nisl nulla, faucibus et quam id, condimentum facilisis mi. Morbi at fringilla turpis.[^1]
 
 ## Rockets
 
@@ -52,7 +52,7 @@ Maecenas finibus arcu vitae ipsum sollicitudin ultrices. Donec finibus lacinia e
 
 Pellentesque facilisis massa vel augue maximus, nec iaculis enim aliquet. Donec arcu eros, faucibus non faucibus tempus, porttitor in tortor. Fusce ac tempus elit, non sagittis dolor. Nulla varius mi sed ipsum pharetra convallis. Vivamus vitae interdum mauris. Sed ut euismod arcu. Donec non rhoncus odio. Vivamus quis scelerisque urna. Donec sollicitudin massa sed interdum posuere.
 
-Sed molestie odio dictum, ullamcorper nisi sed, rutrum elit. Vivamus varius tellus eu lacus tincidunt efficitur. In quis fermentum libero. Proin dapibus nisl vel libero auctor accumsan. Ut ut ipsum et lectus mattis gravida id ac lorem. Nunc pharetra neque quis accumsan ornare. Donec semper sem id lorem rutrum, vel convallis neque pulvinar. Phasellus at massa mauris. Pellentesque sit amet lacus odio. Nulla convallis placerat dolor et commodo.<sup>[2]</sup>
+Sed molestie odio dictum, ullamcorper nisi sed, rutrum elit. Vivamus varius tellus eu lacus tincidunt efficitur. In quis fermentum libero. Proin dapibus nisl vel libero auctor accumsan. Ut ut ipsum et lectus mattis gravida id ac lorem. Nunc pharetra neque quis accumsan ornare. Donec semper sem id lorem rutrum, vel convallis neque pulvinar. Phasellus at massa mauris. Pellentesque sit amet lacus odio. Nulla convallis placerat dolor et commodo.[^2]
 
 # Technology and People
 
@@ -60,7 +60,7 @@ Praesent elit nisi, sagittis eget lacus sed, vestibulum maximus dui. Nulla dapib
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris congue luctus neque et posuere. Curabitur id maximus leo, sed viverra lorem. Suspendisse ultricies, orci vel facilisis commodo, quam turpis elementum ligula, non laoreet nunc enim sit amet metus. Proin sit amet lacus in quam aliquet facilisis. Praesent rutrum pretium varius. Phasellus eget neque ornare, dictum dolor tempor, bibendum nisi. Sed feugiat mauris risus, vitae rutrum mi placerat sed. Nunc vel mi in massa blandit luctus. Nulla facilisis nisl vitae convallis dignissim. Ut eget dolor convallis, commodo ligula sit amet, malesuada ipsum. Cras nibh metus, sodales a venenatis et, hendrerit non arcu. Morbi felis eros, porta sit amet turpis quis, rutrum ullamcorper leo. Curabitur aliquet magna id blandit lobortis.
 
-Proin id ipsum eget est ornare molestie. Duis lacinia ornare molestie. Nam tincidunt velit at nisl dictum eleifend vitae non purus. Aenean vulputate nisl vitae sem sagittis, vitae finibus nunc molestie. Curabitur augue ex, sollicitudin vitae egestas in, maximus vel felis. Sed tempor vestibulum massa, sed rutrum enim mattis non. Donec maximus mi quis mauris viverra commodo. Nunc elit lectus, ultrices a finibus et, consectetur sit amet ipsum. Morbi mollis, ipsum id vestibulum euismod, justo risus scelerisque ipsum, et dictum tellus velit sed nisi. Integer malesuada sapien in dolor vestibulum tincidunt. Maecenas at lacus sed ex ornare eleifend sit amet et est. Duis non massa dictum, tempor urna id, fringilla purus. Donec vel mauris id lacus volutpat laoreet.<sup>[3]</sup>
+Proin id ipsum eget est ornare molestie. Duis lacinia ornare molestie. Nam tincidunt velit at nisl dictum eleifend vitae non purus. Aenean vulputate nisl vitae sem sagittis, vitae finibus nunc molestie. Curabitur augue ex, sollicitudin vitae egestas in, maximus vel felis. Sed tempor vestibulum massa, sed rutrum enim mattis non. Donec maximus mi quis mauris viverra commodo. Nunc elit lectus, ultrices a finibus et, consectetur sit amet ipsum. Morbi mollis, ipsum id vestibulum euismod, justo risus scelerisque ipsum, et dictum tellus velit sed nisi. Integer malesuada sapien in dolor vestibulum tincidunt. Maecenas at lacus sed ex ornare eleifend sit amet et est. Duis non massa dictum, tempor urna id, fringilla purus. Donec vel mauris id lacus volutpat laoreet.[^3]
 
 ## Changes to Work and Society
 
@@ -74,7 +74,7 @@ Pellentesque vulputate nibh eros, quis varius erat fringilla a. Praesent sem sem
 
 Phasellus rhoncus, dui non commodo faucibus, ante neque ultrices nibh, sit amet euismod urna nisl ac quam. Nulla gravida tempor arcu, nec accumsan mauris interdum ac. Pellentesque tempus in dui a vehicula. Nullam auctor, urna tempus bibendum consectetur, eros mi vestibulum diam, et dictum lorem erat eget ligula. Duis non urna eget turpis ultrices pretium. Morbi odio libero, cursus nec ornare et, ultrices scelerisque justo. Vivamus iaculis at ligula nec commodo. Duis porttitor aliquam turpis, ut malesuada metus pharetra non. Integer cursus, libero ut porttitor placerat, elit nulla iaculis libero, vitae lobortis ante sem eu dolor. Proin eleifend arcu ut nisi posuere hendrerit. Phasellus sit amet tellus imperdiet, sollicitudin ex eget, dictum tellus.
 
-Morbi vestibulum ullamcorper dolor a tempor. Aliquam cursus et tortor vel blandit. Pellentesque ante dui, tincidunt id sapien in, imperdiet sollicitudin neque. Sed tincidunt orci eget eros mattis, nec efficitur velit lobortis. Pellentesque elementum erat dolor, eu malesuada urna rhoncus eget. Nulla facilisi. Pellentesque et mattis ligula, sed suscipit ante. Aenean nibh augue, vulputate id imperdiet quis, fringilla in est. Pellentesque vitae nulla enim. Cras a bibendum elit. Donec vel mi facilisis est bibendum consequat at ac turpis.<sup>[4]</sup>
+Morbi vestibulum ullamcorper dolor a tempor. Aliquam cursus et tortor vel blandit. Pellentesque ante dui, tincidunt id sapien in, imperdiet sollicitudin neque. Sed tincidunt orci eget eros mattis, nec efficitur velit lobortis. Pellentesque elementum erat dolor, eu malesuada urna rhoncus eget. Nulla facilisi. Pellentesque et mattis ligula, sed suscipit ante. Aenean nibh augue, vulputate id imperdiet quis, fringilla in est. Pellentesque vitae nulla enim. Cras a bibendum elit. Donec vel mi facilisis est bibendum consequat at ac turpis.[^4]
 
 ## Technology and the Arts
 
@@ -82,12 +82,12 @@ Donec urna nulla, suscipit eget justo et, posuere accumsan nisi. Donec et viverr
 
 Aenean eget turpis lacus. Curabitur libero quam, aliquet vel erat at, mollis interdum elit. Etiam sit amet mattis arcu, in maximus eros. Donec felis elit, hendrerit at commodo at, rutrum porta magna. Nunc vel vestibulum lectus, sed elementum orci. Vivamus porttitor, turpis vitae interdum consectetur, tortor nulla tincidunt neque, ac iaculis lacus neque eget dui. Mauris porta ex ex, at feugiat massa posuere eu.
 
-Nullam mauris quam, ornare ac est aliquam, maximus ultrices lacus. Suspendisse volutpat placerat magna, id dictum orci lacinia quis. Etiam suscipit ultrices metus ut auctor. Quisque quis laoreet ex. Fusce purus eros, porta a nunc malesuada, condimentum mattis eros. Nulla finibus suscipit quam, at blandit est sagittis nec. Donec semper ligula libero, facilisis aliquet risus pretium vitae.<sup>[5]</sup>
+Nullam mauris quam, ornare ac est aliquam, maximus ultrices lacus. Suspendisse volutpat placerat magna, id dictum orci lacinia quis. Etiam suscipit ultrices metus ut auctor. Quisque quis laoreet ex. Fusce purus eros, porta a nunc malesuada, condimentum mattis eros. Nulla finibus suscipit quam, at blandit est sagittis nec. Donec semper ligula libero, facilisis aliquet risus pretium vitae.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

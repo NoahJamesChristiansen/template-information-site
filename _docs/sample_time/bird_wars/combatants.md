@@ -41,7 +41,7 @@ Phasellus in sollicitudin felis. Etiam ut velit urna. Curabitur laoreet tellus i
 
 Aliquam sollicitudin condimentum varius. Nunc bibendum nunc non placerat dictum. Maecenas quis felis sed eros venenatis ultricies ut ut lacus. Nullam auctor erat sed commodo pretium. Pellentesque sed posuere lacus, at tempus tortor. Duis lectus odio, rutrum quis magna in, mollis congue massa. Mauris dignissim pulvinar quam, id tempus mauris blandit sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Nunc pretium cursus ligula, in porttitor massa lacinia eget.
 
-Nam in turpis ac metus aliquet sagittis ut eu felis. Sed auctor ornare viverra. Suspendisse ac nisl sagittis ipsum mollis fermentum imperdiet ac enim. Integer nec condimentum felis. Etiam efficitur odio enim, nec tempor nunc elementum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus interdum est ut mi posuere consectetur. Nam euismod fringilla arcu, ut condimentum felis tempor id. Sed vulputate lacus eget massa porttitor vestibulum. Mauris laoreet, justo lacinia lacinia blandit, augue nisi condimentum orci, id lacinia eros odio ac libero. In dictum, ante vitae aliquet suscipit, sapien nisi vestibulum odio, eu suscipit ex mauris a dolor. Fusce condimentum pretium lacus, non fringilla lectus luctus in. Nulla dictum nisl molestie pulvinar placerat.<sup>[1]</sup>
+Nam in turpis ac metus aliquet sagittis ut eu felis. Sed auctor ornare viverra. Suspendisse ac nisl sagittis ipsum mollis fermentum imperdiet ac enim. Integer nec condimentum felis. Etiam efficitur odio enim, nec tempor nunc elementum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus interdum est ut mi posuere consectetur. Nam euismod fringilla arcu, ut condimentum felis tempor id. Sed vulputate lacus eget massa porttitor vestibulum. Mauris laoreet, justo lacinia lacinia blandit, augue nisi condimentum orci, id lacinia eros odio ac libero. In dictum, ante vitae aliquet suscipit, sapien nisi vestibulum odio, eu suscipit ex mauris a dolor. Fusce condimentum pretium lacus, non fringilla lectus luctus in. Nulla dictum nisl molestie pulvinar placerat.[^1]
 
 ### Pollockia
 
@@ -55,11 +55,11 @@ Mauris pretium laoreet posuere. Suspendisse potenti. Donec id enim urna. Suspend
 
 Aliquam quis est ac erat sodales fringilla. Ut lobortis gravida velit, eget rutrum diam viverra quis. Nulla dapibus dolor a posuere porta. Nulla sem urna, tincidunt ut elementum ut, porttitor sed libero. Phasellus et luctus ipsum. Nulla ac arcu ut purus tristique vestibulum a ac enim. Nullam tempor tortor enim, at rutrum mi laoreet non. Maecenas sed est ac dui dapibus dignissim a in leo.
 
-Morbi vitae sodales est. Duis pretium ipsum nec faucibus finibus. Nulla iaculis condimentum facilisis. Quisque faucibus ante eget elit congue varius. Quisque eget gravida velit. Suspendisse potenti. Nam finibus, leo vel rutrum ultricies, dolor ex sodales diam, eget accumsan lacus ligula et nibh. Ut urna justo, placerat vulputate erat sit amet, lobortis consequat erat. Quisque elementum mauris sed risus viverra blandit. Pellentesque imperdiet bibendum sem eu ultricies. Curabitur vestibulum facilisis accumsan. Ut laoreet, odio quis congue mollis, erat augue facilisis nunc, quis venenatis est sapien sit amet mauris.<sup>[2]</sup>
+Morbi vitae sodales est. Duis pretium ipsum nec faucibus finibus. Nulla iaculis condimentum facilisis. Quisque faucibus ante eget elit congue varius. Quisque eget gravida velit. Suspendisse potenti. Nam finibus, leo vel rutrum ultricies, dolor ex sodales diam, eget accumsan lacus ligula et nibh. Ut urna justo, placerat vulputate erat sit amet, lobortis consequat erat. Quisque elementum mauris sed risus viverra blandit. Pellentesque imperdiet bibendum sem eu ultricies. Curabitur vestibulum facilisis accumsan. Ut laoreet, odio quis congue mollis, erat augue facilisis nunc, quis venenatis est sapien sit amet mauris.[^2]
 
 ## Neutral
 
-Quisque mattis dictum ante, in rhoncus elit aliquet ac. Aliquam feugiat tristique justo, in aliquam massa imperdiet eget. Cras ullamcorper neque a posuere ornare. Donec fermentum, felis quis rutrum lobortis, justo mi vestibulum massa, at gravida est elit eget augue. Fusce vitae condimentum diam. Vestibulum sed est convallis, accumsan neque at, tincidunt diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dignissim erat malesuada enim accumsan, vel eleifend ipsum egestas. Sed ut dui nec augue facilisis rhoncus. Morbi faucibus elit at ligula dignissim, in convallis eros gravida.<sup>[3]</sup>
+Quisque mattis dictum ante, in rhoncus elit aliquet ac. Aliquam feugiat tristique justo, in aliquam massa imperdiet eget. Cras ullamcorper neque a posuere ornare. Donec fermentum, felis quis rutrum lobortis, justo mi vestibulum massa, at gravida est elit eget augue. Fusce vitae condimentum diam. Vestibulum sed est convallis, accumsan neque at, tincidunt diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dignissim erat malesuada enim accumsan, vel eleifend ipsum egestas. Sed ut dui nec augue facilisis rhoncus. Morbi faucibus elit at ligula dignissim, in convallis eros gravida.[^3]
 
 ### The United States of America
 
@@ -69,16 +69,16 @@ Ut nunc felis, blandit ut neque in, ullamcorper ultrices tortor. Suspendisse vel
 
 Nunc dictum auctor nisi, sit amet hendrerit magna rutrum quis. Sed eget nunc id libero convallis euismod sed vitae libero. Phasellus sed enim nisi. Ut orci risus, congue eget scelerisque eget, pharetra sed nunc. Maecenas scelerisque sed velit quis ultricies. Suspendisse tempor aliquam nunc, et luctus dolor varius at. Donec finibus, dolor et vestibulum feugiat, erat est vehicula sem, in rhoncus metus ante eget orci. Aliquam in arcu sed nunc gravida vulputate sed quis ligula.
 
-Mauris ut sagittis risus, sit amet bibendum orci. Suspendisse lacinia eros justo, nec dapibus arcu tristique ut. Nam non ultrices erat, sed congue lectus. Nullam rutrum ut nunc sed scelerisque. In tristique nibh in tincidunt tempus. Quisque vitae laoreet dolor. In nec tristique nibh. Vestibulum gravida vehicula euismod. Nullam sed justo id nunc congue dapibus. Nam placerat hendrerit sem mollis accumsan. Sed convallis volutpat sapien et consequat.<sup>[4]</sup>
+Mauris ut sagittis risus, sit amet bibendum orci. Suspendisse lacinia eros justo, nec dapibus arcu tristique ut. Nam non ultrices erat, sed congue lectus. Nullam rutrum ut nunc sed scelerisque. In tristique nibh in tincidunt tempus. Quisque vitae laoreet dolor. In nec tristique nibh. Vestibulum gravida vehicula euismod. Nullam sed justo id nunc congue dapibus. Nam placerat hendrerit sem mollis accumsan. Sed convallis volutpat sapien et consequat.[^4]
 
 ### Japan
 
-Phasellus vehicula quam at nunc congue suscipit. Nunc consectetur malesuada ipsum a imperdiet. Donec consectetur elementum fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tortor nisl, vestibulum a eros non, cursus tristique elit. Ut at augue at nulla congue tincidunt sit amet sed ligula. Aenean tempus est id nibh bibendum, pellentesque convallis ex tristique. Aenean sit amet lacus ultrices, suscipit odio sed, pretium metus. Donec tincidunt est nec nulla placerat maximus. Curabitur hendrerit nulla eget erat mattis, sit amet gravida lectus tristique. Maecenas consequat aliquam nibh, a suscipit enim dignissim vel. Sed vulputate justo nec lectus viverra mollis.<sup>[5]</sup>
+Phasellus vehicula quam at nunc congue suscipit. Nunc consectetur malesuada ipsum a imperdiet. Donec consectetur elementum fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tortor nisl, vestibulum a eros non, cursus tristique elit. Ut at augue at nulla congue tincidunt sit amet sed ligula. Aenean tempus est id nibh bibendum, pellentesque convallis ex tristique. Aenean sit amet lacus ultrices, suscipit odio sed, pretium metus. Donec tincidunt est nec nulla placerat maximus. Curabitur hendrerit nulla eget erat mattis, sit amet gravida lectus tristique. Maecenas consequat aliquam nibh, a suscipit enim dignissim vel. Sed vulputate justo nec lectus viverra mollis.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

@@ -55,7 +55,7 @@ Suspendisse at mollis felis, id tincidunt ex. Donec facilisis nunc non justo mol
 
 Morbi varius pellentesque eros, vitae semper justo volutpat non. Nunc a nisl gravida, laoreet sem quis, imperdiet ligula. Phasellus posuere eleifend ex in sagittis. Duis a tempor eros, eu consectetur leo. Maecenas porttitor pretium varius. Sed nec tristique mi. Proin ut elit massa. Ut volutpat et magna at aliquet. In hac habitasse platea dictumst. Vestibulum quis volutpat libero. Nam efficitur faucibus arcu, vel eleifend tortor placerat scelerisque.
 
-Nulla sit amet venenatis turpis, non elementum purus. Etiam viverra est et lectus elementum scelerisque. Morbi sed aliquam sapien. Morbi lacinia, massa ullamcorper porta tristique, libero leo gravida arcu, sit amet dictum eros orci sit amet arcu. Donec vitae feugiat risus. Duis ac est elementum, ullamcorper nulla eget, finibus ligula. In pellentesque diam vel ipsum egestas, at tempor sem aliquam. Aliquam erat volutpat. Curabitur maximus velit aliquam bibendum porttitor. Duis mollis consectetur blandit. In sed malesuada eros. In vel lacinia enim, vitae rhoncus neque. Aenean aliquam ipsum sit amet quam molestie porttitor. Nulla sit amet dui sit amet quam mattis pellentesque.<sup>[1]</sup>
+Nulla sit amet venenatis turpis, non elementum purus. Etiam viverra est et lectus elementum scelerisque. Morbi sed aliquam sapien. Morbi lacinia, massa ullamcorper porta tristique, libero leo gravida arcu, sit amet dictum eros orci sit amet arcu. Donec vitae feugiat risus. Duis ac est elementum, ullamcorper nulla eget, finibus ligula. In pellentesque diam vel ipsum egestas, at tempor sem aliquam. Aliquam erat volutpat. Curabitur maximus velit aliquam bibendum porttitor. Duis mollis consectetur blandit. In sed malesuada eros. In vel lacinia enim, vitae rhoncus neque. Aenean aliquam ipsum sit amet quam molestie porttitor. Nulla sit amet dui sit amet quam mattis pellentesque.[^1]
 
 # The Battle
 
@@ -63,7 +63,7 @@ Aliquam erat volutpat. Morbi suscipit, dolor sed pharetra venenatis, risus lectu
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec facilisis facilisis euismod. Nunc aliquam blandit enim, non lobortis felis rutrum quis. Aenean finibus massa non elit dapibus commodo. Vestibulum in elementum leo. Aenean ac suscipit mauris. Fusce tincidunt, ex ut rutrum vehicula, quam arcu sollicitudin mi, eu commodo lorem urna non lorem. Maecenas rhoncus efficitur mauris vitae lacinia. Maecenas ac efficitur leo.
 
-Vestibulum vel vehicula dolor, sit amet maximus risus. Nam ultrices suscipit nulla, ut auctor justo condimentum sed. Fusce finibus suscipit metus, eu volutpat ex rhoncus ut. Duis molestie iaculis nisi. In sed massa sit amet felis ullamcorper hendrerit. Etiam dapibus magna sagittis orci tristique, ac egestas leo eleifend. Pellentesque placerat orci in porttitor semper. Quisque ultricies arcu vitae dui sollicitudin viverra. Nunc sed nisi tortor. Vivamus pellentesque justo elit, mollis semper tortor mollis vitae.<sup>[2]</sup>
+Vestibulum vel vehicula dolor, sit amet maximus risus. Nam ultrices suscipit nulla, ut auctor justo condimentum sed. Fusce finibus suscipit metus, eu volutpat ex rhoncus ut. Duis molestie iaculis nisi. In sed massa sit amet felis ullamcorper hendrerit. Etiam dapibus magna sagittis orci tristique, ac egestas leo eleifend. Pellentesque placerat orci in porttitor semper. Quisque ultricies arcu vitae dui sollicitudin viverra. Nunc sed nisi tortor. Vivamus pellentesque justo elit, mollis semper tortor mollis vitae.[^2]
 
 ## Initial Attack
 
@@ -71,13 +71,13 @@ Sed neque lorem, placerat quis aliquet vel, viverra at ipsum. Sed venenatis, nis
 
 Nunc libero eros, sollicitudin finibus arcu quis, condimentum faucibus enim. In tincidunt tellus nec risus pulvinar elementum. In ultrices interdum dui nec volutpat. Curabitur non libero pulvinar, feugiat nunc sit amet, eleifend tellus. Etiam iaculis lacinia justo, id hendrerit quam aliquet vel. Suspendisse rutrum lacus ante, vel aliquet leo dignissim sed. Cras venenatis urna enim, a malesuada sem tempus ut. Suspendisse at venenatis erat. Donec sollicitudin mi vitae ipsum lobortis, quis hendrerit lectus hendrerit. Quisque et sollicitudin ipsum, ut ultricies risus. Maecenas ullamcorper posuere dolor, nec aliquam odio placerat in. Etiam odio justo, hendrerit sed aliquet facilisis, blandit at est. Suspendisse consectetur, sapien nec cursus tempor, dui enim posuere diam, eget molestie quam sapien eget mi. Ut interdum nisl leo, sed convallis eros elementum id. Donec nunc lorem, vehicula aliquam lorem vitae, efficitur volutpat neque.
 
-Morbi id malesuada mi. Ut volutpat turpis sit amet dolor convallis pellentesque. Mauris nec lectus quis orci suscipit auctor eu non sapien. Curabitur laoreet dolor et urna porttitor tempus. Praesent est erat, tempus eu purus dictum, lacinia gravida ipsum. Praesent nisl mauris, eleifend sit amet eros vitae, finibus rutrum justo. Morbi at iaculis risus. Quisque eget sem ac nibh accumsan ullamcorper eget eget elit. Sed finibus consectetur nunc eu ornare.<sup>[3]</sup>
+Morbi id malesuada mi. Ut volutpat turpis sit amet dolor convallis pellentesque. Mauris nec lectus quis orci suscipit auctor eu non sapien. Curabitur laoreet dolor et urna porttitor tempus. Praesent est erat, tempus eu purus dictum, lacinia gravida ipsum. Praesent nisl mauris, eleifend sit amet eros vitae, finibus rutrum justo. Morbi at iaculis risus. Quisque eget sem ac nibh accumsan ullamcorper eget eget elit. Sed finibus consectetur nunc eu ornare.[^3]
 
 ## Bombs and Blazes
 
 Quisque eget dignissim libero. Donec eget lobortis magna, vitae tempus risus. Duis dui dolor, accumsan sed porta quis, venenatis ut erat. Nulla condimentum dui vel ante consectetur, eleifend eleifend ipsum suscipit. Sed aliquam justo non turpis tristique elementum. Cras finibus felis urna, ut scelerisque ante consequat non. Curabitur elit justo, porta id tempor eu, suscipit vel nisi. Nam et condimentum ipsum. Praesent viverra velit sed ex mollis, sed viverra lacus pellentesque. Aliquam gravida sapien tellus. Sed luctus turpis magna, nec accumsan tortor mollis nec. Donec ac nisi eget tellus finibus convallis.
 
-Sed efficitur eleifend iaculis. Nulla mollis turpis diam, aliquam tincidunt quam semper a. Morbi pellentesque sem eget diam volutpat lobortis. Aenean ac ullamcorper erat. Maecenas id odio non nibh ullamcorper pulvinar. Suspendisse ultricies eros eget quam vehicula, in mollis dui tincidunt. Vestibulum sit amet ligula id mauris iaculis pellentesque ac eget arcu. Etiam tincidunt quis neque et ultricies. Praesent in volutpat est. Phasellus pulvinar tellus nec ligula faucibus, id feugiat augue commodo. Aliquam erat volutpat. Vivamus sit amet ligula orci. Ut iaculis consectetur tortor vitae aliquam.<sup>[4]</sup> 
+Sed efficitur eleifend iaculis. Nulla mollis turpis diam, aliquam tincidunt quam semper a. Morbi pellentesque sem eget diam volutpat lobortis. Aenean ac ullamcorper erat. Maecenas id odio non nibh ullamcorper pulvinar. Suspendisse ultricies eros eget quam vehicula, in mollis dui tincidunt. Vestibulum sit amet ligula id mauris iaculis pellentesque ac eget arcu. Etiam tincidunt quis neque et ultricies. Praesent in volutpat est. Phasellus pulvinar tellus nec ligula faucibus, id feugiat augue commodo. Aliquam erat volutpat. Vivamus sit amet ligula orci. Ut iaculis consectetur tortor vitae aliquam.[^4] 
 
 ## Retreat
 
@@ -85,12 +85,12 @@ Duis mattis diam maximus, consequat enim ac, dictum risus. Maecenas porta nibh e
 
 In hac habitasse platea dictumst. Cras quis augue ac mi luctus rutrum ac sed orci. Vestibulum ornare blandit efficitur. Donec semper enim dui, id consequat erat condimentum non. Maecenas imperdiet sapien posuere augue iaculis laoreet. Suspendisse vel viverra sem. Nullam sit amet pellentesque tortor. Etiam pharetra interdum nisl sed aliquam.
 
-Nam in lorem id elit dignissim egestas. Sed congue eros mauris, id lacinia nulla convallis et. Nam convallis volutpat felis, vel commodo ligula ultricies at. Cras sit amet turpis eget tortor convallis luctus. Aenean auctor, mauris non fringilla viverra, nulla turpis interdum erat, in interdum velit ex eget velit. Nulla porta, nulla non feugiat posuere, ligula mi molestie justo, eget rutrum augue nulla eget est. Vestibulum in orci fringilla, elementum enim sit amet, accumsan justo. Pellentesque semper orci arcu, eget rutrum orci congue sed. Nulla quis eros molestie, imperdiet dui tempor, porttitor nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum massa mi, volutpat sed sem in, fringilla cursus ipsum. Donec vel elementum magna. Sed efficitur non eros quis lacinia. Pellentesque ac sapien ac lectus finibus vulputate. Morbi vestibulum, odio eu dignissim sodales, massa enim fringilla urna, non suscipit neque eros eget nulla.<sup>[5]</sup>
+Nam in lorem id elit dignissim egestas. Sed congue eros mauris, id lacinia nulla convallis et. Nam convallis volutpat felis, vel commodo ligula ultricies at. Cras sit amet turpis eget tortor convallis luctus. Aenean auctor, mauris non fringilla viverra, nulla turpis interdum erat, in interdum velit ex eget velit. Nulla porta, nulla non feugiat posuere, ligula mi molestie justo, eget rutrum augue nulla eget est. Vestibulum in orci fringilla, elementum enim sit amet, accumsan justo. Pellentesque semper orci arcu, eget rutrum orci congue sed. Nulla quis eros molestie, imperdiet dui tempor, porttitor nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum massa mi, volutpat sed sem in, fringilla cursus ipsum. Donec vel elementum magna. Sed efficitur non eros quis lacinia. Pellentesque ac sapien ac lectus finibus vulputate. Morbi vestibulum, odio eu dignissim sodales, massa enim fringilla urna, non suscipit neque eros eget nulla.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

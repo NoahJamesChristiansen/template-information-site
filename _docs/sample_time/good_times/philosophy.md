@@ -19,7 +19,7 @@ In ut fermentum purus. Duis eu ipsum a purus eleifend porta sed id est. Cras nec
 
 Vivamus purus lectus, malesuada ut pellentesque id, gravida sit amet diam. Quisque sit amet pharetra purus. Praesent convallis dui ac purus rhoncus, nec suscipit metus aliquet. Pellentesque maximus aliquam scelerisque. Sed egestas dolor at ex tempor interdum. Praesent massa arcu, finibus nec laoreet vitae, egestas vel sem. Donec nibh libero, finibus a tempor volutpat, tristique quis lacus. Duis et ornare dolor. Nulla facilisi. Pellentesque lobortis dui quis mauris rutrum, at sollicitudin ipsum luctus. Aliquam vehicula felis neque, vitae auctor nunc scelerisque eu. Sed eget ipsum aliquet, pellentesque tellus at, ultricies magna. Morbi pharetra vestibulum euismod. Duis ac velit eu dolor iaculis imperdiet.
 
-Nunc bibendum, dolor eget eleifend aliquam, lacus sem molestie tellus, vitae tristique libero velit ac odio. Etiam ante metus, iaculis ac mi vitae, lobortis auctor tellus. Cras vel leo leo. Phasellus euismod sapien id iaculis dapibus. Quisque rutrum egestas risus in ornare. Nam aliquam dui ultricies libero molestie, non ultricies enim elementum. Curabitur a eleifend augue. Vivamus in quam eget ex porttitor imperdiet. Ut quis diam id nibh tincidunt ullamcorper pharetra vitae ante. Sed faucibus orci eget turpis facilisis, eget tristique eros interdum. Suspendisse potenti. Nullam quis tempus mi. Curabitur vehicula felis a neque viverra ullamcorper. Phasellus neque metus, lacinia vitae eros ut, varius gravida lorem. Etiam arcu neque, fringilla vitae maximus vel, vulputate nec massa.<sup>[1]</sup>
+Nunc bibendum, dolor eget eleifend aliquam, lacus sem molestie tellus, vitae tristique libero velit ac odio. Etiam ante metus, iaculis ac mi vitae, lobortis auctor tellus. Cras vel leo leo. Phasellus euismod sapien id iaculis dapibus. Quisque rutrum egestas risus in ornare. Nam aliquam dui ultricies libero molestie, non ultricies enim elementum. Curabitur a eleifend augue. Vivamus in quam eget ex porttitor imperdiet. Ut quis diam id nibh tincidunt ullamcorper pharetra vitae ante. Sed faucibus orci eget turpis facilisis, eget tristique eros interdum. Suspendisse potenti. Nullam quis tempus mi. Curabitur vehicula felis a neque viverra ullamcorper. Phasellus neque metus, lacinia vitae eros ut, varius gravida lorem. Etiam arcu neque, fringilla vitae maximus vel, vulputate nec massa.[^1]
 
 ## Metaphysics and Ontology
 
@@ -27,7 +27,7 @@ Sed neque elit, interdum ac ex eget, blandit lobortis tellus. Pellentesque portt
 
 Donec ipsum nisi, imperdiet non purus vitae, hendrerit elementum enim. Donec mollis in urna ut ultrices. Vestibulum vel ipsum a velit egestas finibus ac ac nisl. Nullam aliquam non justo vel pretium. In tempus, mi vel vehicula commodo, eros mi maximus mauris, non fringilla lacus risus sit amet urna. Nam aliquam placerat pellentesque. Donec at vehicula lacus. In lacinia justo at mattis faucibus. Suspendisse volutpat metus in est vehicula posuere. Nulla aliquet accumsan quam eget lacinia. Quisque commodo posuere commodo.
 
-Aliquam suscipit diam et aliquam convallis. Duis vel convallis neque. Praesent cursus nisl non purus rutrum volutpat. Nam rutrum gravida leo ac egestas. Nam at libero ac mi tempor elementum eget vitae sem. Nam elementum aliquam ligula, in consectetur enim iaculis quis. Suspendisse vitae orci at felis fringilla ullamcorper. Maecenas ut sem eget tellus ullamcorper imperdiet. Morbi tempus tristique justo quis scelerisque. Nulla blandit ultricies elit, nec pellentesque tellus ultrices non. Praesent est mauris, molestie in sollicitudin vel, molestie nec magna. Curabitur pulvinar orci tellus. Mauris massa mauris, gravida vel orci vitae, laoreet facilisis ipsum. Aenean lobortis tempor nisl, eu suscipit leo egestas mattis. Fusce elit nunc, sagittis tempus leo condimentum, tristique commodo tellus.<sup>[2]</sup>
+Aliquam suscipit diam et aliquam convallis. Duis vel convallis neque. Praesent cursus nisl non purus rutrum volutpat. Nam rutrum gravida leo ac egestas. Nam at libero ac mi tempor elementum eget vitae sem. Nam elementum aliquam ligula, in consectetur enim iaculis quis. Suspendisse vitae orci at felis fringilla ullamcorper. Maecenas ut sem eget tellus ullamcorper imperdiet. Morbi tempus tristique justo quis scelerisque. Nulla blandit ultricies elit, nec pellentesque tellus ultrices non. Praesent est mauris, molestie in sollicitudin vel, molestie nec magna. Curabitur pulvinar orci tellus. Mauris massa mauris, gravida vel orci vitae, laoreet facilisis ipsum. Aenean lobortis tempor nisl, eu suscipit leo egestas mattis. Fusce elit nunc, sagittis tempus leo condimentum, tristique commodo tellus.[^2]
 
 ## Ethical Philosophy
 
@@ -35,7 +35,7 @@ Aenean varius odio pharetra ex eleifend ornare. Phasellus elementum pulvinar ant
 
 Donec convallis porta nisl, id scelerisque metus. Quisque porta eget ligula vel lobortis. Suspendisse potenti. Phasellus elementum, dui et interdum tempus, felis tortor vulputate nisl, ac iaculis justo libero ut leo. Sed lacinia cursus scelerisque. Vestibulum et lobortis dui, in tempor tellus. In ac sem eget nulla maximus consequat. Aenean congue consectetur lectus ut semper. Donec luctus tempus nisi in tristique. Etiam tincidunt sapien id metus hendrerit fringilla. In at mauris tincidunt, hendrerit enim interdum, suscipit diam. Morbi faucibus velit at rutrum ultricies. Nunc viverra enim velit, eget tincidunt elit cursus non. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Vestibulum elementum turpis quis enim molestie placerat. Vestibulum suscipit blandit enim ut pellentesque. Curabitur id tortor at eros aliquam vestibulum. Vestibulum ullamcorper elit eu eleifend finibus. Pellentesque et turpis nec dui malesuada consequat. Donec id iaculis dolor, eget semper sapien. Nunc sed sodales dui. Proin volutpat finibus mattis. Nam aliquet blandit purus, quis viverra est dapibus quis. In quis malesuada dolor. Praesent interdum quis mauris nec luctus. Nulla non orci orci.<sup>[3]</sup>
+Vestibulum elementum turpis quis enim molestie placerat. Vestibulum suscipit blandit enim ut pellentesque. Curabitur id tortor at eros aliquam vestibulum. Vestibulum ullamcorper elit eu eleifend finibus. Pellentesque et turpis nec dui malesuada consequat. Donec id iaculis dolor, eget semper sapien. Nunc sed sodales dui. Proin volutpat finibus mattis. Nam aliquet blandit purus, quis viverra est dapibus quis. In quis malesuada dolor. Praesent interdum quis mauris nec luctus. Nulla non orci orci.[^3]
 
 ## Theory of Mind
 
@@ -45,7 +45,7 @@ Donec ut velit ex. Ut tristique nibh eget lacus cursus, ut vestibulum tortor eff
 
 Nunc rutrum justo a lorem tempor, id ultricies quam pharetra. Proin sollicitudin, risus ut aliquam rutrum, quam risus aliquam enim, eu venenatis ante nisi ac turpis. Nullam accumsan, odio at accumsan auctor, libero mi bibendum tortor, in eleifend est nunc in mi. Integer ut dictum nisi. Pellentesque tincidunt vestibulum massa, sit amet tempus nisl suscipit eget. Maecenas sollicitudin sem vel lectus facilisis sodales. Etiam elementum est non enim vehicula convallis. Cras gravida pharetra aliquam. Aliquam laoreet luctus tellus, eu fermentum nisi scelerisque non. Sed tellus ipsum, molestie nec consequat eget, pulvinar sed turpis.
 
-Duis cursus dui aliquet, dignissim turpis eget, luctus nibh. Sed quis sem elementum, suscipit arcu sollicitudin, vehicula sapien. Morbi urna arcu, feugiat ac tempus et, volutpat eu enim. Sed quis ante sem. Aliquam et dignissim leo, eu blandit sem. Ut vitae elit a tortor vehicula finibus. Quisque et erat eleifend, posuere lacus molestie, maximus erat. Praesent finibus tortor et neque laoreet, et facilisis orci placerat. Aliquam pulvinar erat id leo dictum placerat.<sup>[4]</sup>
+Duis cursus dui aliquet, dignissim turpis eget, luctus nibh. Sed quis sem elementum, suscipit arcu sollicitudin, vehicula sapien. Morbi urna arcu, feugiat ac tempus et, volutpat eu enim. Sed quis ante sem. Aliquam et dignissim leo, eu blandit sem. Ut vitae elit a tortor vehicula finibus. Quisque et erat eleifend, posuere lacus molestie, maximus erat. Praesent finibus tortor et neque laoreet, et facilisis orci placerat. Aliquam pulvinar erat id leo dictum placerat.[^4]
 
 ## Philosophy of Science
 
@@ -53,12 +53,12 @@ Quisque ac sem vel risus faucibus viverra vel eget arcu. Donec vel interdum ipsu
 
 Pellentesque vitae tellus varius, placerat quam non, congue velit. Quisque luctus gravida erat vel mattis. Pellentesque pretium enim quis nisl fermentum, venenatis mollis enim sodales. Nulla eget mauris luctus, finibus ex a, scelerisque libero. Praesent maximus mollis porta. Praesent mollis viverra elit feugiat laoreet. Nunc interdum eleifend ligula at venenatis. Nullam semper, nisi vitae vulputate pulvinar, purus mauris maximus mauris, et cursus libero enim non ipsum. Morbi vestibulum consequat vestibulum. In nec egestas nulla, at finibus sapien. Mauris neque sem, malesuada in cursus in, pulvinar et lorem. Sed ut convallis justo, ut aliquet nulla. Ut at quam at augue mattis iaculis ut sed eros.
 
-Aenean sed aliquam arcu. Aliquam semper vel nisi sed sodales. Etiam nec justo volutpat nunc sagittis tincidunt. Nunc eu dictum ante. Integer sit amet metus id velit pulvinar consectetur. Donec ultrices, lectus molestie suscipit pulvinar, diam velit ullamcorper tortor, a hendrerit dolor orci id elit. Aliquam dignissim libero ac auctor euismod.<sup>[5]</sup>
+Aenean sed aliquam arcu. Aliquam semper vel nisi sed sodales. Etiam nec justo volutpat nunc sagittis tincidunt. Nunc eu dictum ante. Integer sit amet metus id velit pulvinar consectetur. Donec ultrices, lectus molestie suscipit pulvinar, diam velit ullamcorper tortor, a hendrerit dolor orci id elit. Aliquam dignissim libero ac auctor euismod.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

@@ -19,13 +19,13 @@ Etiam non lectus eu ex aliquam molestie ut vel erat. Pellentesque imperdiet ut f
 
 Curabitur in mollis quam. Mauris ultricies ante quis eros maximus condimentum. Suspendisse eleifend commodo est, sed sagittis felis lacinia at. Duis orci orci, varius condimentum mi eu, tincidunt sodales tellus. Pellentesque tempus et leo vel pulvinar. Nam a tempus nunc, vel laoreet magna. Curabitur ullamcorper nibh at elit posuere, et lacinia metus feugiat. Mauris ac lacinia augue. Vivamus ac maximus neque.
 
-Duis et tristique turpis. Maecenas aliquam auctor lacus, ac rutrum justo varius nec. Maecenas tincidunt massa urna, viverra dictum erat lobortis at. Donec pretium felis diam, eget bibendum sapien elementum at. Vivamus aliquam dui felis, id semper risus pellentesque non. Pellentesque elit sem, dictum sed fringilla ac, aliquam id nisi. Curabitur cursus nibh a diam mollis, tristique tempor purus rhoncus. Ut tincidunt pulvinar ullamcorper. Nunc quam metus, tincidunt eget dignissim nec, ullamcorper vitae turpis. Phasellus arcu eros, placerat eget malesuada nec, scelerisque id velit.<sup>[1]</sup>
+Duis et tristique turpis. Maecenas aliquam auctor lacus, ac rutrum justo varius nec. Maecenas tincidunt massa urna, viverra dictum erat lobortis at. Donec pretium felis diam, eget bibendum sapien elementum at. Vivamus aliquam dui felis, id semper risus pellentesque non. Pellentesque elit sem, dictum sed fringilla ac, aliquam id nisi. Curabitur cursus nibh a diam mollis, tristique tempor purus rhoncus. Ut tincidunt pulvinar ullamcorper. Nunc quam metus, tincidunt eget dignissim nec, ullamcorper vitae turpis. Phasellus arcu eros, placerat eget malesuada nec, scelerisque id velit.[^1]
 
 ## Nomadic Hunters
 
 Integer euismod volutpat ex sit amet pulvinar. Aliquam erat volutpat. Donec ut aliquet velit. Curabitur finibus consequat eleifend. Morbi ac tincidunt enim. Sed commodo eu mi vitae viverra. Duis vel porttitor neque, nec pulvinar dolor. Nulla sit amet commodo nunc, quis molestie dui. Etiam lobortis at est id pretium. Donec volutpat, ex a viverra vestibulum, lectus nibh ultricies enim, in finibus elit purus sit amet ligula. Cras euismod tortor eget erat rutrum, eget blandit quam gravida. Nunc posuere auctor justo, quis dictum lacus venenatis sed. Phasellus tempus massa eu lacinia auctor. In ex libero, pellentesque eu rutrum vel, mollis non quam. Vestibulum non lectus magna. Etiam commodo justo vel tortor iaculis, ac ultricies lorem rutrum.
 
-Suspendisse sapien nisl, pulvinar at risus vitae, imperdiet cursus erat. Fusce luctus dignissim laoreet. Nulla mollis at nisi id aliquam. Nullam ut orci a urna laoreet placerat. Mauris convallis, justo eu laoreet tincidunt, augue lorem tincidunt urna, sit amet lacinia lorem sem vel mauris. In nibh massa, aliquet quis convallis vitae, congue nec arcu. Vivamus nec dignissim diam, eget commodo odio. Curabitur ut pretium lectus. Proin et vehicula dui, non auctor odio. Suspendisse ultricies augue non enim aliquet dapibus.<sup>[2]</sup>
+Suspendisse sapien nisl, pulvinar at risus vitae, imperdiet cursus erat. Fusce luctus dignissim laoreet. Nulla mollis at nisi id aliquam. Nullam ut orci a urna laoreet placerat. Mauris convallis, justo eu laoreet tincidunt, augue lorem tincidunt urna, sit amet lacinia lorem sem vel mauris. In nibh massa, aliquet quis convallis vitae, congue nec arcu. Vivamus nec dignissim diam, eget commodo odio. Curabitur ut pretium lectus. Proin et vehicula dui, non auctor odio. Suspendisse ultricies augue non enim aliquet dapibus.[^2]
 
 ## Mobile Lifestyle
 
@@ -33,7 +33,7 @@ In ligula ipsum, vulputate nec efficitur in, pretium sed mi. Nulla lacinia scele
 
 Sed in tristique nisl. Duis sed arcu fermentum sapien lobortis lacinia. Suspendisse non odio tempor, porta ligula nec, viverra felis. Vestibulum in ex et lacus mollis eleifend. Vestibulum sapien nibh, elementum vitae mi eget, vehicula lacinia est. Aliquam laoreet enim nec odio fringilla semper. Phasellus et metus sollicitudin, mollis arcu nec, tristique leo. Curabitur tincidunt porttitor sapien ac laoreet. Curabitur et convallis mauris. Suspendisse sodales elementum facilisis. Vestibulum maximus vitae arcu in aliquet.
 
-Nullam nibh orci, facilisis ac nisi sed, tincidunt dictum velit. Curabitur tempor sagittis lorem ac placerat. Aenean vehicula mollis libero, in laoreet sem sodales ac. Ut elementum quis libero ac pretium. Fusce blandit urna ac sapien semper rutrum. Sed tincidunt eleifend turpis scelerisque fermentum. Proin ultricies scelerisque mi sit amet auctor.<sup>[3]</sup>
+Nullam nibh orci, facilisis ac nisi sed, tincidunt dictum velit. Curabitur tempor sagittis lorem ac placerat. Aenean vehicula mollis libero, in laoreet sem sodales ac. Ut elementum quis libero ac pretium. Fusce blandit urna ac sapien semper rutrum. Sed tincidunt eleifend turpis scelerisque fermentum. Proin ultricies scelerisque mi sit amet auctor.[^3]
 
 ## Impact on Local Ecology
 
@@ -41,7 +41,7 @@ Aenean tempor rhoncus condimentum. Nunc sem orci, ultricies ac semper eget, posu
 
 Etiam rutrum tellus justo, et iaculis leo molestie quis. Vivamus vitae ex vel diam laoreet lobortis ut sit amet lectus. Fusce nec faucibus ipsum, porttitor rhoncus nulla. Duis id accumsan odio. Cras at ligula id massa scelerisque vestibulum at vitae metus. Donec ultrices purus sapien, et hendrerit arcu pellentesque at. Etiam luctus lobortis dolor, ut facilisis ex accumsan nec. Vestibulum a purus sit amet elit lacinia rhoncus. Nulla pretium maximus orci ut gravida. Nulla at velit commodo, iaculis enim a, tincidunt libero.
 
-Fusce ultricies non mauris eget consequat. Duis et lorem id nisi tempus semper at a dui. Maecenas in dolor nec tellus hendrerit semper. Donec orci sapien, aliquet vitae dolor vitae, lobortis commodo diam. Fusce tristique, neque vitae sagittis congue, ipsum risus suscipit augue, eget tempus lectus quam vitae mi. Quisque placerat finibus volutpat. Duis nunc elit, accumsan eu ex in, consequat fermentum purus. Curabitur rhoncus commodo ex nec feugiat. In porta nulla eget cursus porta. Quisque dolor lorem, consectetur non condimentum vitae, efficitur laoreet magna. Morbi nec laoreet lorem. Aliquam vitae consequat ex, id pulvinar nisi.<sup>[4]</sup>
+Fusce ultricies non mauris eget consequat. Duis et lorem id nisi tempus semper at a dui. Maecenas in dolor nec tellus hendrerit semper. Donec orci sapien, aliquet vitae dolor vitae, lobortis commodo diam. Fusce tristique, neque vitae sagittis congue, ipsum risus suscipit augue, eget tempus lectus quam vitae mi. Quisque placerat finibus volutpat. Duis nunc elit, accumsan eu ex in, consequat fermentum purus. Curabitur rhoncus commodo ex nec feugiat. In porta nulla eget cursus porta. Quisque dolor lorem, consectetur non condimentum vitae, efficitur laoreet magna. Morbi nec laoreet lorem. Aliquam vitae consequat ex, id pulvinar nisi.[^4]
 
 ## Religion and Artifacts
 
@@ -51,12 +51,12 @@ Donec suscipit blandit dolor, eget molestie enim condimentum ut. Phasellus eget 
 
 Aenean eget est ut magna congue ultricies at sed risus. Pellentesque lacinia vel dui a dapibus. Suspendisse potenti. Phasellus eu efficitur orci, id varius urna. Pellentesque semper vestibulum lorem, ut posuere orci tristique id. Phasellus rhoncus porttitor nisi a dictum. Donec a sem quis dolor lobortis dignissim. Quisque leo tortor, ullamcorper rutrum vulputate vel, cursus nec lectus.
 
-Nam ultrices congue auctor. Proin non venenatis eros, gravida vehicula sem. Nam ullamcorper mi nibh, eget varius ipsum efficitur at. Donec sit amet tincidunt nisl. Phasellus eget ipsum enim. Ut id vestibulum sem, nec rutrum lorem. Vivamus posuere dictum orci sit amet porta. Vestibulum hendrerit libero non est bibendum, vel aliquet nisl viverra. Maecenas aliquet magna vitae lectus auctor porttitor. Ut pellentesque et sem eu feugiat. Aenean vel dictum urna. Curabitur libero metus, tempor nec cursus a, molestie et neque.<sup>[5]</sup>
+Nam ultrices congue auctor. Proin non venenatis eros, gravida vehicula sem. Nam ullamcorper mi nibh, eget varius ipsum efficitur at. Donec sit amet tincidunt nisl. Phasellus eget ipsum enim. Ut id vestibulum sem, nec rutrum lorem. Vivamus posuere dictum orci sit amet porta. Vestibulum hendrerit libero non est bibendum, vel aliquet nisl viverra. Maecenas aliquet magna vitae lectus auctor porttitor. Ut pellentesque et sem eu feugiat. Aenean vel dictum urna. Curabitur libero metus, tempor nec cursus a, molestie et neque.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

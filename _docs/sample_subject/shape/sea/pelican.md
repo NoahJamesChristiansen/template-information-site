@@ -23,7 +23,7 @@ Ut ipsum neque, vulputate in egestas id, tristique eget massa. Donec auctor turp
 
 ![Put alt text here.](/template-information-site/assets/images/sample_subject/pelican1.jpg)
 
-Vestibulum faucibus molestie tempor. Integer consectetur ac sapien id hendrerit. Nam varius condimentum felis vitae lobortis. Nam ullamcorper lacinia arcu, quis congue ipsum vehicula eget. Curabitur mattis sem libero, sed placerat ligula pretium vel. Morbi tempor sed diam in commodo. Maecenas gravida neque ut orci congue, sit amet mollis massa maximus. Duis sodales justo lectus, commodo pulvinar leo tristique ut. Integer at laoreet sem. Integer vitae sapien vitae mauris ultricies porta. Morbi massa neque, dapibus a est et, aliquam posuere leo. Aenean vulputate mi commodo nulla mattis pellentesque. Nam enim lorem, egestas vitae neque vel, pellentesque tristique est.<sup>[1]</sup>
+Vestibulum faucibus molestie tempor. Integer consectetur ac sapien id hendrerit. Nam varius condimentum felis vitae lobortis. Nam ullamcorper lacinia arcu, quis congue ipsum vehicula eget. Curabitur mattis sem libero, sed placerat ligula pretium vel. Morbi tempor sed diam in commodo. Maecenas gravida neque ut orci congue, sit amet mollis massa maximus. Duis sodales justo lectus, commodo pulvinar leo tristique ut. Integer at laoreet sem. Integer vitae sapien vitae mauris ultricies porta. Morbi massa neque, dapibus a est et, aliquam posuere leo. Aenean vulputate mi commodo nulla mattis pellentesque. Nam enim lorem, egestas vitae neque vel, pellentesque tristique est.[^1]
 
 # Behavior
 
@@ -31,7 +31,7 @@ Mauris consequat congue purus, ut lobortis metus consequat non. Vestibulum ac pu
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel arcu vitae massa auctor lobortis at eget dolor. In consequat vel risus nec interdum. Nulla non aliquam enim. Etiam nec ullamcorper lectus, sit amet iaculis dolor. Phasellus elementum libero ac dolor blandit, a volutpat mauris feugiat. Nullam porta augue dapibus magna commodo, sed dapibus dui scelerisque. Maecenas tempus, orci quis dapibus consectetur, lorem enim vulputate tortor, eu consequat purus quam ullamcorper enim. Donec a dapibus mi, ut dapibus orci. In tincidunt magna id vestibulum pulvinar. Proin sed diam in lorem aliquam porttitor non in orci. Curabitur et suscipit erat. Donec eu ligula dapibus, commodo leo eget, faucibus tortor. Duis magna diam, pharetra et imperdiet accumsan, dignissim sit amet nisl. Maecenas auctor vulputate dolor, et elementum felis lacinia vitae.
 
-Phasellus sed nibh finibus purus bibendum fringilla a non mi. Duis augue purus, consectetur eu consectetur id, tempus vel sapien. Morbi venenatis suscipit nulla, sed interdum massa lacinia sed. Suspendisse eget pulvinar augue. Donec nunc dolor, semper et tincidunt sit amet, consequat sed est. Maecenas quis lorem neque. Pellentesque fringilla nisi dui, vel rutrum elit ullamcorper sit amet. Suspendisse maximus urna tortor, at cursus augue pulvinar eget. Curabitur quis tincidunt dolor. Maecenas non diam pellentesque, condimentum orci nec, eleifend risus. Suspendisse vehicula imperdiet eros eget ultricies. Donec blandit semper nibh, in rhoncus diam aliquam quis. Nullam quis diam vel urna fermentum porttitor. Vestibulum sed velit felis. Nulla tempus pharetra purus, ac finibus lectus pellentesque ac.<sup>[2]</sup>
+Phasellus sed nibh finibus purus bibendum fringilla a non mi. Duis augue purus, consectetur eu consectetur id, tempus vel sapien. Morbi venenatis suscipit nulla, sed interdum massa lacinia sed. Suspendisse eget pulvinar augue. Donec nunc dolor, semper et tincidunt sit amet, consequat sed est. Maecenas quis lorem neque. Pellentesque fringilla nisi dui, vel rutrum elit ullamcorper sit amet. Suspendisse maximus urna tortor, at cursus augue pulvinar eget. Curabitur quis tincidunt dolor. Maecenas non diam pellentesque, condimentum orci nec, eleifend risus. Suspendisse vehicula imperdiet eros eget ultricies. Donec blandit semper nibh, in rhoncus diam aliquam quis. Nullam quis diam vel urna fermentum porttitor. Vestibulum sed velit felis. Nulla tempus pharetra purus, ac finibus lectus pellentesque ac.[^2]
 
 # Ecology
 
@@ -41,24 +41,24 @@ Proin consequat ultricies purus. Integer tempor molestie augue. Fusce ac nunc qu
 
 Vestibulum quis nibh eu est imperdiet rutrum. Pellentesque lectus dolor, tempor vitae feugiat sit amet, volutpat nec elit. Integer eget justo ut lorem iaculis pretium sit amet eu lectus. Donec eu quam iaculis, congue metus ut, bibendum ante. Ut porttitor enim eget ultricies dignissim. Fusce venenatis metus non rhoncus mollis. Pellentesque finibus libero tellus, sed pulvinar augue efficitur ut. Nullam vitae tincidunt massa. Nunc dictum, felis a aliquam suscipit, sapien nunc accumsan lacus, sit amet aliquam nibh libero nec neque. Integer vitae justo accumsan, tempus nisi vel, maximus neque. Aenean leo nunc, varius vitae ligula vitae, bibendum porttitor arcu. Integer vulputate, nunc eu placerat dignissim, leo mi accumsan libero, sit amet congue felis risus facilisis arcu.
 
-Aliquam ligula ipsum, tincidunt ut sapien ac, finibus sagittis ipsum. Nullam rhoncus consectetur consequat. Cras dapibus velit ex, nec malesuada risus pellentesque ac. Integer sed enim lacus. Pellentesque pulvinar volutpat eros. In nulla orci, pellentesque ut tortor quis, fermentum rutrum metus. Nam varius felis et risus ultrices, id accumsan metus pretium. Aliquam erat volutpat. Vivamus eget nisl rhoncus, vehicula mauris et, hendrerit est.<sup>[3]</sup> 
+Aliquam ligula ipsum, tincidunt ut sapien ac, finibus sagittis ipsum. Nullam rhoncus consectetur consequat. Cras dapibus velit ex, nec malesuada risus pellentesque ac. Integer sed enim lacus. Pellentesque pulvinar volutpat eros. In nulla orci, pellentesque ut tortor quis, fermentum rutrum metus. Nam varius felis et risus ultrices, id accumsan metus pretium. Aliquam erat volutpat. Vivamus eget nisl rhoncus, vehicula mauris et, hendrerit est.[^3] 
 
 # Reproduction
 
 Vestibulum vitae justo id ligula dapibus sodales. Praesent vestibulum, urna sed efficitur faucibus, tellus urna fermentum quam, sed dignissim odio metus sit amet arcu. Aliquam porta sollicitudin imperdiet. Etiam orci enim, interdum quis est id, consequat vestibulum augue. Donec ornare mi eget sem feugiat molestie. Nunc faucibus, ante non efficitur malesuada, elit est vehicula massa, vel bibendum quam nisl id nunc. Suspendisse dictum vitae augue eu ornare.
 
-Nam nec eleifend tortor, et aliquet ante. Etiam quis leo at nisi ornare egestas. Nulla ullamcorper arcu diam, vulputate feugiat velit vehicula quis. Etiam mollis sem justo, sit amet tristique purus tristique sed. Vestibulum tristique magna vitae felis pharetra lobortis. Vestibulum ullamcorper eget magna non gravida. Nam mollis commodo odio ut gravida. Duis in nunc ipsum. Praesent vel erat eget eros sagittis hendrerit. Fusce mattis eros eu ante molestie mollis eu vel lectus.<sup>[4]</sup>
+Nam nec eleifend tortor, et aliquet ante. Etiam quis leo at nisi ornare egestas. Nulla ullamcorper arcu diam, vulputate feugiat velit vehicula quis. Etiam mollis sem justo, sit amet tristique purus tristique sed. Vestibulum tristique magna vitae felis pharetra lobortis. Vestibulum ullamcorper eget magna non gravida. Nam mollis commodo odio ut gravida. Duis in nunc ipsum. Praesent vel erat eget eros sagittis hendrerit. Fusce mattis eros eu ante molestie mollis eu vel lectus.[^4]
 
 ![Put alt text here.](/template-information-site/assets/images/sample_subject/pelican2.jpg)
 
 Vivamus vulputate tristique mi, nec tincidunt odio blandit eu. Proin suscipit sagittis lorem at bibendum. Donec vulputate quis ante eget lacinia. Phasellus maximus nibh massa, sed tincidunt nisi condimentum vel. Nulla facilisi. Donec vitae facilisis dui, sed ultricies mi. Ut interdum fringilla orci, nec tincidunt sapien commodo ut. Integer congue auctor vehicula. Pellentesque volutpat quis ante in laoreet. Aenean erat enim, posuere ac tellus quis, pellentesque rutrum ante. Nunc imperdiet ipsum erat, non vestibulum enim ultrices eget. Mauris tristique, dui et maximus dapibus, urna enim rutrum quam, a luctus nunc enim sit amet est. Mauris nec dolor ante. Ut venenatis massa tincidunt iaculis congue. Aliquam sit amet venenatis arcu. Phasellus eget aliquam sapien.
 
-Vestibulum aliquet nisl vel orci blandit elementum. Vestibulum iaculis tempor massa vitae fermentum. Aenean ac erat venenatis, ultrices eros quis, posuere nisi. Aenean sit amet bibendum purus. Proin ac lectus ut dui ultricies volutpat. Nulla sed sapien sodales, facilisis velit at, semper lacus. Pellentesque a maximus elit. Maecenas non dignissim nisi. Vivamus tempor sit amet leo eget semper. Integer condimentum lectus mauris, et iaculis lorem congue quis. Vivamus pulvinar dapibus egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec mi dui, suscipit id maximus nec, porta nec enim. Cras a tortor sem. Curabitur tristique enim eget quam pharetra, non vehicula odio egestas.<sup>[5]</sup>
+Vestibulum aliquet nisl vel orci blandit elementum. Vestibulum iaculis tempor massa vitae fermentum. Aenean ac erat venenatis, ultrices eros quis, posuere nisi. Aenean sit amet bibendum purus. Proin ac lectus ut dui ultricies volutpat. Nulla sed sapien sodales, facilisis velit at, semper lacus. Pellentesque a maximus elit. Maecenas non dignissim nisi. Vivamus tempor sit amet leo eget semper. Integer condimentum lectus mauris, et iaculis lorem congue quis. Vivamus pulvinar dapibus egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec mi dui, suscipit id maximus nec, porta nec enim. Cras a tortor sem. Curabitur tristique enim eget quam pharetra, non vehicula odio egestas.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

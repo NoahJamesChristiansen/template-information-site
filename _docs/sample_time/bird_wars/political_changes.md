@@ -31,7 +31,7 @@ Curabitur eu tempus orci. Ut leo quam, malesuada ut nulla non, egestas ultricies
 
 Duis iaculis mollis tristique. Sed dolor magna, vulputate vitae aliquet quis, porttitor at ipsum. Aliquam ullamcorper ex a purus molestie aliquet. Nam maximus pellentesque dui, non venenatis velit bibendum a. Cras lacinia velit ac urna finibus tincidunt. Vivamus vitae bibendum ipsum. Suspendisse potenti. Integer luctus, sapien nec faucibus malesuada, nisi neque finibus orci, non cursus nibh arcu in lorem. Quisque condimentum commodo tincidunt. Donec id pulvinar turpis. Aliquam id feugiat dui, sit amet gravida dui. Duis ac lobortis mauris. Sed et consequat ligula.
 
-Cras varius felis sed vulputate imperdiet. Morbi volutpat mi eros, vel fermentum dui tristique vitae. Aliquam nec imperdiet est. Nullam consectetur neque a elit pellentesque, sit amet porta elit venenatis. Donec dignissim malesuada metus quis malesuada. Donec consequat suscipit ipsum, eget condimentum nisl porttitor quis. Sed egestas nisl a ex blandit tincidunt. Suspendisse nec nunc a erat blandit sollicitudin. Morbi eget urna eget tellus auctor aliquet. Integer varius egestas lorem, non imperdiet odio facilisis a. Nulla elit leo, elementum vitae ipsum at, cursus aliquam tellus. Nulla mollis consequat erat vel condimentum. Mauris sagittis magna at dignissim consectetur.<sup>[1]</sup>
+Cras varius felis sed vulputate imperdiet. Morbi volutpat mi eros, vel fermentum dui tristique vitae. Aliquam nec imperdiet est. Nullam consectetur neque a elit pellentesque, sit amet porta elit venenatis. Donec dignissim malesuada metus quis malesuada. Donec consequat suscipit ipsum, eget condimentum nisl porttitor quis. Sed egestas nisl a ex blandit tincidunt. Suspendisse nec nunc a erat blandit sollicitudin. Morbi eget urna eget tellus auctor aliquet. Integer varius egestas lorem, non imperdiet odio facilisis a. Nulla elit leo, elementum vitae ipsum at, cursus aliquam tellus. Nulla mollis consequat erat vel condimentum. Mauris sagittis magna at dignissim consectetur.[^1]
 
 ## Orders Against Certain People
 
@@ -45,7 +45,7 @@ Praesent massa lorem, pretium ac dui at, egestas lacinia ipsum. Quisque fermentu
 
 Aliquam erat volutpat. Maecenas dapibus tellus vitae pretium gravida. Nunc enim quam, aliquam ut vehicula non, scelerisque elementum justo. Phasellus a ex vestibulum, scelerisque orci efficitur, sodales odio. Sed id nisl condimentum, mollis neque ut, fringilla mi. Curabitur vehicula pulvinar eros at volutpat. Sed in velit turpis. Mauris scelerisque nisi vel arcu pharetra commodo.
 
-In nisi odio, condimentum dapibus nunc nec, convallis commodo velit. Cras viverra lorem vel turpis venenatis mollis. Duis mauris urna, dapibus at mauris sed, luctus condimentum enim. Sed tempor quam dolor, sit amet tristique nulla dictum non. Etiam interdum laoreet erat, id vestibulum nulla eleifend eget. Phasellus nec tellus lacinia, euismod nisl condimentum, interdum est. Donec et viverra mi, et ullamcorper orci. Phasellus nec nibh blandit, maximus mi auctor, pretium mauris. Vivamus purus lorem, scelerisque nec eleifend sed, mollis at lorem. Curabitur sagittis arcu eget congue blandit. Fusce accumsan suscipit dui, et condimentum massa pulvinar quis. Ut pulvinar placerat arcu condimentum posuere. Maecenas pulvinar volutpat urna vitae pellentesque. Etiam purus leo, condimentum egestas eleifend sit amet, ultrices sit amet leo.<sup>[2]</sup>
+In nisi odio, condimentum dapibus nunc nec, convallis commodo velit. Cras viverra lorem vel turpis venenatis mollis. Duis mauris urna, dapibus at mauris sed, luctus condimentum enim. Sed tempor quam dolor, sit amet tristique nulla dictum non. Etiam interdum laoreet erat, id vestibulum nulla eleifend eget. Phasellus nec tellus lacinia, euismod nisl condimentum, interdum est. Donec et viverra mi, et ullamcorper orci. Phasellus nec nibh blandit, maximus mi auctor, pretium mauris. Vivamus purus lorem, scelerisque nec eleifend sed, mollis at lorem. Curabitur sagittis arcu eget congue blandit. Fusce accumsan suscipit dui, et condimentum massa pulvinar quis. Ut pulvinar placerat arcu condimentum posuere. Maecenas pulvinar volutpat urna vitae pellentesque. Etiam purus leo, condimentum egestas eleifend sit amet, ultrices sit amet leo.[^2]
 
 # Economic Transformation
 
@@ -59,7 +59,7 @@ Curabitur nec nulla cursus, elementum leo commodo, maximus erat. Suspendisse pot
 
 Duis sit amet maximus dolor, in rhoncus massa. Cras sodales lorem lectus. Nam dictum mattis nulla, sit amet vulputate lacus accumsan nec. Sed justo ipsum, lobortis nec ex eget, faucibus cursus massa. Sed eu odio quis odio scelerisque imperdiet. Fusce placerat sodales felis nec dictum. In ut risus semper, varius justo in, consequat sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque a fringilla velit. Praesent consequat dolor dolor, eu volutpat magna dapibus nec. In scelerisque congue erat. Quisque eget neque sapien.
 
-Fusce orci metus, placerat vitae risus nec, volutpat consectetur odio. Proin pellentesque lorem nec congue pretium. Suspendisse vehicula bibendum nulla a pellentesque. Curabitur ac cursus nulla. Ut laoreet nibh eget dui vulputate dignissim. Integer maximus ex sem, non gravida eros posuere sed. Etiam dignissim nunc eget sapien facilisis, quis egestas enim varius. Praesent tempor nunc id ultrices iaculis. In hac habitasse platea dictumst. Sed sem est, dignissim in congue sit amet, ultrices vitae est.<sup>[3]</sup>
+Fusce orci metus, placerat vitae risus nec, volutpat consectetur odio. Proin pellentesque lorem nec congue pretium. Suspendisse vehicula bibendum nulla a pellentesque. Curabitur ac cursus nulla. Ut laoreet nibh eget dui vulputate dignissim. Integer maximus ex sem, non gravida eros posuere sed. Etiam dignissim nunc eget sapien facilisis, quis egestas enim varius. Praesent tempor nunc id ultrices iaculis. In hac habitasse platea dictumst. Sed sem est, dignissim in congue sit amet, ultrices vitae est.[^3]
 
 ## Restructuring
 
@@ -69,7 +69,7 @@ Pellentesque id dolor at nunc congue tempor. Duis sed nibh ornare, viverra est a
 
 In a justo sit amet nisl interdum volutpat sit amet sit amet nibh. Pellentesque feugiat, libero sed eleifend volutpat, urna tortor bibendum lectus, eu scelerisque ipsum nunc ut libero. Cras tortor odio, porttitor non mauris a, laoreet laoreet elit. Nam felis lectus, malesuada ac ligula id, aliquam sollicitudin risus. Vestibulum lobortis risus ac libero molestie, vel suscipit augue tincidunt. Duis dignissim dui quam, at rhoncus libero facilisis et. Cras consequat egestas massa, sed venenatis mi scelerisque volutpat. Vestibulum euismod eget nibh quis pretium. In vulputate sit amet dui sed lacinia. Ut sed nisi vitae lectus tincidunt tincidunt id sed ante. Curabitur id consequat massa. Praesent vel eleifend risus. Duis non leo nisl.
 
-Aliquam iaculis lobortis turpis, quis scelerisque purus. Phasellus sollicitudin rutrum lorem vulputate consequat. Quisque imperdiet sollicitudin molestie. Ut orci ante, euismod suscipit felis eu, bibendum rutrum ipsum. Nam mattis congue lorem, vitae fringilla velit. Proin dapibus vulputate dignissim. Fusce vestibulum quis tortor nec pretium. Morbi aliquet feugiat dui nec fringilla. Sed et mi nec dolor pulvinar aliquam a in lorem. In eros nunc, accumsan a lacinia in, aliquet luctus est. Etiam efficitur ut nulla vel hendrerit. Nulla rhoncus, ligula ac mollis interdum, eros mi accumsan nibh, id ultricies neque justo in sapien. Suspendisse et dui tortor. Nullam fringilla leo non vulputate luctus. Donec scelerisque rutrum dignissim.<sup>[4]</sup>
+Aliquam iaculis lobortis turpis, quis scelerisque purus. Phasellus sollicitudin rutrum lorem vulputate consequat. Quisque imperdiet sollicitudin molestie. Ut orci ante, euismod suscipit felis eu, bibendum rutrum ipsum. Nam mattis congue lorem, vitae fringilla velit. Proin dapibus vulputate dignissim. Fusce vestibulum quis tortor nec pretium. Morbi aliquet feugiat dui nec fringilla. Sed et mi nec dolor pulvinar aliquam a in lorem. In eros nunc, accumsan a lacinia in, aliquet luctus est. Etiam efficitur ut nulla vel hendrerit. Nulla rhoncus, ligula ac mollis interdum, eros mi accumsan nibh, id ultricies neque justo in sapien. Suspendisse et dui tortor. Nullam fringilla leo non vulputate luctus. Donec scelerisque rutrum dignissim.[^4]
 
 ## Emphasis on Industrialization
 
@@ -79,12 +79,12 @@ Praesent scelerisque urna in suscipit suscipit. Vivamus volutpat lobortis ultric
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque ligula diam, auctor eget mi eu, fermentum gravida felis. Etiam euismod hendrerit sapien varius aliquam. Curabitur pretium, ligula in placerat vulputate, quam felis hendrerit libero, vel blandit quam ex quis nibh. Etiam semper quis turpis vel vehicula. Donec fermentum dui risus, vitae accumsan tellus venenatis a. Nulla id ultricies dolor. Duis quis sapien gravida, tempus mauris sed, ultrices dui.
 
-Nunc et tincidunt felis. Curabitur ac ex iaculis, auctor urna non, tempus metus. Vestibulum aliquam aliquet urna vulputate ultrices. Aenean egestas eget sapien et mollis. Proin nulla arcu, interdum in luctus eu, varius ut velit. Etiam a leo turpis. Curabitur mauris magna, vehicula eu augue eget, scelerisque efficitur nibh. In turpis massa, imperdiet sit amet odio id, venenatis vestibulum purus. Nam quis ultricies turpis, eu faucibus ligula. Cras nisi quam, ultricies sed venenatis ut, congue ultrices orci. Curabitur velit mi, semper at lectus vehicula, sollicitudin interdum lorem. Vivamus ligula nisi, aliquam sed luctus interdum, gravida in nisl. Vestibulum in nulla ut turpis fermentum ullamcorper sed at velit.<sup>[5]</sup>
+Nunc et tincidunt felis. Curabitur ac ex iaculis, auctor urna non, tempus metus. Vestibulum aliquam aliquet urna vulputate ultrices. Aenean egestas eget sapien et mollis. Proin nulla arcu, interdum in luctus eu, varius ut velit. Etiam a leo turpis. Curabitur mauris magna, vehicula eu augue eget, scelerisque efficitur nibh. In turpis massa, imperdiet sit amet odio id, venenatis vestibulum purus. Nam quis ultricies turpis, eu faucibus ligula. Cras nisi quam, ultricies sed venenatis ut, congue ultrices orci. Curabitur velit mi, semper at lectus vehicula, sollicitudin interdum lorem. Vivamus ligula nisi, aliquam sed luctus interdum, gravida in nisl. Vestibulum in nulla ut turpis fermentum ullamcorper sed at velit.[^5]
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5

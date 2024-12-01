@@ -47,7 +47,7 @@ Donec facilisis at ante ut dapibus. Etiam volutpat mollis finibus. Mauris vulput
 
 Vivamus in blandit metus. Phasellus blandit porttitor ante id euismod. Praesent ultricies convallis libero non feugiat. Aliquam porttitor nulla lacus, in auctor nunc elementum in. Suspendisse potenti. Aliquam ac pulvinar felis, vel rhoncus dolor. Sed fermentum enim lacus, ut ullamcorper enim mattis a. Praesent pretium euismod velit, eu dictum massa viverra ut. Morbi sollicitudin ante a metus tincidunt, a tincidunt nisi venenatis. Aliquam imperdiet commodo ornare. Aliquam a porttitor dolor. Integer bibendum nisl sodales ligula congue, et accumsan purus porta. In a suscipit orci, at aliquam dolor.
 
-Praesent consequat pretium iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sit amet augue nisi. Morbi lacinia dapibus imperdiet. Pellentesque porttitor nisl ut porttitor porta. Proin mollis leo maximus mi pretium, aliquet viverra metus aliquet. Pellentesque a sagittis ante. Praesent auctor arcu erat, nec vulputate leo cursus sit amet. Cras tellus turpis, sollicitudin ut aliquam eget, mattis ut odio. Morbi in odio enim. Donec lacinia mollis eleifend. Donec ultricies nisl eget orci consequat, ac interdum erat auctor. Integer eget erat vestibulum, dignissim lacus non, posuere dui. Maecenas pellentesque tristique fermentum.<sup>[1]</sup>
+Praesent consequat pretium iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sit amet augue nisi. Morbi lacinia dapibus imperdiet. Pellentesque porttitor nisl ut porttitor porta. Proin mollis leo maximus mi pretium, aliquet viverra metus aliquet. Pellentesque a sagittis ante. Praesent auctor arcu erat, nec vulputate leo cursus sit amet. Cras tellus turpis, sollicitudin ut aliquam eget, mattis ut odio. Morbi in odio enim. Donec lacinia mollis eleifend. Donec ultricies nisl eget orci consequat, ac interdum erat auctor. Integer eget erat vestibulum, dignissim lacus non, posuere dui. Maecenas pellentesque tristique fermentum.[^1]
 
 ## Resources
 
@@ -55,7 +55,7 @@ Morbi egestas semper justo at rhoncus. Aenean a nunc leo. Aliquam scelerisque, q
 
 Donec vel ultrices nulla, ut interdum justo. Pellentesque nulla ipsum, efficitur ac nisi eget, interdum pretium dui. Donec eget ultricies nibh. Maecenas pulvinar bibendum nulla, non egestas mauris euismod at. Etiam porttitor mi erat, eget hendrerit lorem volutpat sed. Duis ac dui quis eros sagittis iaculis vel in nibh. Vivamus dapibus in ante ac lobortis. Nulla bibendum sem lectus, vitae rhoncus dui aliquet non. Suspendisse potenti. Maecenas dapibus aliquam blandit. Curabitur maximus arcu eget erat vulputate dictum. Sed nisl nisl, cursus quis aliquam at, tincidunt in dolor. Sed commodo auctor nulla. Nam justo erat, porttitor nec erat vel, molestie consequat dolor. Suspendisse molestie risus massa, id vestibulum erat commodo quis. Mauris vel dignissim lacus, ut rhoncus ex.
 
-Suspendisse sodales mauris id quam malesuada, eu feugiat orci egestas. Ut vehicula facilisis mauris, ac auctor nunc dignissim eget. Aliquam et orci sit amet neque hendrerit vestibulum. Aliquam ligula turpis, luctus vel pretium ut, commodo eu libero. Aenean consequat tempor eros, vel elementum mi efficitur sed. Maecenas tempor ultrices ante in laoreet. Donec nec mauris vitae enim placerat porta ac non metus. Phasellus risus massa, mattis tincidunt eros ac, ornare vestibulum libero. Donec molestie aliquet nisl, nec varius turpis ornare sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla consectetur neque magna, sed venenatis mauris placerat quis. Curabitur efficitur blandit magna in lacinia. Suspendisse fringilla magna in ex pharetra, eu rhoncus nibh tempor.<sup>[2]</sup>
+Suspendisse sodales mauris id quam malesuada, eu feugiat orci egestas. Ut vehicula facilisis mauris, ac auctor nunc dignissim eget. Aliquam et orci sit amet neque hendrerit vestibulum. Aliquam ligula turpis, luctus vel pretium ut, commodo eu libero. Aenean consequat tempor eros, vel elementum mi efficitur sed. Maecenas tempor ultrices ante in laoreet. Donec nec mauris vitae enim placerat porta ac non metus. Phasellus risus massa, mattis tincidunt eros ac, ornare vestibulum libero. Donec molestie aliquet nisl, nec varius turpis ornare sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla consectetur neque magna, sed venenatis mauris placerat quis. Curabitur efficitur blandit magna in lacinia. Suspendisse fringilla magna in ex pharetra, eu rhoncus nibh tempor.[^2]
 
 # Battle
 
@@ -63,7 +63,7 @@ Nullam vitae tellus bibendum, iaculis sapien eu, commodo velit. Phasellus eros s
 
 Maecenas sed ipsum vitae massa vehicula cursus. Quisque id mi id orci tristique facilisis et et neque. Fusce elementum dolor non metus feugiat, nec eleifend mi fermentum. Maecenas efficitur malesuada auctor. Fusce vitae arcu non ipsum aliquam ullamcorper at quis ipsum. Vestibulum vulputate iaculis libero id ornare. Sed mattis dapibus elit, ut luctus neque volutpat ut. Duis quis fermentum ante, vitae vehicula nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-Donec laoreet eleifend lacus, non imperdiet felis porttitor ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam auctor orci sit amet faucibus finibus. In lobortis diam sapien. Donec vestibulum metus fringilla, faucibus tellus id, ultrices ligula. Aliquam sit amet nulla fringilla, placerat diam eget, dapibus eros. Ut convallis euismod ante, eu tempor leo laoreet sed. Suspendisse est dui, mattis non risus in, ultrices volutpat eros. In pretium nec risus at porta. Vestibulum rutrum eleifend libero, porttitor pulvinar nunc. Integer in mi quis massa iaculis mollis. Aenean urna nisl, posuere sit amet convallis quis, ornare porta odio.<sup>[3]</sup> 
+Donec laoreet eleifend lacus, non imperdiet felis porttitor ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam auctor orci sit amet faucibus finibus. In lobortis diam sapien. Donec vestibulum metus fringilla, faucibus tellus id, ultrices ligula. Aliquam sit amet nulla fringilla, placerat diam eget, dapibus eros. Ut convallis euismod ante, eu tempor leo laoreet sed. Suspendisse est dui, mattis non risus in, ultrices volutpat eros. In pretium nec risus at porta. Vestibulum rutrum eleifend libero, porttitor pulvinar nunc. Integer in mi quis massa iaculis mollis. Aenean urna nisl, posuere sit amet convallis quis, ornare porta odio.[^3] 
 
 ## Charge the Gates
 
@@ -71,13 +71,13 @@ Pellentesque quis pharetra arcu, in tincidunt erat. Nunc laoreet urna id element
 
 Praesent diam nunc, efficitur eu erat nec, blandit elementum urna. Fusce et semper ante. Nullam sit amet facilisis eros. Duis interdum ante volutpat arcu dapibus sagittis at vel mi. Nulla in magna pretium, congue felis a, faucibus velit. Quisque lobortis et ipsum at volutpat. Morbi lacinia efficitur arcu, sed pretium lectus auctor et. Morbi sit amet finibus nibh, in lobortis dolor. Donec at orci laoreet, vulputate nulla a, sagittis metus. Nullam et tristique ex. Integer eu rhoncus tortor. Aenean ultricies consectetur consequat. Pellentesque eget tellus fringilla, consectetur odio ut, porttitor est. Duis facilisis scelerisque mauris non bibendum.
 
-Nulla consequat tortor diam, ac blandit enim consectetur ac. Curabitur vel erat rhoncus, sodales erat et, porttitor orci. Donec posuere nisi molestie ipsum pulvinar egestas. Curabitur neque mauris, mattis at posuere euismod, sagittis sed ante. Nam non tristique nulla. Nulla at blandit massa, ut lobortis lectus. Aenean neque neque, maximus in tellus eget, suscipit vulputate nunc. Sed mollis, eros vel placerat consequat, ipsum erat bibendum orci, at rhoncus quam tortor in quam. Donec pulvinar dui at erat gravida fermentum. Mauris euismod augue et ligula gravida, eu luctus libero gravida. Cras semper ornare ligula, non pulvinar ligula congue a. Nam sodales dui eget risus porta fermentum.<sup>[4]</sup> 
+Nulla consequat tortor diam, ac blandit enim consectetur ac. Curabitur vel erat rhoncus, sodales erat et, porttitor orci. Donec posuere nisi molestie ipsum pulvinar egestas. Curabitur neque mauris, mattis at posuere euismod, sagittis sed ante. Nam non tristique nulla. Nulla at blandit massa, ut lobortis lectus. Aenean neque neque, maximus in tellus eget, suscipit vulputate nunc. Sed mollis, eros vel placerat consequat, ipsum erat bibendum orci, at rhoncus quam tortor in quam. Donec pulvinar dui at erat gravida fermentum. Mauris euismod augue et ligula gravida, eu luctus libero gravida. Cras semper ornare ligula, non pulvinar ligula congue a. Nam sodales dui eget risus porta fermentum.[^4] 
 
 ## Seige the Castle
 
 Cras non odio eget nibh sagittis tristique. Phasellus ultricies at ipsum varius bibendum. Integer eleifend eleifend nibh, vel eleifend libero commodo a. Ut scelerisque tincidunt nibh nec molestie. Nunc malesuada nulla sit amet felis egestas mollis. Phasellus tincidunt sem vitae nulla porttitor tristique. Phasellus ac nisi finibus sem volutpat vestibulum vitae a nunc. Donec et velit pulvinar, fermentum purus nec, semper magna. Ut sollicitudin turpis ac turpis pulvinar, ac euismod neque eleifend. Mauris velit lectus, euismod nec tortor nec, consectetur lacinia magna. Fusce eu risus egestas, feugiat ligula eget, faucibus dolor. Duis luctus sodales nibh non fermentum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultrices pharetra eros eget pharetra. In hac habitasse platea dictumst. Nunc tristique, felis eget pretium tristique, nulla magna bibendum ex, sed lacinia tortor tortor nec tellus. Duis consectetur bibendum vehicula. Curabitur sed velit non leo tincidunt accumsan. Maecenas eu molestie augue. Ut tincidunt, nibh at pulvinar eleifend, quam neque volutpat sapien, vitae pulvinar nibh sem sed odio. Quisque et massa eleifend, ultricies libero id, rhoncus tellus. Morbi eget dolor maximus, tincidunt diam sit amet, efficitur lacus. Vivamus fringilla eget urna ut viverra. Duis vulputate purus eget sodales lacinia. Vivamus laoreet scelerisque nunc eu tempor.<sup>[5]</sup>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultrices pharetra eros eget pharetra. In hac habitasse platea dictumst. Nunc tristique, felis eget pretium tristique, nulla magna bibendum ex, sed lacinia tortor tortor nec tellus. Duis consectetur bibendum vehicula. Curabitur sed velit non leo tincidunt accumsan. Maecenas eu molestie augue. Ut tincidunt, nibh at pulvinar eleifend, quam neque volutpat sapien, vitae pulvinar nibh sem sed odio. Quisque et massa eleifend, ultricies libero id, rhoncus tellus. Morbi eget dolor maximus, tincidunt diam sit amet, efficitur lacus. Vivamus fringilla eget urna ut viverra. Duis vulputate purus eget sodales lacinia. Vivamus laoreet scelerisque nunc eu tempor.[^5]
 
 ## Victory for the Gallunesians
 
@@ -89,8 +89,8 @@ Praesent mattis, diam sit amet interdum tempus, odio tortor sagittis mi, vel tin
 
 # Sources
 
-1. Citation1
-2. Citation2
-3. Citation3
-4. Citation4
-5. Citation5
+[^1]: Citation1
+[^2]: Citation2
+[^3]: Citation3
+[^4]: Citation4
+[^5]: Citation5
