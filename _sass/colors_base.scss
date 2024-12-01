@@ -259,6 +259,7 @@ Footer
 
 footer {
   background-color: #444;
+  background-image: url("/template-information-site/assets/bottom_background.jpg");
 }
 
 .logofooter {
@@ -356,7 +357,8 @@ Navbars
 .navbar-default {
   background-color: #fff;
   border-bottom: 5px solid #CCC;
-  background-image: url("/template-information-site/assets/banner.png");
+  background-image: url("/template-information-site/assets/banner.jpg");
+  //background-image: url("/assets/banner.jpg");
 }
 
 .navbar-default .navbar-brand {
@@ -766,9 +768,14 @@ Doc Page extras
 }
 
 .navbar-header {
-    background-image: url("/template-information-site/assets/banner.png");
-    //background-image: url("/assets/banner.png");
+    background-image: url("/template-information-site/assets/banner.jpg");
+    //background-image: url("/assets/banner.jpg");
     background-color: #CCC;
     color: #999;
     border-bottom: 10px solid #FFF;
+}
+
+.row.bottom-links {
+	backdrop-filter: blur(3px);
+	background-color: #000a;
 }
