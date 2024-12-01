@@ -355,7 +355,8 @@ Navbars
 
 .navbar-default {
   background-color: #fff;
-  border: 0px;
+  border-bottom: 5px solid #CCC;
+  background-image: url("/assets/banner.png");
 }
 
 .navbar-default .navbar-brand {
@@ -441,7 +442,8 @@ Navbars
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #999
+  border-color: #999;
+  background-color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -455,6 +457,8 @@ Navbars
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: #111111;
+  background-color: #FFFA;
+  backdrop-filter: blur(3px);
 }
 
 .navbar-default .navbar-link {
@@ -759,4 +763,11 @@ Doc Page extras
 
 .developer-information hr {
 	border-top: 1px solid #777;
+}
+
+.navbar-header {
+    background-image: url("/assets/banner.png");
+    background-color: #CCC;
+    color: #999;
+    border-bottom: 10px solid #FFF;
 }

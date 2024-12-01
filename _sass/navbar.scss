@@ -76,18 +76,27 @@ ul.navbar-nav a:hover {
 img.navbar-logo {
   max-height: 50px;
 }
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+	max-height: 65px;
+}
+
+.container.topnavlinks {
+	padding-left: 0px;
+}
+
 .navbar-brand {
   margin-right: 30px;
   padding-top: 10px;
 }
 .navbar {
   border-bottom: 1px solid #dedede;
-  font-size: 16px;
+  font-size: 18px;
   height: 70px;
 }
 
 .navbar-default .navbar-nav>li>a {
-  font-size: 16px;
+  font-size: 18px;
   font-family: Arial;
 }
 
