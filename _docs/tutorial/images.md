@@ -35,6 +35,7 @@ There are two images that are used for banners on the website:
 
 * ``assets/banner.jpg`` - The banner shown on the top navigation bar. This file should be no more than 100px tall (but at least 70px tall) and about 2000px long. I recommend saving as a ``.jpg`` file to reduce file size. This image will tile across the entire banner, so you can also opt for a tiled design.
 * ``assets/bottom_background.jpg`` - The banner shown on the bottom, in the footer. This file should be no more than 300px tall and about 2000px long. I recommend saving as a ``.jpg`` file to reduce file size.
+* ``assets/bottom_background_mobile.jpg`` - The banner shown on the bottom, in the footer, in mobile. Like ``assets/bottom_background.jpg``, but it's a special asset so that blurring is not run on mobile layouts. You should apply a blur filter in this image so that the whole image is blurred out.
 
 Here are what the images look like for reference:
 
@@ -45,6 +46,11 @@ Here are what the images look like for reference:
 ``assets/bottom_background.jpg``
 
 <div style="height:300px; max-width:800px; background-image:url('/template-information-site/assets/bottom_background.jpg');"></div>
+
+``assets/bottom_background_mobile.jpg``
+
+<div style="height:300px; max-width:800px; background-image:url('/template-information-site/assets/bottom_background_mobile.jpg');"></div>
+
 
 You can change them to whatever you want, but here are a few suggestions:
 
@@ -78,6 +84,18 @@ And make them look like this:
 
 ```
 // background-image: url("/template-information-site/assets/banner.jpg");
+```
+
+In ``_sass/mobile.scss``, make sure you also comment the mobile footer, from this:
+
+```
+background-image: url("/template-information-site/assets/bottom_background_mobile.jpg");
+```
+
+to this:
+
+```
+// background-image: url("/template-information-site/assets/bottom_background_mobile.jpg");
 ```
 
 Finally, to make sure Dark Mode disables the banner, do the same thing in the ``_sass/color_dark.scss`` file.
@@ -244,7 +262,6 @@ There are ways to add caption tracks to video hosted on websites like YouTube. A
 
 ```
 <track src="/template-information-site/documents/felix_movie_subtitles.vtt" kind="subtitles" srclang="en" label="English">
-</video> 
 ```
 
 [To learn more on how to write your own .vtt files, click here](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API#displaying_vtt_content_defined_in_a_file).
