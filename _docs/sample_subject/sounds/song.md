@@ -1,8 +1,6 @@
 ---
 title: Bird Song
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/sounds/display
 prev_doc: docs/sample_subject/sounds/call
 photo_alt_text: Change this text to describe the photograph linked in "photo".

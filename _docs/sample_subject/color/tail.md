@@ -1,8 +1,6 @@
 ---
 title: Tail Colors
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/intro
 prev_doc: docs/sample_subject/color/wing
 photo_alt_text: Change this text to describe the photograph linked in "photo".

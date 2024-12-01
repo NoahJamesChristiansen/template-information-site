@@ -1,8 +1,6 @@
 ---
 title: Introduction to Fowl Birds
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/fowl/game
 prev_doc: docs/sample_subject/shape/ratite/emu
 photo_alt_text: Change this text to describe the photograph linked in "photo".

@@ -79,6 +79,7 @@ defaults:
       layout: default
       topnav: topnav
       footer: footer
+      include_sidebar: true
   -
     scope:
       path: ""
@@ -87,6 +88,7 @@ defaults:
       layout: document
       topnav: topnav
       footer: footer
+      include_sidebar: true
      
   -
     scope:
@@ -96,6 +98,7 @@ defaults:
       layout: post
       topnav: topnav
       footer: footer
+      include_sidebar: true
   -
     scope:
       path: ""

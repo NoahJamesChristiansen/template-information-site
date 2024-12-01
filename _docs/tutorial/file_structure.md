@@ -1,8 +1,6 @@
 ---
 title: File Structure
 sidebar: tutorial
-include_sidebar: true
-layout: document
 next_doc: 
 prev_doc: 
 summary: Explaining the file structure of the website.

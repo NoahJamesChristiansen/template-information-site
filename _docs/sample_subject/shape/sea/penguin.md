@@ -1,8 +1,6 @@
 ---
 title: Penguins
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/tropical/intro
 prev_doc: docs/sample_subject/shape/sea/pelican
 photo_alt_text: Change this text to describe the photograph linked in "photo".

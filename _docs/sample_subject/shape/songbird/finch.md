@@ -1,8 +1,6 @@
 ---
 title: Finches
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/sounds/intro
 prev_doc: docs/sample_subject/shape/songbird/thrush
 photo_alt_text: Change this text to describe the photograph linked in "photo".

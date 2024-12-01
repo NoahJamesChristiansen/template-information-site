@@ -1,8 +1,6 @@
 ---
 title: Corvids
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/songbird/thrush
 prev_doc: docs/sample_subject/shape/songbird/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".

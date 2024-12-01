@@ -1,8 +1,6 @@
 ---
 title: Seagulls
 sidebar: sample_subject
-include_sidebar: true
-layout: document
 next_doc: docs/sample_subject/shape/sea/pelican
 prev_doc: docs/sample_subject/shape/sea/intro
 photo_alt_text: Change this text to describe the photograph linked in "photo".

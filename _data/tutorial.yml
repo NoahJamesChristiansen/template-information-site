@@ -14,11 +14,11 @@ folders:
 
 - title: Editing Content
   folderitems:
+  - title: Getting Started Editing
+    jurl: /docs/tutorial/start_editing
+  
   - title: File Types
     jurl: /docs/tutorial/file_types
-  
-  - title: Text
-    jurl: /docs/tutorial/
   
   - title: Formatting
     jurl: /docs/tutorial/
@@ -86,6 +86,9 @@ related_resources_list:
 
 - title: Jekyll Website
   jurl: https://jekyllrb.com/
+
+- title: W3 Schools HTML Reference
+  jurl: https://www.w3schools.com/TAGs/
 
 - title: Markdown Cheat Sheet
   jurl: https://www.markdownguide.org/cheat-sheet/

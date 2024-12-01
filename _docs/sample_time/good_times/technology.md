@@ -1,7 +1,6 @@
 ---
 title: Technology
 sidebar: sample_time
-include_sidebar: true
 layout: document
 next_doc: /docs/sample_time/good_times/medicine
 prev_doc: /docs/sample_time/good_times/science
