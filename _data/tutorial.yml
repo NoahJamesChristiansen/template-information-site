@@ -26,9 +26,6 @@ folders:
   - title: Images and Media
     jurl: /docs/tutorial/images
 
-  - title: Accessibility
-    jurl: /docs/tutorial/
-
 - title: Components
 
   folderitems:

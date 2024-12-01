@@ -38,11 +38,11 @@ Here are what the images look like for reference:
 
 ``assets/banner.jpg``:
 
-<img src="/template-information-site/assets/banner.jpg" alt="The current banner image." max-height="100"/>
+<div style="height:70px; max-width:800px; background-image:url('/template-information-site/assets/banner.jpg');"></div>
 
 ``assets/bottom_background.jpg``
 
-<img src="/template-information-site/assets/bottom_background.jpg" alt="The current footer image." max-height="400"/>
+<div style="height:300px; max-width:800px; background-image:url('/template-information-site/assets/bottom_background.jpg');"></div>
 
 You can change them to whatever you want, but here are a few suggestions:
 
