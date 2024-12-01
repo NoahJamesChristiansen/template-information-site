@@ -27,27 +27,17 @@ source_code_url: https://github.com/badgernested/template-information-site
 blog_logo: assets/blog_photo.png
 blog_logo_alt_text: Description of the above image. make this meaningful! It's for visually impaired people and slow internet connections.
 
-# use text title instead. text title read from uistring.title in ui strings section.
-use_text_title: false
-
 # make search bar appear in top nav?
 search_in_topnav: true
-
-# make search bar appear in sidebar?
-search_in_sidebar: false
-
-# in responsive view, show sidebar toggle button?
-toggle-sidebar-button: true
-
-# in responsive view, show navbar toggle button?
-navbar-toggle: true
 
 ############# AUTOMATED LINKS #############
 
 # the links.html script requires you to list your sidebars here. this is if you're using managed links (see jekyllhowto-content-and-formatting.html#automatedlinks)
 sidebars:
-  - generic
   - home
+  - sample_subject
+  - sample_time
+  - tutorial
 
 # determines whether the links.html script uses the jurl or hurl values in the sidebar data file
 link_type: jurl
@@ -59,24 +49,6 @@ show_feedback: true
 
 # email address feedback gets sent to
 feedback_email: test@test.com
-
-# note: to customize the auto-completed body text, overwrite it by adding _includes/feedback.html in your own theme.
-
-
-############# GITHUB BUTTON #############
-
-# inserts github link in top nav bar (recommended)
-github_button_location_top_navbar: false
-
-# inserts github link below page title
-github_button_location_below_title: false
-
-# inserts github link at bottom of page (least visible)
-github_button_location_page_bottom: false
-
-# link to your github repo. replace <organization> (if applicable) and <repo name> and <branch name>. Note that the github link will be {{site.github_editme_path}}/{{page.path}}
-github_editme_path: https://github.com/<organization>/<repo name>/blob/<branch name>
-
 
 ############# EXCLUDE LIST #############
 # these folders or files will not be included in the output. you can use wildcards with asterisks.
@@ -92,13 +64,6 @@ exclude:
   - jekyll-theme-doc-project*
   - pdf
   - mobi
-
-############# IMAGE PATHS #############
-
-# if you want the images to be prefaced with a specific path, insert it here. Don't include a trailing slash at the end.
-# the image include will insert this path before the image file name and will also add a /.
-image_path: images
-audio_path: audio
 
 ############# DEFAULTS #############
 # you can define default frontmatter values here. you can narrow the type down with subfolders (e.g., docs/myfolder).
@@ -119,7 +84,7 @@ defaults:
       path: ""
       type: docs
     values:
-      layout: default
+      layout: document
       topnav: topnav
       footer: footer
      
@@ -144,34 +109,9 @@ defaults:
 
   -
     scope:
-      path: "images"
+      path: "assets/images"
     values:
       image: true
-
-############# COMMENTS #############
-# show Disqus comments after pages
-show_disqus_comments: false
-
-# shortname for configuring Disqus
-disqus_shortname:
-
-############# GOOGLE ANALYTICS #############
-
-# include Google Analytics?
-show_google_analytics: false
-
-# Google Analytics tracking code number (not the whole code snippet -- just UA-123456 or so)
-# To adjust the google analytics code snippet, see the _includes/google_analytics.html code in the gem
-google_analytics_code:
-
-############# Breadcrumb ############
-# you can modify the breadcrumb in _includes/breadcrumb.html
-
-# Display breadcrumbs at all?
-breadcrumb_display: false
-
-# Display Home path in breadcrumb?
-breadcrumb_home_display: false
 
 ##########  MARKDOWN PROCESS AND FILTER ##########
 # leave these settings as is unless you want to use something other than kramdown Markdown
@@ -210,7 +150,6 @@ uistring:
     title: Test Template Theme # title to appear in nav bar and page meta
     description: Description of the site # Displays as site description meta tag for site
     copyright: 2024 Test Website # appears in footer
-    breadcrumb_home_name: Home # display name for "Home" path in the breadcrumb
     tableofcontents: Table of Contents # text that appears before in-page table of contents
     expandall: Expand All # appears as text in sidebar to expand all levels
     collapseall: Collapse All # appears as text in sidebar to collapse all levels
@@ -219,13 +158,11 @@ uistring:
     feedback_link_name: Feedback # name of Feedback link
     feedback_subject_line: Feedback # Auto-filled Subject of email
     feedback_body: I have some feedback for your template. # Auto-filled Body of email
-    github_edit_button_text: Edit on GitHub # text for github button
     blog: My Very Cool Blog # Name of blog displayed on the top of posts
     datetime_format: '%Y-%m-%d' # date time format
     continue_reading: Continue Reading... # continue reading on the bottom of docs
     continue_prev: <- Previous # Previous for bottom of docs
     continue_next: Next -> # Next for bottom of docs
-    doc_last_updated: Last updated # string for last updated
     months:
         jan: January
         feb: February
