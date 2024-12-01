@@ -16,6 +16,4 @@ Welcome to my website. I am a teacher of Lincoln-Douglas and Policy debate, wher
 
 As a competitive debate educator, I guide students in exploring the intersections of political theory, philosophy, and practical political discourse. My teaching emphasizes how philosophical inquiry informs political arguments, helping students critically engage with complex political ideas within debate formats.
 
-In addition to my academic work, I am a journalist and intern reporter with *Los Angeles Blade*, writing on topics that intersect with politics, culture, and society. Through these varied projects, I aim to bridge the gap between theoretical frameworks and their real-world applications in political life.
-
-This site also features *The Anti-Oedipus Project*, where I provide a detailed, sentence-by-sentence analysis of Gilles Deleuze and Félix Guattari’s *Anti-Oedipus*.
+In addition to my academic work, I am a journalist and intern reporter with the *Los Angeles Blade*, writing on topics that intersect with politics, culture, and society. Through these varied projects, I aim to bridge the gap between theoretical frameworks and their real-world applications in political life.
