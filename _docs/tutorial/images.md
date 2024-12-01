@@ -164,7 +164,7 @@ HTML:
 
 Optionally, you can host the audio or video file yourself on your GitHub or your own server.
 
-> **Note:** Try to avoid hosting large video and audio files yourself, especially on GitHub. These files can get pretty big. Restrict your file size below 10 MB to prevent problems.
+> **Note:** Try to avoid hosting large video and audio files yourself, especially on GitHub. These files can get pretty big. Restrict your file size below 10 MB to prevent problems. Additionally, content that is directly hosted is not streamed as well as services like YouTube. This might lead to long load times.
 
 #### Audio
 
