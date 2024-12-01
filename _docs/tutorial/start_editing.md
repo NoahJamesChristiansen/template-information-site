@@ -30,12 +30,10 @@ Note that not all markdown featured on that cheatsheet is usable in Jekyll. Some
 You can always use HTML if the Markdown for a specific structure does not work properly. For example, superscript is not currently supported by the kramdown markdown processor used in Jekyll. So, you will need to use something like this:
 
 ```
-<sup>[1]</sup>
+<sup>[superscript]</sup>
 ```
 
-to create a superscript representing a reference in your text. HTML has a lot more capabilities than Markdown so you can always resort to it if Markdown fails, but as you can see, it uses a lot of characters and is kind of ugly looking.
-
-In this very document, there are instances where markdown fails to be created properly, so I had to carefully use HTML instead to override its functionality. It happens, no big deal!
+to create a superscript. HTML has a lot more capabilities than Markdown so you can always resort to it if Markdown fails, but as you can see, it uses a lot of characters and is kind of ugly looking.
 
 ## Components
 
@@ -73,15 +71,15 @@ This determines which layout as defined in the ``_layouts`` directory to use for
 
 #### permalink
 
-<h4 id="title_def">title</h4>
+#### title {#title_def}
 
 The title of the page, as shown in searches, blog listings, etc.
 
-<h4 id="subtitle_def">subtitle</h4>
+#### subtitle {#ubtitle_def}
 
 The subtitle of the page. Not frequently shown, but might appear on some pages like CV.
 
-<h4 id="sidebar_def">sidebar</h4>
+#### sidebar {#sidebar_def}
 
 Which sidebar to use, as defined in ``_data``.
 
