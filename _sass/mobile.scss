@@ -265,4 +265,29 @@
 	    margin-bottom: 0px;
 	    padding-bottom: 30px;
     }
+    
+	footer {
+	  background-image: url("/template-information-site/assets/bottom_background_mobile.jpg");
+	}
+	
+    .row.bottom-links {
+	    backdrop-filter: none;
+    }
+    
+    // hides certain elements that look like crap on mobile for the tutorial section
+    
+    .tutorial-hide-element {
+        display: none;
+    }
+    
+    button, input, optgroup, select, textarea {
+	    color: transparent;
+    }
+    
+    .buttons {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+    }
 }

@@ -3,11 +3,8 @@ title: "The Philosophy of Politics"
 permalink: index.html
 sidebar: home
 type: homepage
-class: first
 photo: /assets/photo.png
 photo_alt_text: A photograph of me.
-include_sidebar: true
-include_breadcrumb: false
 ---
 
 # Welcome

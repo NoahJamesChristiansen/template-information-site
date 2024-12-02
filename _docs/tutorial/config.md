@@ -13,6 +13,8 @@ summary: How to set up configurations for the website.
 
 ``_config.yml`` is a file that is used to configure your website before it runs. It tells Jekyll exactly how to set up important variables that control your website. You can set these variables to change how your site functions, change what front matter is produced, or how strings appear in the output.
 
+> **Note:** If you have Jekyll running locally on your computer and generating the pages locally, you should rerun ``bundle exec jekyll exec`` to reload the variables. This is not a problem if you're editing GitHub since every commit will run its own job which runs this script every time.
+
 # Variable List
 
 This is a list of variables in the file so you can know what each part of the file does.

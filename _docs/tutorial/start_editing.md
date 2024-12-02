@@ -81,11 +81,7 @@ The subtitle of the page. Not frequently shown, but might appear on some pages l
 
 #### sidebar {#sidebar_def}
 
-Which sidebar to use, as defined in ``_data``.
-
-#### include_sidebar
-
-Whether or not to include a sidebar. For blog posts and documents, this defaults to ``true``, so you usually don't have to include it.
+Which sidebar to use, as defined in ``_data``. If left empty, there is no sidebar.
 
 #### date
 

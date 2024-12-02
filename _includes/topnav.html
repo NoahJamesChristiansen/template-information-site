@@ -113,6 +113,26 @@
             });
         });
     </script>
+    
+    <script>
+        function goToTop() {
+            $(".collapsable").collapse('hide');
+            window.location.href='#';
+        }
+        
+        function openSidebar() {
+            const isExpanded = $(".mydocsidebar").attr('aria-expanded');
+            if(isExpanded == 'true')
+            {
+                $(".mydocsidebar").collapse('hide');
+            }
+            else
+            {
+                $(".mydocsidebar").collapse('show');
+                window.location.href='#';
+            }
+        }
+    </script>
 
     <!-- User defined js -->
     <script src="{{ site.home_url }}/assets/js/user_defined_javascript.js"></script>
@@ -137,24 +157,31 @@
         <div class="container topnavlinks">
             <div class="navbar-header">
             
+            <div class="buttons">
+            
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-label="Menu">
                     <span class="fa fa-bars fa-2x"></span>
                 </button>
                 
                 {% unless page.sidebar == null %}
-                <button type="button" class="navbar-toggle toggle-sidebar-button" data-toggle="collapse" data-target=".mydocsidebar" aria-label="Show Sidebar">
+                <button type="button" class="navbar-toggle toggle-sidebar-button" onclick="openSidebar();" aria-label="Show Sidebar">
                     <span class="sidebarToggle fa fa-book fa-2x"></span>
+                </button>
+                
+               {% endunless %}
+                <button type="button" class="navbar-toggle notoggle" onclick="goToTop();" aria-label="Top">
+                    <span class="fa fa-arrow-up fa-2x"></span>
                 </button>
                 
                 <button type="button" class="navbar-toggle" onclick="window.location.href='{{ site.home_url }}'" aria-label="Home">
                     <span class="fa fa-home fa-2x"></span>
-                </button>
-                
-               {% endunless %}
+                </button> 
 
             </div>
+            
+            </div>
 
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div aria-expanded="false" class="collapse navbar-collapse collapsable" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left">
 
                     <!-- single item nav items appear here -->

@@ -1,6 +1,7 @@
 ---
 title: About Me
 permalink: /about.html
+sidebar:
 ---
 
 ![Image of a man on a bicycle in the mountains.](assets/img_me.jpg)
