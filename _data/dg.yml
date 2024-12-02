@@ -1,0 +1,167 @@
+sidebarTitle: Deleuze & Guattari
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+- title: Introduction
+  jurl: /docs/deleuze_guattari/intro
+
+- title: >
+       Understanding Deleuze & Guattari
+  folderitems:
+  - title: Historical Context
+    jurl: /docs/deleuze_guattari/add_page_later
+  
+  - title: Key Concepts
+    jurl: /docs/deleuze_guattari/add_page_later
+
+- title: >
+       Anti-Oedipus: Capitalism and Schizophrenia
+  folderitems:
+  - title: Introduction
+    jurl: /docs/deleuze_guattari/add_page_later
+  
+  - subfolders:
+    - title: The Desiring Machines
+      subfolderitems:
+      - title: Introduction
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Desiring Production
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Body without Organs
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Subject and Enjoyment
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: A Materialist Psychiatry
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Machines
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Whole and Its Parts
+        jurl: /docs/deleuze_guattari/add_page_later
+        
+    - title: Psychoanalysis and Familialism
+      subfolderitems:
+      - title: Introduction
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Imperialism of Oedipus
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Three Texts of Freud
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Connective Synthesis of Production
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Conjunctive Synthesis of Consumption-Consummation
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: A Recapitulation of the Three Syntheses
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Social Repression and Psychic Repression
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Neurosis and Psychosis
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Process
+        jurl: /docs/deleuze_guattari/add_page_later
+        
+    - title: Psychoanalysis and Familialism
+      subfolderitems:
+      - title: Introduction
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Inscribing Socius
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Primitive Territorial Machine
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Problem of Oedipus
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Psychoanalysis and Ethnology
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Territorial Representation
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Barbarian Despotic Machine
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Barbarian or Imperial Representation
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Urstaat
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Civilized Capitalist Machine
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Capitalist Representation
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Oedipus at Last
+        jurl: /docs/deleuze_guattari/add_page_later
+        
+    - title: Introduction to Schizoanalysis
+      subfolderitems:
+      - title: Introduction
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Social Field
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Molecular Unconscious
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: Psychoanalysis and Capitalism
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The First Positive Task of Schizoanalysis
+        jurl: /docs/deleuze_guattari/add_page_later
+      - title: The Second Positive Task
+        jurl: /docs/deleuze_guattari/add_page_later
+    
+- title: >
+       A Thousand Plateaus
+  folderitems:
+  - title: Introduction
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: >
+           Introduction: Rhizome
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: One or Several Wolves?
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: The Geology of Morals (Who Does the Earth Think It Is?)
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Postulates of Linguistics
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: On Several Regimes of Signs
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: How Do You Make Yourself a Body Without Organs?
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Faciality
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Three Novellas, or "What Happened?"
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Micropolitics and Segmentarity
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Becoming-Intense, Becoming-Animal, Becoming-Imperceptible
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Of the Refrain
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: >
+         Treatise on Nomadology: The War Machine
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Apparatus of Capture
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: The Smooth and the Striated
+    jurl: /docs/deleuze_guattari/add_page_later
+  - title: Concrete Rules and Abstract Machines
+    jurl: /docs/deleuze_guattari/add_page_later
+    
+- title: Biographies
+  folderitems:
+  - title: Gilles Deleuze
+    jurl: /docs/deleuze_guattari/add_page_later
+  
+  - title: Félix Guattari
+    jurl: /docs/deleuze_guattari/add_page_later
+    
+- title: Glossary
+  jurl: /docs/tutorial/
+  
+###########################
+
+related_resources_title: Other Resources
+
+related_resources_list:
+
+- title: Deleuze Seminars
+  jurl: https://deleuze.cla.purdue.edu/
+
+###########################
+
+#forum:
+#  forum_link: http://forums.yourcompany.com
+#  forum_name: Company Forum

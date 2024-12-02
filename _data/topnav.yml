@@ -14,12 +14,8 @@ navbar_dropdowns:
   folders:
     - title: Education Samples
       folderitems:
-        - title: Understanding Birds
-          url: /docs/sample_subject/intro
-        - title: History of Gallunesia
-          url: /docs/sample_time/intro
-        - title: Tutorial on Use
-          url: /docs/tutorial/intro
+        - title: Deleuze & Guattari
+          url: /docs/deleuze_guattari/intro
     - title: About
       folderitems:
         - title: About Me
