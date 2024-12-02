@@ -347,11 +347,11 @@ Navbars
 **/
 
 .navbar-left li:hover{
-	background-color:#ddda
+	background-color:#fffa
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-	color: #0a456c;
+	color: #444;
 }
 
 .navbar-default {
@@ -368,7 +368,7 @@ Navbars
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #0a7cc9;
+  color: #444;
   background-color: transparent;
 }
 
@@ -387,7 +387,7 @@ Navbars
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li:hover{
-  background-color: #fff;
+  background-color: #ddd;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
@@ -397,7 +397,7 @@ Navbars
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
-  color: #0a456c;
+  color: #444;
   background-color: transparent;
 }
 
@@ -422,19 +422,19 @@ Navbars
 .nav > .active > a:hover,
 .nav > .active > a:focus {
   background-color: transparent;
-  color: #0a7cc9;
+  color: #444;
 }
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   background-color: transparent;
-  color: #0a7cc9;
+  color: #444;
 }
 
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-    color: #0a456c;
+    color: #444;
 }
 
 
@@ -464,7 +464,7 @@ Navbars
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: #eeeeee;
-  background-color: #FFF8;
+  background-color: #FFFb;
   backdrop-filter: blur(3px);
 }
 
