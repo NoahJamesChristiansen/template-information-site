@@ -1,8 +1,8 @@
 ---
 title: Global Configuration
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/start_editing
+prev_doc: docs/tutorial/file_structure
 summary: How to set up configurations for the website.
 ---
 

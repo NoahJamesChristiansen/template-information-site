@@ -30,6 +30,11 @@
 						<h2>{{ page.subtitle}}</h2>
 					</div>
 
+				{% if page.pdf %}
+				<div class="cv-download-as-pdf">
+					<a href="{{ page.pdf }}">Download as PDF</a>
+				</div>
+				{% endif %}
 
                 {% if site.github_button_location_below_title == true %}
                 {% include github_button.html %}
@@ -38,12 +43,6 @@
 				<div class="cv-content">
 					{{content}}
 				</div>
-				
-				{% if page.pdf %}
-				<div class="cv-download-as-pdf">
-					<a href="{{ page.pdf }}">Download as PDF</a>
-				</div>
-				{% endif %}
             </div>
         </div><!--/.container-->
 

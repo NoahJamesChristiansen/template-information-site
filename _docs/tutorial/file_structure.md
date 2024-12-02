@@ -1,8 +1,8 @@
 ---
 title: File Structure
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/config
+prev_doc: docs/tutorial/intro
 summary: Explaining the file structure of the website.
 ---
 

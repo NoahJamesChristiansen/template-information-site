@@ -1,8 +1,8 @@
 ---
 title: Images and Media
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/home_page
+prev_doc: docs/tutorial/formatting
 summary: How to properly use images and media on your website.
 ---
 

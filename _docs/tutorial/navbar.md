@@ -1,8 +1,8 @@
 ---
 title: Navigation
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/sidebar
+prev_doc: docs/tutorial/home_page
 summary: Explaining how to configure the top navigation bar.
 ---
 
