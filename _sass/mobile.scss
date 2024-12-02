@@ -283,4 +283,11 @@
     button, input, optgroup, select, textarea {
 	    color: transparent;
     }
+    
+    .buttons {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+    }
 }
