@@ -10,8 +10,7 @@ navbar_singleitems:
 
 
 navbar_dropdowns:
-- title: Topnav dropdowns
-  folders:
+- folders:
     - title: Education Samples
       folderitems:
         - title: Understanding Birds
