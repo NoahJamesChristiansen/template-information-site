@@ -8,3 +8,8 @@ a:hover {
 .nav li:hover {
   transition: color 0.2s linear 0s, background 0.2s linear 0s;
 }
+
+button,
+button:hover {
+  transition: color 0.2s linear 0s, background 0.2s linear 0s;
+}
