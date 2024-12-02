@@ -1,4 +1,4 @@
-sidebarTitle: Website Management Tutorial
+sidebarTitle: Website Management Documentation
 
 ## See the generic.yml file as an example of the allowed yaml format.
 
@@ -37,7 +37,7 @@ folders:
     jurl: /docs/tutorial/navbar
     
   - title: Sidebars
-    jurl: /docs/tutorial/
+    jurl: /docs/tutorial/sidebar
     
   - title: Documents
     jurl: /docs/tutorial/
@@ -73,7 +73,7 @@ folders:
   jurl: /docs/tutorial/upgrades
     
 - title: Glossary
-  jurl: /docs/tutorial/
+  jurl: /docs/tutorial/glossary
   
 ###########################
 

@@ -1,8 +1,8 @@
 ---
 title: Upgrades
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/glossary
+prev_doc: docs/tutorial/functionality
 summary: An introduction on how to set up your website with this template.
 ---
 

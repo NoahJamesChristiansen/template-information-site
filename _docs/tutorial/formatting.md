@@ -1,8 +1,8 @@
 ---
 title: Formatting
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/images
+prev_doc: docs/tutorial/file_types
 summary: How to format the text in markdown for posts and documents.
 ---
 

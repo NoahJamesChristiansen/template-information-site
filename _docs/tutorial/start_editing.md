@@ -1,8 +1,8 @@
 ---
 title: Getting Started with Editing
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/file_types
+prev_doc: docs/tutorial/config
 summary: An introduction on how to edit .md files to generate pages.
 ---
 

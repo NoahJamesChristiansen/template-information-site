@@ -1,8 +1,8 @@
 ---
 title: Home Page
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/navbar
+prev_doc: docs/tutorial/images
 summary: Explaining how the Home Page works.
 ---
 

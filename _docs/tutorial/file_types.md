@@ -1,8 +1,8 @@
 ---
 title: File Types
 sidebar: tutorial
-next_doc: 
-prev_doc: 
+next_doc: docs/tutorial/formatting
+prev_doc: docs/tutorial/start_editing
 summary: Explaining the file types used to create the website.
 ---
 

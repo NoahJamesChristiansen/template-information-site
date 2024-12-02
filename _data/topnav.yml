@@ -7,11 +7,11 @@ navbar_singleitems:
     url: https://noahjameschristiansen.github.io/template-information-site/
   - title: Blog
     url: /post
-
+  - title: Documentation
+    url: /docs/tutorial/intro
 
 navbar_dropdowns:
-- title: Topnav dropdowns
-  folders:
+- folders:
     - title: Education Samples
       folderitems:
         - title: Deleuze & Guattari

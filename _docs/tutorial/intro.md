@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 sidebar: tutorial
-next_doc:
+next_doc: docs/tutorial/file_structure
 prev_doc: 
 summary: An introduction on how to set up your website with this template.
 ---
