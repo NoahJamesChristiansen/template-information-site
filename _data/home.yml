@@ -9,5 +9,5 @@ related_resources_list:
 - title: About Me
   jurl: about
 
-- text: CV
-  target: /documents/cv.pdf
+- title: CV
+  jurl: /cv.html
