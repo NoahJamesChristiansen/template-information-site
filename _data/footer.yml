@@ -10,6 +10,7 @@ column1_links:
   -
     target: /documents/cv.pdf
     text: CV
+    target: _blank
 
 column2_title: Resources
 column2_links:
