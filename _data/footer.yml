@@ -9,7 +9,7 @@ column1_links:
     text: About Me
   -
 - 
-    target: documents/cv.pdf
+    target: /documents/cv.pdf
     text: CV
 
 
