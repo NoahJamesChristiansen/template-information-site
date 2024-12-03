@@ -8,7 +8,7 @@ column1_links:
     target: /about.html
     text: About Me
   -
-    target: /documents/cv.pdf
+    <a target="_blank" href="[https://noahjameschristiansen.github.io/template-information-site/documents/cv.pdf]">[CV]</a>
     text: CV 
 
 

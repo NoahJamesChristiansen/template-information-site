@@ -59,7 +59,6 @@ navbar_dropdowns:
           url: /about.html
         - title: CV
           url: /documents/cv.pdf
-          target: _blank
 ```
 
 A few basic tips for reading this file:
