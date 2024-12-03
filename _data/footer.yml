@@ -9,10 +9,8 @@ column1_links:
     text: About Me
   -
 - 
-    title: CV
-    jurl: /documents/cv.pdf
-    target: "_blank"
-
+    target: /documents/cv.pdf
+    text: CV
 
 
 column2_title: Resources
