@@ -1,5 +1,5 @@
 ---
-title: "The Philosophy of Politics"
+title: "Political Philosophy in Motion"
 permalink: index.html
 sidebar: home
 type: homepage
@@ -9,7 +9,7 @@ photo_alt_text: A photograph of me.
 
 # Welcome
 
-Welcome to my website. I am a teacher of Lincoln-Douglas and Policy debate, where my curriculum focuses on political philosophy, political science, and broader political issues. I hold a B.A. in Political Science with a concentration in Political Theory from the University of Southern California.
+Welcome to my website. I am a teacher of Lincoln-Douglas and Policy Debate, where my curriculum focuses on political philosophy, political science, and broader political issues. I hold a B.A. in Political Science with a concentration in Political Theory from the University of Southern California.
 
 As a competitive debate educator, I guide students in exploring the intersections of political theory, philosophy, and practical political discourse. My teaching emphasizes how philosophical inquiry informs political arguments, helping students critically engage with complex political ideas within debate formats.
 
