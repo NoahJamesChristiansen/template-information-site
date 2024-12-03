@@ -58,7 +58,7 @@ navbar_dropdowns:
         - title: About Me
           url: /about.html
         - title: CV
-          url: /cv.html
+          url: /documents/cv.html
 ```
 
 A few basic tips for reading this file:
