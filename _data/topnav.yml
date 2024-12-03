@@ -21,4 +21,5 @@ navbar_dropdowns:
         - title: About Me
           url: /about.html
         - title: CV
-          url: /cv.pdf
+          url: /<a href="/path-to-your-cv.pdf" download="cv.pdf">Download My CV</a>
+
