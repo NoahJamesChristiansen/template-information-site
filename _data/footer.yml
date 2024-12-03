@@ -5,17 +5,14 @@ about_description: Lincoln-Douglas and Policy Debate Educator | Intern Reporter
 column1_title: About
 column1_links:
   -
+    target: /about.html
     text: About Me
-    url: /about.html
-    target: "_blank"
   -
-  -
-    text: "CV"
-    url: "/documents/cv.pdf"
-    target: "_blank"
-  -
+- 
+    target: documents/cv.pdf
+    text: CV
 
-  
+
 column2_title: Resources
 column2_links:
   -
