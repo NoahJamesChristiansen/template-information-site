@@ -8,10 +8,9 @@ column1_links:
     target: /about.html
     text: About Me
   -
-    target: /documents/cv.pdf
-    text: CV
-    html_attributes: 
-      target: "_blank"
+    url: /documents/cv.pdf
+    text: CV 
+    target: "_blank"
 
 column2_title: Resources
 column2_links:
