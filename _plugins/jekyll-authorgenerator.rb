@@ -7,7 +7,9 @@ module Jekyll
     def generate(site)
 	  authors = []
 	  site.posts.docs.each do |post|
-	    if defined?(post.about_authors) != nil
+	  print(post)
+	  print(post.about_authors.class)
+	    if post.about_authors.class == String
 		    ind_authors = post.about_authors.split(" ")
 		    
 		    ind_authors.each do |item|
@@ -20,7 +22,7 @@ module Jekyll
 	    posts_author = []
 	    
 		site.posts.docs.each do |post|
-		    if defined?(post.about_authors) != nil
+		    if post.about_authors.class == String
 			    if post.about_authors.include? author
 				    posts_author.push(post)
 			    end
