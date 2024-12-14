@@ -2,7 +2,7 @@
 layout: cv
 title: John Doe
 subtitle: Professor of Arcane Territorial Studies, PhD.
-permalink: /documents/cv.pdf
+permalink: /about/cv.pdf
 pdf: /documents/cv.pdf
 about: I am a professor and researcher working in the field of Arcane Territorial Studies, specializing in Symbolic and Ornithology studies, employed by the University of Bantam, located in South Gallunesia.
 email: test@test.com
