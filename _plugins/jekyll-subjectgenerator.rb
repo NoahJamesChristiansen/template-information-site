@@ -7,10 +7,12 @@ module Jekyll
     def generate(site)
 	  topics = []
 	  site.posts.docs.each do |post|
-		ind_topics = post.topics.split(" ")
-		
-		ind_topics.each do |item|
-			topics.push(item) unless topics.include?(item)
+	    if defined?(post.topics)
+		    ind_topics = post.topics.split(" ")
+		    
+		    ind_topics.each do |item|
+			    topics.push(item) unless topics.include?(item)
+			end
 		end
 	  end
 	
@@ -18,8 +20,10 @@ module Jekyll
 	    posts_topic = []
 	    
 		site.posts.docs.each do |post|
-			if post.topics.include? topic
-				posts_topic.push(post)
+		    if defined?(post.topics)
+			    if post.topics.include? topic
+				    posts_topic.push(post)
+			    end
 			end
 		end
 	  
