@@ -7,7 +7,7 @@ module Jekyll
     def generate(site)
 	  topics = []
 	  site.posts.docs.each do |post|
-	    if defined?(post.topics) && post.topics.size > 0
+	    if defined?(post.topics) != nil
 		    ind_topics = post.topics.split(" ")
 		    
 		    ind_topics.each do |item|
@@ -20,7 +20,7 @@ module Jekyll
 	    posts_topic = []
 	    
 		site.posts.docs.each do |post|
-		    if defined?(post.topics) && post.topics.size > 0
+		    if defined?(post.topics) != nil
 			    if post.topics.include? topic
 				    posts_topic.push(post)
 			    end
