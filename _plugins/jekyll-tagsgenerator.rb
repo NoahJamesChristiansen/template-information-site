@@ -6,9 +6,7 @@ module Jekyll
 
     def generate(site)
       site.tags.each do |tag|
-          if defined?(post.tags)
-            build_subpages(site, "tag", tag)
-          end
+         build_subpages(site, "tag", tag)
       end
     end
 
