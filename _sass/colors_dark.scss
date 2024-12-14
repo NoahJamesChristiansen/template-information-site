@@ -266,6 +266,7 @@
 	footer {
 	  background-color: #222;
 	  background-image: url("/template-information-site/assets/bottom_background.jpg");
+	  //background-image: url("/assets/bottom_background.jpg");
 	}
 
 	.logofooter {
@@ -370,13 +371,14 @@
     }
 	        
     .navbar-left li:hover{
-	    background-color:#777a;
+	    background-color:#000f;
     }
 
     .navbar-default {
       background-color: #111;
 	  border-bottom: 5px solid #222;
 	  background-image: url("/template-information-site/assets/banner.jpg");
+	  //background-image: url("/assets/banner.jpg");
     }
 
     .navbar-default .navbar-brand {
@@ -401,7 +403,7 @@
     }
         
     .navbar-default .navbar-nav > li > .dropdown-menu > li:hover{
-      background-color: #333a;
+      background-color: #777a;
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
@@ -411,12 +413,11 @@
     }
 
     .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
-      color: #999;
+      color: #bbb !important;
     }
-
-    .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
-    .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
-      color: #337ab7;
+    
+    .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover {
+      color: #fff !important;
     }
 
     .navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
@@ -449,7 +450,7 @@
     }
 
     .navbar-nav .open {
-	    background-color: #333a;
+	    background-color: transparent;
     }
 
     .navbar-default .navbar-toggle {
@@ -829,7 +830,7 @@
     {
         
         .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-	        border-color: #333;
+	        border-color: transparent;
 	        background-color: rgba(0, 0, 0, 0.7666667);
 	        backdrop-filter: blur(3px);
         }

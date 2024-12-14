@@ -7,10 +7,12 @@ module Jekyll
     def generate(site)
 	  authors = []
 	  site.posts.docs.each do |post|
-		ind_authors = post.about_authors.split(" ")
-		
-		ind_authors.each do |item|
-			authors.push(item) unless authors.include?(item)
+	    if defined?(post.about_authors)
+		    ind_authors = post.about_authors.split(" ")
+		    
+		    ind_authors.each do |item|
+		    	authors.push(item) unless authors.include?(item)
+		    end
 		end
 	  end
 	
@@ -18,8 +20,10 @@ module Jekyll
 	    posts_author = []
 	    
 		site.posts.docs.each do |post|
-			if post.about_authors.include? author
-				posts_author.push(post)
+		    if defined?(post.about_authors)
+			    if post.about_authors.include? author
+				    posts_author.push(post)
+			    end
 			end
 		end
 	  

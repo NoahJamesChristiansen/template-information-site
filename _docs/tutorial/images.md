@@ -112,17 +112,13 @@ Keep images used for the sidebar ``500x500`` pixels or less. Images in the artic
 
 When using a file type, consider what each file type is useful for. 
 
-<div class="tutorial-hide-element">
-
-| File Type  | File Size | Image Quality | Transparency? | Animated? | Best Application? |
+| File <wbr>Type  | File <wbr>Size | Image <wbr>Qual<wbr>ity | Trans<wbr>par<wbr>ency? | Anima<wbr>ted? | Best<wbr> Appli<wbr>ca<wbr>tion? |
 | ----- | -------- | -------- | -------- | -------- | -------- |
 | JPG, JPEG | Small | Lower | No | No | Photographs, Screenshots |
 | PNG | Medium | Lossless | Yes | No | Artwork, Transparent Pictures, Cartoons |
 | BMP | High | Lossless | No | No | When You Need Exact 1-1 Pixels |
 | GIF | Low | Low (256 color limit) | Yes | Yes | Sprites, Animated Pictures |
 | SVG | Variable | High (Vector) | Yes | No | Vector Graphics |
-
-</div>
 
 ## Audio and Video
 
